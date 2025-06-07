@@ -146,7 +146,7 @@ class PaperSummarizerPipeline:
         except Exception as e:
             print(f"Error during summarization: {e}")
             
-    def run_slack_test(self):
+    def run_slack_test(self, use_real_summaries: bool = False):
         """キューからの記事でSlack通知をテストする"""
         try:
             queue = self.load_queue()
@@ -158,16 +158,22 @@ class PaperSummarizerPipeline:
             articles_to_notify = queue[:3]
             print(f"Testing Slack notification with {len(articles_to_notify)} articles...")
             
-            # summary_jaフィールドが存在しない場合は追加
-            for i, article in enumerate(articles_to_notify):
-                if 'summary_ja' not in article or not article['summary_ja']:
-                    print(f"Article {i+1} missing summary_ja, generating fallback...")
-                    article['summary_ja'] = self.summarizer._generate_fallback_summary(
-                        article.get('title', ''),
-                        article.get('abstract', article.get('summary', '')),
-                        article.get('authors', []),
-                        article.get('journal', '')
-                    )
+            if use_real_summaries:
+                print("Generating real summaries with Gemini API...")
+                # 実際にGemini APIで要約生成
+                summarized_articles = self.summarizer.batch_summarize(articles_to_notify)
+                articles_to_notify = summarized_articles
+            else:
+                # summary_jaフィールドが存在しない場合は追加
+                for i, article in enumerate(articles_to_notify):
+                    if 'summary_ja' not in article or not article['summary_ja']:
+                        print(f"Article {i+1} missing summary_ja, generating fallback...")
+                        article['summary_ja'] = self.summarizer._generate_fallback_summary(
+                            article.get('title', ''),
+                            article.get('abstract', article.get('summary', '')),
+                            article.get('authors', []),
+                            article.get('journal', '')
+                        )
             
             self.debug_print("Articles to notify:", [
                 {k: v for k, v in article.items() if k in ['title', 'summary_ja', 'authors']}
@@ -305,6 +311,7 @@ def main():
     parser = argparse.ArgumentParser(description='RSS Paper Summarizer')
     parser.add_argument('--test', action='store_true', help='Run in test mode (no Slack notification)')
     parser.add_argument('--slack-test', action='store_true', help='Test Slack notification with queued articles')
+    parser.add_argument('--slack-test-real', action='store_true', help='Test Slack notification with real Gemini summaries')
     parser.add_argument('--summarize-test', action='store_true', help='Test summarization with queued articles')
     parser.add_argument('--debug', action='store_true', help='Enable debug mode with detailed logging')
     parser.add_argument('--test-url', type=str, help='Test content fetching and summarization for a single URL')
@@ -315,7 +322,9 @@ def main():
     if args.test_url:
         pipeline.test_single_url(args.test_url)
     elif args.slack_test:
-        pipeline.run_slack_test()
+        pipeline.run_slack_test(use_real_summaries=False)
+    elif args.slack_test_real:
+        pipeline.run_slack_test(use_real_summaries=True)
     elif args.summarize_test:
         pipeline.run_summarization_test()
     else:

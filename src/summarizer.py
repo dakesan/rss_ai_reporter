@@ -47,22 +47,27 @@ class Summarizer:
         
         # プロンプトの構築
         prompt = f"""
-以下の科学論文について、200-300文字程度の日本語で要約を作成してください。
-要約には以下の要素を含めてください：
-1. どのような研究か（研究の概要）
-2. 何が新しいか、または重要か（革新性・重要性）
-3. どのような影響や応用が期待されるか（将来への影響）
+以下の科学論文について、厳密に200-250文字以内の日本語で簡潔な要約を作成してください。
+
+【制約】
+- 文字数は200-250文字厳守
+- 1つのパラグラフで完結
+- 簡潔で分かりやすい表現
+
+【含める内容】
+1. 研究内容の概要
+2. 重要な発見・成果
+3. 期待される応用
 
 論文情報:
 タイトル: {title}
 著者: {author_str}
 ジャーナル: {journal}
-キーワード: {', '.join(keywords) if keywords else 'なし'}
 
 要旨:
 {abstract if abstract else 'アブストラクトが取得できませんでした。タイトルから推測してください。'}
 
-要約:"""
+200-250文字以内の要約:"""
 
         try:
             print(f"  Calling Gemini API...")
@@ -170,7 +175,10 @@ class Summarizer:
                 if len(first_sentence) > 20 and len(first_sentence) < 80:
                     parts.append(f"この研究では{first_sentence}。")
         
-        parts.append("の科学的知見を報告している。")
+        if len(parts) > 1:
+            parts.append("の科学的知見を報告している。")
+        else:
+            parts.append("科学的知見を報告している。")
         
         # フォールバック要約であることを示すマーカーを追加（統計用）
         fallback_text = "".join(parts)
