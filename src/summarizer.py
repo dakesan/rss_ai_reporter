@@ -120,7 +120,7 @@ class Summarizer:
             elif any(word in title.lower() for word in ['crispr', 'gene', '遺伝子']):
                 parts.append("遺伝子編集・バイオテクノロジーの研究。")
             else:
-                parts.append(f"「{title[:50]}」に関する研究。")
+                parts.append(f"「{title}」に関する研究。")
         
         # 著者情報
         if authors:
@@ -154,9 +154,27 @@ class Summarizer:
             if important_words:
                 parts.append(f"{', '.join(important_words)}に関する")
         
-        parts.append("科学的知見を報告している。詳細な要約はオリジナル論文を参照されたい。")
+        # 要旨情報を追加
+        if abstract and len(abstract) > 100:
+            # HTMLタグとリンクを除去
+            import re
+            clean_abstract = re.sub(r'<[^>]+>', '', abstract)  # HTMLタグ除去
+            clean_abstract = re.sub(r'https?://[^\s]+', '', clean_abstract)  # URL除去
+            clean_abstract = clean_abstract.strip()
+            
+            # 最初の文または50文字まで
+            first_sentence = clean_abstract.split('.')[0].split('。')[0]
+            if len(first_sentence) > 20 and len(first_sentence) < 100:
+                parts.append(f"この研究では{first_sentence}。")
         
-        return "".join(parts)
+        parts.append("の科学的知見を報告している。")
+        
+        # フォールバック要約であることを示すマーカーを追加（統計用）
+        fallback_text = "".join(parts)
+        if len(fallback_text) < 150:
+            fallback_text += "詳細な要約はオリジナル論文を参照されたい。"
+        
+        return fallback_text
     
     def batch_summarize(self, articles: List[Dict[str, Any]], max_articles: int = 10) -> List[Dict[str, Any]]:
         summarized_articles = []
@@ -193,9 +211,9 @@ class Summarizer:
                 summarized_articles.append(article)
                 
                 # 成功/失敗のカウント
-                if any(error_phrase in summary for error_phrase in ["要約生成エラー", "要約生成不可"]):
+                if any(error_phrase in summary for error_phrase in ["要約生成エラー", "要約生成不可", "詳細な要約はオリジナル論文を参照されたい"]):
                     failed_summaries += 1
-                    print(f"  FAILED: {summary[:50]}...")
+                    print(f"  FAILED (fallback used): {summary[:50]}...")
                 else:
                     successful_summaries += 1
                     print(f"  SUCCESS: Generated {len(summary)} char summary")

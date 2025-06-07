@@ -258,7 +258,19 @@ class PaperSummarizerPipeline:
             print("\n4. Summarizing articles...")
             self.debug_print("Articles before summarization:", [a.get('title') for a in articles_to_process])
             summarized_articles = self.summarizer.batch_summarize(articles_to_process)
-            self.debug_print("Articles after summarization:", [{k: v for k, v in a.items() if k in ['title', 'summary_ja', 'abstract']} for a in summarized_articles[:2]])
+            
+            # サマライズ後の検証とフォールバック
+            for article in summarized_articles:
+                if not article.get('summary_ja'):
+                    print(f"  WARNING: Missing summary_ja for '{article.get('title', '')[:50]}', adding fallback...")
+                    article['summary_ja'] = self.summarizer._generate_fallback_summary(
+                        article.get('title', ''),
+                        article.get('abstract', article.get('summary', '')),
+                        article.get('authors', []),
+                        article.get('journal', '')
+                    )
+            
+            self.debug_print("Articles after summarization:", [{k: v for k, v in a.items() if k in ['title', 'summary_ja']} for a in summarized_articles[:2]])
             
             # 7. Slack通知
             if not test_mode:
