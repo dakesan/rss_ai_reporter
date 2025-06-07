@@ -11,6 +11,8 @@ class SlackNotifier:
             raise ValueError("SLACK_WEBHOOK_URL environment variable is not set")
     
     def format_message(self, articles: List[Dict[str, Any]]) -> Dict[str, Any]:
+        print(f"  Formatting Slack message for {len(articles)} articles...")
+        
         blocks = [
             {
                 "type": "header",
@@ -24,6 +26,15 @@ class SlackNotifier:
         
         # 各論文のブロックを作成
         for i, article in enumerate(articles):
+            # summary_jaフィールドの存在確認
+            summary_ja = article.get('summary_ja', '')
+            if not summary_ja:
+                print(f"  WARNING: Article {i+1} missing summary_ja field")
+                print(f"    Available fields: {list(article.keys())}")
+                summary_ja = "要約が生成されませんでした。"
+            else:
+                print(f"  Article {i+1}: summary_ja present ({len(summary_ja)} chars)")
+            
             # 番号付きの絵文字
             number_emojis = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣", "9️⃣", "🔟"]
             number_emoji = number_emojis[i] if i < 10 else f"{i+1}."
@@ -51,7 +62,7 @@ class SlackNotifier:
                     "type": "section",
                     "text": {
                         "type": "mrkdwn",
-                        "text": f"📝 {article.get('summary_ja', '要約なし')}"
+                        "text": f"📝 {summary_ja}"
                     }
                 },
                 {

@@ -11,17 +11,22 @@
     "vaccine"
   ],
   "exclude": [
-    "review",
     "correction",
-    "retraction",
+    "retraction", 
     "erratum",
     "corrigendum",
     "daily briefing",
-    "comment",
-    "editorial",
-    "opinion",
     "career",
     "spotlight"
   ],
-  "research_only": true
+  "research_only": false,
+  "article_types": {
+    "research_article": true,
+    "editorial": true,
+    "review": true,
+    "comment": false,
+    "books": false,
+    "news": false,
+    "correction": false
+  }
 }
