@@ -1,0 +1,5 @@
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+requests==2.31.0
+google-generativeai==0.3.2
+lxml==5.1.0
