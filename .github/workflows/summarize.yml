@@ -1,0 +1,41 @@
+name: RSS論文サマライザー
+
+on:
+  schedule:
+    # 毎日朝9時（JST）に実行 (UTC 0:00 = JST 9:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Pythonセットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 依存関係インストール
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: 論文サマライズ実行
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      run: |
+        python src/main.py
+    
+    - name: データファイルの変更をコミット
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add data/last_check.json data/queue.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update checkpoint and queue data [skip ci]" && git push)

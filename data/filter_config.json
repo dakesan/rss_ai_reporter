@@ -1,0 +1,20 @@
+{
+  "include": [
+    "CRISPR",
+    "quantum",
+    "AI",
+    "machine learning",
+    "neural network",
+    "climate",
+    "cancer",
+    "COVID",
+    "vaccine"
+  ],
+  "exclude": [
+    "review",
+    "correction",
+    "retraction",
+    "erratum",
+    "corrigendum"
+  ]
+}
