@@ -47,16 +47,32 @@ class PaperSummarizerPipeline:
         if os.path.exists(self.filter_config_file):
             with open(self.filter_config_file, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        return {"include": [], "exclude": []}
+        return {"include": [], "exclude": [], "research_only": True}
     
     def filter_articles(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         filter_config = self.load_filter_config()
         include_keywords = [kw.lower() for kw in filter_config.get("include", [])]
         exclude_keywords = [kw.lower() for kw in filter_config.get("exclude", [])]
+        research_only = filter_config.get("research_only", True)  # デフォルトで論文のみ
         
         filtered_articles = []
+        filtered_stats = {
+            "total": len(articles),
+            "research_filter": 0,
+            "keyword_filter": 0,
+            "passed": 0
+        }
         
         for article in articles:
+            # 論文フィルター
+            if research_only:
+                # URLパターンで簡易判定
+                url = article.get('link', '')
+                if 'd41586' in url:  # Nature news
+                    self.debug_print(f"Filtered out (News): {article.get('title', '')[:50]}...")
+                    filtered_stats["research_filter"] += 1
+                    continue
+            
             # 検索対象のテキストを結合
             search_text = " ".join([
                 article.get('title', ''),
@@ -67,15 +83,21 @@ class PaperSummarizerPipeline:
             
             # 除外キーワードチェック
             if any(keyword in search_text for keyword in exclude_keywords):
+                self.debug_print(f"Filtered out (Exclude keyword): {article.get('title', '')[:50]}...")
+                filtered_stats["keyword_filter"] += 1
                 continue
             
             # 含むキーワードチェック（指定がある場合）
             if include_keywords:
                 if not any(keyword in search_text for keyword in include_keywords):
+                    self.debug_print(f"Filtered out (Include keyword): {article.get('title', '')[:50]}...")
+                    filtered_stats["keyword_filter"] += 1
                     continue
             
             filtered_articles.append(article)
+            filtered_stats["passed"] += 1
         
+        self.debug_print("Filtering statistics:", filtered_stats)
         return filtered_articles
     
     def test_single_url(self, url: str):
