@@ -154,18 +154,21 @@ class Summarizer:
             if important_words:
                 parts.append(f"{', '.join(important_words)}に関する")
         
-        # 要旨情報を追加
+        # 要旨情報を追加（HTMLクリーニングが必要でない場合のみ）
         if abstract and len(abstract) > 100:
             # HTMLタグとリンクを除去
             import re
             clean_abstract = re.sub(r'<[^>]+>', '', abstract)  # HTMLタグ除去
             clean_abstract = re.sub(r'https?://[^\s]+', '', clean_abstract)  # URL除去
+            clean_abstract = re.sub(r'doi:10\.[^\s]+', '', clean_abstract)  # DOI除去
             clean_abstract = clean_abstract.strip()
             
-            # 最初の文または50文字まで
-            first_sentence = clean_abstract.split('.')[0].split('。')[0]
-            if len(first_sentence) > 20 and len(first_sentence) < 100:
-                parts.append(f"この研究では{first_sentence}。")
+            # 意味のあるコンテンツがあるかチェック
+            meaningful_content = re.sub(r'(Nature|Science), Published online:', '', clean_abstract).strip()
+            if len(meaningful_content) > 30:
+                first_sentence = meaningful_content.split('.')[0].split('。')[0]
+                if len(first_sentence) > 20 and len(first_sentence) < 80:
+                    parts.append(f"この研究では{first_sentence}。")
         
         parts.append("の科学的知見を報告している。")
         
