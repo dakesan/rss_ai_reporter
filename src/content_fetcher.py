@@ -16,7 +16,10 @@ class ContentFetcher:
         url = article.get('link', '')
         journal = article.get('journal', '')
         
+        print(f"  Fetching content from: {url}")
+        
         if not url:
+            print("  No URL provided, skipping content fetch")
             return article
         
         try:
@@ -25,19 +28,33 @@ class ContentFetcher:
             
             response = self.session.get(url, timeout=10)
             response.raise_for_status()
+            print(f"  HTTP {response.status_code}: Content fetched successfully")
             
             soup = BeautifulSoup(response.content, 'html.parser')
             
             # ジャーナルごとに異なる構造に対応
             if journal == "Nature":
-                article.update(self._parse_nature_article(soup, article))
+                print(f"  Using Nature parser")
+                details = self._parse_nature_article(soup, article)
             elif journal == "Science":
-                article.update(self._parse_science_article(soup, article))
+                print(f"  Using Science parser")
+                details = self._parse_science_article(soup, article)
             else:
-                article.update(self._parse_generic_article(soup, article))
+                print(f"  Using generic parser")
+                details = self._parse_generic_article(soup, article)
+                
+            article.update(details)
+            
+            # 取得結果のサマリーを表示
+            abstract_length = len(details.get('abstract', ''))
+            authors_count = len(details.get('authors', []))
+            affiliations_count = len(details.get('affiliations', []))
+            keywords_count = len(details.get('keywords', []))
+            
+            print(f"  Content extracted: Abstract({abstract_length} chars), Authors({authors_count}), Affiliations({affiliations_count}), Keywords({keywords_count})")
                 
         except Exception as e:
-            print(f"Error fetching article details from {url}: {str(e)}")
+            print(f"  Error fetching article details from {url}: {str(e)}")
             
         return article
     
@@ -45,9 +62,23 @@ class ContentFetcher:
         details = {}
         
         # アブストラクトの取得
-        abstract_elem = soup.find('div', {'id': 'Abs1-content'}) or \
-                       soup.find('div', {'class': 'c-article-section__content'}) or \
-                       soup.find('section', {'aria-labelledby': 'Abs1'})
+        abstract_selectors = [
+            ('div', {'id': 'Abs1-content'}),
+            ('div', {'class': 'c-article-section__content'}),
+            ('section', {'aria-labelledby': 'Abs1'}),
+            ('div', {'class': 'c-article-section'}),
+            ('div', {'data-test': 'abstract-section'})
+        ]
+        
+        abstract_elem = None
+        for tag, attrs in abstract_selectors:
+            abstract_elem = soup.find(tag, attrs)
+            if abstract_elem:
+                print(f"    Abstract found with: {tag} {attrs}")
+                break
+        
+        if not abstract_elem:
+            print(f"    No abstract found with any known selectors")
         
         if abstract_elem:
             details['abstract'] = abstract_elem.get_text(strip=True)
@@ -92,9 +123,23 @@ class ContentFetcher:
         details = {}
         
         # アブストラクトの取得
-        abstract_elem = soup.find('div', {'class': 'section abstract'}) or \
-                       soup.find('section', {'id': 'abstract'}) or \
-                       soup.find('div', {'class': 'abstract-content'})
+        abstract_selectors = [
+            ('div', {'class': 'section abstract'}),
+            ('section', {'id': 'abstract'}),
+            ('div', {'class': 'abstract-content'}),
+            ('div', {'class': 'abstract'}),
+            ('section', {'class': 'abstract'})
+        ]
+        
+        abstract_elem = None
+        for tag, attrs in abstract_selectors:
+            abstract_elem = soup.find(tag, attrs)
+            if abstract_elem:
+                print(f"    Abstract found with: {tag} {attrs}")
+                break
+        
+        if not abstract_elem:
+            print(f"    No abstract found with any known selectors")
         
         if abstract_elem:
             # "Abstract"というテキストを除去
@@ -137,14 +182,20 @@ class ContentFetcher:
             {'name': 'p', 'attrs': {'class': 'abstract'}}
         ]
         
+        print(f"    Trying generic abstract patterns...")
+        
         for pattern in abstract_patterns:
             elem = soup.find(**pattern)
             if elem:
+                print(f"    Abstract found with pattern: {pattern}")
                 if pattern['name'] == 'meta':
                     details['abstract'] = elem.get('content', '')
                 else:
                     details['abstract'] = elem.get_text(strip=True)
                 break
+        
+        if 'abstract' not in details:
+            print(f"    No abstract found with generic patterns")
         
         # 一般的な著者パターンを試す
         authors = []

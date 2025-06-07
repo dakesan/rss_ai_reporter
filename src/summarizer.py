@@ -20,6 +20,11 @@ class Summarizer:
         journal = article.get('journal', '')
         keywords = article.get('keywords', [])
         
+        print(f"  Summarizing: {title[:60]}...")
+        print(f"  Abstract available: {len(abstract)} characters")
+        print(f"  Authors: {len(authors)} found")
+        print(f"  Keywords: {len(keywords)} found")
+        
         # 著者情報の整形
         if authors:
             if len(authors) > 3:
@@ -49,9 +54,13 @@ class Summarizer:
 要約:"""
 
         try:
+            print(f"  Calling Gemini API...")
             # API呼び出し
             response = self.model.generate_content(prompt)
             summary = response.text.strip()
+            
+            print(f"  Summary generated: {len(summary)} characters")
+            print(f"  Preview: {summary[:100]}...")
             
             # レート制限対策
             time.sleep(1)
@@ -59,18 +68,31 @@ class Summarizer:
             return summary
             
         except Exception as e:
-            print(f"Error generating summary: {str(e)}")
+            print(f"  Error generating summary: {str(e)}")
             # エラー時のフォールバック
-            return f"要約生成エラー。{title[:100]}... についての論文です。"
+            fallback_summary = f"要約生成エラー。{title[:100]}... についての論文です。"
+            print(f"  Using fallback summary: {fallback_summary}")
+            return fallback_summary
     
     def batch_summarize(self, articles: List[Dict[str, Any]], max_articles: int = 10) -> List[Dict[str, Any]]:
         summarized_articles = []
+        successful_summaries = 0
+        failed_summaries = 0
+        
+        print(f"Starting batch summarization for {min(len(articles), max_articles)} articles...")
         
         for i, article in enumerate(articles[:max_articles]):
-            print(f"Summarizing article {i+1}/{min(len(articles), max_articles)}: {article.get('title', '')[:50]}...")
+            print(f"\nSummarizing article {i+1}/{min(len(articles), max_articles)}: {article.get('title', '')[:50]}...")
             
             summary = self.summarize_article(article)
             article['summary_ja'] = summary
             summarized_articles.append(article)
             
+            # 成功/失敗のカウント
+            if "要約生成エラー" in summary:
+                failed_summaries += 1
+            else:
+                successful_summaries += 1
+            
+        print(f"\nBatch summarization completed: {successful_summaries} successful, {failed_summaries} failed")
         return summarized_articles
