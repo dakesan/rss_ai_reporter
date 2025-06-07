@@ -15,6 +15,13 @@
     "correction",
     "retraction",
     "erratum",
-    "corrigendum"
-  ]
+    "corrigendum",
+    "daily briefing",
+    "comment",
+    "editorial",
+    "opinion",
+    "career",
+    "spotlight"
+  ],
+  "research_only": true
 }

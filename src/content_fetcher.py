@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 import time
-from typing import Dict, Any, Optional
+from typing import Dict, Any, Optional, List, Tuple
 from urllib.parse import urlparse
+import re
 
 class ContentFetcher:
     def __init__(self):
@@ -11,6 +12,32 @@ class ContentFetcher:
         }
         self.session = requests.Session()
         self.session.headers.update(self.headers)
+        
+    def is_research_article(self, url: str, article: Dict[str, Any]) -> bool:
+        """論文記事かどうかを判定"""
+        # URLパターンで判定
+        if 's41586' in url:  # Nature research articles
+            return True
+        elif 'd41586' in url:  # Nature news & views
+            return False
+        elif 'science.org/doi' in url and '/science.' in url:  # Science research
+            return True
+        
+        # タイトルでの判定
+        title = article.get('title', '').lower()
+        news_keywords = ['news', 'comment', 'editorial', 'opinion', 'daily briefing', 'career', 'spotlight']
+        if any(keyword in title for keyword in news_keywords):
+            return False
+            
+        return True
+        
+    def _clean_html(self, text: str) -> str:
+        """シンプルなHTMLタグの除去"""
+        # <p>や<a>などの基本的なHTMLタグを除去
+        text = re.sub(r'<[^>]+>', '', text)
+        # 連続する空白を整理
+        text = re.sub(r'\s+', ' ', text)
+        return text.strip()
     
     def fetch_article_details(self, article: Dict[str, Any]) -> Dict[str, Any]:
         url = article.get('link', '')
@@ -20,6 +47,19 @@ class ContentFetcher:
         
         if not url:
             print("  No URL provided, skipping content fetch")
+            return article
+        
+        # 論文タイプの判定
+        is_research = self.is_research_article(url, article)
+        article['is_research_article'] = is_research
+        print(f"  Article type: {'Research' if is_research else 'News/Opinion'}")
+        
+        # ニュース記事の場合、RSSの情報のみ使用
+        if not is_research:
+            print("  Skipping detailed fetch for non-research article")
+            # RSSのsummaryをabstractとして使用
+            if 'summary' in article and article['summary']:
+                article['abstract'] = self._clean_html(article['summary'])
             return article
         
         try:
@@ -45,29 +85,41 @@ class ContentFetcher:
                 
             article.update(details)
             
+            # Abstractが取得できなかった場合のフォールバック
+            if not article.get('abstract') and article.get('summary'):
+                print("  No abstract found, using RSS summary as fallback")
+                article['abstract'] = self._clean_html(article['summary'])
+            
             # 取得結果のサマリーを表示
-            abstract_length = len(details.get('abstract', ''))
-            authors_count = len(details.get('authors', []))
-            affiliations_count = len(details.get('affiliations', []))
-            keywords_count = len(details.get('keywords', []))
+            abstract_length = len(article.get('abstract', ''))
+            authors_count = len(article.get('authors', []))
+            affiliations_count = len(article.get('affiliations', []))
+            keywords_count = len(article.get('keywords', []))
             
             print(f"  Content extracted: Abstract({abstract_length} chars), Authors({authors_count}), Affiliations({affiliations_count}), Keywords({keywords_count})")
                 
         except Exception as e:
             print(f"  Error fetching article details from {url}: {str(e)}")
+            # エラー時もRSS summaryを使用
+            if article.get('summary'):
+                article['abstract'] = self._clean_html(article['summary'])
             
         return article
     
     def _parse_nature_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
         details = {}
         
-        # アブストラクトの取得
+        # アブストラクトの取得 - 2025年現在のセレクタ
         abstract_selectors = [
             ('div', {'id': 'Abs1-content'}),
             ('div', {'class': 'c-article-section__content'}),
             ('section', {'aria-labelledby': 'Abs1'}),
             ('div', {'class': 'c-article-section'}),
-            ('div', {'data-test': 'abstract-section'})
+            ('div', {'data-test': 'abstract-section'}),
+            # 追加のセレクタ
+            ('div', {'class': 'c-article-body__section'}),
+            ('div', {'id': 'abstract'}),
+            ('section', {'data-title': 'Abstract'})
         ]
         
         abstract_elem = None
@@ -122,13 +174,17 @@ class ContentFetcher:
     def _parse_science_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
         details = {}
         
-        # アブストラクトの取得
+        # アブストラクトの取得 - 2025年現在のセレクタ
         abstract_selectors = [
             ('div', {'class': 'section abstract'}),
             ('section', {'id': 'abstract'}),
             ('div', {'class': 'abstract-content'}),
             ('div', {'class': 'abstract'}),
-            ('section', {'class': 'abstract'})
+            ('section', {'class': 'abstract'}),
+            # 追加のセレクタ
+            ('div', {'class': 'article-abstract'}),
+            ('div', {'role': 'paragraph'}),
+            ('div', {'data-widgetname': 'ArticleFulltext'})
         ]
         
         abstract_elem = None
