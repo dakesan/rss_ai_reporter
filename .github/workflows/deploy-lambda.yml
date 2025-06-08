@@ -1,0 +1,147 @@
+name: Deploy Feedback Lambda
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'lambda/**'
+      - 'template.yaml'
+      - '.github/workflows/deploy-lambda.yml'
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'dev'
+        type: choice
+        options:
+          - dev
+          - prod
+
+env:
+  AWS_REGION: us-east-1
+  STACK_NAME_PREFIX: rss-ai-reporter-feedback
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install SAM CLI
+      uses: aws-actions/setup-sam@v2
+      with:
+        use-installer: true
+    
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ env.AWS_REGION }}
+    
+    - name: Set environment
+      id: set-env
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "ENVIRONMENT=${{ github.event.inputs.environment }}" >> $GITHUB_OUTPUT
+        else
+          echo "ENVIRONMENT=dev" >> $GITHUB_OUTPUT
+        fi
+        echo "STACK_NAME=${{ env.STACK_NAME_PREFIX }}-${{ steps.set-env.outputs.ENVIRONMENT }}" >> $GITHUB_OUTPUT
+    
+    - name: SAM build
+      run: |
+        sam build --use-container
+    
+    - name: SAM deploy
+      run: |
+        sam deploy \
+          --stack-name ${{ steps.set-env.outputs.STACK_NAME }} \
+          --region ${{ env.AWS_REGION }} \
+          --capabilities CAPABILITY_IAM \
+          --no-confirm-changeset \
+          --no-fail-on-empty-changeset \
+          --parameter-overrides \
+            SlackSigningSecret="${{ secrets.SLACK_SIGNING_SECRET }}" \
+            GitHubToken="${{ secrets.GITHUB_TOKEN }}" \
+            GitHubRepo="${{ github.repository }}"
+    
+    - name: Get outputs
+      id: get-outputs
+      run: |
+        WEBHOOK_URL=$(aws cloudformation describe-stacks \
+          --stack-name ${{ steps.set-env.outputs.STACK_NAME }} \
+          --region ${{ env.AWS_REGION }} \
+          --query 'Stacks[0].Outputs[?OutputKey==`SlackWebhookUrl`].OutputValue' \
+          --output text)
+        
+        HEALTH_URL=$(aws cloudformation describe-stacks \
+          --stack-name ${{ steps.set-env.outputs.STACK_NAME }} \
+          --region ${{ env.AWS_REGION }} \
+          --query 'Stacks[0].Outputs[?OutputKey==`HealthCheckUrl`].OutputValue' \
+          --output text)
+        
+        echo "webhook_url=$WEBHOOK_URL" >> $GITHUB_OUTPUT
+        echo "health_url=$HEALTH_URL" >> $GITHUB_OUTPUT
+    
+    - name: Test deployment
+      run: |
+        echo "Testing health check endpoint..."
+        curl -f ${{ steps.get-outputs.outputs.health_url }} || exit 1
+        echo "✅ Health check passed"
+    
+    - name: Create deployment summary
+      run: |
+        cat >> $GITHUB_STEP_SUMMARY << EOF
+        # 🚀 Lambda Deployment Successful
+        
+        ## Environment: ${{ steps.set-env.outputs.ENVIRONMENT }}
+        
+        ### 📋 Deployment Details
+        - **Stack Name**: \`${{ steps.set-env.outputs.STACK_NAME }}\`
+        - **Region**: \`${{ env.AWS_REGION }}\`
+        - **Commit**: \`${{ github.sha }}\`
+        
+        ### 🔗 Endpoints
+        - **Slack Webhook**: \`${{ steps.get-outputs.outputs.webhook_url }}\`
+        - **Health Check**: [${{ steps.get-outputs.outputs.health_url }}](${{ steps.get-outputs.outputs.health_url }})
+        
+        ### 📝 Next Steps
+        1. Configure Slack App Interactive Components
+        2. Set Request URL: \`${{ steps.get-outputs.outputs.webhook_url }}\`
+        3. Test feedback buttons: \`python src/main.py --slack-test-3\`
+        
+        ### 🛠️ Configuration
+        Update your Slack App settings:
+        - **Request URL**: \`${{ steps.get-outputs.outputs.webhook_url }}\`
+        - **Interactivity**: ON
+        - **Shortcuts**: Not required
+        EOF
+    
+    - name: Slack notification (if configured)
+      if: env.SLACK_WEBHOOK_URL != ''
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_DEPLOYMENT_WEBHOOK }}
+      run: |
+        curl -X POST -H 'Content-type: application/json' \
+          --data '{
+            "text": "🚀 Lambda Deployment Successful",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "*RSS AI Reporter Feedback Lambda*\n\n✅ Deployed to ${{ steps.set-env.outputs.ENVIRONMENT }}\n\n*Webhook URL:* `${{ steps.get-outputs.outputs.webhook_url }}`"
+                }
+              }
+            ]
+          }' \
+          $SLACK_WEBHOOK_URL || echo "Slack notification failed (webhook not configured)"
