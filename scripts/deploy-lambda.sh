@@ -87,6 +87,7 @@ sam deploy \
     --capabilities CAPABILITY_IAM \
     --no-confirm-changeset \
     --no-fail-on-empty-changeset \
+    --resolve-s3 \
     --parameter-overrides \
         SlackSigningSecret="${SLACK_SIGNING_SECRET}" \
         GitHubToken="${GITHUB_TOKEN}" \

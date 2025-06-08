@@ -25,8 +25,8 @@ Parameters:
   
   GitHubRepo:
     Type: String
-    Description: GitHub Repository (format: username/repo)
-    Default: dakesan/rss_ai_reporter
+    Description: "GitHub Repository (format: username/repo)"
+    Default: "dakesan/rss_ai_reporter"
 
 Resources:
   # S3 Bucket for feedback logs
