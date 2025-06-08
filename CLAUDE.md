@@ -159,6 +159,10 @@ python src/main.py --test
 - `google-generativeai` - Gemini API
 - `json`, `datetime` - データ管理
 
+## メモリ情報
+
+- python libraryはuv venvを使って導入、activeteすること
+
 ---
 
 ## 🚧 改善計画 (2025年6月)
