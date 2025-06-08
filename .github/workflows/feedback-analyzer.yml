@@ -1,0 +1,175 @@
+name: フィードバック分析・自動フィルター更新
+
+on:
+  schedule:
+    # 毎週日曜日 9時（JST）に実行 (UTC 0:00 = JST 9:00)
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # 手動実行も可能にする
+    inputs:
+      analysis_days:
+        description: 'フィードバック分析対象期間（日数）'
+        required: false
+        default: '30'
+        type: number
+      min_feedback:
+        description: '自動更新に必要な最小フィードバック数'
+        required: false
+        default: '10'
+        type: number
+      min_confidence:
+        description: '自動更新に必要な最小信頼度スコア'
+        required: false
+        default: '7'
+        type: number
+      dry_run:
+        description: 'Dry-runモード（実際の変更なし）'
+        required: false
+        default: false
+        type: boolean
+      analysis_only:
+        description: '分析のみ実行（自動更新スキップ）'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  analyze-feedback:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_PAT }}
+        fetch-depth: 0
+    
+    - name: Pythonセットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 依存関係インストール
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: GitHub CLI セットアップ
+      run: |
+        echo "${{ secrets.GH_PAT }}" | gh auth login --with-token
+        gh auth status
+    
+    - name: Git設定
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+    
+    - name: フィードバック分析実行
+      id: analysis
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      run: |
+        echo "🧠 Starting feedback analysis..."
+        
+        # パラメータ設定（手動実行時は入力値を使用、スケジュール実行時はデフォルト値）
+        DAYS="${{ github.event.inputs.analysis_days || '30' }}"
+        MIN_FEEDBACK="${{ github.event.inputs.min_feedback || '10' }}"
+        MIN_CONFIDENCE="${{ github.event.inputs.min_confidence || '7' }}"
+        DRY_RUN="${{ github.event.inputs.dry_run || 'false' }}"
+        ANALYSIS_ONLY="${{ github.event.inputs.analysis_only || 'false' }}"
+        
+        echo "📊 Parameters: days=$DAYS, min_feedback=$MIN_FEEDBACK, min_confidence=$MIN_CONFIDENCE"
+        echo "🧪 Dry run: $DRY_RUN, Analysis only: $ANALYSIS_ONLY"
+        
+        # まずフィードバック分析を実行
+        echo "📈 Running feedback analysis..."
+        python src/main.py --analyze-feedback --feedback-days $DAYS --feedback-min 3 --debug
+        
+        # analysis_onlyがtrueの場合は分析のみで終了
+        if [ "$ANALYSIS_ONLY" = "true" ]; then
+          echo "📊 Analysis only mode - skipping auto-update"
+          echo "analysis_result=analysis_only" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+        
+        # 自動更新実行
+        echo "🔄 Running auto filter update..."
+        if [ "$DRY_RUN" = "true" ]; then
+          python src/main.py --auto-update \
+            --feedback-days $DAYS \
+            --auto-min-feedback $MIN_FEEDBACK \
+            --auto-min-confidence $MIN_CONFIDENCE \
+            --dry-run --debug
+          echo "analysis_result=dry_run_completed" >> $GITHUB_OUTPUT
+        else
+          python src/main.py --auto-update \
+            --feedback-days $DAYS \
+            --auto-min-feedback $MIN_FEEDBACK \
+            --auto-min-confidence $MIN_CONFIDENCE \
+            --debug
+          echo "analysis_result=update_completed" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Slack通知（成功）
+      if: success()
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      run: |
+        RESULT="${{ steps.analysis.outputs.analysis_result }}"
+        TRIGGER="${{ github.event_name }}"
+        
+        if [ "$TRIGGER" = "workflow_dispatch" ]; then
+          TRIGGER_TEXT="手動実行"
+        else
+          TRIGGER_TEXT="週次自動実行"
+        fi
+        
+        case "$RESULT" in
+          "analysis_only")
+            MESSAGE="📊 フィードバック分析完了 ($TRIGGER_TEXT)\n\n✅ 分析のみ実行されました\n📈 詳細は GitHub Actions ログをご確認ください"
+            ;;
+          "dry_run_completed")
+            MESSAGE="🧪 フィードバック分析・Dry-run完了 ($TRIGGER_TEXT)\n\n✅ テストモードで実行完了\n📊 実際の変更は行われていません\n📈 詳細は GitHub Actions ログをご確認ください"
+            ;;
+          "update_completed")
+            MESSAGE="🤖 フィードバック分析・自動更新完了 ($TRIGGER_TEXT)\n\n✅ 分析と自動更新が実行されました\n📝 新しいPRが作成された可能性があります\n🔗 リポジトリの Pull Requests をご確認ください"
+            ;;
+          *)
+            MESSAGE="📊 フィードバック分析完了 ($TRIGGER_TEXT)\n\n✅ 処理が完了しました\n📈 詳細は GitHub Actions ログをご確認ください"
+            ;;
+        esac
+        
+        curl -X POST -H 'Content-type: application/json' \
+          --data "{\"text\":\"$MESSAGE\"}" \
+          "$SLACK_WEBHOOK_URL"
+    
+    - name: Slack通知（エラー）
+      if: failure()
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      run: |
+        TRIGGER="${{ github.event_name }}"
+        
+        if [ "$TRIGGER" = "workflow_dispatch" ]; then
+          TRIGGER_TEXT="手動実行"
+        else
+          TRIGGER_TEXT="週次自動実行"
+        fi
+        
+        MESSAGE="❌ フィードバック分析でエラーが発生 ($TRIGGER_TEXT)\n\n🔧 GitHub Actions ログを確認してください\n🔗 ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        
+        curl -X POST -H 'Content-type: application/json' \
+          --data "{\"text\":\"$MESSAGE\"}" \
+          "$SLACK_WEBHOOK_URL"
+    
+    - name: 処理結果サマリー
+      if: always()
+      run: |
+        echo "=================================="
+        echo "📊 FEEDBACK ANALYSIS SUMMARY"
+        echo "=================================="
+        echo "トリガー: ${{ github.event_name }}"
+        echo "実行時刻: $(date)"
+        echo "ステータス: ${{ job.status }}"
+        echo "分析結果: ${{ steps.analysis.outputs.analysis_result }}"
+        echo "=================================="
