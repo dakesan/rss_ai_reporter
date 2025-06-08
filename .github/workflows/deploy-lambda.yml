@@ -69,9 +69,10 @@ jobs:
           --capabilities CAPABILITY_IAM \
           --no-confirm-changeset \
           --no-fail-on-empty-changeset \
+          --resolve-s3 \
           --parameter-overrides \
             SlackSigningSecret="${{ secrets.SLACK_SIGNING_SECRET }}" \
-            GitHubToken="${{ secrets.GITHUB_TOKEN }}" \
+            GitHubToken="${{ secrets.GH_PAT }}" \
             GitHubRepo="${{ github.repository }}"
     
     - name: Get outputs

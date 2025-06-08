@@ -175,35 +175,123 @@ python src/main.py --test
 
 ### 改善計画の段階
 
-#### Phase 1: 🔍 デバッグと可視化強化
-- [ ] 新ブランチ作成: `feature/fix-summarization`
-- [ ] 詳細ログ追加 (各段階でのデータ出力)
-- [ ] デバッグモード追加 (`--debug`フラグ)
-- [ ] 個別URL テスト機能
-- [ ] Gemini API呼び出し結果の詳細ログ
+#### Phase 1: 🔍 デバッグと可視化強化 ✅ **完了 (PR#3)**
+- [x] 新ブランチ作成: `feature/debug-improvements`
+- [x] 詳細ログ追加 (各段階でのデータ出力)
+- [x] デバッグモード追加 (`--debug`フラグ)
+- [x] 個別URL テスト機能 (`--test-url`)
+- [x] Gemini API呼び出し結果の詳細ログ
 
-#### Phase 2: 🛠️ コンテンツ取得の改善
-- [ ] 記事タイプフィルタリング (論文記事優先)
-- [ ] BeautifulSoupセレクタの最新化
-- [ ] フォールバック機能強化 (RSS summary → メタタグ → 一般セレクタ)
-- [ ] エラーハンドリング強化 (部分的情報での処理継続)
+#### Phase 2: 🛠️ コンテンツ取得の改善 ✅ **完了 (PR#4)**
+- [x] 記事タイプフィルタリング (論文記事優先)
+- [x] BeautifulSoupセレクタの最新化 (2025年対応)
+- [x] フォールバック機能強化 (RSS summary → メタタグ → 一般セレクタ)
+- [x] エラーハンドリング強化 (部分的情報での処理継続)
 
-#### Phase 3: 🤖 サマライズ機能の修正
-- [ ] `summary_ja`フィールド生成の確実化
-- [ ] Gemini API処理の確認とエラーハンドリング
-- [ ] 代替要約ソース (RSSのsummary活用、タイトルベース簡易要約)
+#### Phase 3: 🤖 サマライズ機能の修正 ✅ **完了 (PR#5)**
+- [x] `summary_ja`フィールド生成の確実化
+- [x] Gemini API処理の確認とエラーハンドリング
+- [x] 代替要約ソース (RSSのsummary活用、タイトルベース簡易要約)
+- [x] 文字数制限強化 (200-250文字)
 
-#### Phase 4: 🎯 フィルタリング強化
-- [ ] 記事タイプベースフィルタ (Research articles優先)
-- [ ] 品質フィルタ (Abstract有無、著者数・機関情報)
-- [ ] News/Opinion/Editorial除外オプション
+#### Phase 4: 🎯 フィルタリング強化 ✅ **完了 (PR#4)**
+- [x] 記事タイプベースフィルタ (Research articles優先)
+- [x] 品質フィルタ (Abstract有無、著者数・機関情報)
+- [x] News/Opinion/Editorial除外オプション
+- [x] スマートURLパターン分析
 
-### 優先順位
-**🚨 高優先度**: サマライズ処理修正、デバッグログ追加
-**🔧 中優先度**: 記事タイプフィルタリング、Abstract取得改善
-**📈 低優先度**: JavaScript レンダリング対応、高度なコンテンツ分析
+#### Phase 5: 🧪 テスト環境整備 ✅ **完了**
+- [x] `--slack-test` テスト用Slack通知
+- [x] `--slack-test-real` 実際のGemini要約でテスト
+- [x] `--summarize-test` サマライズ機能単体テスト
+- [x] デバッグログとエラーハンドリング強化
+
+---
+
+## 🤖 継続学習システム実装計画 (Phase 6)
+
+### システム概要
+ユーザーフィードバックを自動収集し、AIでパターン分析してフィルター設定を進化させる仕組み。
+
+### 実装段階
+
+#### Phase 6-1: 📱 Slackフィードバック機能 ✅ **完了 (PR#6)**
+- [x] `slack_notifier.py`にフィードバックボタン追加
+- [x] 各論文に👍👎ボタンを配置
+- [x] ボタンクリック時のペイロード設計（記事ID + フィードバック）
+- [x] Slack App設定（Interactive Components有効化）
+- [x] **3エントリ限定モードの実装** (`--slack-test-3`)
+
+#### Phase 6-2: 🔗 フィードバック収集システム ✅ **完了 (PR#7)**
+- [x] `feedback_handler.py`新規作成
+- [x] GitHub Issues APIでフィードバック記録
+- [x] フィードバック受信用Webhookエンドポイント (Flask開発用)
+- [x] データ構造設計（記事ID、フィードバック、タイムスタンプ、ユーザー）
+- [x] **AWS Lambda サーバーレス実装** (本番デプロイ済み)
+- [x] **API Gateway HTTPS エンドポイント** (https://ryys05qyq7.execute-api.us-east-1.amazonaws.com/prod)
+- [x] **S3 フィードバックログ保存**
+- [x] **SAM テンプレートによる Infrastructure as Code**
+
+#### Phase 6-3: 🧠 AI分析エンジン
+- [ ] `feedback_analyzer.py`新規作成
+- [ ] Gemini APIでフィードバックパターン分析
+- [ ] 興味ありパターンの特徴抽出（キーワード、著者、ジャーナル）
+- [ ] 興味なしパターンの特徴抽出
+- [ ] 新キーワード候補の提案ロジック
+
+#### Phase 6-4: 🔄 自動フィルター更新
+- [ ] `auto_updater.py`新規作成
+- [ ] 分析結果から`filter_config.json`更新提案
+- [ ] 自動ブランチ作成・コミット・プッシュ
+- [ ] GitHub CLI使用した自動PR作成
+- [ ] 人間レビュー後のマージワークフロー
+
+#### Phase 6-5: ⏰ 定期実行システム
+- [ ] `.github/workflows/feedback-analyzer.yml`作成
+- [ ] 週次でフィードバック分析実行
+- [ ] 閾値超過時の自動PR作成（最低10件のフィードバック）
+- [ ] エラー通知とフォールバック
+
+### 必要な設定
+- **Slack App**: ✅ Interactive Components有効化済み
+- **GitHub**: ✅ Personal Access Token設定済み  
+- **GitHub Secrets**: ✅ `GITHUB_TOKEN`追加済み
+- **AWS Lambda**: ✅ 本番環境デプロイ済み
+
+### データフロー
+```
+Slack通知(3件) → フィードバックボタン → AWS Lambda → 
+S3 + GitHub Issue → 週次分析 → フィルター提案 → 
+自動PR → 人間レビュー → マージ
+```
+
+### タイムライン（単位実装）
+
+**Week 1: Phase 6-1** - ✅ 完了 `feature/slack-feedback-buttons`
+**Week 2: Phase 6-2** - ✅ 完了 `feature/feedback-collection`
+**Week 3: Phase 6-3** - `feature/ai-feedback-analysis`  
+**Week 4: Phase 6-4** - `feature/auto-filter-updates`
+**Week 5: Phase 6-5** - `feature/scheduled-analysis`
 
 ### テスト・検証方法
-- 個別URL でのコンテンツ取得テスト
-- Gemini API レスポンス確認
-- 段階的なデバッグログでボトルネック特定
+- **3エントリテスト**: `python src/main.py --slack-test-3`で動作確認
+- 個別URL でのコンテンツ取得テスト (`--test-url`)
+- Gemini API レスポンス確認 (`--summarize-test`)
+- 段階的なデバッグログでボトルネック特定 (`--debug`)
+
+## 📊 現在のシステム状態
+
+### ✅ 実装完了
+- **基本機能**: RSS取得、論文サマライズ、Slack通知
+- **改善機能**: デバッグモード、コンテンツ取得改善、フィルタリング強化
+- **フィードバック収集**: Slackボタン、AWS Lambda、S3保存、GitHub Issues連携
+
+### 🚀 本番運用中
+- **AWS Lambda Webhook**: https://ryys05qyq7.execute-api.us-east-1.amazonaws.com/prod/slack/feedback
+- **毎日の論文通知**: GitHub Actions (毎朝9時JST)
+- **フィードバック収集**: リアルタイム処理
+
+### 📈 次のステップ
+- Phase 6-3: AI分析エンジンの実装
+- Phase 6-4: 自動フィルター更新機能
+- Phase 6-5: 定期分析と自動化

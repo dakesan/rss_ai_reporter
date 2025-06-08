@@ -7,8 +7,9 @@ from datetime import datetime
 class SlackNotifier:
     def __init__(self, enable_feedback: bool = False):
         self.webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
+        # Webhook URLがない場合は警告のみ（テスト用）
         if not self.webhook_url:
-            raise ValueError("SLACK_WEBHOOK_URL environment variable is not set")
+            print("WARNING: SLACK_WEBHOOK_URL environment variable is not set")
         self.enable_feedback = enable_feedback
     
     def format_message(self, articles: List[Dict[str, Any]]) -> Dict[str, Any]:
@@ -135,6 +136,9 @@ class SlackNotifier:
         }
     
     def send_notification(self, articles: List[Dict[str, Any]]) -> bool:
+        if not self.webhook_url:
+            print("SKIP: Slack notification (no webhook URL)")
+            return False
         if not articles:
             print("No articles to notify")
             return True
@@ -160,6 +164,10 @@ class SlackNotifier:
             return False
     
     def send_error_notification(self, error_message: str):
+        if not self.webhook_url:
+            print(f"ERROR (not sent to Slack): {error_message}")
+            return
+        
         message = {
             "blocks": [
                 {

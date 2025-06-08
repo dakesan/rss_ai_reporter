@@ -4,13 +4,14 @@ from typing import List, Dict, Any
 import time
 
 class Summarizer:
-    def __init__(self):
+    def __init__(self, debug_mode: bool = False):
         api_key = os.environ.get('GEMINI_API_KEY')
         if not api_key:
             raise ValueError("GEMINI_API_KEY environment variable is not set")
         
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel('gemini-1.5-flash')
+        self.debug_mode = debug_mode
         
     def summarize_article(self, article: Dict[str, Any]) -> str:
         # 論文情報をプロンプト用にフォーマット
@@ -24,6 +25,16 @@ class Summarizer:
         print(f"  Abstract available: {len(abstract)} characters")
         print(f"  Authors: {len(authors)} found")
         print(f"  Keywords: {len(keywords)} found")
+        
+        # 詳細ログ（デバッグモード）
+        if self.debug_mode:
+            print(f"  [DEBUG] Detailed input analysis:")
+            print(f"    Title: '{title[:100]}{'...' if len(title) > 100 else ''}'")
+            print(f"    Abstract: '{abstract[:200]}{'...' if len(abstract) > 200 else ''}'")
+            print(f"    Authors: {authors}")
+            print(f"    Journal: {journal}")
+            print(f"    Keywords: {keywords}")
+            print(f"    Total content for prompt: {len(title) + len(abstract)} chars")
         
         # 入力データの詳細ログ
         print(f"  Input validation:")
@@ -74,14 +85,32 @@ class Summarizer:
             print(f"  Prompt length: {len(prompt)} characters")
             
             # API呼び出し
+            if self.debug_mode:
+                print(f"  [DEBUG] Full prompt being sent to Gemini:")
+                print(f"  {'='*50}")
+                print(prompt)
+                print(f"  {'='*50}")
+            
             response = self.model.generate_content(prompt)
             
             # レスポンス検証
+            if self.debug_mode:
+                print(f"  [DEBUG] Raw API response type: {type(response)}")
+                print(f"  [DEBUG] Response attributes: {dir(response) if response else 'None'}")
+                if response:
+                    print(f"  [DEBUG] Response text available: {hasattr(response, 'text')}")
+                    if hasattr(response, 'text'):
+                        print(f"  [DEBUG] Raw response text: '{response.text}'")
+            
             if not response or not hasattr(response, 'text'):
                 print(f"  ERROR: Invalid API response: {response}")
                 raise Exception("Invalid API response structure")
                 
             summary = response.text.strip() if response.text else ""
+            
+            if self.debug_mode:
+                print(f"  [DEBUG] Cleaned summary: '{summary}'")
+                print(f"  [DEBUG] Summary length: {len(summary)} chars")
             
             if not summary:
                 print(f"  ERROR: Empty summary generated")
