@@ -71,7 +71,7 @@ jobs:
           --no-fail-on-empty-changeset \
           --parameter-overrides \
             SlackSigningSecret="${{ secrets.SLACK_SIGNING_SECRET }}" \
-            GitHubToken="${{ secrets.GITHUB_TOKEN }}" \
+            GitHubToken="${{ secrets.GH_PAT }}" \
             GitHubRepo="${{ github.repository }}"
     
     - name: Get outputs
