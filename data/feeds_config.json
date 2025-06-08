@@ -1,0 +1,115 @@
+{
+  "feeds": {
+    "Nature": {
+      "url": "https://www.nature.com/nature.rss",
+      "enabled": true,
+      "priority": "high",
+      "parser_type": "nature",
+      "update_interval_hours": 6,
+      "description": "Nature journal RSS feed"
+    },
+    "Science": {
+      "url": "https://www.science.org/rss/news_current.xml",
+      "enabled": true, 
+      "priority": "high",
+      "parser_type": "science",
+      "update_interval_hours": 6,
+      "description": "Science journal RSS feed"
+    },
+    "Cell": {
+      "url": "https://www.cell.com/cell/current.rss",
+      "enabled": true,
+      "priority": "high",
+      "parser_type": "cell",
+      "update_interval_hours": 12,
+      "description": "Cell journal RSS feed"
+    },
+    "NEJM": {
+      "url": "https://www.nejm.org/action/showFeed?type=etoc&feed=rss",
+      "enabled": true,
+      "priority": "high",
+      "parser_type": "nejm",
+      "update_interval_hours": 24,
+      "description": "New England Journal of Medicine RSS feed"
+    },
+    "PNAS": {
+      "url": "https://www.pnas.org/rss/current.xml",
+      "enabled": true,
+      "priority": "medium",
+      "parser_type": "pnas", 
+      "update_interval_hours": 12,
+      "description": "Proceedings of the National Academy of Sciences RSS feed"
+    },
+    "arXiv_CS": {
+      "url": "http://export.arxiv.org/rss/cs",
+      "enabled": true,
+      "priority": "medium",
+      "parser_type": "arxiv",
+      "update_interval_hours": 24,
+      "description": "arXiv Computer Science RSS feed",
+      "filter_keywords": ["machine learning", "AI", "neural", "deep learning"]
+    },
+    "arXiv_QB": {
+      "url": "http://export.arxiv.org/rss/q-bio",
+      "enabled": true,
+      "priority": "medium", 
+      "parser_type": "arxiv",
+      "update_interval_hours": 24,
+      "description": "arXiv Quantitative Biology RSS feed"
+    },
+    "PLoS_ONE": {
+      "url": "https://journals.plos.org/plosone/feed/atom",
+      "enabled": true,
+      "priority": "medium",
+      "parser_type": "plos",
+      "update_interval_hours": 12,
+      "description": "PLoS ONE journal RSS feed"
+    }
+  },
+  "global_settings": {
+    "max_articles_per_feed": 20,
+    "request_delay_seconds": 2,
+    "timeout_seconds": 30,
+    "retry_attempts": 3,
+    "user_agent": "RSS AI Reporter/1.0"
+  },
+  "parser_configs": {
+    "nature": {
+      "article_url_patterns": ["articles/s41586", "articles/d41586"],
+      "research_article_pattern": "articles/s41586",
+      "news_article_pattern": "articles/d41586",
+      "exclude_news": true
+    },
+    "science": {
+      "article_url_patterns": ["doi/10.1126/science"],
+      "research_article_pattern": "doi/10.1126/science",
+      "exclude_news": false
+    },
+    "cell": {
+      "article_url_patterns": ["cell/fulltext"],
+      "research_article_pattern": "cell/fulltext",
+      "exclude_news": true
+    },
+    "nejm": {
+      "article_url_patterns": ["doi/full/10.1056"],
+      "research_article_pattern": "doi/full/10.1056",
+      "exclude_news": false
+    },
+    "pnas": {
+      "article_url_patterns": ["content/", "doi/"],
+      "research_article_pattern": "content/",
+      "exclude_news": true
+    },
+    "arxiv": {
+      "article_url_patterns": ["abs/"],
+      "research_article_pattern": "abs/",
+      "exclude_news": false,
+      "special_handling": "preprint"
+    },
+    "plos": {
+      "article_url_patterns": ["article?id="],
+      "research_article_pattern": "article?id=",
+      "exclude_news": true
+    }
+  }
+}

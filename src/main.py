@@ -20,6 +20,8 @@ from summarizer import Summarizer
 from slack_notifier import SlackNotifier
 from feedback_analyzer import FeedbackAnalyzer
 from auto_updater import AutoFilterUpdater
+from queue_manager import QueueManager
+from archive_manager import ArchiveManager
 
 class PaperSummarizerPipeline:
     def __init__(self, debug_mode: bool = False):
@@ -28,7 +30,8 @@ class PaperSummarizerPipeline:
         self.content_fetcher = ContentFetcher(debug_mode=debug_mode)
         self.summarizer = Summarizer(debug_mode=debug_mode)
         self.slack_notifier = SlackNotifier()
-        self.queue_file = "data/queue.json"
+        self.queue_manager = QueueManager()
+        self.archive_manager = ArchiveManager()
         self.filter_config_file = "data/filter_config.json"
         
     def debug_print(self, message: str, data: Any = None):
@@ -42,16 +45,26 @@ class PaperSummarizerPipeline:
                     print(data)
             print("-" * 50)
         
-    def load_queue(self) -> List[Dict[str, Any]]:
-        if os.path.exists(self.queue_file):
-            with open(self.queue_file, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        return []
-    
-    def save_queue(self, queue: List[Dict[str, Any]]):
-        os.makedirs(os.path.dirname(self.queue_file), exist_ok=True)
-        with open(self.queue_file, 'w', encoding='utf-8') as f:
-            json.dump(queue, f, indent=2, ensure_ascii=False)
+    def show_queue_stats(self):
+        """キューの統計情報を表示"""
+        queue_info = self.queue_manager.get_queue_info()
+        print(f"📊 Queue Status: {queue_info['total_items']} articles")
+        
+        if queue_info['total_items'] > 0:
+            priority_stats = queue_info['priority_breakdown']
+            for priority, count in priority_stats.items():
+                if count > 0:
+                    print(f"   {priority}: {count} articles")
+            
+            if queue_info['oldest_item']:
+                print(f"   Oldest: {queue_info['oldest_item'][:19]}")
+            if queue_info['newest_item']:
+                print(f"   Newest: {queue_info['newest_item'][:19]}")
+        
+        # 古いアイテムのクリーンアップ
+        removed = self.queue_manager.cleanup_old_items()
+        if removed > 0:
+            print(f"🧹 Cleaned up {removed} old items")
     
     def load_filter_config(self) -> Dict[str, List[str]]:
         if os.path.exists(self.filter_config_file):
@@ -467,9 +480,15 @@ class PaperSummarizerPipeline:
             print(f"Found {len(new_articles)} new articles")
             self.debug_print("New articles sample:", new_articles[:2] if new_articles else [])
             
-            # 2. キューから未処理記事を取得
-            queue = self.load_queue()
-            total_articles = queue + new_articles
+            # 2. キューから未処理記事を取得（新システム）
+            self.queue_manager.add_articles(new_articles)
+            
+            # キュー統計表示
+            self.show_queue_stats()
+            
+            # 処理対象記事を取得
+            articles_to_process = self.queue_manager.get_batch(batch_size=10)
+            total_articles = articles_to_process
             
             if not total_articles:
                 print("No articles to process")
@@ -483,12 +502,10 @@ class PaperSummarizerPipeline:
             
             if not filtered_articles:
                 print("No articles passed the filter")
-                self.save_queue([])
                 return
             
-            # 4. 処理する記事数を決定（最大10件）
-            articles_to_process = filtered_articles[:10]
-            remaining_articles = filtered_articles[10:]
+            # 4. 記事を処理用に設定
+            articles_to_process = filtered_articles
             
             # 5. 論文詳細取得
             print(f"\n3. Fetching article details for {len(articles_to_process)} articles...")
@@ -529,9 +546,10 @@ class PaperSummarizerPipeline:
                     print(f"\nTitle: {article.get('title', '')}")
                     print(f"Summary: {article.get('summary_ja', '')[:100]}...")
             
-            # 8. キューを更新
-            self.save_queue(remaining_articles)
-            print(f"\nRemaining articles in queue: {len(remaining_articles)}")
+            # 8. 処理済み記事をアーカイブ
+            if not test_mode:
+                archived_count = self.archive_manager.archive_processed_articles(summarized_articles)
+                print(f"\n📦 Archived {archived_count} processed articles")
             
             print("\nPipeline completed successfully!")
             

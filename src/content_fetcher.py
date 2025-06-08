@@ -4,6 +4,7 @@ import time
 from typing import Dict, Any, Optional, List, Tuple
 from urllib.parse import urlparse
 import re
+from journal_parsers import JournalParserFactory
 
 class ContentFetcher:
     def __init__(self, debug_mode: bool = False):
@@ -13,6 +14,7 @@ class ContentFetcher:
         self.session = requests.Session()
         self.session.headers.update(self.headers)
         self.debug_mode = debug_mode
+        self.parser_factory = JournalParserFactory()
         
     def is_research_article(self, url: str, article: Dict[str, Any]) -> bool:
         """論文記事かどうかを判定"""
@@ -93,6 +95,21 @@ class ContentFetcher:
             elif journal == "Science":
                 print(f"  Using Science parser")
                 details = self._parse_science_article(soup, article)
+            elif journal == "Cell":
+                print(f"  Using Cell parser")
+                details = self._parse_cell_article(soup, article)
+            elif journal == "NEJM":
+                print(f"  Using NEJM parser")
+                details = self._parse_nejm_article(soup, article)
+            elif journal == "PNAS":
+                print(f"  Using PNAS parser")
+                details = self._parse_pnas_article(soup, article)
+            elif journal.startswith("arXiv"):
+                print(f"  Using arXiv parser")
+                details = self._parse_arxiv_article(soup, article)
+            elif journal == "PLoS_ONE":
+                print(f"  Using PLoS ONE parser")
+                details = self._parse_plos_article(soup, article)
             else:
                 print(f"  Using generic parser")
                 details = self._parse_generic_article(soup, article)
@@ -295,4 +312,350 @@ class ContentFetcher:
         if authors:
             details['authors'] = authors
             
+        return details
+    
+    def _parse_cell_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
+        """Cell誌の記事を解析"""
+        details = {}
+        
+        # Abstract抽出
+        abstract_selectors = [
+            '.summary-content p',
+            '.article-section__content p',
+            '.abstract p',
+            '#abstract p'
+        ]
+        
+        for selector in abstract_selectors:
+            elem = soup.select_one(selector)
+            if elem:
+                abstract_text = elem.get_text(strip=True)
+                if len(abstract_text) > 50:
+                    details['abstract'] = abstract_text
+                    print(f"    Found abstract: {len(abstract_text)} chars")
+                    break
+        
+        # 著者情報抽出
+        authors = []
+        author_selectors = [
+            '.author-group .author',
+            '.authors .author-name',
+            '.contributor-list .contributor'
+        ]
+        
+        for selector in author_selectors:
+            author_elems = soup.select(selector)
+            if author_elems:
+                for elem in author_elems:
+                    name = elem.get_text(strip=True)
+                    if name and name not in authors:
+                        authors.append(name)
+                break
+        
+        if authors:
+            details['authors'] = authors[:10]  # 最大10名
+            print(f"    Found {len(authors)} authors")
+        
+        return details
+    
+    def _parse_nejm_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
+        """NEJM誌の記事を解析"""
+        details = {}
+        
+        # Abstract抽出
+        abstract_selectors = [
+            '.o-article-body__section--first p',
+            '.abstract-content p',
+            '.article-excerpt p',
+            '#abstract p'
+        ]
+        
+        for selector in abstract_selectors:
+            elem = soup.select_one(selector)
+            if elem:
+                abstract_text = elem.get_text(strip=True)
+                if len(abstract_text) > 50:
+                    details['abstract'] = abstract_text
+                    print(f"    Found abstract: {len(abstract_text)} chars")
+                    break
+        
+        # 著者情報抽出
+        authors = []
+        author_selectors = [
+            '.m-author-list .m-author-list__item',
+            '.authors .author',
+            '.contributor .name'
+        ]
+        
+        for selector in author_selectors:
+            author_elems = soup.select(selector)
+            if author_elems:
+                for elem in author_elems:
+                    name = elem.get_text(strip=True)
+                    if name and name not in authors:
+                        authors.append(name)
+                break
+        
+        if authors:
+            details['authors'] = authors[:10]
+            print(f"    Found {len(authors)} authors")
+        
+        return details
+    
+    def _parse_arxiv_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
+        """arXiv記事の解析"""
+        details = {}
+        
+        # Abstract抽出
+        abstract_elem = soup.find('blockquote', class_='abstract')
+        if abstract_elem:
+            abstract_text = abstract_elem.get_text(strip=True)
+            # "Abstract:"プレフィックスを除去
+            abstract_text = re.sub(r'^Abstract:\s*', '', abstract_text)
+            if len(abstract_text) > 50:
+                details['abstract'] = abstract_text
+                print(f"    Found abstract: {len(abstract_text)} chars")
+        
+        # 著者情報抽出
+        authors = []
+        authors_elem = soup.find('div', class_='authors')
+        if authors_elem:
+            author_links = authors_elem.find_all('a')
+            for link in author_links:
+                name = link.get_text(strip=True)
+                if name and name not in authors:
+                    authors.append(name)
+        
+        if authors:
+            details['authors'] = authors[:10]
+            print(f"    Found {len(authors)} authors")
+        
+        # カテゴリ/キーワード抽出
+        subjects_elem = soup.find('td', class_='tablecell subjects')
+        if subjects_elem:
+            categories = []
+            for span in subjects_elem.find_all('span', class_='primary-subject'):
+                category = span.get_text(strip=True)
+                if category:
+                    categories.append(category)
+            if categories:
+                details['keywords'] = categories
+                print(f"    Found {len(categories)} categories")
+        
+        return details
+    
+    def _parse_plos_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
+        """PLoS ONE記事の解析"""
+        details = {}
+        
+        # Abstract抽出
+        abstract_selectors = [
+            '.article-abstract p',
+            '.abstract-content p',
+            '#abstract p',
+            '.summary p'
+        ]
+        
+        for selector in abstract_selectors:
+            elem = soup.select_one(selector)
+            if elem:
+                abstract_text = elem.get_text(strip=True)
+                if len(abstract_text) > 50:
+                    details['abstract'] = abstract_text
+                    print(f"    Found abstract: {len(abstract_text)} chars")
+                    break
+        
+        # 著者情報抽出
+        authors = []
+        author_selectors = [
+            '.author-list .author-name',
+            '.contrib-group .contrib',
+            '.authors .author'
+        ]
+        
+        for selector in author_selectors:
+            author_elems = soup.select(selector)
+            if author_elems:
+                for elem in author_elems:
+                    name = elem.get_text(strip=True)
+                    if name and name not in authors:
+                        authors.append(name)
+                break
+        
+        if authors:
+            details['authors'] = authors[:10]
+            print(f"    Found {len(authors)} authors")
+        
+        # Subject areas抽出
+        subjects = []
+        subject_selectors = [
+            '.subject-area',
+            '.article-categories a',
+            '.subject-list a'
+        ]
+        
+        for selector in subject_selectors:
+            subject_elems = soup.select(selector)
+            if subject_elems:
+                for elem in subject_elems:
+                    subject = elem.get_text(strip=True)
+                    if subject and subject not in subjects:
+                        subjects.append(subject)
+                break
+        
+        if subjects:
+            details['keywords'] = subjects
+            print(f"    Found {len(subjects)} subject areas")
+        
+        return details
+    
+    def _parse_pnas_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
+        """PNAS誌の記事を解析"""
+        details = {}
+        
+        # Abstract抽出
+        abstract_selectors = [
+            '.section.abstract p',
+            '.abstract-content p',
+            '#abstract p',
+            '.article-abstract p'
+        ]
+        
+        for selector in abstract_selectors:
+            elem = soup.select_one(selector)
+            if elem:
+                abstract_text = elem.get_text(strip=True)
+                if len(abstract_text) > 50:
+                    details['abstract'] = abstract_text
+                    print(f"    Found abstract: {len(abstract_text)} chars")
+                    break
+        
+        # 著者情報抽出
+        authors = []
+        author_selectors = [
+            '.author-list .author',
+            '.contributors .contributor',
+            '.author-group .author-name'
+        ]
+        
+        for selector in author_selectors:
+            author_elems = soup.select(selector)
+            if author_elems:
+                for elem in author_elems:
+                    name = elem.get_text(strip=True)
+                    if name and name not in authors:
+                        authors.append(name)
+                break
+        
+        if authors:
+            details['authors'] = authors[:10]
+            print(f"    Found {len(authors)} authors")
+        
+        return details
+    
+    def _parse_arxiv_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
+        """arXiv記事の解析"""
+        details = {}
+        
+        # Abstract抽出
+        abstract_elem = soup.find('blockquote', class_='abstract')
+        if abstract_elem:
+            abstract_text = abstract_elem.get_text(strip=True)
+            # "Abstract:"プレフィックスを除去
+            abstract_text = re.sub(r'^Abstract:\s*', '', abstract_text)
+            if len(abstract_text) > 50:
+                details['abstract'] = abstract_text
+                print(f"    Found abstract: {len(abstract_text)} chars")
+        
+        # 著者情報抽出
+        authors = []
+        authors_elem = soup.find('div', class_='authors')
+        if authors_elem:
+            author_links = authors_elem.find_all('a')
+            for link in author_links:
+                name = link.get_text(strip=True)
+                if name and name not in authors:
+                    authors.append(name)
+        
+        if authors:
+            details['authors'] = authors[:10]
+            print(f"    Found {len(authors)} authors")
+        
+        # カテゴリ/キーワード抽出
+        subjects_elem = soup.find('td', class_='tablecell subjects')
+        if subjects_elem:
+            categories = []
+            for span in subjects_elem.find_all('span', class_='primary-subject'):
+                category = span.get_text(strip=True)
+                if category:
+                    categories.append(category)
+            if categories:
+                details['keywords'] = categories
+                print(f"    Found {len(categories)} categories")
+        
+        return details
+    
+    def _parse_plos_article(self, soup: BeautifulSoup, article: Dict[str, Any]) -> Dict[str, Any]:
+        """PLoS ONE記事の解析"""
+        details = {}
+        
+        # Abstract抽出
+        abstract_selectors = [
+            '.article-abstract p',
+            '.abstract-content p',
+            '#abstract p',
+            '.summary p'
+        ]
+        
+        for selector in abstract_selectors:
+            elem = soup.select_one(selector)
+            if elem:
+                abstract_text = elem.get_text(strip=True)
+                if len(abstract_text) > 50:
+                    details['abstract'] = abstract_text
+                    print(f"    Found abstract: {len(abstract_text)} chars")
+                    break
+        
+        # 著者情報抽出
+        authors = []
+        author_selectors = [
+            '.author-list .author-name',
+            '.contrib-group .contrib',
+            '.authors .author'
+        ]
+        
+        for selector in author_selectors:
+            author_elems = soup.select(selector)
+            if author_elems:
+                for elem in author_elems:
+                    name = elem.get_text(strip=True)
+                    if name and name not in authors:
+                        authors.append(name)
+                break
+        
+        if authors:
+            details['authors'] = authors[:10]
+            print(f"    Found {len(authors)} authors")
+        
+        # Subject areas抽出
+        subjects = []
+        subject_selectors = [
+            '.subject-area',
+            '.article-categories a',
+            '.subject-list a'
+        ]
+        
+        for selector in subject_selectors:
+            subject_elems = soup.select(selector)
+            if subject_elems:
+                for elem in subject_elems:
+                    subject = elem.get_text(strip=True)
+                    if subject and subject not in subjects:
+                        subjects.append(subject)
+                break
+        
+        if subjects:
+            details['keywords'] = subjects
+            print(f"    Found {len(subjects)} subject areas")
+        
         return details
