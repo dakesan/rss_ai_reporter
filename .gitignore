@@ -1,2 +1,9 @@
 .aws-sam/
 samconfig.toml
+
+# Secrets and environment files
+.env
+.env.local
+secrets.json
+config/secrets.json
+*.pyc

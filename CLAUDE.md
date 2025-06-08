@@ -232,25 +232,25 @@ python src/main.py --test
 - [x] **S3 フィードバックログ保存**
 - [x] **SAM テンプレートによる Infrastructure as Code**
 
-#### Phase 6-3: 🧠 AI分析エンジン
-- [ ] `feedback_analyzer.py`新規作成
-- [ ] Gemini APIでフィードバックパターン分析
-- [ ] 興味ありパターンの特徴抽出（キーワード、著者、ジャーナル）
-- [ ] 興味なしパターンの特徴抽出
-- [ ] 新キーワード候補の提案ロジック
+#### Phase 6-3: 🧠 AI分析エンジン ✅ **完了 (PR#12)**
+- [x] `feedback_analyzer.py`新規作成
+- [x] Gemini APIでフィードバックパターン分析
+- [x] 興味ありパターンの特徴抽出（キーワード、著者、ジャーナル）
+- [x] 興味なしパターンの特徴抽出
+- [x] 新キーワード候補の提案ロジック
 
-#### Phase 6-4: 🔄 自動フィルター更新
-- [ ] `auto_updater.py`新規作成
-- [ ] 分析結果から`filter_config.json`更新提案
-- [ ] 自動ブランチ作成・コミット・プッシュ
-- [ ] GitHub CLI使用した自動PR作成
-- [ ] 人間レビュー後のマージワークフロー
+#### Phase 6-4: 🔄 自動フィルター更新 ✅ **完了 (PR#13)**
+- [x] `auto_updater.py`新規作成
+- [x] 分析結果から`filter_config.json`更新提案
+- [x] 自動ブランチ作成・コミット・プッシュ
+- [x] GitHub CLI使用した自動PR作成
+- [x] 人間レビュー後のマージワークフロー
 
-#### Phase 6-5: ⏰ 定期実行システム
-- [ ] `.github/workflows/feedback-analyzer.yml`作成
-- [ ] 週次でフィードバック分析実行
-- [ ] 閾値超過時の自動PR作成（最低10件のフィードバック）
-- [ ] エラー通知とフォールバック
+#### Phase 6-5: ⏰ 定期実行システム ✅ **完了 (PR#14)**
+- [x] `.github/workflows/feedback-analyzer.yml`作成
+- [x] 週次でフィードバック分析実行
+- [x] 閾値超過時の自動PR作成（最低10件のフィードバック）
+- [x] エラー通知とフォールバック
 
 ### 必要な設定
 - **Slack App**: ✅ Interactive Components有効化済み
@@ -269,9 +269,9 @@ S3 + GitHub Issue → 週次分析 → フィルター提案 →
 
 **Week 1: Phase 6-1** - ✅ 完了 `feature/slack-feedback-buttons`
 **Week 2: Phase 6-2** - ✅ 完了 `feature/feedback-collection`
-**Week 3: Phase 6-3** - `feature/ai-feedback-analysis`  
-**Week 4: Phase 6-4** - `feature/auto-filter-updates`
-**Week 5: Phase 6-5** - `feature/scheduled-analysis`
+**Week 3: Phase 6-3** - ✅ 完了 `feature/ai-feedback-analysis`  
+**Week 4: Phase 6-4** - ✅ 完了 `feature/auto-filter-updates`
+**Week 5: Phase 6-5** - ✅ 完了 `feature/scheduled-analysis`
 
 ### テスト・検証方法
 - **3エントリテスト**: `python src/main.py --slack-test-3`で動作確認
@@ -284,14 +284,114 @@ S3 + GitHub Issue → 週次分析 → フィルター提案 →
 ### ✅ 実装完了
 - **基本機能**: RSS取得、論文サマライズ、Slack通知
 - **改善機能**: デバッグモード、コンテンツ取得改善、フィルタリング強化
-- **フィードバック収集**: Slackボタン、AWS Lambda、S3保存、GitHub Issues連携
+- **継続学習システム**: フィードバック収集、AI分析、自動フィルター更新、定期実行
 
 ### 🚀 本番運用中
 - **AWS Lambda Webhook**: https://ryys05qyq7.execute-api.us-east-1.amazonaws.com/prod/slack/feedback
 - **毎日の論文通知**: GitHub Actions (毎朝9時JST)
-- **フィードバック収集**: リアルタイム処理
+- **週次フィードバック分析**: GitHub Actions (毎週日曜9時JST)
+- **自動フィルター更新**: 閾値超過時の自動PR作成
 
-### 📈 次のステップ
-- Phase 6-3: AI分析エンジンの実装
-- Phase 6-4: 自動フィルター更新機能
-- Phase 6-5: 定期分析と自動化
+---
+
+## 🚀 システム拡張計画 (Phase 7)
+
+### Phase A: データ管理の改善（短期 - 1-2週間）
+
+#### A1. チェックポイント最適化
+- [ ] **古いエントリ自動削除**: 30-90日経過した`seen_articles`エントリを削除
+- [ ] **ファイルサイズ管理**: 定期的なクリーンアップで性能維持  
+- [ ] **統計データ保持**: 削除前に月次統計を生成・保存
+
+#### A2. キュー管理強化
+- [ ] **処理失敗リトライ**: エラー時の自動再試行機能
+- [ ] **優先度付きキュー**: 重要論文の優先処理システム
+- [ ] **バッチサイズ調整**: 処理能力に応じた動的調整
+
+#### A3. データアーカイブ機能  
+- [ ] **月次アーカイブ**: 古いデータを別ファイルに移動
+- [ ] **圧縮保存**: gzip圧縮でストレージ効率化
+
+### Phase B: RSS拡張性の向上（中期 - 2-4週間）
+
+#### B1. 設定ファイル化
+- [ ] **RSS設定外部化**: `data/rss_config.json`を新規作成
+- [ ] **動的サイト管理**: 有効/無効切り替え、優先度設定
+- [ ] **設定構造設計**:
+  ```json
+  {
+    "rss_sources": {
+      "nature": {
+        "name": "Nature",
+        "rss_url": "https://www.nature.com/nature.rss",
+        "parser_type": "nature", 
+        "enabled": true,
+        "priority": 1
+      },
+      "science": {
+        "name": "Science",
+        "rss_url": "https://www.science.org/rss/news_current.xml",
+        "parser_type": "science",
+        "enabled": true, 
+        "priority": 1
+      }
+    }
+  }
+  ```
+
+#### B2. プラガブルパーサーシステム
+- [ ] **抽象基底クラス**: `src/parsers/base_parser.py`作成
+- [ ] **既存パーサー移行**: `src/parsers/nature_parser.py`, `science_parser.py`
+- [ ] **動的ロード機能**: 設定に基づく適切なパーサー選択
+- [ ] **フォールバック処理**: 汎用パーサーによる基本的な処理
+
+#### B3. 新サイト追加の簡素化
+- [ ] **設定ファイル追加のみ**: コード変更なしでの新サイト対応
+- [ ] **パーサーテンプレート**: 新パーサー作成用ボイラープレート
+- [ ] **自動検出機能**: RSS構造からの適切なパーサー推定
+
+#### B4. 候補追加サイト
+- [ ] **Cell**: 生物学分野のトップジャーナル
+- [ ] **NEJM**: 医学分野の最高峰 
+- [ ] **PNAS**: 米国科学アカデミー紀要
+- [ ] **arXiv**: AI/物理/数学のプレプリント
+- [ ] **PLoS ONE**: オープンアクセス総合誌
+
+#### B5. テスト基盤整備
+- [ ] **RSS パーサーテスト**: `test/test_rss_parsers.py`
+  - 各サイトのRSSサンプルデータ
+  - パース成功率測定
+  - エラーハンドリング検証
+
+- [ ] **コンテンツ取得テスト**: `test/test_content_fetchers.py`  
+  - 実際のサンプルURL群でのテスト
+  - アブストラクト取得成功率測定
+  - 著者情報抽出精度検証
+
+- [ ] **Gemini統合テスト**: `test/test_gemini_integration.py`
+  - サイト別要約品質テスト
+  - エラー率測定
+  - 文字数・形式チェック
+
+- [ ] **エンドツーエンドテスト**: `test/test_e2e_new_sites.py`
+  - 新サイト追加から通知までの全工程
+  - パフォーマンス測定
+  - データ品質検証
+
+- [ ] **テストデータ管理**: `test/data/`
+  - 各サイトの代表的なRSSサンプル
+  - 典型的な論文ページのHTMLサンプル
+  - 期待される出力データ
+
+### 実装優先度
+1. **Phase A1-A2**: データ管理の基盤強化（現在の課題解決）
+2. **Phase B1-B2**: 拡張性基盤の構築（設定外部化、パーサー抽象化）
+3. **Phase B5**: テスト基盤整備（品質保証の確立）
+4. **Phase A3, B3-B4**: 高度機能とサイト追加（段階的拡張）
+
+### 期待される効果
+- **スケーラビリティ**: 2サイト → 数十サイトへの拡張対応
+- **保守性**: 新サイト追加の工数大幅削減（設定ファイル追加のみ）
+- **品質保証**: 新サイト追加時の自動テストによる品質担保
+- **信頼性**: エラー復旧、データ整合性の向上
+- **Gemini互換性**: コンテンツ品質とAI処理成功率の保証

@@ -6,6 +6,14 @@ import argparse
 from typing import List, Dict, Any
 from datetime import datetime
 
+# 環境変数を .env ファイルから読み込み
+try:
+    sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+    from scripts.load_env import load_env
+    load_env()
+except ImportError:
+    pass  # スクリプトがない場合はスキップ
+
 from rss_fetcher import RSSFetcher
 from content_fetcher import ContentFetcher
 from summarizer import Summarizer

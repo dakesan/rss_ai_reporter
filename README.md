@@ -1,58 +1,57 @@
-# RSS論文サマライザー
+# RSS AI Reporter
 
-科学論文ジャーナル（Nature、Science）のRSSフィードから新着論文を取得し、Gemini APIで日本語サマリーを生成してSlackに通知するシステムです。
+科学論文ジャーナル（Nature、Science等）のRSSフィードを定期的に取得し、新着論文をGemini APIでサマライズしてSlackに通知するシステムです。
 
-## 機能
+## 🚀 主要機能
 
-- 📰 Nature・ScienceのRSSフィードから新着論文を自動取得
-- 🔍 論文ページから詳細情報（アブストラクト、著者、研究機関等）を抽出
-- 🤖 Gemini API（無料枠）を使用した日本語要約生成
-- 💬 Slackへの自動通知（毎日朝9時JST）
-- 🔧 キーワードベースのフィルタリング機能
-- 📋 大量論文の分割処理（1日最大10件）
+### ✅ 基本機能（実装済み）
+- **RSS取得**: Nature、ScienceのRSSフィードから最新論文を自動取得
+- **論文詳細取得**: アブストラクト、著者情報、研究機関を含む詳細情報の取得
+- **AI要約**: Gemini APIによる日本語での論文サマライズ（200-300文字）
+- **Slack通知**: 毎日朝9時（JST）に最大10件の論文を通知
+- **フィルタリング**: キーワードベースの論文フィルタリング機能
 
-## セットアップ
+### ✅ 継続学習システム（Phase 6完了）
+- **フィードバック収集**: Slackボタンによるリアルタイム評価収集
+- **AI分析**: Gemini APIによるフィードバックパターン分析
+- **自動フィルター更新**: AI分析結果に基づく自動フィルター改善
+- **AWS Lambda統合**: サーバーレスフィードバック処理
+- **GitHub Issues連携**: フィードバックデータの永続化
 
-### 1. リポジトリのクローン
+## 🛠️ セットアップ
+
+### 1. 環境設定
 
 ```bash
-git clone [your-repository-url]
+git clone [your-repo]
 cd rss_ai_reporter
 ```
 
-### 2. 必要なAPIキーの取得
-
-#### Slack Webhook URL
-1. [Slack API](https://api.slack.com/apps)にアクセス
-2. 「Create New App」→「From scratch」を選択
-3. App名とワークスペースを選択
-4. 「Incoming Webhooks」を有効化
-5. 「Add New Webhook to Workspace」で通知先チャンネルを選択
-6. 生成されたWebhook URLをコピー
-
-#### Gemini API Key
-1. [Google AI Studio](https://makersuite.google.com/app/apikey)にアクセス
-2. 「Get API key」をクリック
-3. 生成されたAPIキーをコピー
-
-### 3. GitHub Secretsの設定
-
-リポジトリの「Settings」→「Secrets and variables」→「Actions」で以下を追加：
-- `SLACK_WEBHOOK_URL`: SlackのWebhook URL
-- `GEMINI_API_KEY`: Gemini APIキー
-
-### 4. ローカルテスト
+### 2. 依存関係のインストール
 
 ```bash
-# 環境変数を設定
-export SLACK_WEBHOOK_URL="your-webhook-url"
-export GEMINI_API_KEY="your-api-key"
+uv venv
+source .venv/bin/activate  # Linux/Mac
+uv pip install -r requirements.txt
+```
 
-# 依存関係インストール
-pip install -r requirements.txt
+### 3. 環境変数の設定
 
-# テストモードで実行（Slack通知なし）
-python src/main.py --test
+`.env` ファイルを作成して以下を設定：
+
+```bash
+# Gemini API Configuration
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Slack Configuration
+SLACK_WEBHOOK_URL=https://hooks.slack.com/services/YOUR/WEBHOOK/URL
+
+# GitHub Configuration (自動更新用)
+GITHUB_TOKEN=ghp_your_github_token_here
+GITHUB_REPO=your_username/rss_ai_reporter
+
+# Slack Signing Secret (フィードバック検証用)
+SLACK_SIGNING_SECRET=your_slack_signing_secret_here
 ```
 
 ## 設定
