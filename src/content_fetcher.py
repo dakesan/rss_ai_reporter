@@ -6,12 +6,13 @@ from urllib.parse import urlparse
 import re
 
 class ContentFetcher:
-    def __init__(self):
+    def __init__(self, debug_mode: bool = False):
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (compatible; RSS_Paper_Summarizer/1.0; +https://github.com/your-repo)'
         }
         self.session = requests.Session()
         self.session.headers.update(self.headers)
+        self.debug_mode = debug_mode
         
     def is_research_article(self, url: str, article: Dict[str, Any]) -> bool:
         """論文記事かどうかを判定"""
@@ -45,6 +46,14 @@ class ContentFetcher:
         
         print(f"  Fetching content from: {url}")
         
+        if self.debug_mode:
+            print(f"  [DEBUG] Initial article data:")
+            print(f"    Title: {article.get('title', 'N/A')}")
+            print(f"    Journal: {journal}")
+            print(f"    Published: {article.get('published', 'N/A')}")
+            print(f"    Summary from RSS: {len(article.get('summary', ''))} chars")
+            print(f"    Existing abstract: {len(article.get('abstract', ''))} chars")
+        
         if not url:
             print("  No URL provided, skipping content fetch")
             return article
@@ -72,6 +81,11 @@ class ContentFetcher:
             
             soup = BeautifulSoup(response.content, 'html.parser')
             
+            if self.debug_mode:
+                print(f"  [DEBUG] HTML parsed successfully")
+                print(f"  [DEBUG] Page title: {soup.title.string if soup.title else 'N/A'}")
+                print(f"  [DEBUG] HTML content length: {len(response.content)} bytes")
+            
             # ジャーナルごとに異なる構造に対応
             if journal == "Nature":
                 print(f"  Using Nature parser")
@@ -97,6 +111,13 @@ class ContentFetcher:
             keywords_count = len(article.get('keywords', []))
             
             print(f"  Content extracted: Abstract({abstract_length} chars), Authors({authors_count}), Affiliations({affiliations_count}), Keywords({keywords_count})")
+            
+            if self.debug_mode:
+                print(f"  [DEBUG] Detailed extraction results:")
+                print(f"    Abstract preview: '{article.get('abstract', '')[:150]}{'...' if abstract_length > 150 else ''}'")
+                print(f"    Authors: {article.get('authors', [])}")
+                print(f"    Affiliations: {article.get('affiliations', [])}")
+                print(f"    Keywords: {article.get('keywords', [])}")
                 
         except Exception as e:
             print(f"  Error fetching article details from {url}: {str(e)}")

@@ -15,8 +15,8 @@ class PaperSummarizerPipeline:
     def __init__(self, debug_mode: bool = False):
         self.debug_mode = debug_mode
         self.rss_fetcher = RSSFetcher()
-        self.content_fetcher = ContentFetcher()
-        self.summarizer = Summarizer()
+        self.content_fetcher = ContentFetcher(debug_mode=debug_mode)
+        self.summarizer = Summarizer(debug_mode=debug_mode)
         self.slack_notifier = SlackNotifier()
         self.queue_file = "data/queue.json"
         self.filter_config_file = "data/filter_config.json"
