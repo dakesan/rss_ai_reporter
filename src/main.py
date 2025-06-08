@@ -11,6 +11,7 @@ from content_fetcher import ContentFetcher
 from summarizer import Summarizer
 from slack_notifier import SlackNotifier
 from feedback_analyzer import FeedbackAnalyzer
+from auto_updater import AutoFilterUpdater
 
 class PaperSummarizerPipeline:
     def __init__(self, debug_mode: bool = False):
@@ -345,6 +346,109 @@ class PaperSummarizerPipeline:
                 import traceback
                 traceback.print_exc()
 
+    def run_auto_filter_update(self, 
+                              days: int = 30, 
+                              min_feedback: int = 5,
+                              min_confidence: int = 6,
+                              dry_run: bool = False):
+        """自動フィルター更新を実行"""
+        try:
+            print("🔄 Starting automatic filter update...")
+            print(f"📊 Parameters: {days} days, min {min_feedback} feedback, confidence ≥{min_confidence}")
+            
+            if dry_run:
+                print("🧪 Running in DRY RUN mode (no actual changes will be made)")
+            
+            # AutoFilterUpdaterを初期化
+            updater = AutoFilterUpdater(debug=self.debug_mode, dry_run=dry_run)
+            
+            # 自動更新実行
+            result = updater.run_auto_update(
+                days=days,
+                min_feedback=min_feedback,
+                min_confidence=min_confidence
+            )
+            
+            # 結果表示
+            print("\n" + "="*60)
+            print("🔄 AUTO FILTER UPDATE RESULTS")
+            print("="*60)
+            
+            status = result['status']
+            message = result['message']
+            
+            if status == 'success':
+                print(f"✅ Update completed successfully!")
+                print(f"🌟 {message}")
+                
+                update_info = result['update_info']
+                changes = update_info['changes']
+                
+                print(f"\n📈 Update Summary:")
+                print(f"   🎯 Confidence Score: {update_info['confidence']}/10")
+                print(f"   📊 Based on: {update_info['data_count']} feedback entries")
+                
+                if changes['added_includes']:
+                    print(f"   ➕ Added INCLUDE keywords: {', '.join(changes['added_includes'])}")
+                if changes['added_excludes']:
+                    print(f"   ➖ Added EXCLUDE keywords: {', '.join(changes['added_excludes'])}")
+                
+                print(f"\n🔗 Pull Request: {result['pr_url']}")
+                print(f"🌿 Branch: {result['branch_name']}")
+                
+            elif status == 'skipped':
+                print(f"⏭️  Update skipped: {message}")
+                
+                # スキップ理由に応じて詳細説明
+                if 'confidence' in message.lower():
+                    print(f"   💡 Tip: Lower --min-confidence to allow updates with lower confidence")
+                elif 'feedback' in message.lower():
+                    print(f"   💡 Tip: Wait for more user feedback or lower --min-feedback")
+                elif 'keyword' in message.lower():
+                    print(f"   💡 Info: Current filters may already be optimal")
+                
+            else:  # error
+                print(f"❌ Update failed: {message}")
+                stage = result.get('stage', 'unknown')
+                print(f"   Failed at stage: {stage}")
+                
+                # ステージ別のトラブルシューティング
+                if stage == 'prerequisites':
+                    print(f"   💡 Check: gh auth login, git status, file permissions")
+                elif stage == 'analysis':
+                    print(f"   💡 Check: feedback data availability, API keys")
+                elif stage in ['git', 'pr']:
+                    print(f"   💡 Check: GitHub authentication, repository permissions")
+            
+            # デバッグモードの場合は詳細情報も表示
+            if self.debug_mode:
+                print(f"\n🔍 Full Result:")
+                print(json.dumps(result, indent=2, ensure_ascii=False))
+            
+            print("\n" + "="*60)
+            if status == 'success':
+                print("💡 Next Steps:")
+                print("   1. Review the created pull request")
+                print("   2. Test the proposed filter changes")
+                print("   3. Merge the PR to apply changes")
+            elif status == 'skipped':
+                print("💡 Try Again:")
+                print("   - Use --dry-run to test without making changes")
+                print("   - Adjust parameters (--min-confidence, --min-feedback)")
+                print("   - Wait for more user feedback data")
+            else:
+                print("💡 Troubleshooting:")
+                print("   - Check prerequisites with --debug")
+                print("   - Use --dry-run to test safely")
+                print("   - Review logs for specific error details")
+            print("="*60)
+            
+        except Exception as e:
+            print(f"❌ Error during auto filter update: {e}")
+            if self.debug_mode:
+                import traceback
+                traceback.print_exc()
+
     def run(self, test_mode: bool = False):
         try:
             print("Starting RSS Paper Summarizer...")
@@ -446,12 +550,23 @@ def main():
     parser.add_argument('--analyze-feedback', action='store_true', help='Run feedback analysis and generate filter recommendations')
     parser.add_argument('--feedback-days', type=int, default=30, help='Days of feedback data to analyze (default: 30)')
     parser.add_argument('--feedback-min', type=int, default=3, help='Minimum feedback count for analysis (default: 3)')
+    parser.add_argument('--auto-update', action='store_true', help='Run automatic filter update based on feedback analysis')
+    parser.add_argument('--auto-min-feedback', type=int, default=5, help='Minimum feedback count for auto-update (default: 5)')
+    parser.add_argument('--auto-min-confidence', type=int, default=6, help='Minimum confidence score for auto-update (default: 6)')
+    parser.add_argument('--dry-run', action='store_true', help='Dry run mode for auto-update (no actual changes)')
     args = parser.parse_args()
     
     pipeline = PaperSummarizerPipeline(debug_mode=args.debug)
     
     if args.test_url:
         pipeline.test_single_url(args.test_url)
+    elif args.auto_update:
+        pipeline.run_auto_filter_update(
+            days=args.feedback_days, 
+            min_feedback=args.auto_min_feedback,
+            min_confidence=args.auto_min_confidence,
+            dry_run=args.dry_run
+        )
     elif args.analyze_feedback:
         pipeline.run_feedback_analysis(days=args.feedback_days, min_feedback=args.feedback_min)
     elif args.slack_test:
