@@ -5,10 +5,11 @@ from typing import List, Dict, Any
 from datetime import datetime
 
 class SlackNotifier:
-    def __init__(self):
+    def __init__(self, enable_feedback: bool = False):
         self.webhook_url = os.environ.get('SLACK_WEBHOOK_URL')
         if not self.webhook_url:
             raise ValueError("SLACK_WEBHOOK_URL environment variable is not set")
+        self.enable_feedback = enable_feedback
     
     def format_message(self, articles: List[Dict[str, Any]]) -> Dict[str, Any]:
         print(f"  Formatting Slack message for {len(articles)} articles...")
@@ -76,11 +77,62 @@ class SlackNotifier:
             
             blocks.extend(article_blocks)
             
+            # フィードバックボタンを追加（有効な場合）
+            if self.enable_feedback:
+                feedback_block = self._create_feedback_buttons(article, i+1)
+                blocks.append(feedback_block)
+            
             # 論文間の区切り線（最後の論文以外）
             if i < len(articles) - 1:
                 blocks.append({"type": "divider"})
         
         return {"blocks": blocks}
+    
+    def _create_feedback_buttons(self, article: Dict[str, Any], article_num: int) -> Dict[str, Any]:
+        """フィードバックボタンのブロックを作成"""
+        article_id = article.get('id', article.get('link', f'unknown_{article_num}'))
+        
+        # 記事データをコンパクトに格納
+        article_data = {
+            "id": article_id,
+            "title": article.get('title', '')[:100],  # タイトルを100文字に制限
+            "journal": article.get('journal', ''),
+            "authors": article.get('authors', [])[:3],  # 著者を最大3名に制限
+            "timestamp": datetime.now().isoformat()
+        }
+        
+        return {
+            "type": "actions",
+            "elements": [
+                {
+                    "type": "button",
+                    "text": {
+                        "type": "plain_text",
+                        "text": "👍 興味あり",
+                        "emoji": True
+                    },
+                    "style": "primary",
+                    "action_id": "feedback_interested",
+                    "value": json.dumps({
+                        "feedback": "interested",
+                        "article": article_data
+                    })
+                },
+                {
+                    "type": "button",
+                    "text": {
+                        "type": "plain_text", 
+                        "text": "👎 興味なし",
+                        "emoji": True
+                    },
+                    "action_id": "feedback_not_interested",
+                    "value": json.dumps({
+                        "feedback": "not_interested",
+                        "article": article_data
+                    })
+                }
+            ]
+        }
     
     def send_notification(self, articles: List[Dict[str, Any]]) -> bool:
         if not articles:

@@ -219,6 +219,56 @@ class PaperSummarizerPipeline:
         except Exception as e:
             print(f"Error during summarization test: {e}")
 
+    def run_slack_test_3(self, use_real_summaries: bool = False):
+        """3エントリ限定でフィードバックボタン付きSlack通知をテストする"""
+        try:
+            queue = self.load_queue()
+            if not queue:
+                print("No articles in queue for testing")
+                return
+                
+            # キューから3件限定で取得
+            articles_to_notify = queue[:3]
+            print(f"Testing Slack notification with feedback buttons for {len(articles_to_notify)} articles...")
+            
+            if use_real_summaries:
+                print("Generating real summaries with Gemini API...")
+                # 実際にGemini APIで要約生成
+                summarized_articles = self.summarizer.batch_summarize(articles_to_notify)
+                articles_to_notify = summarized_articles
+            else:
+                # summary_jaフィールドが存在しない場合は追加
+                for i, article in enumerate(articles_to_notify):
+                    if 'summary_ja' not in article or not article['summary_ja']:
+                        print(f"Article {i+1} missing summary_ja, generating fallback...")
+                        article['summary_ja'] = self.summarizer._generate_fallback_summary(
+                            article.get('title', ''),
+                            article.get('abstract', article.get('summary', '')),
+                            article.get('authors', []),
+                            article.get('journal', '')
+                        )
+            
+            self.debug_print("Articles to notify (with feedback):", [
+                {k: v for k, v in article.items() if k in ['title', 'summary_ja', 'authors']}
+                for article in articles_to_notify
+            ])
+            
+            # フィードバック機能を有効にしたSlackNotifierを作成
+            feedback_notifier = SlackNotifier(enable_feedback=True)
+            success = feedback_notifier.send_notification(articles_to_notify)
+            
+            if success:
+                print("✅ Slack notification with feedback buttons sent successfully!")
+                print("📝 Note: To handle feedback responses, you need to:")
+                print("   1. Set up Interactive Components in your Slack App")
+                print("   2. Configure a Request URL for button clicks")
+                print("   3. Implement feedback handler (Phase 6-2)")
+            else:
+                print("❌ Failed to send Slack notification")
+                
+        except Exception as e:
+            print(f"Error during Slack test with feedback: {e}")
+
     def run(self, test_mode: bool = False):
         try:
             print("Starting RSS Paper Summarizer...")
@@ -312,6 +362,8 @@ def main():
     parser.add_argument('--test', action='store_true', help='Run in test mode (no Slack notification)')
     parser.add_argument('--slack-test', action='store_true', help='Test Slack notification with queued articles')
     parser.add_argument('--slack-test-real', action='store_true', help='Test Slack notification with real Gemini summaries')
+    parser.add_argument('--slack-test-3', action='store_true', help='Test Slack notification with feedback buttons (3 articles)')
+    parser.add_argument('--slack-test-3-real', action='store_true', help='Test Slack notification with feedback buttons and real summaries')
     parser.add_argument('--summarize-test', action='store_true', help='Test summarization with queued articles')
     parser.add_argument('--debug', action='store_true', help='Enable debug mode with detailed logging')
     parser.add_argument('--test-url', type=str, help='Test content fetching and summarization for a single URL')
@@ -325,6 +377,10 @@ def main():
         pipeline.run_slack_test(use_real_summaries=False)
     elif args.slack_test_real:
         pipeline.run_slack_test(use_real_summaries=True)
+    elif args.slack_test_3:
+        pipeline.run_slack_test_3(use_real_summaries=False)
+    elif args.slack_test_3_real:
+        pipeline.run_slack_test_3(use_real_summaries=True)
     elif args.summarize_test:
         pipeline.run_summarization_test()
     else:
