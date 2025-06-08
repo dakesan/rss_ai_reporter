@@ -10,6 +10,7 @@ from rss_fetcher import RSSFetcher
 from content_fetcher import ContentFetcher
 from summarizer import Summarizer
 from slack_notifier import SlackNotifier
+from feedback_analyzer import FeedbackAnalyzer
 
 class PaperSummarizerPipeline:
     def __init__(self, debug_mode: bool = False):
@@ -269,6 +270,81 @@ class PaperSummarizerPipeline:
         except Exception as e:
             print(f"Error during Slack test with feedback: {e}")
 
+    def run_feedback_analysis(self, days: int = 30, min_feedback: int = 3):
+        """フィードバック分析を実行"""
+        try:
+            print("🧠 Starting feedback analysis...")
+            print(f"📊 Analyzing feedback from last {days} days (minimum {min_feedback} entries)")
+            
+            # FeedbackAnalyzerを初期化
+            analyzer = FeedbackAnalyzer(debug=self.debug_mode)
+            
+            # 分析実行
+            result = analyzer.run_analysis(days=days, min_feedback=min_feedback)
+            
+            # 結果表示
+            print("\n" + "="*60)
+            print("📊 FEEDBACK ANALYSIS RESULTS")
+            print("="*60)
+            
+            if result['status'] == 'insufficient_data':
+                print(f"❌ {result['message']}")
+                print(f"   Current feedback count: {result['data_count']}")
+                print(f"   Required minimum: {min_feedback}")
+                return
+            
+            print(f"✅ Analysis completed successfully!")
+            print(f"📈 Data analyzed: {result['data_count']} feedback entries")
+            print(f"⏱️  Period: {result['analysis_period']}")
+            
+            # 統計情報
+            stats = result['patterns']['statistics']
+            print(f"\n📊 Feedback Statistics:")
+            print(f"   👍 Interested: {stats['interested_count']}")
+            print(f"   👎 Not interested: {stats['not_interested_count']}")
+            print(f"   📊 Interest rate: {stats['interested_count']/(stats['total_feedback'])*100:.1f}%")
+            
+            # AI分析結果
+            ai_analysis = result['ai_analysis']
+            print(f"\n🤖 AI Analysis Summary:")
+            print(f"   {ai_analysis.get('summary', 'No summary available')}")
+            
+            # フィルター推奨事項
+            recommendations = result['filter_recommendations']
+            print(f"\n🎯 Filter Recommendations:")
+            
+            suggested_includes = recommendations['suggested_additions']['include']
+            suggested_excludes = recommendations['suggested_additions']['exclude']
+            
+            if suggested_includes:
+                print(f"   ➕ Suggested INCLUDE keywords: {', '.join(suggested_includes)}")
+            if suggested_excludes:
+                print(f"   ➖ Suggested EXCLUDE keywords: {', '.join(suggested_excludes)}")
+            
+            if not suggested_includes and not suggested_excludes:
+                print("   ℹ️  No new keyword suggestions (current filters may be optimal)")
+            
+            print(f"\n💡 Reasoning: {recommendations.get('reasoning', 'No reasoning provided')}")
+            print(f"🎯 Confidence Score: {recommendations.get('confidence', 0)}/10")
+            
+            # デバッグモードの場合は詳細情報も表示
+            if self.debug_mode:
+                print(f"\n🔍 Full Analysis Result:")
+                print(json.dumps(result, indent=2, ensure_ascii=False))
+            
+            print("\n" + "="*60)
+            print("💡 Next Steps:")
+            print("   1. Review the suggested keywords above")
+            print("   2. Update data/filter_config.json manually, or")
+            print("   3. Wait for Phase 6-4 auto-update feature")
+            print("="*60)
+            
+        except Exception as e:
+            print(f"❌ Error during feedback analysis: {e}")
+            if self.debug_mode:
+                import traceback
+                traceback.print_exc()
+
     def run(self, test_mode: bool = False):
         try:
             print("Starting RSS Paper Summarizer...")
@@ -367,12 +443,17 @@ def main():
     parser.add_argument('--summarize-test', action='store_true', help='Test summarization with queued articles')
     parser.add_argument('--debug', action='store_true', help='Enable debug mode with detailed logging')
     parser.add_argument('--test-url', type=str, help='Test content fetching and summarization for a single URL')
+    parser.add_argument('--analyze-feedback', action='store_true', help='Run feedback analysis and generate filter recommendations')
+    parser.add_argument('--feedback-days', type=int, default=30, help='Days of feedback data to analyze (default: 30)')
+    parser.add_argument('--feedback-min', type=int, default=3, help='Minimum feedback count for analysis (default: 3)')
     args = parser.parse_args()
     
     pipeline = PaperSummarizerPipeline(debug_mode=args.debug)
     
     if args.test_url:
         pipeline.test_single_url(args.test_url)
+    elif args.analyze_feedback:
+        pipeline.run_feedback_analysis(days=args.feedback_days, min_feedback=args.feedback_min)
     elif args.slack_test:
         pipeline.run_slack_test(use_real_summaries=False)
     elif args.slack_test_real:
