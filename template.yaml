@@ -1,0 +1,204 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: RSS AI Reporter Feedback Collection System
+
+Globals:
+  Function:
+    Timeout: 30
+    MemorySize: 512
+    Runtime: python3.11
+    Environment:
+      Variables:
+        GITHUB_REPO: !Ref GitHubRepo
+        S3_BUCKET_NAME: !Ref FeedbackBucket
+
+Parameters:
+  SlackSigningSecret:
+    Type: String
+    Description: Slack App Signing Secret
+    NoEcho: true
+  
+  GitHubToken:
+    Type: String
+    Description: GitHub Personal Access Token
+    NoEcho: true
+  
+  GitHubRepo:
+    Type: String
+    Description: GitHub Repository (format: username/repo)
+    Default: dakesan/rss_ai_reporter
+
+Resources:
+  # S3 Bucket for feedback logs
+  FeedbackBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub "${AWS::StackName}-feedback-logs"
+      VersioningConfiguration:
+        Status: Enabled
+      LifecycleConfiguration:
+        Rules:
+          - Id: DeleteOldLogs
+            Status: Enabled
+            ExpirationInDays: 365
+            NoncurrentVersionExpirationInDays: 30
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+
+  # Lambda Function for feedback handling
+  FeedbackFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub "${AWS::StackName}-feedback-handler"
+      CodeUri: lambda/
+      Handler: feedback_handler.lambda_handler
+      Environment:
+        Variables:
+          SLACK_SIGNING_SECRET: !Ref SlackSigningSecret
+          GITHUB_TOKEN: !Ref GitHubToken
+      Policies:
+        - S3FullAccessPolicy:
+            BucketName: !Ref FeedbackBucket
+        - Version: '2012-10-17'
+          Statement:
+            - Effect: Allow
+              Action:
+                - logs:CreateLogGroup
+                - logs:CreateLogStream
+                - logs:PutLogEvents
+              Resource: !Sub "arn:aws:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/lambda/*"
+      Events:
+        SlackFeedback:
+          Type: Api
+          Properties:
+            RestApiId: !Ref FeedbackApi
+            Path: /slack/feedback
+            Method: post
+        HealthCheck:
+          Type: Api
+          Properties:
+            RestApiId: !Ref FeedbackApi
+            Path: /health
+            Method: get
+        FeedbackSummary:
+          Type: Api
+          Properties:
+            RestApiId: !Ref FeedbackApi
+            Path: /slack/feedback/summary
+            Method: get
+        Root:
+          Type: Api
+          Properties:
+            RestApiId: !Ref FeedbackApi
+            Path: /
+            Method: get
+
+  # API Gateway
+  FeedbackApi:
+    Type: AWS::Serverless::Api
+    Properties:
+      Name: !Sub "${AWS::StackName}-feedback-api"
+      StageName: prod
+      Cors:
+        AllowMethods: "'GET,POST,OPTIONS'"
+        AllowHeaders: "'Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,X-Slack-Request-Timestamp,X-Slack-Signature'"
+        AllowOrigin: "'*'"
+      DefinitionBody:
+        openapi: 3.0.1
+        info:
+          title: RSS AI Reporter Feedback API
+          version: 1.0.0
+        paths:
+          /:
+            get:
+              summary: Root endpoint
+              responses:
+                '200':
+                  description: Service information
+              x-amazon-apigateway-integration:
+                type: aws_proxy
+                httpMethod: POST
+                uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${FeedbackFunction.Arn}/invocations"
+          /health:
+            get:
+              summary: Health check
+              responses:
+                '200':
+                  description: Health status
+              x-amazon-apigateway-integration:
+                type: aws_proxy
+                httpMethod: POST
+                uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${FeedbackFunction.Arn}/invocations"
+          /slack/feedback:
+            post:
+              summary: Slack feedback webhook
+              requestBody:
+                content:
+                  application/x-www-form-urlencoded:
+                    schema:
+                      type: object
+                  application/json:
+                    schema:
+                      type: object
+              responses:
+                '200':
+                  description: Feedback processed
+                '401':
+                  description: Invalid signature
+                '500':
+                  description: Processing error
+              x-amazon-apigateway-integration:
+                type: aws_proxy
+                httpMethod: POST
+                uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${FeedbackFunction.Arn}/invocations"
+          /slack/feedback/summary:
+            get:
+              summary: Feedback statistics
+              parameters:
+                - name: days
+                  in: query
+                  schema:
+                    type: integer
+                    default: 7
+              responses:
+                '200':
+                  description: Feedback summary
+              x-amazon-apigateway-integration:
+                type: aws_proxy
+                httpMethod: POST
+                uri: !Sub "arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${FeedbackFunction.Arn}/invocations"
+
+  # CloudWatch Log Group
+  FeedbackLogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub "/aws/lambda/${FeedbackFunction}"
+      RetentionInDays: 30
+
+Outputs:
+  FeedbackApiUrl:
+    Description: "API Gateway endpoint URL for feedback webhook"
+    Value: !Sub "https://${FeedbackApi}.execute-api.${AWS::Region}.amazonaws.com/prod"
+    Export:
+      Name: !Sub "${AWS::StackName}-FeedbackApiUrl"
+  
+  SlackWebhookUrl:
+    Description: "URL to configure in Slack App Interactive Components"
+    Value: !Sub "https://${FeedbackApi}.execute-api.${AWS::Region}.amazonaws.com/prod/slack/feedback"
+    Export:
+      Name: !Sub "${AWS::StackName}-SlackWebhookUrl"
+  
+  FeedbackBucketName:
+    Description: "S3 bucket name for feedback logs"
+    Value: !Ref FeedbackBucket
+    Export:
+      Name: !Sub "${AWS::StackName}-FeedbackBucketName"
+  
+  HealthCheckUrl:
+    Description: "Health check endpoint"
+    Value: !Sub "https://${FeedbackApi}.execute-api.${AWS::Region}.amazonaws.com/prod/health"
+    Export:
+      Name: !Sub "${AWS::StackName}-HealthCheckUrl"
