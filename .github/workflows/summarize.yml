@@ -2,8 +2,8 @@ name: RSS論文サマライザー
 
 on:
   schedule:
-    # 毎日朝9時（JST）に実行 (UTC 0:00 = JST 9:00)
-    - cron: '0 0 * * *'
+    # 毎日朝7時（JST）に実行 (UTC 22:00 = JST 7:00)
+    - cron: '0 22 * * *'
   workflow_dispatch: # 手動実行も可能にする
 
 jobs:
