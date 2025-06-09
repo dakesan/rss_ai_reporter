@@ -64,6 +64,66 @@
       "parser_type": "plos",
       "update_interval_hours": 12,
       "description": "PLoS ONE journal RSS feed"
+    },
+    "Nature_SystemsBiology": {
+      "url": "https://www.nature.com/subjects/systems-biology.atom",
+      "enabled": true,
+      "priority": "high",
+      "parser_type": "nature",
+      "update_interval_hours": 12,
+      "description": "Nature Systems Biology subject feed",
+      "filter_keywords": ["systems biology", "network", "omics", "computational biology"]
+    },
+    "NAR": {
+      "url": "https://academic.oup.com/rss/site_5139/3001.xml",
+      "enabled": true,
+      "priority": "high",
+      "parser_type": "oup",
+      "update_interval_hours": 12,
+      "description": "Nucleic Acids Research journal RSS feed"
+    },
+    "Cell_Reports": {
+      "url": "https://www.cell.com/cell-reports/current.rss",
+      "enabled": true,
+      "priority": "medium",
+      "parser_type": "cell",
+      "update_interval_hours": 12,
+      "description": "Cell Reports journal RSS feed"
+    },
+    "Cell_StemCell": {
+      "url": "https://www.cell.com/cell-stem-cell/current.rss",
+      "enabled": true,
+      "priority": "medium",
+      "parser_type": "cell",
+      "update_interval_hours": 12,
+      "description": "Cell Stem Cell journal RSS feed"
+    },
+    "Nature_CompBio": {
+      "url": "https://www.nature.com/subjects/computational-biology-and-bioinformatics.atom",
+      "enabled": true,
+      "priority": "high",
+      "parser_type": "nature",
+      "update_interval_hours": 12,
+      "description": "Nature Computational Biology and Bioinformatics subject feed",
+      "filter_keywords": ["computational", "bioinformatics", "algorithm", "machine learning", "AI"]
+    },
+    "MIT_TechReview": {
+      "url": "https://www.technologyreview.com/topnews.rss",
+      "enabled": true,
+      "priority": "medium",
+      "parser_type": "generic",
+      "update_interval_hours": 24,
+      "description": "MIT Technology Review news feed",
+      "filter_keywords": ["biotech", "health", "medicine", "AI", "machine learning"]
+    },
+    "Nikkei_BioTech": {
+      "url": "https://bio.nikkeibp.co.jp/rss/bio/index.rdf",
+      "enabled": true,
+      "priority": "medium",
+      "parser_type": "generic",
+      "update_interval_hours": 24,
+      "description": "Nikkei Biotechnology Japan news feed",
+      "language": "ja"
     }
   },
   "global_settings": {
@@ -110,6 +170,18 @@
       "article_url_patterns": ["article?id="],
       "research_article_pattern": "article?id=",
       "exclude_news": true
+    },
+    "oup": {
+      "article_url_patterns": ["article/", "advance-article/"],
+      "research_article_pattern": "article/",
+      "exclude_news": true,
+      "special_handling": "oxford"
+    },
+    "generic": {
+      "article_url_patterns": [],
+      "research_article_pattern": "",
+      "exclude_news": false,
+      "special_handling": "generic_rss"
     }
   }
 }

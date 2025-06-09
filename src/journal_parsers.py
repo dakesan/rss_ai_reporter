@@ -366,6 +366,27 @@ class ArxivParser(BaseJournalParser):
                     categories.append(category)
         return categories
 
+class GenericParser(BaseJournalParser):
+    """汎用RSSパーサー"""
+    
+    def parse_article_details(self, article: Dict[str, Any]) -> Dict[str, Any]:
+        """RSSフィードの情報をそのまま使用"""
+        self.debug_print(f"Using generic parser for {article.get('title', 'Unknown')}")
+        
+        # RSSフィードから取得済みの情報を保持
+        if not article.get('abstract') and article.get('summary'):
+            article['abstract'] = article['summary']
+        
+        # 著者情報の整理
+        if not article.get('authors'):
+            article['authors'] = []
+        
+        return article
+    
+    def is_research_article(self, article: Dict[str, Any]) -> bool:
+        """汎用パーサーでは全てを記事として扱う"""
+        return True
+
 class JournalParserFactory:
     """パーサーファクトリ"""
     
@@ -374,7 +395,12 @@ class JournalParserFactory:
         'science': ScienceParser,
         'cell': CellParser,
         'arxiv': ArxivParser,
-        'default': BaseJournalParser
+        'pnas': NatureParser,  # PNASはNatureパーサーを流用
+        'nejm': ScienceParser,  # NEJMはScienceパーサーを流用
+        'plos': CellParser,  # PLoSはCellパーサーを流用
+        'oup': NatureParser,  # Oxford University PressはNatureパーサーを流用
+        'generic': GenericParser,
+        'default': GenericParser
     }
     
     @classmethod
