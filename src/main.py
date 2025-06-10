@@ -487,7 +487,7 @@ class PaperSummarizerPipeline:
             self.show_queue_stats()
             
             # 処理対象記事を取得
-            articles_to_process = self.queue_manager.get_batch(batch_size=10)
+            articles_to_process = self.queue_manager.get_batch(batch_size=20)
             total_articles = articles_to_process
             
             if not total_articles:
