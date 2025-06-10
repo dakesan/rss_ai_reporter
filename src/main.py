@@ -29,7 +29,7 @@ class PaperSummarizerPipeline:
         self.rss_fetcher = RSSFetcher()
         self.content_fetcher = ContentFetcher(debug_mode=debug_mode)
         self.summarizer = Summarizer(debug_mode=debug_mode)
-        self.slack_notifier = SlackNotifier()
+        self.slack_notifier = SlackNotifier(enable_feedback=True)
         self.queue_manager = QueueManager()
         self.archive_manager = ArchiveManager()
         self.filter_config_file = "data/filter_config.json"
