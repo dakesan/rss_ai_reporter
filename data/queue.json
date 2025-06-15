@@ -1,345 +1,5 @@
 [
   {
-    "id": "oai:arXiv.org:2506.05402v1",
-    "journal": "arXiv_CS",
-    "title": "Sylva: Tailoring Personalized Adversarial Defense in Pre-trained Models via Collaborative Fine-tuning",
-    "link": "https://arxiv.org/abs/2506.05402",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05402v1 Announce Type: new \nAbstract: The growing adoption of large pre-trained models in edge computing has made deploying model inference on mobile clients both practical and popular. These devices are inherently vulnerable to direct adversarial attacks, which pose a substantial threat to the robustness and security of deployed models. Federated adversarial training (FAT) has emerged as an effective solution to enhance model robustness while preserving client privacy. However, FAT frequently produces a generalized global model, which struggles to address the diverse and heterogeneous data distributions across clients, resulting in insufficiently personalized performance, while also encountering substantial communication challenges during the training process. In this paper, we propose \\textit{Sylva}, a personalized collaborative adversarial training framework designed to deliver customized defense models for each client through a two-phase process. In Phase 1, \\textit{Sylva} employs LoRA for local adversarial fine-tuning, enabling clients to personalize model robustness while drastically reducing communication costs by uploading only LoRA parameters during federated aggregation. In Phase 2, a game-based layer selection strategy is introduced to enhance accuracy on benign data, further refining the personalized model. This approach ensures that each client receives a tailored defense model that balances robustness and accuracy effectively. Extensive experiments on benchmark datasets demonstrate that \\textit{Sylva} can achieve up to 50$\\times$ improvements in communication efficiency compared to state-of-the-art algorithms, while achieving up to 29.5\\% and 50.4\\% enhancements in adversarial robustness and benign accuracy, respectively.",
-    "authors": [
-      "Tianyu Qi, Lei Xue, Yufeng Zhan, Xiaobo Ma"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834446"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05409v1",
-    "journal": "arXiv_CS",
-    "title": "Object-level Self-Distillation for Vision Pretraining",
-    "link": "https://arxiv.org/abs/2506.05409",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05409v1 Announce Type: new \nAbstract: State-of-the-art vision pretraining methods rely on image-level self-distillation from object-centric datasets such as ImageNet, implicitly assuming each image contains a single object. This assumption does not always hold: many ImageNet images already contain multiple objects. Further, it limits scalability to scene-centric datasets that better mirror real-world complexity. We address these challenges by introducing Object-level Self-DIStillation (ODIS), a pretraining approach that shifts the self-distillation granularity from whole images to individual objects. Using object-aware cropping and masked attention, ODIS isolates object-specific regions, guiding the transformer toward semantically meaningful content and transforming a noisy, scene-level task into simpler object-level sub-tasks. We show that this approach improves visual representations both at the image and patch levels. Using masks at inference time, our method achieves an impressive $82.6\\%$ $k$-NN accuracy on ImageNet1k with ViT-Large.",
-    "authors": [
-      "\\c{C}a\\u{g}lar H{\\i}zl{\\i}, \\c{C}a\\u{g}atay Y{\\i}ld{\\i}z, Pekka Marttinen"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834498"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05411v1",
-    "journal": "arXiv_CS",
-    "title": "QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality",
-    "link": "https://arxiv.org/abs/2506.05411",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05411v1 Announce Type: new \nAbstract: This paper introduces QA-HFL, a quality-aware hierarchical federated learning framework that efficiently handles heterogeneous image quality across resource-constrained mobile devices. Our approach trains specialized local models for different image quality levels and aggregates their features using a quality-weighted fusion mechanism, while incorporating differential privacy protection. Experiments on MNIST demonstrate that QA-HFL achieves 92.31% accuracy after just three federation rounds, significantly outperforming state-of-the-art methods like FedRolex (86.42%). Under strict privacy constraints, our approach maintains 30.77% accuracy with formal differential privacy guarantees. Counter-intuitively, low-end devices contributed most significantly (63.5%) to the final model despite using 100 fewer parameters than high-end counterparts. Our quality-aware approach addresses accuracy decline through device-specific regularization, adaptive weighting, intelligent client selection, and server-side knowledge distillation, while maintaining efficient communication with a 4.71% compression ratio. Statistical analysis confirms that our approach significantly outperforms baseline methods (p 0.01) under both standard and privacy-constrained conditions.",
-    "authors": [
-      "Sajid Hussain, Muhammad Sohail, Nauman Ali Khan"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834515"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05422v1",
-    "journal": "arXiv_CS",
-    "title": "Constructive Symbolic Reinforcement Learning via Intuitionistic Logic and Goal-Chaining Inference",
-    "link": "https://arxiv.org/abs/2506.05422",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05422v1 Announce Type: new \nAbstract: We introduce a novel learning and planning framework that replaces traditional reward-based optimisation with constructive logical inference. In our model, actions, transitions, and goals are represented as logical propositions, and decision-making proceeds by building constructive proofs under intuitionistic logic. This method ensures that state transitions and policies are accepted only when supported by verifiable preconditions -- eschewing probabilistic trial-and-error in favour of guaranteed logical validity. We implement a symbolic agent operating in a structured gridworld, where reaching a goal requires satisfying a chain of intermediate subgoals (e.g., collecting keys to open doors), each governed by logical constraints. Unlike conventional reinforcement learning agents, which require extensive exploration and suffer from unsafe or invalid transitions, our constructive agent builds a provably correct plan through goal chaining, condition tracking, and knowledge accumulation. Empirical comparison with Q-learning demonstrates that our method achieves perfect safety, interpretable behaviour, and efficient convergence with no invalid actions, highlighting its potential for safe planning, symbolic cognition, and trustworthy AI. This work presents a new direction for reinforcement learning grounded not in numeric optimisation, but in constructive logic and proof theory.",
-    "authors": [
-      "Andrei T. Patrascu"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834611"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05427v1",
-    "journal": "arXiv_CS",
-    "title": "MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction",
-    "link": "https://arxiv.org/abs/2506.05427",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05427v1 Announce Type: new \nAbstract: Activity cliff prediction is a critical task in drug discovery and material design. Existing computational methods are limited to handling single binding targets, which restricts the applicability of these prediction models. In this paper, we present the Multi-Grained Target Perception network (MTPNet) to incorporate the prior knowledge of interactions between the molecules and their target proteins. Specifically, MTPNet is a unified framework for activity cliff prediction, which consists of two components: Macro-level Target Semantic (MTS) guidance and Micro-level Pocket Semantic (MPS) guidance. By this way, MTPNet dynamically optimizes molecular representations through multi-grained protein semantic conditions. To our knowledge, it is the first time to employ the receptor proteins as guiding information to effectively capture critical interaction details. Extensive experiments on 30 representative activity cliff datasets demonstrate that MTPNet significantly outperforms previous approaches, achieving an average RMSE improvement of 18.95% on top of several mainstream GNN architectures. Overall, MTPNet internalizes interaction patterns through conditional deep learning to achieve unified predictions of activity cliffs, helping to accelerate compound optimization and design. Codes are available at: https://github.com/ZishanShu/MTPNet.",
-    "authors": [
-      "Zishan Shu, Yufan Deng, Hongyu Zhang, Zhiwei Nie, Jie Chen"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834635"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05430v1",
-    "journal": "arXiv_CS",
-    "title": "Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models",
-    "link": "https://arxiv.org/abs/2506.05430",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05430v1 Announce Type: new \nAbstract: Binary code similarity detection (BCSD) serves as a fundamental technique for various software engineering tasks, e.g., vulnerability detection and classification. Attacks against such models have therefore drawn extensive attention, aiming at misleading the models to generate erroneous predictions. Prior works have explored various approaches to generating semantic-preserving variants, i.e., adversarial samples, to evaluate the robustness of the models against adversarial attacks. However, they have mainly relied on heuristic criteria or iterative greedy algorithms to locate salient code influencing the model output, failing to operate on a solid theoretical basis. Moreover, when processing programs with high complexities, such attacks tend to be time-consuming.\n  In this work, we propose a novel optimization for adversarial attacks against BCSD models. In particular, we aim to improve the attacks in a challenging scenario, where the attack goal is to limit the model predictions to a specific range, i.e., the targeted attacks. Our attack leverages the superior capability of black-box, model-agnostic explainers in interpreting the model decision boundaries, thereby pinpointing the critical code snippet to apply semantic-preserving perturbations. The evaluation results demonstrate that compared with the state-of-the-art attacks, the proposed attacks achieve higher attack success rate in almost all scenarios, while also improving the efficiency and transferability. Our real-world case studies on vulnerability detection and classification further demonstrate the security implications of our attacks, highlighting the urgent need to further enhance the robustness of existing BCSD models.",
-    "authors": [
-      "Mingjie Chen (Zhejiang University), Tiancheng Zhu (Huazhong University of Science,Technology), Mingxue Zhang (The State Key Laboratory of Blockchain,Data Security, Zhejiang University,Hangzhou High-Tech Zone), Yiling He (University College London), Minghao Lin (University of Southern California), Penghui Li (Columbia University), Kui Ren (The State Key Laboratory of Blockchain,Data Security, Zhejiang University)"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834662"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05433v1",
-    "journal": "arXiv_CS",
-    "title": "Prefix Grouper: Efficient GRPO Training through Shared-Prefix Forward",
-    "link": "https://arxiv.org/abs/2506.05433",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05433v1 Announce Type: new \nAbstract: Group Relative Policy Optimization (GRPO) enhances policy learning by computing gradients from relative comparisons among candidate outputs that share a common input prefix. Despite its effectiveness, GRPO introduces substantial computational overhead when processing long shared prefixes, which must be redundantly encoded for each group member. This inefficiency becomes a major scalability bottleneck in long-context learning scenarios. We propose Prefix Grouper, an efficient GRPO training algorithm that eliminates redundant prefix computation via a Shared-Prefix Forward strategy. In particular, by restructuring self-attention into two parts, our method enables the shared prefix to be encoded only once, while preserving full differentiability and compatibility with end-to-end training. We provide both theoretical and empirical evidence that Prefix Grouper is training-equivalent to standard GRPO: it yields identical forward outputs and backward gradients, ensuring that the optimization dynamics and final policy performance remain unchanged. Empirically, our experiments confirm that Prefix Grouper achieves consistent results while significantly reducing the computational cost of training, particularly in long-prefix scenarios. The proposed method is fully plug-and-play: it is compatible with existing GRPO-based architectures and can be seamlessly integrated into current training pipelines as a drop-in replacement, requiring no structural modifications and only minimal changes to input construction and attention computation. Prefix Grouper enables the use of larger group sizes under the same computational budget, thereby improving the scalability of GRPO to more complex tasks and larger models. Code is now available at https://github.com/johncaged/PrefixGrouper",
-    "authors": [
-      "Zikang Liu, Tongtian Yue, Yepeng Tang, Longteng Guo, Junxian Cai, Qingbin Liu, Xi Chen, Jing Liu"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834686"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05440v1",
-    "journal": "arXiv_CS",
-    "title": "BYO-Eval: Build Your Own Dataset for Fine-Grained Visual Assessment of Multimodal Language Models",
-    "link": "https://arxiv.org/abs/2506.05440",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05440v1 Announce Type: new \nAbstract: Visual Language Models (VLMs) are now sufficiently advanced to support a broad range of applications, including answering complex visual questions, and are increasingly expected to interact with images in varied ways. To evaluate them, current benchmarks often focus on specific domains (e.g., reading charts), constructing datasets of annotated real images paired with pre-defined Multiple Choice Questions (MCQs) to report aggregate accuracy scores. However, such benchmarks entail high annotation costs, risk information leakage, and do not clarify whether failures stem from limitations in visual perception, reasoning, or general knowledge. We propose a new evaluation methodology, inspired by ophthalmologic diagnostics, leveraging procedural generation of synthetic images to obtain control over visual attributes and precisely reveal perception failures in VLMs. Specifically, we build collections of images with gradually more challenging variations in the content of interest (e.g., number of objects in a counting task) while holding other visual parameters constant. This diagnostic allows systematic stress testing and fine-grained failure analysis, shifting the focus from coarse benchmarking toward targeted and interpretable assessment of VLM capabilities. Our code is available at https://github.com/byoeval/BYO-EVAL.",
-    "authors": [
-      "Ludovic Arnould, Salim Khazem, Hugues Ali Mehenni"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834738"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05446v1",
-    "journal": "arXiv_CS",
-    "title": "Sentinel: SOTA model to protect against prompt injections",
-    "link": "https://arxiv.org/abs/2506.05446",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05446v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly powerful but remain vulnerable to prompt injection attacks, where malicious inputs cause the model to deviate from its intended instructions. This paper introduces Sentinel, a novel detection model, qualifire/prompt-injection-sentinel, based on the \\answerdotai/ModernBERT-large architecture. By leveraging ModernBERT's advanced features and fine-tuning on an extensive and diverse dataset comprising a few open-source and private collections, Sentinel achieves state-of-the-art performance. This dataset amalgamates varied attack types, from role-playing and instruction hijacking to attempts to generate biased content, alongside a broad spectrum of benign instructions, with private datasets specifically targeting nuanced error correction and real-world misclassifications. On a comprehensive, unseen internal test set, Sentinel demonstrates an average accuracy of 0.987 and an F1-score of 0.980. Furthermore, when evaluated on public benchmarks, it consistently outperforms strong baselines like protectai/deberta-v3-base-prompt-injection-v2. This work details Sentinel's architecture, its meticulous dataset curation, its training methodology, and a thorough evaluation, highlighting its superior detection capabilities.",
-    "authors": [
-      "Dror Ivry, Oran Nahum"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834780"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05447v1",
-    "journal": "arXiv_CS",
-    "title": "Training Dynamics Underlying Language Model Scaling Laws: Loss Deceleration and Zero-Sum Learning",
-    "link": "https://arxiv.org/abs/2506.05447",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05447v1 Announce Type: new \nAbstract: This work aims to understand how scaling improves language models, specifically in terms of training dynamics. We find that language models undergo loss deceleration early in training; an abrupt slowdown in the rate of loss improvement, resulting in piecewise linear behaviour of the loss curve in log-log space. Scaling up the model mitigates this transition by (1) decreasing the loss at which deceleration occurs, and (2) improving the log-log rate of loss improvement after deceleration. We attribute loss deceleration to a type of degenerate training dynamics we term zero-sum learning (ZSL). In ZSL, per-example gradients become systematically opposed, leading to destructive interference in per-example changes in loss. As a result, improving loss on one subset of examples degrades it on another, bottlenecking overall progress. Loss deceleration and ZSL provide new insights into the training dynamics underlying language model scaling laws, and could potentially be targeted directly to improve language models independent of scale. We make our code and artefacts available at: https://github.com/mirandrom/zsl",
-    "authors": [
-      "Andrei Mircea, Supriyo Chakraborty, Nima Chitsazan, Irina Rish, Ekaterina Lobacheva"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834788"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05449v1",
-    "journal": "arXiv_CS",
-    "title": "AI-powered Contextual 3D Environment Generation: A Systematic Review",
-    "link": "https://arxiv.org/abs/2506.05449",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05449v1 Announce Type: new \nAbstract: The generation of high-quality 3D environments is crucial for industries such as gaming, virtual reality, and cinema, yet remains resource-intensive due to the reliance on manual processes. This study performs a systematic review of existing generative AI techniques for 3D scene generation, analyzing their characteristics, strengths, limitations, and potential for improvement. By examining state-of-the-art approaches, it presents key challenges such as scene authenticity and the influence of textual inputs. Special attention is given to how AI can blend different stylistic domains while maintaining coherence, the impact of training data on output quality, and the limitations of current models. In addition, this review surveys existing evaluation metrics for assessing realism and explores how industry professionals incorporate AI into their workflows. The findings of this study aim to provide a comprehensive understanding of the current landscape and serve as a foundation for future research on AI-driven 3D content generation. Key findings include that advanced generative architectures enable high-quality 3D content creation at a high computational cost, effective multi-modal integration techniques like cross-attention and latent space alignment facilitate text-to-3D tasks, and the quality and diversity of training data combined with comprehensive evaluation metrics are critical to achieving scalable, robust 3D scene generation.",
-    "authors": [
-      "Miguel Silva, Alexandre Valle de Carvalho"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834795"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05484v1",
-    "journal": "arXiv_CS",
-    "title": "Initial Model Incorporation for Deep Learning FWI: Pretraining or Denormalization?",
-    "link": "https://arxiv.org/abs/2506.05484",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05484v1 Announce Type: new \nAbstract: Subsurface property neural network reparameterized full waveform inversion (FWI) has emerged as an effective unsupervised learning framework, which can invert stably with an inaccurate starting model. It updates the trainable neural network parameters instead of fine-tuning on the subsurface model directly. There are primarily two ways to embed the prior knowledge of the initial model into neural networks, that is, pretraining and denormalization. Pretraining first regulates the neural networks' parameters by fitting the initial velocity model; Denormalization directly adds the outputs of the network into the initial models without pretraining. In this letter, we systematically investigate the influence of the two ways of initial model incorporation for the neural network reparameterized FWI. We demonstrate that pretraining requires inverting the model perturbation based on a constant velocity value (mean) with a two-stage implementation. It leads to a complex workflow and inconsistency of objective functions in the two-stage process, causing the network parameters to become inactive and lose plasticity. Experimental results demonstrate that denormalization can simplify workflows, accelerate convergence, and enhance inversion accuracy compared with pretraining.",
-    "authors": [
-      "Ruihua Chen, Bangyu Wu, Meng Li, Kai Yang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834879"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05497v1",
-    "journal": "arXiv_CS",
-    "title": "Conformal Prediction Beyond the Seen: A Missing Mass Perspective for Uncertainty Quantification in Generative Models",
-    "link": "https://arxiv.org/abs/2506.05497",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05497v1 Announce Type: new \nAbstract: Uncertainty quantification (UQ) is essential for safe deployment of generative AI models such as large language models (LLMs), especially in high stakes applications. Conformal prediction (CP) offers a principled uncertainty quantification framework, but classical methods focus on regression and classification, relying on geometric distances or softmax scores: tools that presuppose structured outputs. We depart from this paradigm by studying CP in a query only setting, where prediction sets must be constructed solely from finite queries to a black box generative model, introducing a new trade off between coverage, test time query budget, and informativeness. We introduce Conformal Prediction with Query Oracle (CPQ), a framework characterizing the optimal interplay between these objectives. Our finite sample algorithm is built on two core principles: one governs the optimal query policy, and the other defines the optimal mapping from queried samples to prediction sets. Remarkably, both are rooted in the classical missing mass problem in statistics. Specifically, the optimal query policy depends on the rate of decay, or the derivative, of the missing mass, for which we develop a novel estimator. Meanwhile, the optimal mapping hinges on the missing mass itself, which we estimate using Good Turing estimators. We then turn our focus to implementing our method for language models, where outputs are vast, variable, and often under specified. Fine grained experiments on three real world open ended tasks and two LLMs, show CPQ applicability to any black box LLM and highlight: (1) individual contribution of each principle to CPQ performance, and (2) CPQ ability to yield significantly more informative prediction sets than existing conformal methods for language uncertainty quantification.",
-    "authors": [
-      "Sima Noorani, Shayan Kiyani, George Pappas, Hamed Hassani"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834946"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05498v1",
-    "journal": "arXiv_CS",
-    "title": "Multidimensional Analysis of Specific Language Impairment Using Unsupervised Learning Through PCA and Clustering",
-    "link": "https://arxiv.org/abs/2506.05498",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05498v1 Announce Type: new \nAbstract: Specific Language Impairment (SLI) affects approximately 7 percent of children, presenting as isolated language deficits despite normal cognitive abilities, sensory systems, and supportive environments. Traditional diagnostic approaches often rely on standardized assessments, which may overlook subtle developmental patterns. This study aims to identify natural language development trajectories in children with and without SLI using unsupervised machine learning techniques, providing insights for early identification and targeted interventions. Narrative samples from 1,163 children aged 4-16 years across three corpora (Conti-Ramsden 4, ENNI, and Gillam) were analyzed using Principal Component Analysis (PCA) and clustering. A total of 64 linguistic features were evaluated to uncover developmental trajectories and distinguish linguistic profiles. Two primary clusters emerged: (1) high language production with low SLI prevalence, and (2) limited production but higher syntactic complexity with higher SLI prevalence. Additionally, boundary cases exhibited intermediate traits, supporting a continuum model of language abilities. Findings suggest SLI manifests primarily through reduced production capacity rather than syntactic complexity deficits. The results challenge categorical diagnostic frameworks and highlight the potential of unsupervised learning techniques for refining diagnostic criteria and intervention strategies.",
-    "authors": [
-      "Niruthiha Selvanayagam"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834954"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05501v1",
-    "journal": "arXiv_CS",
-    "title": "FocusDiff: Advancing Fine-Grained Text-Image Alignment for Autoregressive Visual Generation through RL",
-    "link": "https://arxiv.org/abs/2506.05501",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05501v1 Announce Type: new \nAbstract: Recent studies extend the autoregression paradigm to text-to-image generation, achieving performance comparable to diffusion models. However, our new PairComp benchmark -- featuring test cases of paired prompts with similar syntax but different fine-grained semantics -- reveals that existing models struggle with fine-grained text-image alignment thus failing to realize precise control over visual tokens. To address this, we propose FocusDiff, which enhances fine-grained text-image semantic alignment by focusing on subtle differences between similar text-image pairs. We construct a new dataset of paired texts and images with similar overall expressions but distinct local semantics, further introducing a novel reinforcement learning algorithm to emphasize such fine-grained semantic differences for desired image generation. Our approach achieves state-of-the-art performance on existing text-to-image benchmarks and significantly outperforms prior methods on PairComp.",
-    "authors": [
-      "Kaihang Pan, Wendong Bu, Yuruo Wu, Yang Wu, Kai Shen, Yunfei Li, Hang Zhao, Juncheng Li, Siliang Tang, Yueting Zhuang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.834971"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05513v1",
-    "journal": "arXiv_CS",
-    "title": "Geometric and Physical Constraints Synergistically Enhance Neural PDE Surrogates",
-    "link": "https://arxiv.org/abs/2506.05513",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05513v1 Announce Type: new \nAbstract: Neural PDE surrogates can improve the cost-accuracy tradeoff of classical solvers, but often generalize poorly to new initial conditions and accumulate errors over time. Physical and symmetry constraints have shown promise in closing this performance gap, but existing techniques for imposing these inductive biases are incompatible with the staggered grids commonly used in computational fluid dynamics. Here we introduce novel input and output layers that respect physical laws and symmetries on the staggered grids, and for the first time systematically investigate how these constraints, individually and in combination, affect the accuracy of PDE surrogates. We focus on two challenging problems: shallow water equations with closed boundaries and decaying incompressible turbulence. Compared to strong baselines, symmetries and physical constraints consistently improve performance across tasks, architectures, autoregressive prediction steps, accuracy measures, and network sizes. Symmetries are more effective than physical constraints, but surrogates with both performed best, even compared to baselines with data augmentation or pushforward training, while themselves benefiting from the pushforward trick. Doubly-constrained surrogates also generalize better to initial conditions and durations beyond the range of the training data, and more accurately predict real-world ocean currents.",
-    "authors": [
-      "Yunfei Huang, David S. Greenberg"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.835003"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05514v1",
-    "journal": "arXiv_CS",
-    "title": "Can LLMs Talk 'Sex'? Exploring How AI Models Handle Intimate Conversations",
-    "link": "https://arxiv.org/abs/2506.05514",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05514v1 Announce Type: new \nAbstract: This study examines how four prominent large language models (Claude 3.7 Sonnet, GPT-4o, Gemini 2.5 Flash, and Deepseek-V3) handle sexually oriented requests through qualitative content analysis. By evaluating responses to prompts ranging from explicitly sexual to educational and neutral control scenarios, the research reveals distinct moderation paradigms reflecting fundamentally divergent ethical positions. Claude 3.7 Sonnet employs strict and consistent prohibitions, while GPT-4o navigates user interactions through nuanced contextual redirection. Gemini 2.5 Flash exhibits permissiveness with threshold-based limits, and Deepseek-V3 demonstrates troublingly inconsistent boundary enforcement and performative refusals. These varied approaches create a significant \"ethical implementation gap,\" stressing a critical absence of unified ethical frameworks and standards across platforms. The findings underscore the urgent necessity for transparent, standardized guidelines and coordinated international governance to ensure consistent moderation, protect user welfare, and maintain trust as AI systems increasingly mediate intimate aspects of human life.",
-    "authors": [
-      "Huiqian Lai"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.835011"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05520v1",
-    "journal": "arXiv_CS",
-    "title": "Towards Data Systems That Are Business Semantic-Centric and AI Agents-Assisted",
-    "link": "https://arxiv.org/abs/2506.05520",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05520v1 Announce Type: new \nAbstract: Contemporary businesses operate in dynamic environments requiring rapid adaptation to achieve goals and maintain competitiveness. Existing data platforms often fall short by emphasizing tools over alignment with business needs, resulting in inefficiencies and delays. To address this gap, I propose the Business Semantics Centric, AI Agents Assisted Data System (BSDS), a holistic system that integrates architecture, workflows, and team organization to ensure data systems are tailored to business priorities rather than dictated by technical constraints. BSDS redefines data systems as dynamic enablers of business success, transforming them from passive tools into active drivers of organizational growth. BSDS has a modular architecture that comprises curated data linked to business entities, a knowledge base for context-aware AI agents, and efficient data pipelines. AI agents play a pivotal role in assisting with data access and system management, reducing human effort, and improving scalability. Complementing this architecture, BSDS incorporates workflows optimized for both exploratory data analysis and production requirements, balancing speed of delivery with quality assurance. A key innovation of BSDS is its incorporation of the human factor. By aligning data team expertise with business semantics, BSDS bridges the gap between technical capabilities and business needs. Validated through real-world implementation, BSDS accelerates time-to-market for data-driven initiatives, enhances cross-functional collaboration, and provides a scalable blueprint for businesses of all sizes. Future research can build on BSDS to explore optimization strategies using complex systems and adaptive network theories, as well as developing autonomous data systems leveraging AI agents.",
-    "authors": [
-      "Cecil Pang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.835044"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05542v1",
-    "journal": "arXiv_CS",
-    "title": "Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data",
-    "link": "https://arxiv.org/abs/2506.05542",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05542v1 Announce Type: new \nAbstract: The adoption of machine learning (ML) and deep learning methods has revolutionized molecular medicine by driving breakthroughs in genomics, transcriptomics, drug discovery, and biological systems modeling. The increasing quantity, multimodality, and heterogeneity of biological datasets demand automated methods that can produce generalizable predictive models. Recent developments in large language model-based agents have shown promise for automating end-to-end ML experimentation on structured benchmarks. However, when applied to heterogeneous computational biology datasets, these methods struggle with generalization and success rates. Here, we introduce Agentomics-ML, a fully autonomous agent-based system designed to produce a classification model and the necessary files for reproducible training and inference. Our method follows predefined steps of an ML experimentation process, repeatedly interacting with the file system through Bash to complete individual steps. Once an ML model is produced, training and validation metrics provide scalar feedback to a reflection step to identify issues such as overfitting. This step then creates verbal feedback for future iterations, suggesting adjustments to steps such as data representation, model architecture, and hyperparameter choices. We have evaluated Agentomics-ML on several established genomic and transcriptomic benchmark datasets and show that it outperforms existing state-of-the-art agent-based methods in both generalization and success rates. While state-of-the-art models built by domain experts still lead in absolute performance on the majority of the computational biology datasets used in this work, Agentomics-ML narrows the gap for fully autonomous systems and achieves state-of-the-art performance on one of the used benchmark datasets. The code is available at https://github.com/BioGeMT/Agentomics-ML.",
-    "authors": [
-      "Vlastimil Martinek, Andrea Gariboldi, Dimosthenis Tzimotoudis, Aitor Alberdi Escudero, Edward Blake, David Cechak, Luke Cassar, Alessandro Balestrucci, Panagiotis Alexiou"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.835159"
-  },
-  {
-    "id": "oai:arXiv.org:2506.05543v1",
-    "journal": "arXiv_CS",
-    "title": "FRAME: Pre-Training Video Feature Representations via Anticipation and Memory",
-    "link": "https://arxiv.org/abs/2506.05543",
-    "published": "Mon, 09 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.05543v1 Announce Type: new \nAbstract: Dense video prediction tasks, such as object tracking and semantic segmentation, require video encoders that generate temporally consistent, spatially dense features for every frame. However, existing approaches fall short: image encoders like DINO or CLIP lack temporal awareness, while video models such as VideoMAE underperform compared to image encoders on dense prediction tasks. We address this gap with FRAME, a self-supervised video frame encoder tailored for dense video understanding. FRAME learns to predict current and future DINO patch features from past and present RGB frames, leading to spatially precise and temporally coherent representations. To our knowledge, FRAME is the first video encoder to leverage image-based models for dense prediction while outperforming them on tasks requiring fine-grained visual correspondence. As an auxiliary capability, FRAME aligns its class token with CLIP's semantic space, supporting language-driven tasks such as video classification. We evaluate FRAME across six dense prediction tasks on seven datasets, where it consistently outperforms image encoders and existing self-supervised video models. Despite its versatility, FRAME maintains a compact architecture suitable for a range of downstream applications.",
-    "authors": [
-      "Sethuraman TV, Savya Khosla, Vignesh Srinivasakumar, Jiahui Huang, Seoung Wug Oh, Simon Jenni, Derek Hoiem, Joon-Young Lee"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-09T20:37:16.835166"
-  },
-  {
     "id": "oai:arXiv.org:2506.05577v1",
     "journal": "arXiv_CS",
     "title": "Collaborative Learning in Agentic Systems: A Collective AI is Greater Than the Sum of Its Parts",
@@ -108267,5 +107927,141 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-14T22:07:04.750719"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/12/13418/",
+    "journal": "Nikkei_BioTech",
+    "title": "「日本市場における当社の薬の利用者を2030年に3倍にする」、Novartis社日本法人社長に聞く",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/12/13418/",
+    "published": "",
+    "summary": "スイスNovartis（ノバルティス）社の日本法人であるノバルティスファーマは、放射線リガンド療法向けの生産設備を篠山工場（兵庫県丹波篠山市）に整備するために1億ドルを投資するなど、日本市場への投資を積極化している。2024年11月に代表取締役社長に就任したJohn Paul Pullicino（ジョンポール・プリシーノ）氏に、日本事業の戦略などについてインタビューした。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715591"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/14/13422/",
+    "journal": "Nikkei_BioTech",
+    "title": "骨太方針2025と新資本主義グランドデザイン・実行計画2025が閣議決定",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/14/13422/",
+    "published": "",
+    "summary": "政府は2025年6月13日、令和7年第8回経済財政諮問会議/第36回新しい資本主義実現会議合同会議を開催した。同合同会議に答申された「経済財政運営と改革の基本方針2025」（骨太の方針2025）と「新しい資本主義のグランドデザイン及び実行計画2025年改訂版」について、政府は同日、閣議決定した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715609"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/13/13421/",
+    "journal": "Nikkei_BioTech",
+    "title": "政府がJ-RISE Initiativeを公表、外国人研究者の呼び込みに1000億円規模の政策パッケージ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/13/13421/",
+    "published": "",
+    "summary": "日本の大学や研究機関に海外の優秀な研究者（在外日本人研究者含む）を呼び込むため、政府は1000億円規模の政策パッケージ「J-RISE Initiative（Japan Research ＆ Innovation for Scientific Excellence）」を取りまとめ、2025年6月13日に公表した。10兆円の大学ファンドの運用益で、新たに若手研究者向けの招へい支援プログラムを創設するほか、国際卓越研究大学制度などの既存の施策を組み合わせる。海外研究者へのプロモーション活動も強化する。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715616"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/10/13410/",
+    "journal": "Nikkei_BioTech",
+    "title": "中国InxMed社、FAK阻害薬とKRAS G12C阻害薬を併用した臨床試験のデータを報告",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/10/13410/",
+    "published": "",
+    "summary": "中国InxMed（インクスメッド）社は2025年6月1日、FAK（focal adhesion kinase）阻害薬であるifebemtinib（開発番号：IN10018）と経口KRAS G12C阻害薬であるgarsorasib（開発番号：D-1533）を、KRAS G12C変異陽性の固形がん患者に併用して、有効性と安全性を評価した第1b/2相臨床試験（NCT06166836; NCT05379946）の最新データを米臨床腫瘍学会（ASCO）2025年次総会でポスター発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715622"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250616/",
+    "journal": "Nikkei_BioTech",
+    "title": "2025年6月16日号　目次",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250616/",
+    "published": "",
+    "summary": "",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715626"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/060900199/",
+    "journal": "Nikkei_BioTech",
+    "title": "パイプライン研究◎炎症性腸疾患治療薬【開発動向編（その1）】、炎症性腸疾患治療薬、抗IL-23（p19）抗体の適応拡大が進む",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/060900199/",
+    "published": "",
+    "summary": "炎症性腸疾患（IBD）は、潰瘍性大腸炎（UC）とクローン病（CD）に大別される。IBDの治療は生物学的製剤の登場で大きく進展。TNFα抗体の「レミケード」が口火を切った後、現在の売り上げトップは抗α4β7インテグリン抗体の「エンタイビオ」だ。IL-23p19 サブユニットを標的とする抗体医薬の承認も続いている。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715632"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/061100399/",
+    "journal": "Nikkei_BioTech",
+    "title": "特集、国内製薬企業の2024年度業績、31社中23社が増収増益で全体は好調",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/061100399/",
+    "published": "",
+    "summary": "国内で医療用医薬品を中心に事業を展開している、主要な国内製薬企業31社について、2024年度通期の業績を集計した。医薬事業の売上高、営業利益が開示されている31社を対象に分析したところ、増収増益となったのは23社で、増収減益となったのは4社、減収減益となったのは3社だった。2023年度決算の際は増収増益が17社だったのに比べると全体に好調だったと言える。主力製品が好調だった企業が多く、海外売上高も伸長したところが多かったようだ。なお、フルベースとコアベースの数値を双方開示している企業については、コアベースの数値を優先して増減を判断している。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715637"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/061000178/",
+    "journal": "Nikkei_BioTech",
+    "title": "オンライン閲覧TOP15、2025年5月24日から2025年6月6日まで",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/061000178/",
+    "published": "",
+    "summary": "2025年5月24日から2025年6月6日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-15T22:07:25.715653"
   }
 ]
