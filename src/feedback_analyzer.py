@@ -9,6 +9,7 @@
 import json
 import os
 import re
+import subprocess
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Tuple
 from collections import defaultdict, Counter
@@ -62,9 +63,9 @@ class FeedbackAnalyzer:
         
         return logger
     
-    def load_feedback_data(self, days: int = 30) -> List[Dict]:
+    def fetch_feedback_from_issues(self, days: int = 30) -> List[Dict]:
         """
-        フィードバックデータを読み込む
+        GitHub Issues APIを使ってフィードバックデータを取得
         
         Args:
             days: 過去何日分のデータを対象とするか
@@ -72,37 +73,132 @@ class FeedbackAnalyzer:
         Returns:
             フィードバックデータのリスト
         """
-        if not os.path.exists(self.feedback_log_path):
-            self.logger.warning(f"Feedback log not found: {self.feedback_log_path}")
-            return []
-        
         feedback_data = []
-        cutoff_date = datetime.now() - timedelta(days=days)
+        # タイムゾーンaware datetimeで統一
+        from datetime import timezone
+        cutoff_date = datetime.now(timezone.utc) - timedelta(days=days)
         
         try:
-            with open(self.feedback_log_path, 'r', encoding='utf-8') as f:
-                for line_num, line in enumerate(f, 1):
-                    try:
-                        data = json.loads(line.strip())
-                        
-                        # タイムスタンプ確認
-                        timestamp = datetime.fromisoformat(
-                            data['timestamp'].replace('Z', '+00:00')
-                        )
-                        
-                        if timestamp >= cutoff_date:
-                            feedback_data.append(data)
-                        
-                    except (json.JSONDecodeError, KeyError, ValueError) as e:
-                        self.logger.warning(f"Line {line_num} parsing error: {e}")
-                        continue
+            self.logger.info(f"Fetching feedback issues from GitHub...")
             
-            self.logger.info(f"Loaded {len(feedback_data)} feedback entries from last {days} days")
+            # GitHub CLI でフィードバックラベルの issue を取得
+            cmd = [
+                'gh', 'issue', 'list', 
+                '--label', 'feedback',
+                '--state', 'all',
+                '--limit', '100',
+                '--json', 'number,title,body,createdAt,labels'
+            ]
+            
+            result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+            issues = json.loads(result.stdout)
+            
+            self.logger.info(f"Found {len(issues)} feedback issues")
+            
+            for issue in issues:
+                try:
+                    # 日付フィルタリング（タイムゾーン対応）
+                    created_at = datetime.fromisoformat(issue['createdAt'].replace('Z', '+00:00'))
+                    if created_at < cutoff_date:
+                        continue
+                    
+                    # issue body からJSONデータを抽出
+                    body = issue['body']
+                    json_match = re.search(r'```json\s*(\{.*?\})\s*```', body, re.DOTALL)
+                    
+                    if not json_match:
+                        self.logger.warning(f"No JSON data found in issue #{issue['number']}")
+                        continue
+                    
+                    # JSONデータをパース
+                    json_data = json.loads(json_match.group(1))
+                    
+                    # フィードバックデータ形式に変換
+                    feedback_entry = {
+                        'feedback': json_data['feedback'],
+                        'article': json_data['article'],
+                        'user': json_data['user'],
+                        'channel': json_data['channel'],
+                        'timestamp': json_data['timestamp'],
+                        'action_id': json_data['action_id'],
+                        'source': 'github_issues',
+                        'issue_number': issue['number']
+                    }
+                    
+                    feedback_data.append(feedback_entry)
+                    
+                except (json.JSONDecodeError, KeyError, ValueError) as e:
+                    self.logger.warning(f"Issue #{issue['number']} parsing error: {e}")
+                    continue
+            
+            self.logger.info(f"Successfully parsed {len(feedback_data)} feedback entries from GitHub Issues")
             return feedback_data
             
-        except Exception as e:
-            self.logger.error(f"Error loading feedback data: {e}")
+        except subprocess.CalledProcessError as e:
+            self.logger.error(f"GitHub CLI error: {e}")
             return []
+        except Exception as e:
+            self.logger.error(f"Error fetching feedback from GitHub Issues: {e}")
+            return []
+    
+    def load_feedback_data(self, days: int = 30) -> List[Dict]:
+        """
+        フィードバックデータを読み込む（GitHub Issues + ローカルファイル統合）
+        
+        Args:
+            days: 過去何日分のデータを対象とするか
+            
+        Returns:
+            フィードバックデータのリスト
+        """
+        feedback_data = []
+        
+        # GitHub Issues からフィードバックデータを取得
+        issues_data = self.fetch_feedback_from_issues(days)
+        feedback_data.extend(issues_data)
+        
+        # ローカルファイルからもフィードバックデータを取得（補完用）
+        if os.path.exists(self.feedback_log_path):
+            from datetime import timezone
+            local_cutoff_date = datetime.now(timezone.utc) - timedelta(days=days)
+            
+            try:
+                with open(self.feedback_log_path, 'r', encoding='utf-8') as f:
+                    for line_num, line in enumerate(f, 1):
+                        try:
+                            data = json.loads(line.strip())
+                            
+                            # タイムスタンプ確認（タイムゾーン対応）
+                            timestamp_str = data['timestamp']
+                            if 'Z' in timestamp_str:
+                                timestamp = datetime.fromisoformat(timestamp_str.replace('Z', '+00:00'))
+                            elif '+' in timestamp_str or '-' in timestamp_str[-6:]:
+                                timestamp = datetime.fromisoformat(timestamp_str)
+                            else:
+                                # タイムゾーン情報がない場合はUTCとして扱う
+                                timestamp = datetime.fromisoformat(timestamp_str).replace(tzinfo=timezone.utc)
+                            
+                            if timestamp >= local_cutoff_date:
+                                # GitHub Issues に無い重複データは除外
+                                article_id = data['article']['id']
+                                if not any(entry['article']['id'] == article_id and 
+                                         entry['feedback'] == data['feedback'] 
+                                         for entry in issues_data):
+                                    data['source'] = 'local_file'
+                                    feedback_data.append(data)
+                            
+                        except (json.JSONDecodeError, KeyError, ValueError) as e:
+                            self.logger.warning(f"Line {line_num} parsing error: {e}")
+                            continue
+                
+            except Exception as e:
+                self.logger.error(f"Error loading local feedback data: {e}")
+        
+        self.logger.info(f"Total loaded {len(feedback_data)} feedback entries from last {days} days")
+        self.logger.info(f"  - GitHub Issues: {len(issues_data)} entries")
+        self.logger.info(f"  - Local file: {len(feedback_data) - len(issues_data)} entries")
+        
+        return feedback_data
     
     def extract_patterns(self, feedback_data: List[Dict]) -> Dict:
         """

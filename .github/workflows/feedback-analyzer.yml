@@ -83,7 +83,7 @@ jobs:
         
         # まずフィードバック分析を実行
         echo "📈 Running feedback analysis..."
-        python src/main.py --analyze-feedback --feedback-days $DAYS --feedback-min 3 --debug
+        python src/main.py --analyze-feedback --feedback-days $DAYS --feedback-min $MIN_FEEDBACK --debug
         
         # analysis_onlyがtrueの場合は分析のみで終了
         if [ "$ANALYSIS_ONLY" = "true" ]; then
