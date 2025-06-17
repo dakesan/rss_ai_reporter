@@ -4,12 +4,14 @@
     "COVID",
     "CRISPR",
     "biomarkers",
+    "bioinformatics",
     "cancer",
     "climate",
     "drug delivery",
     "genomics",
     "immunotherapy",
     "machine learning",
+    "nanotechnology",
     "neural network",
     "precision medicine",
     "proteomics",
@@ -17,6 +19,10 @@
     "single-cell analysis",
     "systems biology",
     "targeted therapy",
+    "personalized medicine",
+    "proteomics",
+    "quantum",
+    "single-cell analysis",
     "vaccine"
   ],
   "exclude": [
@@ -35,6 +41,15 @@
     "social science",
     "spotlight",
     "systematic review"
+    "environmental science",
+    "erratum",
+    "general review articles",
+    "materials science",
+    "obituaries",
+    "opinion pieces",
+    "retraction",
+    "social science",
+    "spotlight"
   ],
   "research_only": false,
   "article_types": {
