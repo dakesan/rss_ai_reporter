@@ -3,10 +3,14 @@ name = "rss-ai-reporter"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
-    "boto3>=1.38.32",
+    "feedparser==6.0.11",
+    "beautifulsoup4==4.12.3",
+    "requests>=2.31.0",
+    "google-generativeai==0.3.2",
+    "lxml==5.1.0",
     "flask==3.0.0",
+    "boto3>=1.38.32",
     "pyyaml>=6.0.2",
-    "requests>=2.32.3",
 ]
