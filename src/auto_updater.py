@@ -182,8 +182,8 @@ class AutoFilterUpdater:
         
         # 過度な変更の防止
         total_changes = len(new_includes) + len(new_excludes)
-        if total_changes > 10:
-            return False, f"Too many changes suggested: {total_changes} > 10"
+        if total_changes > 20:
+            return False, f"Too many changes suggested: {total_changes} > 20"
         
         return True, f"Confidence: {confidence}/10, Changes: {total_changes}, Data: {data_count} entries"
     
