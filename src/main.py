@@ -172,7 +172,7 @@ class PaperSummarizerPipeline:
     def run_slack_test(self, use_real_summaries: bool = False):
         """キューからの記事でSlack通知をテストする"""
         try:
-            queue = self.load_queue()
+            queue = self.queue_manager.load_queue()
             if not queue:
                 print("No articles in queue for testing")
                 return
@@ -215,7 +215,7 @@ class PaperSummarizerPipeline:
     def run_summarization_test(self):
         """キューからの記事でサマライズ機能をテストする"""
         try:
-            queue = self.load_queue()
+            queue = self.queue_manager.load_queue()
             if not queue:
                 print("No articles in queue for testing")
                 return
@@ -245,7 +245,7 @@ class PaperSummarizerPipeline:
     def run_slack_test_3(self, use_real_summaries: bool = False):
         """3エントリ限定でフィードバックボタン付きSlack通知をテストする"""
         try:
-            queue = self.load_queue()
+            queue = self.queue_manager.load_queue()
             if not queue:
                 print("No articles in queue for testing")
                 return
