@@ -31,7 +31,7 @@ jobs:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       run: |
-        python src/main.py
+        python src/main.py --debug
     
     - name: データファイルの変更をコミット
       run: |
