@@ -1,0 +1,64 @@
+name: 環境変数テスト
+
+on:
+  workflow_dispatch: # 手動実行のみ
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v3
+    
+    - name: Pythonセットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 依存関係インストール
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: 環境変数テスト
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      run: |
+        echo "Testing environment variables..."
+        python -c "
+        import os
+        import sys
+        
+        # 環境変数チェック
+        gemini_key = os.environ.get('GEMINI_API_KEY')
+        slack_url = os.environ.get('SLACK_WEBHOOK_URL')
+        
+        print(f'GEMINI_API_KEY: {gemini_key[:10] if gemini_key else \"NOT SET\"}...')
+        print(f'SLACK_WEBHOOK_URL: {slack_url[:30] if slack_url else \"NOT SET\"}...')
+        
+        # Gemini API テスト
+        try:
+            import google.generativeai as genai
+            if gemini_key:
+                genai.configure(api_key=gemini_key)
+                model = genai.GenerativeModel('gemini-1.5-flash')
+                response = model.generate_content('Hello test')
+                print('Gemini API: SUCCESS')
+            else:
+                print('Gemini API: NO KEY')
+        except Exception as e:
+            print(f'Gemini API: FAILED - {e}')
+        
+        # JSON ファイルテスト
+        import json
+        test_files = ['data/filter_config.json', 'data/feeds_config.json', 'data/last_check.json']
+        for file_path in test_files:
+            try:
+                with open(file_path, 'r') as f:
+                    data = json.load(f)
+                print(f'{file_path}: Valid JSON')
+            except Exception as e:
+                print(f'{file_path}: ERROR - {e}')
+        "
