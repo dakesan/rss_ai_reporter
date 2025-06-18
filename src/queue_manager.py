@@ -34,7 +34,15 @@ class QueueManager:
         return []
     
     def save_queue(self, queue: List[Dict[str, Any]]):
-        """キューをファイルに保存"""
+        """キューをファイルに保存（サイズ制限付き）"""
+        # サイズ制限：最大500件
+        MAX_QUEUE_SIZE = 500
+        if len(queue) > MAX_QUEUE_SIZE:
+            # 優先度順にソートして上位のみ保持
+            queue_sorted = sorted(queue, key=lambda x: (x.get('priority', 999), x.get('added_at', '')))
+            queue = queue_sorted[:MAX_QUEUE_SIZE]
+            print(f"Queue size limited to {MAX_QUEUE_SIZE} items")
+        
         os.makedirs(os.path.dirname(self.queue_file), exist_ok=True)
         with open(self.queue_file, 'w', encoding='utf-8') as f:
             json.dump(queue, f, indent=2, ensure_ascii=False)
