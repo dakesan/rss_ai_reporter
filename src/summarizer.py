@@ -7,10 +7,20 @@ class Summarizer:
     def __init__(self, debug_mode: bool = False):
         api_key = os.environ.get('GEMINI_API_KEY')
         if not api_key:
+            print("ERROR: GEMINI_API_KEY environment variable is not set")
+            print(f"Available env vars: {list(os.environ.keys())}")
             raise ValueError("GEMINI_API_KEY environment variable is not set")
         
-        genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel('gemini-1.5-flash')
+        print(f"GEMINI_API_KEY loaded: {api_key[:10]}..." if api_key else "No API key")
+        
+        try:
+            genai.configure(api_key=api_key)
+            self.model = genai.GenerativeModel('gemini-1.5-flash')
+            print("Gemini API initialized successfully")
+        except Exception as e:
+            print(f"ERROR: Failed to initialize Gemini API: {e}")
+            raise
+            
         self.debug_mode = debug_mode
         
     def summarize_article(self, article: Dict[str, Any]) -> str:
