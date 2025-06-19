@@ -1,1661 +1,5 @@
 [
   {
-    "id": "oai:arXiv.org:2506.08188v1",
-    "journal": "arXiv_CS",
-    "title": "GradEscape: A Gradient-Based Evader Against AI-Generated Text Detectors",
-    "link": "https://arxiv.org/abs/2506.08188",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08188v1 Announce Type: new \nAbstract: In this paper, we introduce GradEscape, the first gradient-based evader designed to attack AI-generated text (AIGT) detectors. GradEscape overcomes the undifferentiable computation problem, caused by the discrete nature of text, by introducing a novel approach to construct weighted embeddings for the detector input. It then updates the evader model parameters using feedback from victim detectors, achieving high attack success with minimal text modification. To address the issue of tokenizer mismatch between the evader and the detector, we introduce a warm-started evader method, enabling GradEscape to adapt to detectors across any language model architecture. Moreover, we employ novel tokenizer inference and model extraction techniques, facilitating effective evasion even in query-only access.\n  We evaluate GradEscape on four datasets and three widely-used language models, benchmarking it against four state-of-the-art AIGT evaders. Experimental results demonstrate that GradEscape outperforms existing evaders in various scenarios, including with an 11B paraphrase model, while utilizing only 139M parameters. We have successfully applied GradEscape to two real-world commercial AIGT detectors. Our analysis reveals that the primary vulnerability stems from disparity in text expression styles within the training data. We also propose a potential defense strategy to mitigate the threat of AIGT evaders. We open-source our GradEscape for developing more robust AIGT detectors.",
-    "authors": [
-      "Wenlong Meng, Shuguo Fan, Chengkun Wei, Min Chen, Yuwei Li, Yuanchao Zhang, Zhikun Zhang, Wenzhi Chen"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606016"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08205v1",
-    "journal": "arXiv_CS",
-    "title": "A Machine Learning Approach to Generate Residual Stress Distributions using Sparse Characterization Data in Friction-Stir Processed Parts",
-    "link": "https://arxiv.org/abs/2506.08205",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08205v1 Announce Type: new \nAbstract: Residual stresses, which remain within a component after processing, can deteriorate performance. Accurately determining their full-field distributions is essential for optimizing the structural integrity and longevity. However, the experimental effort required for full-field characterization is impractical. Given these challenges, this work proposes a machine learning (ML) based Residual Stress Generator (RSG) to infer full-field stresses from limited measurements. An extensive dataset was initially constructed by performing numerous process simulations with a diverse parameter set. A ML model based on U-Net architecture was then trained to learn the underlying structure through systematic hyperparameter tuning. Then, the model's ability to generate simulated stresses was evaluated, and it was ultimately tested on actual characterization data to validate its effectiveness. The model's prediction of simulated stresses shows that it achieved excellent predictive accuracy and exhibited a significant degree of generalization, indicating that it successfully learnt the latent structure of residual stress distribution. The RSG's performance in predicting experimentally characterized data highlights the feasibility of the proposed approach in providing a comprehensive understanding of residual stress distributions from limited measurements, thereby significantly reducing experimental efforts.",
-    "authors": [
-      "Shadab Anwar Shaikh, Kranthi Balusu, Ayoub Soulami"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606057"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08214v1",
-    "journal": "arXiv_CS",
-    "title": "Using Satellite Images And Self-supervised Machine Learning Networks To Detect Water Hidden Under Vegetation",
-    "link": "https://arxiv.org/abs/2506.08214",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08214v1 Announce Type: new \nAbstract: In recent years the wide availability of high-resolution radar satellite images along with the advancement of computer vision models have enabled the remote monitoring of the surface area of wetlands. However, these models require large amounts of manually annotated satellite images, which are slow and expensive to produce. To overcome this problem, self-supervised training methods have been deployed to train models without using annotated data. In this paper we use a combination of deep clustering and negative sampling to train a model to segment radar satellite images into areas that separate water from land without the use of any manual annotations. Furthermore, we implement an ensemble version of the model to reduce variance and improve performance. Compared to a single fully-supervised model using the same architecture, our ensemble of self-supervised models achieves a 0.02 improvement in the Intersection Over Union metric over our test dataset.",
-    "authors": [
-      "Ioannis Iakovidis, Zahra Kalantari, Amir Hossein Payberah, Fernando Jaramillo, Francisco Pena Escobar"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606070"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08218v1",
-    "journal": "arXiv_CS",
-    "title": "gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images",
-    "link": "https://arxiv.org/abs/2506.08218",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08218v1 Announce Type: new \nAbstract: Containerisation is a popular deployment process for application-level virtualisation using a layer-based approach. Docker is a leading provider of containerisation, and through the Docker Hub, users can supply Docker images for sharing and re-purposing popular software application containers. Using a combination of in-built inspection commands, publicly displayed image layer content, and static image scanning, Docker images are designed to ensure end users can clearly assess the content of the image before running them. In this paper we present \\textbf{\\textit{gh0stEdit}}, a vulnerability that fundamentally undermines the integrity of Docker images and subverts the assumed trust and transparency they utilise. The use of gh0stEdit allows an attacker to maliciously edit Docker images, in a way that is not shown within the image history, hierarchy or commands. This attack can also be carried out against signed images (Docker Content Trust) without invalidating the image signature. We present two use case studies for this vulnerability, and showcase how gh0stEdit is able to poison an image in a way that is not picked up through static or dynamic scanning tools. Our attack case studies highlight the issues in the current approach to Docker image security and trust, and expose an attack method which could potentially be exploited in the wild without being detected. To the best of our knowledge we are the first to provide detailed discussion on the exploit of this vulnerability.",
-    "authors": [
-      "Alan Mills, Jonathan White, Phil Legg"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606078"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08220v1",
-    "journal": "arXiv_CS",
-    "title": "Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence",
-    "link": "https://arxiv.org/abs/2506.08220",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08220v1 Announce Type: new \nAbstract: Semantic correspondence (SC) aims to establish semantically meaningful matches across different instances of an object category. We illustrate how recent supervised SC methods remain limited in their ability to generalize beyond sparsely annotated training keypoints, effectively acting as keypoint detectors. To address this, we propose a novel approach for learning dense correspondences by lifting 2D keypoints into a canonical 3D space using monocular depth estimation. Our method constructs a continuous canonical manifold that captures object geometry without requiring explicit 3D supervision or camera annotations. Additionally, we introduce SPair-U, an extension of SPair-71k with novel keypoint annotations, to better assess generalization. Experiments not only demonstrate that our model significantly outperforms supervised baselines on unseen keypoints, highlighting its effectiveness in learning robust correspondences, but that unsupervised baselines outperform supervised counterparts when generalized across different datasets.",
-    "authors": [
-      "Octave Mariotti, Zhipeng Du, Yash Bhalgat, Oisin Mac Aodha, Hakan Bilen"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606081"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08226v1",
-    "journal": "arXiv_CS",
-    "title": "Mondrian: Transformer Operators via Domain Decomposition",
-    "link": "https://arxiv.org/abs/2506.08226",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08226v1 Announce Type: new \nAbstract: Operator learning enables data-driven modeling of partial differential equations (PDEs) by learning mappings between function spaces. However, scaling transformer-based operator models to high-resolution, multiscale domains remains a challenge due to the quadratic cost of attention and its coupling to discretization. We introduce \\textbf{Mondrian}, transformer operators that decompose a domain into non-overlapping subdomains and apply attention over sequences of subdomain-restricted functions. Leveraging principles from domain decomposition, Mondrian decouples attention from discretization. Within each subdomain, it replaces standard layers with expressive neural operators, and attention across subdomains is computed via softmax-based inner products over functions. The formulation naturally extends to hierarchical windowed and neighborhood attention, supporting both local and global interactions. Mondrian achieves strong performance on Allen-Cahn and Navier-Stokes PDEs, demonstrating resolution scaling without retraining. These results highlight the promise of domain-decomposed attention for scalable and general-purpose neural operators.",
-    "authors": [
-      "Arthur Feeney, Kuei-Hsiang Huang, Aparna Chandramowlishwaran"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606095"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08234v1",
-    "journal": "arXiv_CS",
-    "title": "Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions",
-    "link": "https://arxiv.org/abs/2506.08234",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08234v1 Announce Type: new \nAbstract: Recent advancements in large language models (LLMs) and AI systems have led to a paradigm shift in the design and optimization of complex AI workflows. By integrating multiple components, compound AI systems have become increasingly adept at performing sophisticated tasks. However, as these systems grow in complexity, new challenges arise in optimizing not only individual components but also their interactions. While traditional optimization methods such as supervised fine-tuning (SFT) and reinforcement learning (RL) remain foundational, the rise of natural language feedback introduces promising new approaches, especially for optimizing non-differentiable systems. This paper provides a systematic review of recent progress in optimizing compound AI systems, encompassing both numerical and language-based techniques. We formalize the notion of compound AI system optimization, classify existing methods along several key dimensions, and highlight open research challenges and future directions in this rapidly evolving field. A list of surveyed papers is publicly available at https://github.com/MiuLab/AISysOpt-Survey.",
-    "authors": [
-      "Yu-Ang Lee, Guan-Ting Yi, Mei-Yi Liu, Jui-Chao Lu, Guan-Bo Yang, Yun-Nung Chen"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606115"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08235v1",
-    "journal": "arXiv_CS",
-    "title": "Can AI Validate Science? Benchmarking LLMs for Accurate Scientific Claim $\\rightarrow$ Evidence Reasoning",
-    "link": "https://arxiv.org/abs/2506.08235",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08235v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being used for complex research tasks such as literature review, idea generation, and scientific paper analysis, yet their ability to truly understand and process the intricate relationships within complex research papers, such as the logical links between claims and supporting evidence remains largely unexplored. In this study, we present CLAIM-BENCH, a comprehensive benchmark for evaluating LLMs' capabilities in scientific claim-evidence extraction and validation, a task that reflects deeper comprehension of scientific argumentation. We systematically compare three approaches which are inspired by divide and conquer approaches, across six diverse LLMs, highlighting model-specific strengths and weaknesses in scientific comprehension. Through evaluation involving over 300 claim-evidence pairs across multiple research domains, we reveal significant limitations in LLMs' ability to process complex scientific content. Our results demonstrate that closed-source models like GPT-4 and Claude consistently outperform open-source counterparts in precision and recall across claim-evidence identification tasks. Furthermore, strategically designed three-pass and one-by-one prompting approaches significantly improve LLMs' abilities to accurately link dispersed evidence with claims, although this comes at increased computational cost. CLAIM-BENCH sets a new standard for evaluating scientific comprehension in LLMs, offering both a diagnostic tool and a path forward for building systems capable of deeper, more reliable reasoning across full-length papers.",
-    "authors": [
-      "Shashidhar Reddy Javaji, Yupeng Cao, Haohang Li, Yangyang Yu, Nikhil Muralidhar, Zining Zhu"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606118"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08243v1",
-    "journal": "arXiv_CS",
-    "title": "Temporalizing Confidence: Evaluation of Chain-of-Thought Reasoning with Signal Temporal Logic",
-    "link": "https://arxiv.org/abs/2506.08243",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08243v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have shown impressive performance in mathematical reasoning tasks when guided by Chain-of-Thought (CoT) prompting. However, they tend to produce highly confident yet incorrect outputs, which poses significant risks in domains like education, where users may lack the expertise to assess reasoning steps. To address this, we propose a structured framework that models stepwise confidence as a temporal signal and evaluates it using Signal Temporal Logic (STL). In particular, we define formal STL-based constraints to capture desirable temporal properties and compute robustness scores that serve as structured, interpretable confidence estimates. Our approach also introduces a set of uncertainty reshaping strategies to enforce smoothness, monotonicity, and causal consistency across the reasoning trajectory. Experiments show that our approach consistently improves calibration metrics and provides more reliable uncertainty estimates than conventional confidence aggregation and post-hoc calibration.",
-    "authors": [
-      "Zhenjiang Mao, Artem Bisliouk, Rohith Reddy Nama, Ivan Ruchkin"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606136"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08257v1",
-    "journal": "arXiv_CS",
-    "title": "Highly Compressed Tokenizer Can Generate Without Training",
-    "link": "https://arxiv.org/abs/2506.08257",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08257v1 Announce Type: new \nAbstract: Commonly used image tokenizers produce a 2D grid of spatially arranged tokens. In contrast, so-called 1D image tokenizers represent images as highly compressed one-dimensional sequences of as few as 32 discrete tokens. We find that the high degree of compression achieved by a 1D tokenizer with vector quantization enables image editing and generative capabilities through heuristic manipulation of tokens, demonstrating that even very crude manipulations -- such as copying and replacing tokens between latent representations of images -- enable fine-grained image editing by transferring appearance and semantic attributes. Motivated by the expressivity of the 1D tokenizer's latent space, we construct an image generation pipeline leveraging gradient-based test-time optimization of tokens with plug-and-play loss functions such as reconstruction or CLIP similarity. Our approach is demonstrated for inpainting and text-guided image editing use cases, and can generate diverse and realistic samples without requiring training of any generative model.",
-    "authors": [
-      "L. Lao Beyer, T. Li, X. Chen, S. Karaman, K. He"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606159"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08266v1",
-    "journal": "arXiv_CS",
-    "title": "Reinforcement Learning from Human Feedback with High-Confidence Safety Constraints",
-    "link": "https://arxiv.org/abs/2506.08266",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08266v1 Announce Type: new \nAbstract: Existing approaches to language model alignment often treat safety as a tradeoff against helpfulness, which can lead to unacceptable responses in sensitive domains. To ensure reliable performance in such settings, we propose High-Confidence Safe Reinforcement Learning from Human Feedback (HC-RLHF), a method that provides high-confidence safety guarantees while maximizing helpfulness. Similar to previous methods, HC-RLHF explicitly decouples human preferences into helpfulness and harmlessness (safety), which are learned by training a reward model and a cost model, respectively. It then employs a two-step process to find safe solutions. In the first step, it optimizes the reward function under an intentionally pessimistic version of the cost constraint. In the second step, the trained model undergoes a safety test to verify whether its performance stays within an upper-confidence bound of the actual cost constraint. We provide a theoretical analysis of HC-RLHF, including proof that it will not return an unsafe solution with a probability greater than a user-specified threshold. For our empirical analysis, we apply HC-RLHF to align three different language models (Qwen2-1.5B, Qwen2.5-3B, and LLaMa3.2-3B) with human preferences. Our results demonstrate that HC-RLHF produces safe models with high probability and can improve harmlessness and helpfulness compared to previous methods.",
-    "authors": [
-      "Yaswanth Chittepu, Blossom Metevier, Will Schwarzer, Austin Hoag, Scott Niekum, Philip S. Thomas"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606181"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08270v1",
-    "journal": "arXiv_CS",
-    "title": "SWAT-NN: Simultaneous Weights and Architecture Training for Neural Networks in a Latent Space",
-    "link": "https://arxiv.org/abs/2506.08270",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08270v1 Announce Type: new \nAbstract: Designing neural networks typically relies on manual trial and error or a neural architecture search (NAS) followed by weight training. The former is time-consuming and labor-intensive, while the latter often discretizes architecture search and weight optimization. In this paper, we propose a fundamentally different approach that simultaneously optimizes both the architecture and the weights of a neural network. Our framework first trains a universal multi-scale autoencoder that embeds both architectural and parametric information into a continuous latent space, where functionally similar neural networks are mapped closer together. Given a dataset, we then randomly initialize a point in the embedding space and update it via gradient descent to obtain the optimal neural network, jointly optimizing its structure and weights. The optimization process incorporates sparsity and compactness penalties to promote efficient models. Experiments on synthetic regression tasks demonstrate that our method effectively discovers sparse and compact neural networks with strong performance.",
-    "authors": [
-      "Zitong Huang, Mansooreh Montazerin, Ajitesh Srivastava"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606189"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08272v1",
-    "journal": "arXiv_CS",
-    "title": "Universal Differential Equations for Scientific Machine Learning of Node-Wise Battery Dynamics in Smart Grids",
-    "link": "https://arxiv.org/abs/2506.08272",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08272v1 Announce Type: new \nAbstract: Universal Differential Equations (UDEs), which blend neural networks with physical differential equations, have emerged as a powerful framework for scientific machine learning (SciML), enabling data-efficient, interpretable, and physically consistent modeling. In the context of smart grid systems, modeling node-wise battery dynamics remains a challenge due to the stochasticity of solar input and variability in household load profiles. Traditional approaches often struggle with generalization and fail to capture unmodeled residual dynamics. This work proposes a UDE-based approach to learn node-specific battery evolution by embedding a neural residual into a physically inspired battery ODE. Synthetic yet realistic solar generation and load demand data are used to simulate battery dynamics over time. The neural component learns to model unobserved or stochastic corrections arising from heterogeneity in node demand and environmental conditions. Comprehensive experiments reveal that the trained UDE aligns closely with ground truth battery trajectories, exhibits smooth convergence behavior, and maintains stability in long-term forecasts. These findings affirm the viability of UDE-based SciML approaches for battery modeling in decentralized energy networks and suggest broader implications for real-time control and optimization in renewable-integrated smart grids.",
-    "authors": [
-      "Tarushri N. S."
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606193"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08274v1",
-    "journal": "arXiv_CS",
-    "title": "The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks",
-    "link": "https://arxiv.org/abs/2506.08274",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08274v1 Announce Type: new \nAbstract: This research addresses the critical lack of comprehensive studies on feature scaling by systematically evaluating 12 scaling techniques - including several less common transformations - across 14 different Machine Learning algorithms and 16 datasets for classification and regression tasks. We meticulously analyzed impacts on predictive performance (using metrics such as accuracy, MAE, MSE, and $R^2$) and computational costs (training time, inference time, and memory usage). Key findings reveal that while ensemble methods (such as Random Forest and gradient boosting models like XGBoost, CatBoost and LightGBM) demonstrate robust performance largely independent of scaling, other widely used models such as Logistic Regression, SVMs, TabNet, and MLPs show significant performance variations highly dependent on the chosen scaler. This extensive empirical analysis, with all source code, experimental results, and model parameters made publicly available to ensure complete transparency and reproducibility, offers model-specific crucial guidance to practitioners on the need for an optimal selection of feature scaling techniques.",
-    "authors": [
-      "Jo\\~ao Manoel Herrera Pinheiro, Suzana Vilas Boas de Oliveira, Thiago Henrique Segreto Silva, Pedro Antonio Rabelo Saraiva, Enzo Ferreira de Souza, Leonardo Andr\\'e Ambrosio, Marcelo Becker"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606197"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08284v1",
-    "journal": "arXiv_CS",
-    "title": "A structure preserving H-curl algebraic multigrid method for the eddy current equations",
-    "link": "https://arxiv.org/abs/2506.08284",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08284v1 Announce Type: new \nAbstract: A new algebraic multigrid method (AMG) is presented for solving the linear systems associated with the eddy current approximation to the Maxwell equations. This AMG method extends an idea proposed by Reitzinger and Schoberl. The main feature of the Reitzinger and Schoberl algorithm (RSAMG) is that it maintains null-space properties of the Curl-Curl operator throughout all levels of the AMG hierarchy. It does this by enforcing a commuting relationship involving grid transfers and the discrete gradient operator. This null-space preservation property is critical to the algorithm's success, however enforcing this commuting relationship is non-trivial except in the special case where one leverages a piece-wise constant nodal interpolation operator. For this reason, mesh independent convergence rates are generally not observed for RSAMG due to its reliance on sub-optimal piece-wise constant interpolation. We present a new AMG algorithm that enforces the same commuting relationship. The main advance is that the new structure preserving H-curl algorithm (SpHcurlAMG) does not rely on piece-wise constant interpolation and can leverage fairly general and more sophisticated nodal interpolation operators. The key idea is to employ energy minimization AMG (EAMG) to construct edge interpolation grid transfers and to enforce the commuting relationship by embedding it as constraints within an EAMG procedure. While it might appear that solving such a constrained energy minimization is costly, we illustrate how this is not the case in our context. Numerical results are then given demonstrating mesh independent convergence over a range of test problems.",
-    "authors": [
-      "Raymond Tuminaro, Christian Glusa"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606211"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08296v1",
-    "journal": "arXiv_CS",
-    "title": "HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation",
-    "link": "https://arxiv.org/abs/2506.08296",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08296v1 Announce Type: new \nAbstract: Recent advances in multimodal vision-language-action (VLA) models have revolutionized traditional robot learning, enabling systems to interpret vision, language, and action in unified frameworks for complex task planning. However, mastering complex manipulation tasks remains an open challenge, constrained by limitations in persistent contextual memory, multi-agent coordination under uncertainty, and dynamic long-horizon planning across variable sequences. To address this challenge, we propose \\textbf{HiBerNAC}, a \\textbf{Hi}erarchical \\textbf{B}rain-\\textbf{e}mulated \\textbf{r}obotic \\textbf{N}eural \\textbf{A}gent \\textbf{C}ollective, inspired by breakthroughs in neuroscience, particularly in neural circuit mechanisms and hierarchical decision-making. Our framework combines: (1) multimodal VLA planning and reasoning with (2) neuro-inspired reflection and multi-agent mechanisms, specifically designed for complex robotic manipulation tasks. By leveraging neuro-inspired functional modules with decentralized multi-agent collaboration, our approach enables robust and enhanced real-time execution of complex manipulation tasks. In addition, the agentic system exhibits scalable collective intelligence via dynamic agent specialization, adapting its coordination strategy to variable task horizons and complexity. Through extensive experiments on complex manipulation tasks compared with state-of-the-art VLA models, we demonstrate that \\textbf{HiBerNAC} reduces average long-horizon task completion time by 23\\%, and achieves non-zero success rates (12\\textendash 31\\%) on multi-path tasks where prior state-of-the-art VLA models consistently fail. These results provide indicative evidence for bridging biological cognition and robotic learning mechanisms.",
-    "authors": [
-      "Hongjun Wu, Heng Zhang, Pengsong Zhang, Jin Wang, Cong Wang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606233"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08319v1",
-    "journal": "arXiv_CS",
-    "title": "DEKC: Data-Enable Control for Tethered Space Robot Deployment in the Presence of Uncertainty via Koopman Operator Theory",
-    "link": "https://arxiv.org/abs/2506.08319",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08319v1 Announce Type: new \nAbstract: This work focuses the deployment of tethered space robot in the presence of unknown uncertainty. A data-enable framework called DEKC which contains offline training part and online execution part is proposed to deploy tethered space robot in the presence of uncertainty. The main idea of this work is modeling the unknown uncertainty as a dynamical system, which enables high accuracy and convergence of capturing uncertainty. The core part of proposed framework is a proxy model of uncertainty, which is derived from data-driven Koopman theory and is separated with controller design. In the offline stage, the lifting functions associated with Koopman operator are parameterized with deep neural networks. Then by solving an optimization problem, the lifting functions are learned from sampling data. In the online execution stage, the proxy model cooperates the learned lifting functions obtained in the offline phase to capture the unknown uncertainty. Then the output of proxy model is compensated to the baseline controller such that the effect of uncertainty can be attenuated or even eliminated. Furthermore, considering some scenarios in which the performance of proxy model may weaken, a receding-horizon scheme is proposed to update the proxy model online. Finally, the extensive numerical simulations demonstrate the effectiveness of our proposed framework. The implementation of proposed DEKC framework is publicly available at https://github.com/NPU-RCIR/DEKC.git.",
-    "authors": [
-      "Ao Jin, Qinyi Wang, Sijie Wen, Ya Liu, Ganghui Shen, Panfeng Huang, Fan Zhang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606287"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08321v1",
-    "journal": "arXiv_CS",
-    "title": "LeanTutor: A Formally-Verified AI Tutor for Mathematical Proofs",
-    "link": "https://arxiv.org/abs/2506.08321",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08321v1 Announce Type: new \nAbstract: We present LeanTutor, a Large Language Model (LLM)-based tutoring system for math proofs. LeanTutor interacts with the student in natural language, formally verifies student-written math proofs in Lean, generates correct next steps, and provides the appropriate instructional guidance. LeanTutor is composed of three modules: (i) an autoformalizer/proof-checker, (ii) a next-step generator, and (iii) a natural language feedback generator. The first module faithfully autoformalizes student proofs into Lean and verifies proof accuracy via successful code compilation. If the proof has an error, the incorrect step is identified. The next-step generator module outputs a valid next Lean tactic for incorrect proofs via LLM-based candidate generation and proof search. The feedback generator module leverages Lean data to produce a pedagogically-motivated natural language hint for the student user. To evaluate our system, we introduce PeanoBench, a human-written dataset derived from the Natural Numbers Game, consisting of 371 Peano Arithmetic proofs, where each natural language proof step is paired with the corresponding logically equivalent tactic in Lean. The Autoformalizer correctly formalizes 57% of tactics in correct proofs and accurately identifies the incorrect step in 30% of incorrect proofs. In generating natural language hints for erroneous proofs, LeanTutor outperforms a simple baseline on accuracy and relevance metrics.",
-    "authors": [
-      "Manooshree Patel, Rayna Bhattacharyya, Thomas Lu, Arnav Mehta, Niels Voss, Narges Norouzi, Gireeja Ranade"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606295"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08336v1",
-    "journal": "arXiv_CS",
-    "title": "Your Agent Can Defend Itself against Backdoor Attacks",
-    "link": "https://arxiv.org/abs/2506.08336",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08336v1 Announce Type: new \nAbstract: Despite their growing adoption across domains, large language model (LLM)-powered agents face significant security risks from backdoor attacks during training and fine-tuning. These compromised agents can subsequently be manipulated to execute malicious operations when presented with specific triggers in their inputs or environments. To address this pressing risk, we present ReAgent, a novel defense against a range of backdoor attacks on LLM-based agents. Intuitively, backdoor attacks often result in inconsistencies among the user's instruction, the agent's planning, and its execution. Drawing on this insight, ReAgent employs a two-level approach to detect potential backdoors. At the execution level, ReAgent verifies consistency between the agent's thoughts and actions; at the planning level, ReAgent leverages the agent's capability to reconstruct the instruction based on its thought trajectory, checking for consistency between the reconstructed instruction and the user's instruction. Extensive evaluation demonstrates ReAgent's effectiveness against various backdoor attacks across tasks. For instance, ReAgent reduces the attack success rate by up to 90\\% in database operation tasks, outperforming existing defenses by large margins. This work reveals the potential of utilizing compromised agents themselves to mitigate backdoor risks.",
-    "authors": [
-      "Li Changjiang, Liang Jiacheng, Cao Bochuan, Chen Jinghui, Wang Ting"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606324"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08343v1",
-    "journal": "arXiv_CS",
-    "title": "Wait, We Don't Need to \"Wait\"! Removing Thinking Tokens Improves Reasoning Efficiency",
-    "link": "https://arxiv.org/abs/2506.08343",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08343v1 Announce Type: new \nAbstract: Recent advances in large reasoning models have enabled complex, step-by-step reasoning but often introduce significant overthinking, resulting in verbose and redundant outputs that hinder efficiency. In this study, we examine whether explicit self-reflection, signaled by tokens such as \"Wait\" and \"Hmm\", is necessary for advanced reasoning. We propose NoWait, a simple yet effective approach that disables explicit self-reflection by suppressing these tokens during inference. Extensive experiments on ten benchmarks across textual, visual, and video reasoning tasks show that NoWait reduces chain-of-thought trajectory length by up to 27%-51% in five R1-style model series, without compromising model utility. NoWait thus offers a plug-and-play solution for efficient and utility-preserving multimodal reasoning.",
-    "authors": [
-      "Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606335"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08348v1",
-    "journal": "arXiv_CS",
-    "title": "Pureformer-VC: Non-parallel Voice Conversion with Pure Stylized Transformer Blocks and Triplet Discriminative Training",
-    "link": "https://arxiv.org/abs/2506.08348",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08348v1 Announce Type: new \nAbstract: As a foundational technology for intelligent human-computer interaction, voice conversion (VC) seeks to transform speech from any source timbre into any target timbre. Traditional voice conversion methods based on Generative Adversarial Networks (GANs) encounter significant challenges in precisely encoding diverse speech elements and effectively synthesising these elements into natural-sounding converted speech. To overcome these limitations, we introduce Pureformer-VC, an encoder-decoder framework that utilizes Conformer blocks to build a disentangled encoder and employs Zipformer blocks to create a style transfer decoder. We adopt a variational decoupled training approach to isolate speech components using a Variational Autoencoder (VAE), complemented by triplet discriminative training to enhance the speaker's discriminative capabilities. Furthermore, we incorporate the Attention Style Transfer Mechanism (ASTM) with Zipformer's shared weights to improve the style transfer performance in the decoder. We conducted experiments on two multi-speaker datasets. The experimental results demonstrate that the proposed model achieves comparable subjective evaluation scores while significantly enhancing objective metrics compared to existing approaches in many-to-many and many-to-one VC scenarios.",
-    "authors": [
-      "Wenhan Yao, Fen Xiao, Xiarun Chen, Jia Liu, YongQiang He, Weiping Wen"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606353"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08416v1",
-    "journal": "arXiv_CS",
-    "title": "Periodic Bipedal Gait Learning Using Reward Composition Based on a Novel Gait Planner for Humanoid Robots",
-    "link": "https://arxiv.org/abs/2506.08416",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08416v1 Announce Type: new \nAbstract: This paper presents a periodic bipedal gait learning method using reward composition, integrated with a real-time gait planner for humanoid robots. First, we introduce a novel gait planner that incorporates dynamics to design the desired joint trajectory. In the gait design process, the 3D robot model is decoupled into two 2D models, which are then approximated as hybrid inverted pendulums (H-LIP) for trajectory planning. The gait planner operates in parallel in real time within the robot's learning environment. Second, based on this gait planner, we design three effective reward functions within a reinforcement learning framework, forming a reward composition to achieve periodic bipedal gait. This reward composition reduces the robot's learning time and enhances locomotion performance. Finally, a gait design example and performance comparison are presented to demonstrate the effectiveness of the proposed method.",
-    "authors": [
-      "Bolin Li, Linwei Sun, Xuecong Huang, Yuzhi Jiang, Lijun Zhu"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606534"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08433v1",
-    "journal": "arXiv_CS",
-    "title": "Low-resource domain adaptation while minimizing energy and hardware resource consumption",
-    "link": "https://arxiv.org/abs/2506.08433",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08433v1 Announce Type: new \nAbstract: Training Large Language Models (LLMs) is costly in terms of energy, hardware, and annotated data, often resulting in a positionality rooted in predominant cultures and values (Santy et al., 2023). Domain adaptation has emerged as a promising strategy to better align models with diverse cultural and value contexts (Hershcovich et al., 2022), but its computational cost remains a significant barrier, particularly for research groups lacking access to large-scale infrastructure. In this paper, we evaluate how the use of different numerical precisions and data parallelization strategies impacts both training speed (as a proxy to energy and hardware consumption) and model accuracy, with the goal of facilitating domain adaptation in low-resource environments. Our findings are relevant to any setting where energy efficiency, accessibility, or limited hardware availability are key concerns.",
-    "authors": [
-      "Hern\\'an Maina, Nicol\\'as Wolovick, Luciana Benotti"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606576"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08436v1",
-    "journal": "arXiv_CS",
-    "title": "Olica: Efficient Structured Pruning of Large Language Models without Retraining",
-    "link": "https://arxiv.org/abs/2506.08436",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08436v1 Announce Type: new \nAbstract: Most existing structured pruning methods for Large Language Models (LLMs) require substantial computational and data resources for retraining to reestablish the corrupted correlations, making them prohibitively expensive. To address this, we propose a pruning framework for LLMs called Orthogonal decomposition and Linear Calibration (Olica), which eliminates the need for retraining. A key observation is that the multi-head attention (MHA) layer depends on two types of matrix products. By treating these matrix products as unified entities and applying principal component analysis (PCA), we extract the most important information to compress LLMs without sacrificing accuracy or disrupting their original structure. Consequently, retraining becomes unnecessary. A fast decomposition method is devised, reducing the complexity of PCA by a factor of the square of the number of attention heads. Additionally, to mitigate error accumulation problem caused by pruning the feed-forward network (FFN) layer, we introduce a linear calibration method to reconstruct the residual errors of pruned layers using low-rank matrices. By leveraging singular value decomposition (SVD) on the solution of the least-squares problem, these matrices are obtained without requiring retraining. Extensive experiments show that the proposed Olica is efficient in terms of data usage, GPU memory, and running time, while delivering superior performance across multiple benchmarks.",
-    "authors": [
-      "Jiujun He, Huazhen Lin"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606588"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08445v1",
-    "journal": "arXiv_CS",
-    "title": "GPS Spoofing Attacks on AI-based Navigation Systems with Obstacle Avoidance in UAV",
-    "link": "https://arxiv.org/abs/2506.08445",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08445v1 Announce Type: new \nAbstract: Recently, approaches using Deep Reinforcement Learning (DRL) have been proposed to solve UAV navigation systems in complex and unknown environments. However, despite extensive research and attention, systematic studies on various security aspects have not yet been conducted. Therefore, in this paper, we conduct research on security vulnerabilities in DRL-based navigation systems, particularly focusing on GPS spoofing attacks against the system. Many recent basic DRL-based navigation systems fundamentally share an efficient structure. This paper presents an attack model that operates through GPS spoofing attacks briefly modeling the range of spoofing attack against EKF sensor fusion of PX4 autopilot, and combine this with the DRL-based system to design attack scenarios that are closer to reality. Finally, this paper experimentally demonstrated that attacks are possible both in the basic DRL system and in attack models combining the DRL system with PX4 autopilot system.",
-    "authors": [
-      "Ji Hyuk Jung, Mi Yeon Hong, Ji Won Yoon"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606622"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08467v1",
-    "journal": "arXiv_CS",
-    "title": "Rethinking Citation of AI Sources in Student-AI Collaboration within HCI Design Education",
-    "link": "https://arxiv.org/abs/2506.08467",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08467v1 Announce Type: new \nAbstract: The growing integration of AI tools in student design projects presents an unresolved challenge in HCI education: how should AI-generated content be cited and documented? Traditional citation frameworks -- grounded in credibility, retrievability, and authorship -- struggle to accommodate the dynamic and ephemeral nature of AI outputs. In this paper, we examine how undergraduate students in a UX design course approached AI usage and citation when given the freedom to integrate generative tools into their design process. Through qualitative analysis of 35 team projects and reflections from 175 students, we identify varied citation practices ranging from formal attribution to indirect or absent acknowledgment. These inconsistencies reveal gaps in existing frameworks and raise questions about authorship, assessment, and pedagogical transparency. We argue for rethinking AI citation as a reflective and pedagogical practice; one that supports metacognitive engagement by prompting students to critically evaluate how and why they used AI throughout the design process. We propose alternative strategies -- such as AI contribution statements and process-aware citation models that better align with the iterative and reflective nature of design education. This work invites educators to reconsider how citation practices can support meaningful student--AI collaboration.",
-    "authors": [
-      "Prakash Shukla, Suchismita Naik, Ike Obi, Jessica Backus, Nancy Rasche, Paul Parson"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606667"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08487v1",
-    "journal": "arXiv_CS",
-    "title": "Fairness is Not Silence: Unmasking Vacuous Neutrality in Small Language Models",
-    "link": "https://arxiv.org/abs/2506.08487",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08487v1 Announce Type: new \nAbstract: The rapid adoption of Small Language Models (SLMs) for on-device and resource-constrained deployments has outpaced our understanding of their ethical risks. To the best of our knowledge, we present the first large-scale audit of instruction-tuned SLMs spanning 0.5 to 5 billion parameters-an overlooked \"middle tier\" between BERT-class encoders and flagship LLMs. Our evaluation includes nine open-source models from the Qwen 2.5, LLaMA 3.2, Gemma 3, and Phi families. Using the BBQ benchmark under zero-shot prompting, we analyze both utility and fairness across ambiguous and disambiguated contexts. This evaluation reveals three key insights. First, competence and fairness need not be antagonistic: Phi models achieve F1 scores exceeding 90 percent while exhibiting minimal bias, showing that efficient and ethical NLP is attainable. Second, social bias varies significantly by architecture: Qwen 2.5 models may appear fair, but this often reflects vacuous neutrality, random guessing, or evasive behavior rather than genuine ethical alignment. In contrast, LLaMA 3.2 models exhibit stronger stereotypical bias, suggesting overconfidence rather than neutrality. Third, compression introduces nuanced trade-offs: 4-bit AWQ quantization improves F1 scores in ambiguous settings for LLaMA 3.2-3B but increases disability-related bias in Phi-4-Mini by over 7 percentage points. These insights provide practical guidance for the responsible deployment of SLMs in applications demanding fairness and efficiency, particularly benefiting small enterprises and resource-constrained environments.",
-    "authors": [
-      "Sumanth Manduru, Carlotta Domeniconi"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606714"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08504v1",
-    "journal": "arXiv_CS",
-    "title": "CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse paRsing in conversations",
-    "link": "https://arxiv.org/abs/2506.08504",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08504v1 Announce Type: new \nAbstract: Discourse parsing is an important task useful for NLU applications such as summarization, machine comprehension, and emotion recognition. The current discourse parsing datasets based on conversations consists of written English dialogues restricted to a single domain. In this resource paper, we introduce CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse paRsing in conversations. The corpus (code-mixed in Hindi and English) has both audio and transcribed text and is annotated with nine discourse relations. We experiment with various SoTA baseline models; the poor performance of SoTA models highlights the challenges of multi-domain code-mixed corpus, pointing towards the need for developing better models for such realistic settings.",
-    "authors": [
-      "Divyaksh Shukla, Ritesh Baviskar, Dwijesh Gohil, Aniket Tiwari, Atul Shree, Ashutosh Modi"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606740"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08505v1",
-    "journal": "arXiv_CS",
-    "title": "Explaining, Fast and Slow: Abstraction and Refinement of Provable Explanations",
-    "link": "https://arxiv.org/abs/2506.08505",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08505v1 Announce Type: new \nAbstract: Despite significant advancements in post-hoc explainability techniques for neural networks, many current methods rely on heuristics and do not provide formally provable guarantees over the explanations provided. Recent work has shown that it is possible to obtain explanations with formal guarantees by identifying subsets of input features that are sufficient to determine that predictions remain unchanged using neural network verification techniques. Despite the appeal of these explanations, their computation faces significant scalability challenges. In this work, we address this gap by proposing a novel abstraction-refinement technique for efficiently computing provably sufficient explanations of neural network predictions. Our method abstracts the original large neural network by constructing a substantially reduced network, where a sufficient explanation of the reduced network is also provably sufficient for the original network, hence significantly speeding up the verification process. If the explanation is in sufficient on the reduced network, we iteratively refine the network size by gradually increasing it until convergence. Our experiments demonstrate that our approach enhances the efficiency of obtaining provably sufficient explanations for neural network predictions while additionally providing a fine-grained interpretation of the network's predictions across different abstraction levels.",
-    "authors": [
-      "Shahaf Bassan, Yizhak Yisrael Elboher, Tobias Ladner, Matthias Althoff, Guy Katz"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606743"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08514v1",
-    "journal": "arXiv_CS",
-    "title": "DiffGradCAM: A Universal Class Activation Map Resistant to Adversarial Training",
-    "link": "https://arxiv.org/abs/2506.08514",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08514v1 Announce Type: new \nAbstract: Class Activation Mapping (CAM) and its gradient-based variants (e.g., GradCAM) have become standard tools for explaining Convolutional Neural Network (CNN) predictions. However, these approaches typically focus on individual logits, while for neural networks using softmax, the class membership probability estimates depend \\textit{only} on the \\textit{differences} between logits, not on their absolute values. This disconnect leaves standard CAMs vulnerable to adversarial manipulation, such as passive fooling, where a model is trained to produce misleading CAMs without affecting decision performance. We introduce \\textbf{Salience-Hoax Activation Maps (SHAMs)}, an \\emph{entropy-aware form of passive fooling} that serves as a benchmark for CAM robustness under adversarial conditions. To address the passive fooling vulnerability, we then propose \\textbf{DiffGradCAM}, a novel, lightweight, and contrastive approach to class activation mapping that is both non-suceptible to passive fooling, but also matches the output of standard CAM methods such as GradCAM in the non-adversarial case. Together, SHAM and DiffGradCAM establish a new framework for probing and improving the robustness of saliency-based explanations. We validate both contributions across multi-class tasks with few and many classes.",
-    "authors": [
-      "Jacob Piland, Chris Sweet, Adam Czakja"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606760"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08518v1",
-    "journal": "arXiv_CS",
-    "title": "FEDTAIL: Federated Long-Tailed Domain Generalization with Sharpness-Guided Gradient Matching",
-    "link": "https://arxiv.org/abs/2506.08518",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08518v1 Announce Type: new \nAbstract: Domain Generalization (DG) seeks to train models that perform reliably on unseen target domains without access to target data during training. While recent progress in smoothing the loss landscape has improved generalization, existing methods often falter under long-tailed class distributions and conflicting optimization objectives. We introduce FedTAIL, a federated domain generalization framework that explicitly addresses these challenges through sharpness-guided, gradient-aligned optimization. Our method incorporates a gradient coherence regularizer to mitigate conflicts between classification and adversarial objectives, leading to more stable convergence. To combat class imbalance, we perform class-wise sharpness minimization and propose a curvature-aware dynamic weighting scheme that adaptively emphasizes underrepresented tail classes. Furthermore, we enhance conditional distribution alignment by integrating sharpness-aware perturbations into entropy regularization, improving robustness under domain shift. FedTAIL unifies optimization harmonization, class-aware regularization, and conditional alignment into a scalable, federated-compatible framework. Extensive evaluations across standard domain generalization benchmarks demonstrate that FedTAIL achieves state-of-the-art performance, particularly in the presence of domain shifts and label imbalance, validating its effectiveness in both centralized and federated settings. Code: https://github.com/sunnyinAI/FedTail",
-    "authors": [
-      "Sunny Gupta, Nikita Jangid, Shounak Das, Amit Sethi"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606771"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08523v1",
-    "journal": "arXiv_CS",
-    "title": "Leveraging chaos in the training of artificial neural networks",
-    "link": "https://arxiv.org/abs/2506.08523",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08523v1 Announce Type: new \nAbstract: Traditional algorithms to optimize artificial neural networks when confronted with a supervised learning task are usually exploitation-type relaxational dynamics such as gradient descent (GD). Here, we explore the dynamics of the neural network trajectory along training for unconventionally large learning rates. We show that for a region of values of the learning rate, the GD optimization shifts away from purely exploitation-like algorithm into a regime of exploration-exploitation balance, as the neural network is still capable of learning but the trajectory shows sensitive dependence on initial conditions -- as characterized by positive network maximum Lyapunov exponent --. Interestingly, the characteristic training time required to reach an acceptable accuracy in the test set reaches a minimum precisely in such learning rate region, further suggesting that one can accelerate the training of artificial neural networks by locating at the onset of chaos. Our results -- initially illustrated for the MNIST classification task -- qualitatively hold for a range of supervised learning tasks, learning architectures and other hyperparameters, and showcase the emergent, constructive role of transient chaotic dynamics in the training of artificial neural networks.",
-    "authors": [
-      "Pedro Jim\\'enez-Gonz\\'alez, Miguel C. Soriano, Lucas Lacasa"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606775"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08528v1",
-    "journal": "arXiv_CS",
-    "title": "PerfTracker: Online Performance Troubleshooting for Large-scale Model Training in Production",
-    "link": "https://arxiv.org/abs/2506.08528",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08528v1 Announce Type: new \nAbstract: Troubleshooting performance problems of large model training (LMT) is immensely challenging, due to unprecedented scales of modern GPU clusters, the complexity of software-hardware interactions, and the data intensity of the training process. Existing troubleshooting approaches designed for traditional distributed systems or datacenter networks fall short and can hardly apply to real-world training systems. In this paper, we present PerfTracker, the first online troubleshooting system utilizing fine-grained profiling, to diagnose performance issues of large-scale model training in production. PerfTracker can diagnose performance issues rooted in both hardware (e.g., GPUs and their interconnects) and software (e.g., Python functions and GPU operations). It scales to LMT on modern GPU clusters. PerfTracker effectively summarizes runtime behavior patterns of fine-grained LMT functions via online profiling, and leverages differential observability to localize the root cause with minimal production impact. PerfTracker has been deployed as a production service for large-scale GPU clusters of O(10, 000) GPUs (product homepage https://help.aliyun.com/zh/pai/user-guide/perftracker-online-performance-analysis-diagnostic-tool). It has been used to diagnose a variety of difficult performance issues.",
-    "authors": [
-      "Yu Guan, Zhiyu Yin, Haoyu Chen, Sheng Cheng, Chaojie Yang, Tianyin Xu, Yang Zhang, Hanyu Zhao, Yong Li, Dennis Cai, Ennan Zhai"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606790"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08532v1",
-    "journal": "arXiv_CS",
-    "title": "Safe and Economical UAV Trajectory Planning in Low-Altitude Airspace: A Hybrid DRL-LLM Approach with Compliance Awareness",
-    "link": "https://arxiv.org/abs/2506.08532",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08532v1 Announce Type: new \nAbstract: The rapid growth of the low-altitude economy has driven the widespread adoption of unmanned aerial vehicles (UAVs). This growing deployment presents new challenges for UAV trajectory planning in complex urban environments. However, existing studies often overlook key factors, such as urban airspace constraints and economic efficiency, which are essential in low-altitude economy contexts. Deep reinforcement learning (DRL) is regarded as a promising solution to these issues, while its practical adoption remains limited by low learning efficiency. To overcome this limitation, we propose a novel UAV trajectory planning framework that combines DRL with large language model (LLM) reasoning to enable safe, compliant, and economically viable path planning. Experimental results demonstrate that our method significantly outperforms existing baselines across multiple metrics, including data collection rate, collision avoidance, successful landing, regulatory compliance, and energy efficiency. These results validate the effectiveness of our approach in addressing UAV trajectory planning key challenges under constraints of the low-altitude economy networking.",
-    "authors": [
-      "Yanwei Gong, Xiaolin Chang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606811"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08552v1",
-    "journal": "arXiv_CS",
-    "title": "Efficient Post-Training Refinement of Latent Reasoning in Large Language Models",
-    "link": "https://arxiv.org/abs/2506.08552",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08552v1 Announce Type: new \nAbstract: Reasoning is a key component of language understanding in Large Language Models. While Chain-of-Thought prompting enhances performance via explicit intermediate steps, it suffers from sufficient token overhead and a fixed reasoning trajectory, preventing step-wise refinement. Recent advances in latent reasoning address these limitations by refining internal reasoning processes directly in the model's latent space, without producing explicit outputs. However, a key challenge remains: how to effectively update reasoning embeddings during post-training to guide the model toward more accurate solutions. To overcome this challenge, we propose a lightweight post-training framework that refines latent reasoning trajectories using two novel strategies: 1) Contrastive reasoning feedback, which compares reasoning embeddings against strong and weak baselines to infer effective update directions via embedding enhancement; 2) Residual embedding refinement, which stabilizes updates by progressively integrating current and historical gradients, enabling fast yet controlled convergence. Extensive experiments and case studies are conducted on five reasoning benchmarks to demonstrate the effectiveness of the proposed framework. Notably, a 5\\% accuracy gain on MathQA without additional training.",
-    "authors": [
-      "Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606845"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08566v1",
-    "journal": "arXiv_CS",
-    "title": "Generating Vision-Language Navigation Instructions Incorporated Fine-Grained Alignment Annotations",
-    "link": "https://arxiv.org/abs/2506.08566",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08566v1 Announce Type: new \nAbstract: Vision-Language Navigation (VLN) enables intelligent agents to navigate environments by integrating visual perception and natural language instructions, yet faces significant challenges due to the scarcity of fine-grained cross-modal alignment annotations. Existing datasets primarily focus on global instruction-trajectory matching, neglecting sub-instruction-level and entity-level alignments critical for accurate navigation action decision-making. To address this limitation, we propose FCA-NIG, a generative framework that automatically constructs navigation instructions with dual-level fine-grained cross-modal annotations. In this framework, an augmented trajectory is first divided into sub-trajectories, which are then processed through GLIP-based landmark detection, crafted instruction construction, OFA-Speaker based R2R-like instruction generation, and CLIP-powered entity selection, generating sub-instruction-trajectory pairs with entity-landmark annotations. Finally, these sub-pairs are aggregated to form a complete instruction-trajectory pair. The framework generates the FCA-R2R dataset, the first large-scale augmentation dataset featuring precise sub-instruction-sub-trajectory and entity-landmark alignments. Extensive experiments demonstrate that training with FCA-R2R significantly improves the performance of multiple state-of-the-art VLN agents, including SF, EnvDrop, RecBERT, and HAMT. Incorporating sub-instruction-trajectory alignment enhances agents' state awareness and decision accuracy, while entity-landmark alignment further boosts navigation performance and generalization. These results highlight the effectiveness of FCA-NIG in generating high-quality, scalable training data without manual annotation, advancing fine-grained cross-modal learning in complex navigation tasks.",
-    "authors": [
-      "Yibo Cui, Liang Xie, Yu Zhao, Jiawei Sun, Erwei Yin"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606877"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08574v1",
-    "journal": "arXiv_CS",
-    "title": "SLEEPYLAND: trust begins with fair evaluation of automatic sleep staging models",
-    "link": "https://arxiv.org/abs/2506.08574",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08574v1 Announce Type: new \nAbstract: Despite advances in deep learning for automatic sleep staging, clinical adoption remains limited due to challenges in fair model evaluation, generalization across diverse datasets, model bias, and variability in human annotations. We present SLEEPYLAND, an open-source sleep staging evaluation framework designed to address these barriers. It includes more than 22'0000 hours in-domain (ID) sleep recordings, and more than 84'000 hours out-of-domain (OOD) sleep recordings, spanning a broad range of ages, sleep-wake disorders, and hardware setups. We release pre-trained models based on high-performing SoA architectures and evaluate them under standardized conditions across single- and multi-channel EEG/EOG configurations. We introduce SOMNUS, an ensemble combining models across architectures and channel setups via soft voting. SOMNUS achieves robust performance across twenty-four different datasets, with macro-F1 scores between 68.7% and 87.2%, outperforming individual models in 94.9% of cases. Notably, SOMNUS surpasses previous SoA methods, even including cases where compared models were trained ID while SOMNUS treated the same data as OOD. Using a subset of the BSWR (N=6'633), we quantify model biases linked to age, gender, AHI, and PLMI, showing that while ensemble improves robustness, no model architecture consistently minimizes bias in performance and clinical markers estimation. In evaluations on OOD multi-annotated datasets (DOD-H, DOD-O), SOMNUS exceeds the best human scorer, i.e., MF1 85.2% vs 80.8% on DOD-H, and 80.2% vs 75.9% on DOD-O, better reproducing the scorer consensus than any individual expert (k = 0.89/0.85 and ACS = 0.95/0.94 for healthy/OSA cohorts). Finally, we introduce ensemble disagreement metrics - entropy and inter-model divergence based - predicting regions of scorer disagreement with ROC AUCs up to 0.828, offering a data-driven proxy for human uncertainty.",
-    "authors": [
-      "Alvise Dei Rossi, Matteo Metaldi, Michal Bechny, Irina Filchenko, Julia van der Meer, Markus H. Schmidt, Claudio L. A. Bassetti, Athina Tzovara, Francesca D. Faraci, Luigi Fiorillo"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606890"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08579v1",
-    "journal": "arXiv_CS",
-    "title": "Toward Low-Altitude Airspace Management and UAV Operations: Requirements, Architecture and Enabling Technologies",
-    "link": "https://arxiv.org/abs/2506.08579",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08579v1 Announce Type: new \nAbstract: The low-altitude economy (LAE) is rapidly advancing toward intelligence, connectivity, and coordination, bringing new challenges in dynamic airspace management, unmanned aerial vehicle (UAV) operation, and security management. Existing systems remain fragmented and lack effective coordination. To bridge these gaps, we propose UTICN (Ubiquitous and Trusted Intelligent Cellular-native Network) for LAE, a unified cellular-native architecture that integrates multi-domain sensing, high-precision positioning, intelligent aircraft-to-everything communication, dynamic airspace management, and UAV operational services. UTICN introduces key technologies such as integrated sensing and communication (ISAC), passive and active positioning, intelligent machine communication, swarm coordination, and control-data decoupled management frameworks. We demonstrate UTICN's feasibility through two use cases, i.e., a city-level LAE management platform and a multi-frequency collaborative ISAC system. This work provides a fundamental reference for building a unified operational foundation and airspace management architecture for the LAE.",
-    "authors": [
-      "Guiyang Luo, Jinglin Li, Qixun Zhang, Zhiyong Feng, Quan Yuan, Yijing Lin, Hui Zhang, Nan Cheng, Ping Zhang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606902"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08592v1",
-    "journal": "arXiv_CS",
-    "title": "Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings",
-    "link": "https://arxiv.org/abs/2506.08592",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08592v1 Announce Type: new \nAbstract: This work focuses on an observed limitation of text encoders: embeddings may not be able to recognize fine-grained entities or events within the semantics, resulting in failed dense retrieval on even simple cases. To examine such behaviors, we first introduce a new evaluation dataset in Chinese, named CapRetrieval, whose passages are image captions, and queries are phrases inquiring entities or events in various forms. Zero-shot evaluation suggests that encoders may fail on these fine-grained matching, regardless of training sources or model sizes. Aiming for enhancement, we proceed to finetune encoders with our proposed data generation strategies, which obtains the best performance on CapRetrieval. Within this process, we further identify an issue of granularity dilemma, a challenge for embeddings to express fine-grained salience while aligning with overall semantics. Our dataset, code and models in this work are publicly released at https://github.com/lxucs/CapRetrieval.",
-    "authors": [
-      "Liyan Xu, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606933"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08604v1",
-    "journal": "arXiv_CS",
-    "title": "Flow Matching Meets PDEs: A Unified Framework for Physics-Constrained Generation",
-    "link": "https://arxiv.org/abs/2506.08604",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08604v1 Announce Type: new \nAbstract: Generative machine learning methods, such as diffusion models and flow matching, have shown great potential in modeling complex system behaviors and building efficient surrogate models. However, these methods typically learn the underlying physics implicitly from data. We propose Physics-Based Flow Matching (PBFM), a novel generative framework that explicitly embeds physical constraints, both PDE residuals and algebraic relations, into the flow matching objective. We also introduce temporal unrolling at training time that improves the accuracy of the final, noise-free sample prediction. Our method jointly minimizes the flow matching loss and the physics-based residual loss without requiring hyperparameter tuning of their relative weights. Additionally, we analyze the role of the minimum noise level, $\\sigma_{\\min}$, in the context of physical constraints and evaluate a stochastic sampling strategy that helps to reduce physical residuals. Through extensive benchmarks on three representative PDE problems, we show that our approach yields up to an $8\\times$ more accurate physical residuals compared to FM, while clearly outperforming existing algorithms in terms of distributional accuracy. PBFM thus provides a principled and efficient framework for surrogate modeling, uncertainty quantification, and accelerated simulation in physics and engineering applications.",
-    "authors": [
-      "Giacomo Baldan, Qiang Liu, Alberto Guardone, Nils Thuerey"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606966"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08611v1",
-    "journal": "arXiv_CS",
-    "title": "Towards Class-wise Fair Adversarial Training via Anti-Bias Soft Label Distillation",
-    "link": "https://arxiv.org/abs/2506.08611",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08611v1 Announce Type: new \nAbstract: Adversarial Training (AT) is widely recognized as an effective approach to enhance the adversarial robustness of Deep Neural Networks. As a variant of AT, Adversarial Robustness Distillation (ARD) has shown outstanding performance in enhancing the robustness of small models. However, both AT and ARD face robust fairness issue: these models tend to display strong adversarial robustness against some classes (easy classes) while demonstrating weak adversarial robustness against others (hard classes). This paper explores the underlying factors of this problem and points out the smoothness degree of soft labels for different classes significantly impacts the robust fairness from both empirical observation and theoretical analysis. Based on the above exploration, we propose Anti-Bias Soft Label Distillation (ABSLD) within the Knowledge Distillation framework to enhance the adversarial robust fairness. Specifically, ABSLD adaptively reduces the student's error risk gap between different classes, which is accomplished by adjusting the class-wise smoothness degree of teacher's soft labels during the training process, and the adjustment is managed by assigning varying temperatures to different classes. Additionally, as a label-based approach, ABSLD is highly adaptable and can be integrated with the sample-based methods. Extensive experiments demonstrate ABSLD outperforms state-of-the-art methods on the comprehensive performance of robustness and fairness.",
-    "authors": [
-      "Shiji Zhao, Chi Chen, Ranjie Duan, Xizhe Wang, Xingxing Wei"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.606984"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08625v1",
-    "journal": "arXiv_CS",
-    "title": "RAISE: Enhancing Scientific Reasoning in LLMs via Step-by-Step Retrieval",
-    "link": "https://arxiv.org/abs/2506.08625",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08625v1 Announce Type: new \nAbstract: Scientific reasoning requires not only long-chain reasoning processes, but also knowledge of domain-specific terminologies and adaptation to updated findings. To deal with these challenges for scientific reasoning, we introduce RAISE, a step-by-step retrieval-augmented framework which retrieves logically relevant documents from in-the-wild corpus. RAISE is divided into three steps: problem decomposition, logical query generation, and logical retrieval. We observe that RAISE consistently outperforms other baselines on scientific reasoning benchmarks. We analyze that unlike other baselines, RAISE retrieves documents that are not only similar in terms of the domain knowledge, but also documents logically more relevant.",
-    "authors": [
-      "Minhae Oh, Jeonghye Kim, Nakyung Lee, Donggeon Seo, Taeuk Kim, Jungwoo Lee"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607003"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08634v1",
-    "journal": "arXiv_CS",
-    "title": "MOSAIC-F: A Framework for Enhancing Students' Oral Presentation Skills through Personalized Feedback",
-    "link": "https://arxiv.org/abs/2506.08634",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08634v1 Announce Type: new \nAbstract: In this article, we present a novel multimodal feedback framework called MOSAIC-F, an acronym for a data-driven Framework that integrates Multimodal Learning Analytics (MMLA), Observations, Sensors, Artificial Intelligence (AI), and Collaborative assessments for generating personalized feedback on student learning activities. This framework consists of four key steps. First, peers and professors' assessments are conducted through standardized rubrics (that include both quantitative and qualitative evaluations). Second, multimodal data are collected during learning activities, including video recordings, audio capture, gaze tracking, physiological signals (heart rate, motion data), and behavioral interactions. Third, personalized feedback is generated using AI, synthesizing human-based evaluations and data-based multimodal insights such as posture, speech patterns, stress levels, and cognitive load, among others. Finally, students review their own performance through video recordings and engage in self-assessment and feedback visualization, comparing their own evaluations with peers and professors' assessments, class averages, and AI-generated recommendations. By combining human-based and data-based evaluation techniques, this framework enables more accurate, personalized and actionable feedback. We tested MOSAIC-F in the context of improving oral presentation skills.",
-    "authors": [
-      "Alvaro Becerra, Daniel Andres, Pablo Villegas, Roberto Daza, Ruth Cobos"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607032"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08636v1",
-    "journal": "arXiv_CS",
-    "title": "Blockchain and Edge Computing Nexus: A Large-scale Systematic Literature Review",
-    "link": "https://arxiv.org/abs/2506.08636",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08636v1 Announce Type: new \nAbstract: Blockchain and edge computing are two instrumental paradigms of decentralized computation, driving key advancements in Smart Cities applications such as supply chain, energy and mobility. Despite their unprecedented impact on society, they remain significantly fragmented as technologies and research areas, while they share fundamental principles of distributed systems and domains of applicability. This paper introduces a novel and large-scale systematic literature review on the nexus of blockchain and edge computing with the aim to unravel a new understanding of how the interfacing of the two computing paradigms can boost innovation to provide solutions to timely but also long-standing research challenges. By collecting almost 6000 papers from 3 databases and putting under scrutiny almost 1000 papers, we build a novel taxonomy and classification consisting of 22 features with 287 attributes that we study using quantitative and machine learning methods. They cover a broad spectrum of technological, design, epistemological and sustainability aspects. Results reveal 4 distinguishing patterns of interplay between blockchain and edge computing with key determinants the public (permissionless) vs. private (permissioned) design, technology and proof of concepts. They also demonstrate the prevalence of blockchain-assisted edge computing for improving privacy and security, in particular for mobile computing applications.",
-    "authors": [
-      "Zeinab Nezami, Zhuolun Li, Chuhao Qin, Fatemeh Banaie, Rabiya Khalid, Evangelos Pournaras"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607040"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08641v1",
-    "journal": "arXiv_CS",
-    "title": "Time Series Representations for Classification Lie Hidden in Pretrained Vision Transformers",
-    "link": "https://arxiv.org/abs/2506.08641",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08641v1 Announce Type: new \nAbstract: Time series classification is a fundamental task in healthcare and industry, yet the development of time series foundation models (TSFMs) remains limited by the scarcity of publicly available time series datasets. In this work, we propose Time Vision Transformer (TiViT), a framework that converts time series into images to leverage the representational power of frozen Vision Transformers (ViTs) pretrained on large-scale image datasets. First, we theoretically motivate our approach by analyzing the 2D patching of ViTs for time series, showing that it can increase the number of label-relevant tokens and reduce the sample complexity. Second, we empirically demonstrate that TiViT achieves state-of-the-art performance on standard time series classification benchmarks by utilizing the hidden representations of large OpenCLIP models. We explore the structure of TiViT representations and find that intermediate layers with high intrinsic dimension are the most effective for time series classification. Finally, we assess the alignment between TiViT and TSFM representation spaces and identify a strong complementarity, with further performance gains achieved by combining their features. Our findings reveal yet another direction for reusing vision representations in a non-visual domain.",
-    "authors": [
-      "Simon Roschmann, Quentin Bouniot, Vasilii Feofanov, Ievgen Redko, Zeynep Akata"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607051"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08644v1",
-    "journal": "arXiv_CS",
-    "title": "Semi-gradient DICE for Offline Constrained Reinforcement Learning",
-    "link": "https://arxiv.org/abs/2506.08644",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08644v1 Announce Type: new \nAbstract: Stationary Distribution Correction Estimation (DICE) addresses the mismatch between the stationary distribution induced by a policy and the target distribution required for reliable off-policy evaluation (OPE) and policy optimization. DICE-based offline constrained RL particularly benefits from the flexibility of DICE, as it simultaneously maximizes return while estimating costs in offline settings. However, we have observed that recent approaches designed to enhance the offline RL performance of the DICE framework inadvertently undermine its ability to perform OPE, making them unsuitable for constrained RL scenarios. In this paper, we identify the root cause of this limitation: their reliance on a semi-gradient optimization, which solves a fundamentally different optimization problem and results in failures in cost estimation. Building on these insights, we propose a novel method to enable OPE and constrained RL through semi-gradient DICE. Our method ensures accurate cost estimation and achieves state-of-the-art performance on the offline constrained RL benchmark, DSRL.",
-    "authors": [
-      "Woosung Kim, JunHo Seo, Jongmin Lee, Byung-Jun Lee"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607059"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08647v1",
-    "journal": "arXiv_CS",
-    "title": "Summarization for Generative Relation Extraction in the Microbiome Domain",
-    "link": "https://arxiv.org/abs/2506.08647",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08647v1 Announce Type: new \nAbstract: We explore a generative relation extraction (RE) pipeline tailored to the study of interactions in the intestinal microbiome, a complex and low-resource biomedical domain. Our method leverages summarization with large language models (LLMs) to refine context before extracting relations via instruction-tuned generation. Preliminary results on a dedicated corpus show that summarization improves generative RE performance by reducing noise and guiding the model. However, BERT-based RE approaches still outperform generative models. This ongoing work demonstrates the potential of generative methods to support the study of specialized domains in low-resources setting.",
-    "authors": [
-      "Oumaima El Khettari, Solen Quiniou, Samuel Chaffron"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607073"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08651v1",
-    "journal": "arXiv_CS",
-    "title": "Reed-Muller Codes for Quantum Pauli and Multiple Access Channels",
-    "link": "https://arxiv.org/abs/2506.08651",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08651v1 Announce Type: new \nAbstract: Reed-Muller (RM) codes have undergone significant analytical advancements over the past decade, particularly for binary memoryless symmetric (BMS) channels. We extend the scope of RM codes development and analysis to multiple-access channels (MACs) and quantum Pauli channels, leveraging a unified approach. Specifically, we first derive the achievable rate region for RM codes on so-called Q-MACs, a class of MACs with additive correlated noise. This is achieved via a generalization of the bending and boosting arguments defined in arXiv:2304.02509. We then put forward a connection between the rate region of these QMACs and quantum RM codes designed for Pauli noise channels. This connection highlights a universality property of quantum RM codes, demonstrating their rate-optimal performance across a range of channel parameters, rather than for a single Pauli channel.",
-    "authors": [
-      "Dina Abdelhadi, Colin Sandon, Emmanuel Abbe, Ruediger Urbanke"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607085"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08662v1",
-    "journal": "arXiv_CS",
-    "title": "Optimizing Learned Image Compression on Scalar and Entropy-Constraint Quantization",
-    "link": "https://arxiv.org/abs/2506.08662",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08662v1 Announce Type: new \nAbstract: The continuous improvements on image compression with variational autoencoders have lead to learned codecs competitive with conventional approaches in terms of rate-distortion efficiency. Nonetheless, taking the quantization into account during the training process remains a problem, since it produces zero derivatives almost everywhere and needs to be replaced with a differentiable approximation which allows end-to-end optimization. Though there are different methods for approximating the quantization, none of them model the quantization noise correctly and thus, result in suboptimal networks. Hence, we propose an additional finetuning training step: After conventional end-to-end training, parts of the network are retrained on quantized latents obtained at the inference stage. For entropy-constraint quantizers like Trellis-Coded Quantization, the impact of the quantizer is particularly difficult to approximate by rounding or adding noise as the quantized latents are interdependently chosen through a trellis search based on both the entropy model and a distortion measure. We show that retraining on correctly quantized data consistently yields additional coding gain for both uniform scalar and especially for entropy-constraint quantization, without increasing inference complexity. For the Kodak test set, we obtain average savings between 1% and 2%, and for the TecNick test set up to 2.2% in terms of Bj{\\o}ntegaard-Delta bitrate.",
-    "authors": [
-      "Florian Borzechowski, Michael Sch\\\"afer, Heiko Schwarz, Jonathan Pfaff, Detlev Marpe, Thomas Wiegand"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607110"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08672v1",
-    "journal": "arXiv_CS",
-    "title": "RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling",
-    "link": "https://arxiv.org/abs/2506.08672",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08672v1 Announce Type: new \nAbstract: Rule-based reasoning has been acknowledged as one of the fundamental problems in reasoning, while deviations in rule formats, types, and complexity in real-world applications pose severe challenges. Recent studies have shown that large reasoning models (LRMs) have remarkable reasoning capabilities, and their performance is substantially enhanced by reinforcement learning (RL). However, it remains an open question whether small reasoning models (SRMs) can learn rule-based reasoning effectively with robust generalization across diverse tasks and domains. To address this, we introduce Reinforced Rule-based Reasoning, a.k.a. RuleReasoner, a simple yet effective method to conduct rule-based reasoning via a wide collection of curated tasks and a novel domain-aware dynamic sampling approach. Specifically, RuleReasoner resamples each training batch by updating the sampling weights of different domains based on historical rewards. This facilitates domain augmentation and flexible online learning schedules for RL, obviating the need for pre-hoc human-engineered mix-training recipes used in existing methods. Empirical evaluations on in-distribution (ID) and out-of-distribution (OOD) benchmarks reveal that RuleReasoner outperforms frontier LRMs by a significant margin ($\\Delta$4.1% average points on eight ID tasks and $\\Delta$10.4% average points on three OOD tasks over OpenAI-o1). Notably, our approach also exhibits higher computational efficiency compared to prior dynamic sampling methods for RL.",
-    "authors": [
-      "Yang Liu, Jiaqi Li, Zilong Zheng"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607131"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08673v1",
-    "journal": "arXiv_CS",
-    "title": "Towards Fair Representation: Clustering and Consensus",
-    "link": "https://arxiv.org/abs/2506.08673",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08673v1 Announce Type: new \nAbstract: Consensus clustering, a fundamental task in machine learning and data analysis, aims to aggregate multiple input clusterings of a dataset, potentially based on different non-sensitive attributes, into a single clustering that best represents the collective structure of the data. In this work, we study this fundamental problem through the lens of fair clustering, as introduced by Chierichetti et al. [NeurIPS'17], which incorporates the disparate impact doctrine to ensure proportional representation of each protected group in the dataset within every cluster. Our objective is to find a consensus clustering that is not only representative but also fair with respect to specific protected attributes. To the best of our knowledge, we are the first to address this problem and provide a constant-factor approximation.\n  As part of our investigation, we examine how to minimally modify an existing clustering to enforce fairness -- an essential postprocessing step in many clustering applications that require fair representation. We develop an optimal algorithm for datasets with equal group representation and near-linear time constant factor approximation algorithms for more general scenarios with different proportions of two group sizes. We complement our approximation result by showing that the problem is NP-hard for two unequal-sized groups. Given the fundamental nature of this problem, we believe our results on Closest Fair Clustering could have broader implications for other clustering problems, particularly those for which no prior approximation guarantees exist for their fair variants.",
-    "authors": [
-      "Diptarka Chakraborty, Kushagra Chatterjee, Debarati Das, Tien Long Nguyen, Romina Nobahari"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607134"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08686v1",
-    "journal": "arXiv_CS",
-    "title": "Brevity is the soul of sustainability: Characterizing LLM response lengths",
-    "link": "https://arxiv.org/abs/2506.08686",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08686v1 Announce Type: new \nAbstract: A significant portion of the energy consumed by Large Language Models (LLMs) arises from their inference processes; hence developing energy-efficient methods for inference is crucial. While several techniques exist for inference optimization, output compression remains relatively unexplored, with only a few preliminary efforts addressing this aspect. In this work, we first benchmark 12 decoder-only LLMs across 5 datasets, revealing that these models often produce responses that are substantially longer than necessary. We then conduct a comprehensive quality assessment of LLM responses, formally defining six information categories present in LLM responses. We show that LLMs often tend to include redundant or additional information besides the minimal answer. To address this issue of long responses by LLMs, we explore several simple and intuitive prompt-engineering strategies. Empirical evaluation shows that appropriate prompts targeting length reduction and controlling information content can achieve significant energy optimization between 25-60\\% by reducing the response length while preserving the quality of LLM responses.",
-    "authors": [
-      "Soham Poddar, Paramita Koley, Janardan Misra, Sanjay Podder, Navveen Balani, Niloy Ganguly, Saptarshi Ghosh"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607155"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08689v1",
-    "journal": "arXiv_CS",
-    "title": "Efficient Uncertainty Propagation with Guarantees in Wasserstein Distance",
-    "link": "https://arxiv.org/abs/2506.08689",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08689v1 Announce Type: new \nAbstract: In this paper, we consider the problem of propagating an uncertain distribution by a possibly non-linear function and quantifying the resulting uncertainty. We measure the uncertainty using the Wasserstein distance, and for a given input set of distributions close in the Wasserstein distance, we compute a set of distributions centered at a discrete distribution that is guaranteed to contain the pushforward of any distribution in the input set. Our approach is based on approximating a nominal distribution from the input set to a discrete support distribution for which the exact computation of the pushforward distribution is tractable, thus guaranteeing computational efficiency to our approach. Then, we rely on results from semi-discrete optimal transport and distributional robust optimization to show that for any $\\epsilon > 0$ the error introduced by our approach can be made smaller than $\\epsilon$. Critically, in the context of dynamical systems, we show how our results allow one to efficiently approximate the distribution of a stochastic dynamical system with a discrete support distribution for a possibly infinite horizon while bounding the resulting approximation error. We empirically investigate the effectiveness of our framework on various benchmarks, including a 10-D non-linear system, showing the effectiveness of our approach in quantifying uncertainty in linear and non-linear stochastic systems.",
-    "authors": [
-      "Eduardo Figueiredo, Steven Adams, Peyman Mohajerin Esfahani, Luca Laurenti"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607163"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08702v1",
-    "journal": "arXiv_CS",
-    "title": "Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting",
-    "link": "https://arxiv.org/abs/2506.08702",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08702v1 Announce Type: new \nAbstract: The rapid development of Large Language Models (LLMs) opens up the possibility of using them as personal tutors. This has led to the development of several intelligent tutoring systems and learning assistants that use LLMs as back-ends with various degrees of engineering. In this study, we seek to compare human tutors with LLM tutors in terms of engagement, empathy, scaffolding, and conciseness. We ask human tutors to annotate and compare the performance of an LLM tutor with that of a human tutor in teaching grade-school math word problems on these qualities. We find that annotators with teaching experience perceive LLMs as showing higher performance than human tutors in all 4 metrics. The biggest advantage is in empathy, where 80% of our annotators prefer the LLM tutor more often than the human tutors. Our study paints a positive picture of LLMs as tutors and indicates that these models can be used to reduce the load on human teachers in the future.",
-    "authors": [
-      "Sankalan Pal Chowdhury, Terry Jingchen Zhang, Donya Rooein, Dirk Hovy, Tanja K\\\"aser, Mrinmaya Sachan"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607197"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08713v1",
-    "journal": "arXiv_CS",
-    "title": "Explainable Compliance Detection with Multi-Hop Natural Language Inference on Assurance Case Structure",
-    "link": "https://arxiv.org/abs/2506.08713",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08713v1 Announce Type: new \nAbstract: Ensuring complex systems meet regulations typically requires checking the validity of assurance cases through a claim-argument-evidence framework. Some challenges in this process include the complicated nature of legal and technical texts, the need for model explanations, and limited access to assurance case data. We propose a compliance detection approach based on Natural Language Inference (NLI): EXplainable CompLiance detection with Argumentative Inference of Multi-hop reasoning (EXCLAIM). We formulate the claim-argument-evidence structure of an assurance case as a multi-hop inference for explainable and traceable compliance detection. We address the limited number of assurance cases by generating them using large language models (LLMs). We introduce metrics that measure the coverage and structural consistency. We demonstrate the effectiveness of the generated assurance case from GDPR requirements in a multi-hop inference task as a case study. Our results highlight the potential of NLI-based approaches in automating the regulatory compliance process.",
-    "authors": [
-      "Fariz Ikhwantri, Dusica Marijan"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607221"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08738v1",
-    "journal": "arXiv_CS",
-    "title": "Societal AI Research Has Become Less Interdisciplinary",
-    "link": "https://arxiv.org/abs/2506.08738",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08738v1 Announce Type: new \nAbstract: As artificial intelligence (AI) systems become deeply embedded in everyday life, calls to align AI development with ethical and societal values have intensified. Interdisciplinary collaboration is often championed as a key pathway for fostering such engagement. Yet it remains unclear whether interdisciplinary research teams are actually leading this shift in practice. This study analyzes over 100,000 AI-related papers published on ArXiv between 2014 and 2024 to examine how ethical values and societal concerns are integrated into technical AI research. We develop a classifier to identify societal content and measure the extent to which research papers express these considerations. We find a striking shift: while interdisciplinary teams remain more likely to produce societally-oriented research, computer science-only teams now account for a growing share of the field's overall societal output. These teams are increasingly integrating societal concerns into their papers and tackling a wide range of domains - from fairness and safety to healthcare and misinformation. These findings challenge common assumptions about the drivers of societal AI and raise important questions. First, what are the implications for emerging understandings of AI safety and governance if most societally-oriented research is being undertaken by exclusively technical teams? Second, for scholars in the social sciences and humanities: in a technical field increasingly responsive to societal demands, what distinctive perspectives can we still offer to help shape the future of AI?",
-    "authors": [
-      "Dror Kris Markus, Fabrizio Gilardi, Daria Stetsenko"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607274"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08757v1",
-    "journal": "arXiv_CS",
-    "title": "Enhancing Accuracy and Maintainability in Nuclear Plant Data Retrieval: A Function-Calling LLM Approach Over NL-to-SQL",
-    "link": "https://arxiv.org/abs/2506.08757",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08757v1 Announce Type: new \nAbstract: Retrieving operational data from nuclear power plants requires exceptional accuracy and transparency due to the criticality of the decisions it supports. Traditionally, natural language to SQL (NL-to-SQL) approaches have been explored for querying such data. While NL-to-SQL promises ease of use, it poses significant risks: end-users cannot easily validate generated SQL queries, and legacy nuclear plant databases -- often complex and poorly structured -- complicate query generation due to decades of incremental modifications. These challenges increase the likelihood of inaccuracies and reduce trust in the approach. In this work, we propose an alternative paradigm: leveraging function-calling large language models (LLMs) to address these challenges. Instead of directly generating SQL queries, we define a set of pre-approved, purpose-specific functions representing common use cases. Queries are processed by invoking these functions, which encapsulate validated SQL logic. This hybrid approach mitigates the risks associated with direct NL-to-SQL translations by ensuring that SQL queries are reviewed and optimized by experts before deployment. While this strategy introduces the upfront cost of developing and maintaining the function library, we demonstrate how NL-to-SQL tools can assist in the initial generation of function code, allowing experts to focus on validation rather than creation. Our study includes a performance comparison between direct NL-to-SQL generation and the proposed function-based approach, highlighting improvements in accuracy and maintainability. This work underscores the importance of balancing user accessibility with operational safety and provides a novel, actionable framework for robust data retrieval in critical systems.",
-    "authors": [
-      "Mishca de Costa, Muhammad Anwar, Dave Mercier, Mark Randall, Issam Hammad"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607311"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08785v1",
-    "journal": "arXiv_CS",
-    "title": "POLARON: Precision-aware On-device Learning and Adaptive Runtime-cONfigurable AI acceleration",
-    "link": "https://arxiv.org/abs/2506.08785",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08785v1 Announce Type: new \nAbstract: The increasing complexity of AI models requires flexible hardware capable of supporting diverse precision formats, particularly for energy-constrained edge platforms. This work presents PARV-CE, a SIMD-enabled, multi-precision MAC engine that performs efficient multiply-accumulate operations using a unified data-path for 4/8/16-bit fixed-point, floating point, and posit formats. The architecture incorporates a layer adaptive precision strategy to align computational accuracy with workload sensitivity, optimizing both performance and energy usage. PARV-CE integrates quantization-aware execution with a reconfigurable SIMD pipeline, enabling high-throughput processing with minimal overhead through hardware-software co-design. The results demonstrate up to 2x improvement in PDP and 3x reduction in resource usage compared to SoTA designs, while retaining accuracy within 1.8% FP32 baseline. The architecture supports both on-device training and inference across a range of workloads, including DNNs, RNNs, RL, and Transformer models. The empirical analysis establish PARVCE incorporated POLARON as a scalable and energy-efficient solution for precision-adaptive AI acceleration at edge.",
-    "authors": [
-      "Mukul Lokhande, Santosh Kumar Vishvakarma"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607366"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08790v1",
-    "journal": "arXiv_CS",
-    "title": "Do Generative AI Tools Ensure Green Code? An Investigative Study",
-    "link": "https://arxiv.org/abs/2506.08790",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08790v1 Announce Type: new \nAbstract: Software sustainability is emerging as a primary concern, aiming to optimize resource utilization, minimize environmental impact, and promote a greener, more resilient digital ecosystem. The sustainability or \"greenness\" of software is typically determined by the adoption of sustainable coding practices. With a maturing ecosystem around generative AI, many software developers now rely on these tools to generate code using natural language prompts. Despite their potential advantages, there is a significant lack of studies on the sustainability aspects of AI-generated code. Specifically, how environmentally friendly is the AI-generated code based upon its adoption of sustainable coding practices? In this paper, we present the results of an early investigation into the sustainability aspects of AI-generated code across three popular generative AI tools - ChatGPT, BARD, and Copilot. The results highlight the default non-green behavior of tools for generating code, across multiple rules and scenarios. It underscores the need for further in-depth investigations and effective remediation strategies.",
-    "authors": [
-      "Samarth Sikand, Rohit Mehra, Vibhu Saujanya Sharma, Vikrant Kaulgud, Sanjay Podder, Adam P. Burden"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607370"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08800v1",
-    "journal": "arXiv_CS",
-    "title": "Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents",
-    "link": "https://arxiv.org/abs/2506.08800",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08800v1 Announce Type: new \nAbstract: Data science aims to extract insights from data to support decision-making processes. Recently, Large Language Models (LLMs) are increasingly used as assistants for data science, by suggesting ideas, techniques and small code snippets, or for the interpretation of results and reporting. Proper automation of some data-science activities is now promised by the rise of LLM agents, i.e., AI systems powered by an LLM equipped with additional affordances--such as code execution and knowledge bases--that can perform self-directed actions and interact with digital environments. In this paper, we survey the evaluation of LLM assistants and agents for data science. We find (1) a dominant focus on a small subset of goal-oriented activities, largely ignoring data management and exploratory activities; (2) a concentration on pure assistance or fully autonomous agents, without considering intermediate levels of human-AI collaboration; and (3) an emphasis on human substitution, therefore neglecting the possibility of higher levels of automation thanks to task transformation.",
-    "authors": [
-      "Irene Testini, Jos\\'e Hern\\'andez-Orallo, Lorenzo Pacchiardi"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607390"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08809v1",
-    "journal": "arXiv_CS",
-    "title": "HiSin: Efficient High-Resolution Sinogram Inpainting via Resolution-Guided Progressive Inference",
-    "link": "https://arxiv.org/abs/2506.08809",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08809v1 Announce Type: new \nAbstract: High-resolution sinogram inpainting is essential for computed tomography reconstruction, as missing high-frequency projections can lead to visible artifacts and diagnostic errors. Diffusion models are well-suited for this task due to their robustness and detail-preserving capabilities, but their application to high-resolution inputs is limited by excessive memory and computational demands. To address this limitation, we propose HiSin, a novel diffusion based framework for efficient sinogram inpainting via resolution-guided progressive inference. It progressively extracts global structure at low resolution and defers high-resolution inference to small patches, enabling memory-efficient inpainting. It further incorporates frequency-aware patch skipping and structure-adaptive step allocation to reduce redundant computation. Experimental results show that HiSin reduces peak memory usage by up to 31.25% and inference time by up to 18.15%, and maintains inpainting accuracy across datasets, resolutions, and mask conditions.",
-    "authors": [
-      "Jiaze E, Srutarshi Banerjee, Tekin Bicer, Guannan Wang, Yanfu Zhang, Bin Ren"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607398"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08812v1",
-    "journal": "arXiv_CS",
-    "title": "Towards a Knowledge Base of Common Sustainability Weaknesses in Green Software Development",
-    "link": "https://arxiv.org/abs/2506.08812",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08812v1 Announce Type: new \nAbstract: With the climate crisis looming, engineering sustainable software systems become crucial to optimize resource utilization, minimize environmental impact, and foster a greener, more resilient digital ecosystem. For developers, getting access to automated tools that analyze code and suggest sustainabilityrelated optimizations becomes extremely important from a learning and implementation perspective. However, there is currently a dearth of such tools due to the lack of standardized knowledge, which serves as the foundation of these tools. In this paper, we motivate the need for the development of a standard knowledge base of commonly occurring sustainability weaknesses in code, and propose an initial way of doing that. Furthermore, through preliminary experiments, we demonstrate why existing knowledge regarding software weaknesses cannot be re-tagged \"as is\" to sustainability without significant due diligence, thereby urging further explorations in this ecologically significant domain.",
-    "authors": [
-      "Priyavanshi Pathania, Rohit Mehra, Vibhu Saujanya Sharma, Vikrant Kaulgud, Sanjay Podder, Adam P. Burden"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607403"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08817v1",
-    "journal": "arXiv_CS",
-    "title": "Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought",
-    "link": "https://arxiv.org/abs/2506.08817",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08817v1 Announce Type: new \nAbstract: Video content comprehension is essential for various applications, ranging from video analysis to interactive systems. Despite advancements in large-scale vision-language models (VLMs), these models often struggle to capture the nuanced, spatiotemporal details essential for thorough video analysis. To address this gap, we introduce Video-CoT, a groundbreaking dataset designed to enhance spatiotemporal understanding using Chain-of-Thought (CoT) methodologies. Video-CoT contains 192,000 fine-grained spa-tiotemporal question-answer pairs and 23,000 high-quality CoT-annotated samples, providing a solid foundation for evaluating spatiotemporal understanding in video comprehension. Additionally, we provide a comprehensive benchmark for assessing these tasks, with each task featuring 750 images and tailored evaluation metrics. Our extensive experiments reveal that current VLMs face significant challenges in achieving satisfactory performance, high-lighting the difficulties of effective spatiotemporal understanding. Overall, the Video-CoT dataset and benchmark open new avenues for research in multimedia understanding and support future innovations in intelligent systems requiring advanced video analysis capabilities. By making these resources publicly available, we aim to encourage further exploration in this critical area. Project website:https://video-cot.github.io/ .",
-    "authors": [
-      "Shuyi Zhang, Xiaoshuai Hao, Yingbo Tang, Lingfeng Zhang, Pengwei Wang, Zhongyuan Wang, Hongxuan Ma, Shanghang Zhang"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607407"
-  },
-  {
-    "id": "oai:arXiv.org:2506.08837v1",
-    "journal": "arXiv_CS",
-    "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
-    "link": "https://arxiv.org/abs/2506.08837",
-    "published": "Wed, 11 Jun 2025 00:00:00 -0400",
-    "summary": "arXiv:2506.08837v1 Announce Type: new \nAbstract: As AI agents powered by Large Language Models (LLMs) become increasingly versatile and capable of addressing a broad spectrum of tasks, ensuring their security has become a critical challenge. Among the most pressing threats are prompt injection attacks, which exploit the agent's resilience on natural language inputs -- an especially dangerous threat when agents are granted tool access or handle sensitive information. In this work, we propose a set of principled design patterns for building AI agents with provable resistance to prompt injection. We systematically analyze these patterns, discuss their trade-offs in terms of utility and security, and illustrate their real-world applicability through a series of case studies.",
-    "authors": [
-      "Luca Beurer-Kellner, Beat Buesser Ana-Maria Cre\\c{t}u, Edoardo Debenedetti, Daniel Dobos, Daniel Fabian, Marc Fischer, David Froelicher, Kathrin Grosse, Daniel Naeff, Ezinwanne Ozoani, Andrew Paverd, Florian Tram\\`er, V\\'aclav Volhejn"
-    ],
-    "doi": "",
-    "parser_type": "arxiv",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-11T22:07:51.607436"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09266-7",
-    "journal": "Nature",
-    "title": "Strategies for climate-resilient global wind and solar power systems",
-    "link": "https://www.nature.com/articles/s41586-025-09266-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09266-7\">doi:10.1038/s41586-025-09266-7</a></p>Strategies for climate-resilient global wind and solar power systems",
-    "authors": [
-      "Dongsheng Zheng",
-      "Xizhe Yan",
-      "Dan Tong",
-      "Steven J. Davis",
-      "Ken Caldeira",
-      "Yuanyuan Lin",
-      "Yaqin Guo",
-      "Jingyun Li",
-      "Peng Wang",
-      "Liying Ping",
-      "Shijie Feng",
-      "Yang Liu",
-      "Jing Cheng",
-      "Deliang Chen",
-      "Kebin He",
-      "Qiang Zhang"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425932"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09285-4",
-    "journal": "Nature",
-    "title": "Author Correction: Collagenolysis-dependent DDR1 signalling dictates pancreatic cancer outcome",
-    "link": "https://www.nature.com/articles/s41586-025-09285-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09285-4\">doi:10.1038/s41586-025-09285-4</a></p>Author Correction: Collagenolysis-dependent DDR1 signalling dictates pancreatic cancer outcome",
-    "authors": [
-      "Hua Su",
-      "Fei Yang",
-      "Rao Fu",
-      "Brittney Trinh",
-      "Nina Sun",
-      "Junlai Liu",
-      "Avi Kumar",
-      "Jacopo Baglieri",
-      "Jeremy Siruno",
-      "Michelle Le",
-      "Yuhan Li",
-      "Stephen Dozier",
-      "Ajay Nair",
-      "Aveline Filliol",
-      "Nachanok Sinchai",
-      "Sara Brin Rosenthal",
-      "Jennifer Santini",
-      "Christian M. Metallo",
-      "Anthony Molina",
-      "Robert F. Schwabe",
-      "Andrew M. Lowy",
-      "David A. Brenner",
-      "Beicheng Sun",
-      "Michael Karin"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425943"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09239-w",
-    "journal": "Nature",
-    "title": "Editorial Expression of Concern: Transformation of primary human endothelial cells by Kaposi’s sarcoma-associated herpesvirus",
-    "link": "https://www.nature.com/articles/s41586-025-09239-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09239-w\">doi:10.1038/s41586-025-09239-w</a></p>Editorial Expression of Concern: Transformation of primary human endothelial cells by Kaposi’s sarcoma-associated herpesvirus",
-    "authors": [
-      "Ornella Flore",
-      "Shahin Rafii",
-      "Scott Ely",
-      "John J. O’Leary",
-      "Elizabeth M. Hyjek",
-      "Ethel Cesarman"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425954"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09117-5",
-    "journal": "Nature",
-    "title": "On the effects of fault alignment on slip stability",
-    "link": "https://www.nature.com/articles/s41586-025-09117-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09117-5\">doi:10.1038/s41586-025-09117-5</a></p>On the effects of fault alignment on slip stability",
-    "authors": [
-      "Yuri Fialko",
-      "Yoshihiro Kaneko"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425959"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09118-4",
-    "journal": "Nature",
-    "title": "Reply to: On the effects of fault alignment on slip stability",
-    "link": "https://www.nature.com/articles/s41586-025-09118-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09118-4\">doi:10.1038/s41586-025-09118-4</a></p>Reply to: On the effects of fault alignment on slip stability",
-    "authors": [
-      "Jaeseok Lee",
-      "Victor C. Tsai",
-      "Greg Hirth",
-      "Avigyan Chatterjee",
-      "Daniel T. Trugman"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425964"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01935-x",
-    "journal": "Nature",
-    "title": "These moths use the stars to navigate on an epic migration",
-    "link": "https://www.nature.com/articles/d41586-025-01935-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01935-x\">doi:10.1038/d41586-025-01935-x</a></p>Bogong moths migrate hundreds of kilometres and back each year using the southern night sky as their compass.",
-    "authors": [
-      "Katie Kavanagh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425968"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01934-y",
-    "journal": "Nature",
-    "title": "Flight simulator for moths reveals they navigate by starlight",
-    "link": "https://www.nature.com/articles/d41586-025-01934-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01934-y\">doi:10.1038/d41586-025-01934-y</a></p>Experiments suggest moths use the Milky Way to orientate themselves — plus, evidence that humans expanded into new ecosystems 70,000 years ago.",
-    "authors": [
-      "Benjamin Thompson",
-      "Nick Petrić Howe"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425972"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09180-y",
-    "journal": "Nature",
-    "title": "Unsupervised pretraining in biological neural networks",
-    "link": "https://www.nature.com/articles/s41586-025-09180-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09180-y\">doi:10.1038/s41586-025-09180-y</a></p>During visual learning, neural plasticity is driven by unsupervised learning in mice.",
-    "authors": [
-      "Lin Zhong",
-      "Scott Baptista",
-      "Rachel Gattoni",
-      "Jon Arnold",
-      "Daniel Flickinger",
-      "Carsen Stringer",
-      "Marius Pachitariu"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425978"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09136-2",
-    "journal": "Nature",
-    "title": "Complete computational design of high-efficiency Kemp elimination enzymes",
-    "link": "https://www.nature.com/articles/s41586-025-09136-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09136-2\">doi:10.1038/s41586-025-09136-2</a></p>We present a computational approach to the design of high-efficiency enzymes with catalytic parameters comparable to natural enzymes, enabling programming of stable, high-efficiency, new-to-nature Kemp elimination enzymes through minimal experimental effort.",
-    "authors": [
-      "Dina Listov",
-      "Eva Vos",
-      "Gyula Hoffka",
-      "Shlomo Yakir Hoch",
-      "Andrej Berg",
-      "Shelly Hamer-Rogotner",
-      "Orly Dym",
-      "Shina Caroline Lynn Kamerlin",
-      "Sarel J. Fleishman"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425984"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09164-y",
-    "journal": "Nature",
-    "title": "Optical nonlinearities in excess of 500 through sublattice reconstruction",
-    "link": "https://www.nature.com/articles/s41586-025-09164-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09164-y\">doi:10.1038/s41586-025-09164-y</a></p>A strategy for engineering photon-avalanche nanoparticles is proposed such that they exhibit an unprecedentedly strong nonlinear optical response and their emissions scale by more than 500th power of the pump intensity.",
-    "authors": [
-      "Jiaye Chen",
-      "Chang Liu",
-      "Shibo Xi",
-      "Shengdong Tan",
-      "Qian He",
-      "Liangliang Liang",
-      "Xiaogang Liu"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425989"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09171-z",
-    "journal": "Nature",
-    "title": "Bimodal centromeres in pentaploid dogroses shed light on their unique meiosis",
-    "link": "https://www.nature.com/articles/s41586-025-09171-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09171-z\">doi:10.1038/s41586-025-09171-z</a></p>Insights into the dogrose genome and centromeres explain their ability to achieve stable sexual reproduction.",
-    "authors": [
-      "V. Herklotz",
-      "M. Zhang",
-      "T. Nascimento",
-      "R. Kalfusová",
-      "J. Lunerová",
-      "J. Fuchs",
-      "D. Harpke",
-      "B. Huettel",
-      "U. Pfordt",
-      "V. Wissemann",
-      "A. Kovařík",
-      "A. Marques",
-      "C. M. Ritz"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425993"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09190-w",
-    "journal": "Nature",
-    "title": "Kupffer cell programming by maternal obesity triggers fatty liver disease",
-    "link": "https://www.nature.com/articles/s41586-025-09190-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09190-w\">doi:10.1038/s41586-025-09190-w</a></p>In a mouse model, maternal obesity during pregnancy can lead to fatty liver disease in the offspring, driven by aberrant developmental programming of Kuppfer cells.",
-    "authors": [
-      "Hao Huang",
-      "Nora R. Balzer",
-      "Lea Seep",
-      "Iva Splichalova",
-      "Nelli Blank-Stein",
-      "Maria Francesca Viola",
-      "Eliana Franco Taveras",
-      "Kerim Acil",
-      "Diana Fink",
-      "Franzisca Petrovic",
-      "Nikola Makdissi",
-      "Seyhmus Bayar",
-      "Katharina Mauel",
-      "Carolin Radwaniak",
-      "Jelena Zurkovic",
-      "Amir H. Kayvanjoo",
-      "Klaus Wunderling",
-      "Malin Jessen",
-      "Mohamed H. Yaghmour",
-      "Lukas Kenner",
-      "Thomas Ulas",
-      "Stephan Grein",
-      "Joachim L. Schultze",
-      "Charlotte L. Scott",
-      "Martin Guilliams",
-      "Zhaoyuan Liu",
-      "Florent Ginhoux",
-      "Marc D. Beyer",
-      "Christoph Thiele",
-      "Felix Meissner",
-      "Jan Hasenauer",
-      "Dagmar Wachten",
-      "Elvira Mass"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.425997"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09186-6",
-    "journal": "Nature",
-    "title": "Allosteric modulation and biased signalling at free fatty acid receptor 2",
-    "link": "https://www.nature.com/articles/s41586-025-09186-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09186-6\">doi:10.1038/s41586-025-09186-6</a></p>Structural, pharmacological and computational studies reveal how different classes of positive allosteric modulators bind to distinct allosteric sites and use noncanonical mechanisms to activate the free-fatty acid receptor FFA2.",
-    "authors": [
-      "Xuan Zhang",
-      "Abdul-Akim Guseinov",
-      "Laura Jenkins",
-      "Alice Valentini",
-      "Sara Marsango",
-      "Katrine Schultz-Knudsen",
-      "Trond Ulven",
-      "Elisabeth Rexen Ulven",
-      "Irina G. Tikhonova",
-      "Graeme Milligan",
-      "Cheng Zhang"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426001"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09160-2",
-    "journal": "Nature",
-    "title": "Machine-learning design of ductile FeNiCoAlTa alloys with high strength",
-    "link": "https://www.nature.com/articles/s41586-025-09160-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09160-2\">doi:10.1038/s41586-025-09160-2</a></p>A new group of multi-principal-element alloys, designed through machine learning and extreme microstructural heterogeneities, achieve high strength (1.8-GPa yield strength) and ductility (25% uniform elongation) at room temperature.",
-    "authors": [
-      "Yasir Sohail",
-      "Chongle Zhang",
-      "Dezhen Xue",
-      "Jinyu Zhang",
-      "Dongdong Zhang",
-      "Shaohua Gao",
-      "Yang Yang",
-      "Xiaoxuan Fan",
-      "Hang Zhang",
-      "Gang Liu",
-      "Jun Sun",
-      "En Ma"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426008"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09085-w",
-    "journal": "Nature",
-    "title": "Impacts of climate change on global agriculture accounting for adaptation",
-    "link": "https://www.nature.com/articles/s41586-025-09085-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09085-w\">doi:10.1038/s41586-025-09085-w</a></p>Analysis of data on six stable crops, capturing two-thirds of global crop calories, allows estimation of agricultural impacts and the potential of global producer adaptations to reduce output losses owing to climate change.",
-    "authors": [
-      "Andrew Hultgren",
-      "Tamma Carleton",
-      "Michael Delgado",
-      "Diana R. Gergel",
-      "Michael Greenstone",
-      "Trevor Houser",
-      "Solomon Hsiang",
-      "Amir Jina",
-      "Robert E. Kopp",
-      "Steven B. Malevich",
-      "Kelly E. McCusker",
-      "Terin Mayer",
-      "Ishan Nath",
-      "James Rising",
-      "Ashwin Rode",
-      "Jiacan Yuan"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426012"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09120-w",
-    "journal": "Nature",
-    "title": "Gut inflammation promotes microbiota-specific CD4 T cell-mediated neuroinflammation",
-    "link": "https://www.nature.com/articles/s41586-025-09120-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09120-w\">doi:10.1038/s41586-025-09120-w</a></p>Dysregulated CD4 T cells that recognize gut commensal antigens are able to infiltrate the central nervous systems and are re-stimulated by host proteins, resulting in neuroinflammation.",
-    "authors": [
-      "Zachary White",
-      "Ivan Cabrera",
-      "Linghan Mei",
-      "Margarette Clevenger",
-      "Andrea Ochoa-Raya",
-      "Isabel Kapustka",
-      "Joseph R. Dominguez",
-      "Jinyan Zhou",
-      "Kevin P. Koster",
-      "Shehata Anwar",
-      "Qianxun Wang",
-      "Charles Ng",
-      "Shoko Sagoshi",
-      "Takashi Matsuo",
-      "Dulari Jayawardena",
-      "Seung Hyeon Kim",
-      "Takahiro Kageyama",
-      "Benjamin J. Mitchell",
-      "Dante Rivera",
-      "Pradeep K. Dudeja",
-      "Sarah E. Lutz",
-      "Ki-Wook Kim",
-      "Akira Yoshii",
-      "Nicolas Chevrier",
-      "Makoto Inoue",
-      "Teruyuki Sano"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426017"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09177-7",
-    "journal": "Nature",
-    "title": "Targeting de novo purine biosynthesis for tuberculosis treatment",
-    "link": "https://www.nature.com/articles/s41586-025-09177-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09177-7\">doi:10.1038/s41586-025-09177-7</a></p>The validation of inhibitors targeting PurF, a novel drug target for tuberculosis drug discovery, is described.",
-    "authors": [
-      "Dirk A. Lamprecht",
-      "Richard J. Wall",
-      "Annelies Leemans",
-      "Barry Truebody",
-      "Joke Sprangers",
-      "Patricia Fiogbe",
-      "Cadi Davies",
-      "Jennefer Wetzel",
-      "Stijn Daems",
-      "William Pearson",
-      "Vanessa Pillay",
-      "Samantha Saylock",
-      "M. Daniel Ricketts",
-      "Ellie Davis",
-      "Adam Huff",
-      "Tsehai Grell",
-      "Shiming Lin",
-      "Michelle Gerber",
-      "Ann Vos",
-      "John Dallow",
-      "Sam J. Willcocks",
-      "Christine Roubert",
-      "Stéphanie Sans",
-      "Amandine Desorme",
-      "Nicolas Chappat",
-      "Aurélie Ray",
-      "Mariana Pereira Moraes",
-      "Tracy Washington",
-      "Hope D’Erasmo",
-      "Pavankumar Sancheti",
-      "Melissa Everaerts",
-      "Mario Monshouwer",
-      "Jorge Esquivias",
-      "Gerald Larrouy-Maumus",
-      "Ruxandra Draghia Akli",
-      "Helen Fletcher",
-      "Alexander S. Pym",
-      "Bree B. Aldridge",
-      "Jansy P. Sarathy",
-      "Kathleen W. Clancy",
-      "Bart Stoops",
-      "Neeraj Dhar",
-      "Adrie J. C. Steyn",
-      "Paul Jackson",
-      "Clara Aguilar-Pérez",
-      "Anil Koul"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426021"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09151-3",
-    "journal": "Nature",
-    "title": "Morphodynamics of human early brain organoid development",
-    "link": "https://www.nature.com/articles/s41586-025-09151-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09151-3\">doi:10.1038/s41586-025-09151-3</a></p>Human brain morphodynamics are explored using organoids.",
-    "authors": [
-      "Akanksha Jain",
-      "Gilles Gut",
-      "Fátima Sanchis-Calleja",
-      "Reto Tschannen",
-      "Zhisong He",
-      "Nicolas Luginbühl",
-      "Fides Zenk",
-      "Antonius Chrisnandy",
-      "Simon Streib",
-      "Christoph Harmel",
-      "Ryoko Okamoto",
-      "Malgorzata Santel",
-      "Makiko Seimiya",
-      "René Holtackers",
-      "Juliane K. Rohland",
-      "Sophie Martina Johanna Jansen",
-      "Matthias P. Lutolf",
-      "J. Gray Camp",
-      "Barbara Treutlein"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426024"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09156-y",
-    "journal": "Nature",
-    "title": "Bioinspired capillary&#xa0;force-driven super-adhesive filter",
-    "link": "https://www.nature.com/articles/s41586-025-09156-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09156-y\">doi:10.1038/s41586-025-09156-y</a></p>Stable coating of filters with a thin liquid layer enhances adhesion of airborne particulates while maintaining high air permeability, resulting in longer lifetimes and higher efficiency of these filters.",
-    "authors": [
-      "Junyong Park",
-      "Chan Sik Moon",
-      "Ji Min Lee",
-      "Sazzadul A. Rahat",
-      "Sang Moon Kim",
-      "Jonathan T. Pham",
-      "Michael Kappl",
-      "Hans-Jürgen Butt",
-      "Sanghyuk Wooh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426028"
-  },
-  {
     "id": "https://www.nature.com/articles/s41586-025-09135-3",
     "journal": "Nature",
     "title": "Bogong moths use a stellar compass for long-distance navigation at night",
@@ -2439,6 +783,216 @@
     "added_at": "2025-06-18T22:07:36.426388"
   },
   {
+    "id": "https://www.nature.com/articles/s41586-025-09237-y",
+    "journal": "Nature",
+    "title": "Publisher Correction: The P-loop NTPase RUVBL2 is a conserved clock component across eukaryotes",
+    "link": "https://www.nature.com/articles/s41586-025-09237-y",
+    "published": "",
+    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09237-y\">doi:10.1038/s41586-025-09237-y</a></p>Publisher Correction: The P-loop NTPase RUVBL2 is a conserved clock component across eukaryotes",
+    "authors": [
+      "Meimei Liao",
+      "Yanqin Liu",
+      "Zhancong Xu",
+      "Mingxu Fang",
+      "Ziqing Yu",
+      "Yufan Cui",
+      "Zhengda Sun",
+      "Ran Huo",
+      "Jieyu Yang",
+      "Fusheng Huang",
+      "Mingming Liu",
+      "Qin Zhou",
+      "Xiaocui Song",
+      "Hui Han",
+      "She Chen",
+      "Xiaodong Xu",
+      "Ximing Qin",
+      "Qun He",
+      "Dapeng Ju",
+      "Tao Wang",
+      "Nirav Thakkar",
+      "Paul E. Hardin",
+      "Susan S. Golden",
+      "Eric Erquan Zhang"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284637"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01910-6",
+    "journal": "Nature",
+    "title": "Revealed: How the brain turns stress into a bad night's sleep",
+    "link": "https://www.nature.com/articles/d41586-025-01910-6",
+    "published": "",
+    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01910-6\">doi:10.1038/d41586-025-01910-6</a></p>Neurons deep in the brain influence how stressful experiences disrupt both sleep and memory.",
+    "authors": [
+      "Katie Kavanagh"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284651"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01916-0",
+    "journal": "Nature",
+    "title": "Single-celled organisms set for greater role in gut health",
+    "link": "https://www.nature.com/articles/d41586-025-01916-0",
+    "published": "",
+    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01916-0\">doi:10.1038/d41586-025-01916-0</a></p>Long cast as villains, some protists, such as Blastocystis, are potentially beneficial to human health.",
+    "authors": [
+      "Anthony King"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284656"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01942-y",
+    "journal": "Nature",
+    "title": "AI slashes time to produce gold-standard medical reviews — but sceptics urge caution",
+    "link": "https://www.nature.com/articles/d41586-025-01942-y",
+    "published": "",
+    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01942-y\">doi:10.1038/d41586-025-01942-y</a></p>Although language models can help to accelerate systematic reviews, a fully automated system is still some way off.",
+    "authors": [
+      "Helen Pearson"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284665"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01948-6",
+    "journal": "Nature",
+    "title": "Daily briefing: The most-energetic molecule ever made",
+    "link": "https://www.nature.com/articles/d41586-025-01948-6",
+    "published": "",
+    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01948-6\">doi:10.1038/d41586-025-01948-6</a></p>Scientists have identified only the second known stable nitrogen molecule: hexanitrogen. Plus, much of the hunting driving pangolins to extinction in Nigeria is for food, not scales and an emergency check-up for the Atlantic Meridional Overturning Circulation.",
+    "authors": [
+      "Flora Graham"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284669"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zo65c41",
+    "journal": "Science",
+    "title": "No sour faces: How birds evolved to eat highly acidic fruits",
+    "link": "https://www.science.org/content/article/no-sour-faces-how-birds-evolved-eat-highly-acidic-fruits",
+    "published": "",
+    "summary": "Genetic mutations more than 20 million years ago helped birds tolerate the tart and broaden their diets",
+    "authors": [
+      "Nazeefa Ahmed"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284674"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zpdxyxk",
+    "journal": "Science",
+    "title": "New approach enables body to engineer its own cells to fight cancer or autoimmunity",
+    "link": "https://www.science.org/content/article/new-approach-enables-body-engineer-its-own-cells-fight-cancer-or-autoimmunity",
+    "published": "",
+    "summary": "Injections of mRNA may offer a simpler, cheaper way to build powerful CAR-T cells",
+    "authors": [
+      "Mitch Leslie"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284679"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00639-4?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Rapid group-2 innate lymphoid cell mobilization from the intestine aids in early lung defense and repair",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00639-4?rss=yes",
+    "published": "",
+    "summary": "Can et al. show that circulating group 2 innate lymphoid cells (ILC2s) rapidly migrate from the intestine to the lung after helminth infection. These early responders bolster type-2 immunity and barrier repair, highlighting a key gut-lung axis and distinguishing them from bone marrow-derived and tissue-resident ILC2 populations.",
+    "authors": [
+      "Uryan Isik Can, Sarah E. Stenske, Matthew D. Rosenbaum, R. Lee Reinhardt"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284697"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00623-0?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Choline transporters are required for oligodendrocyte differentiation and myelin sheath formation in mouse postnatal brain",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00623-0?rss=yes",
+    "published": "",
+    "summary": "Liu et al. show that the choline transporters SLC44A1/5 are required for oligodendrocyte differentiation and myelination in mouse postnatal brains. Specifically, SLC44A1 deletion in oligodendrocytes inhibits myelin sheath formation due to decreased plasmalogen synthesis. Choline transporters may be potential targets for myelin deficit-related diseases.",
+    "authors": [
+      "Ming-Chen Liu, Bin Yu, Yu Xia, Qian Cheng, Yao Chen, Xing Gao, Shuang-Ling Wu, Fei Wang, Tao Li, Lan Xiao, Qi-Jing Lei, Feng Mei"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284751"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00624-2?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Patterns of pathological tau deposition reflect the dynamics of cortical brain activity",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00624-2?rss=yes",
+    "published": "",
+    "summary": "Han et al. provide evidence suggesting that global brain activity and its coupling with CSF inflow are correlated with tau deposition in higher-order association regions in AD. Using fMRI and PET, they demonstrate that dynamic traveling waves across hierarchal cortices resemble tau spreading in AD and account for its inter-subject variability.",
+    "authors": [
+      "Feng Han, Xi Chen, Alice Murphy, JiaQie Lee, Jacob Ziontz, Susan M. Landau, Suzanne L. Baker, Theresa M. Harrison, William J. Jagust"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284756"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42003-025-08341-z",
+    "journal": "Nature_CompBio",
+    "title": "Harmonizing network-based statistics across different atlases in brain connectome analysis",
+    "link": "https://www.nature.com/articles/s42003-025-08341-z",
+    "published": "2025-06-19T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Qingyuan Liu et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-19T22:07:52.284770"
+  },
+  {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326746",
     "journal": "PLoS_ONE",
     "title": "Correction: Exercise prescription for the prevention and treatment of chronic diseases in primary care: Protocol of the RedExAP study",
@@ -3174,5 +1728,328 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-18T22:07:36.426415"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00630-8?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "The SARS-CoV-2 trigger highlights host interleukin 1 genetics in Epstein-Barr virus reactivation",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00630-8?rss=yes",
+    "published": "",
+    "summary": "Schneiderova et al. demonstrate an association between EBV reactivation during SARS-CoV-2 infection and host interleukin 1 genetics in individuals with long COVID. Anti-VCA IgA serum levels, a strong marker of recent EBV reactivation, are associated with a high latent EBV load in blood and objective long-term pulmonary dysfunction in long COVID.",
+    "authors": [
+      "Petra Schneiderova, Jan Mizera, Arootin Gharibian, Gayane Manukyan, Milan Raska, Petr Gajdos, Petr Kosztyu, Samuel Genzor, Milos Kudelka, Milan Sova, Jakub Savara, Alena Borikova, Bishu Shrestha, Zuzana Mikulkova, Ladislav Stepanek, Jiri Kufa, Petr Jakubec, Eva Kriegova"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284687"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00659-X?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Cold-inducible GOT1 activates the malate-aspartate shuttle in brown adipose tissue to support fuel preference for fatty acids",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00659-X?rss=yes",
+    "published": "",
+    "summary": "Park et al. show that GOT1, a key enzyme of the malate-aspartate shuttle (MAS), is selectively upregulated by cold in brown adipose tissue and acts as a molecular switch, turning on the MAS. Cold-activated MAS is essential for supporting mitochondrial fuel preference for fatty acids over glucose.",
+    "authors": [
+      "Chul-Hong Park, Minsung Park, Miranda E. Kelly, Helia Cheng, Sang Ryeul Lee, Cholsoon Jang, Ji Suk Chang"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284702"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00634-5?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "An alternative neural basis underlying leptin resistance",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00634-5?rss=yes",
+    "published": "",
+    "summary": "The mechanism of leptin resistance, the major contributor to DIO, remains elusive. Li et al. found that leptin receptor-negative Arc GABAergic neurons (non-LepR neurons) were activated by HFD feeding, that their activation caused leptin-resistant obesity, and that inhibition reduced/reversed DIO, revealing aberrant activation of these neurons as an alternative mechanism underlying leptin resistance.",
+    "authors": [
+      "Hongli Li, Cunjin Su, Yuanzhong Xu, Mette Q. Ludwig, Jon Davis, Qingchun Tong"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284706"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00626-6?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Repeated duplications and losses shaped SMC complex evolution from archaeal ancestors to modern eukaryotes",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00626-6?rss=yes",
+    "published": "",
+    "summary": "Van Hooff et al. reconstruct the evolutionary histories of eukaryotic SMC complexes, molecular machineries that organize chromosomes. SMC complexes were fully present in the last eukaryotic common ancestor (LECA) but have been frequently lost during evolution. Remarkably, these complexes originated from an ancient duplication in archaeal ancestors, suggesting that sophisticated chromosome organization predated eukaryotes.",
+    "authors": [
+      "Jolien J.E. van Hooff, Maximilian W.D. Raas, Eelco C. Tromer, Laura Eme"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284711"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00648-5?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "A molecular cartographer’s toolkit for mapping RNA’s uncharted realms",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00648-5?rss=yes",
+    "published": "",
+    "summary": "In this review, Mardakheh and Shechner showcase emerging RNA-focused technologies that enable unbiased discovery of RNA-interacting partners in situ. This cutting-edge toolkit promises to transform our understanding of the molecular interactions governing RNA fate and function and the spatiotemporal dynamics of RNA-centered cellular compartments, overcoming long-standing challenges in cell biology.",
+    "authors": [
+      "Faraz K. Mardakheh, David M. Shechner"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284719"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00583-2?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "A hexamer tandem repeat RNA embedded within an SVA retrotransposon drives R-loop formation and neurodegeneration",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00583-2?rss=yes",
+    "published": "",
+    "summary": "D’Ignazio et al. developed ventral forebrain organoids to model the caudate nucleus of X-linked dystonia parkinsonism patients. A thorough characterization led to the identification of SVA retroelement-containing repeat transcripts associated with R-loops and neurodegeneration. The study offers clues on how targeting repeat transcripts using antisense oligonucleotides could rescue neurodegeneration.",
+    "authors": [
+      "Laura D’Ignazio, Alan P.R. Lorenzetti, Ellen B. Penney, Taylor A. Evans, Bareera Qamar, Alejandra E. McCord, Arthur S. Feltrin, Andre R. Barbosa, Bonna J. Sheehan, Bruno Araujo, Hunter H. Giles, Yanhong Wang, Tomoyo Sawada, Michael Zabolocki, Micaela Murcar, Cara Fernandez-Cerado, G. Paul Legarda, Michelle Sy, M. Salvie Velasco-Andrada, Edwin Munoz, Mark C. Ang, Cid Czarina E. Diesta, Cedric Bardy, D. Cristopher Bragg, Apua C.M. Paquola, Jennifer A. Erwin"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284726"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00645-X?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Mu-opioid receptor activation potentiates excitatory transmission at the habenulo-peduncular synapse",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00645-X?rss=yes",
+    "published": "",
+    "summary": "Singhal et al. demonstrate the physiological role of mu-opioid receptor (MORs) in the medial-habenula-to-interpeduncular-nucleus (HP) pathway. Post-synaptic MORs canonically inhibit medial habenula and interpeduncular nucleus activity, but presynaptic MORs non-canonically facilitate excitatory transmission at HP synapses, establishing a distinct mode by which MORs can modulate neuronal function.",
+    "authors": [
+      "Sarthak M. Singhal, Agata Szlaga, Yen-Chu Chen, William S. Conrad, Thomas S. Hnasko"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284761"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43588-025-00818-5",
+    "journal": "Nature_CompBio",
+    "title": "Cost-effective instruction learning for pathology vision and language analysis",
+    "link": "https://www.nature.com/articles/s43588-025-00818-5",
+    "published": "2025-06-19T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Kaitao Chen et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284766"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41580-025-00857-w",
+    "journal": "Nature_CompBio",
+    "title": "Decoding the interactions and functions of non-coding RNA with artificial intelligence",
+    "link": "https://www.nature.com/articles/s41580-025-00857-w",
+    "published": "2025-06-19T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Vincent Jung et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284774"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119066",
+    "journal": "MIT_TechReview",
+    "title": "It’s pretty easy to get DeepSeek to talk dirty",
+    "link": "https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/",
+    "published": "Thu, 19 Jun 2025 15:08:03 +0000",
+    "summary": "AI companions like Replika are designed to engage in intimate exchanges, but people use general-purpose chatbots for sex talk too, despite their stricter content moderation policies. Now new research shows that not all chatbots are equally willing to talk dirty: DeepSeek is the easiest to convince. But other AI chatbots can be enticed too, if&#8230;",
+    "authors": [
+      "Rhiannon Williams"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284780"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119059",
+    "journal": "MIT_TechReview",
+    "title": "The Download: future grids, and bad boy bots",
+    "link": "https://www.technologyreview.com/2025/06/19/1119059/the-download-future-grids-and-bad-boy-bots/",
+    "published": "Thu, 19 Jun 2025 12:15:33 +0000",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Before we embark on our usual programming we’re thrilled to share that The Download won Best Technology Newsletter at this year&#8217;s Publisher Newsletter Awards! Thank you to all of you for reading, subscribing,&#8230;",
+    "authors": [
+      "Rhiannon Williams"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284784"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1118248",
+    "journal": "MIT_TechReview",
+    "title": "Is this the electric grid of the future?",
+    "link": "https://www.technologyreview.com/2025/06/19/1118248/electric-grid-future-lincoln-nebraska-utilities-energy-transition/",
+    "published": "Thu, 19 Jun 2025 10:00:00 +0000",
+    "summary": "One morning in the middle of March, a slow-moving spring blizzard stalled above eastern Nebraska, pounding the state capital of Lincoln with 60-mile-per-hour winds, driving sleet, and up to eight inches of snow. Lincoln Electric System, the local electric utility, has approximately 150,000 customers. By lunchtime, nearly 10% of them were without power. Ice was&#8230;",
+    "authors": [
+      "Andrew Blum"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284788"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119027",
+    "journal": "MIT_TechReview",
+    "title": "Inside the US power struggle over coal",
+    "link": "https://www.technologyreview.com/2025/06/19/1119027/us-coal-power-struggle/",
+    "published": "Thu, 19 Jun 2025 10:00:00 +0000",
+    "summary": "Coal power is on life support in the US. It used to carry the grid with cheap electricity, but now plants are closing left and right. There are a lot of potential reasons to let coal continue its journey to the grave. Carbon emissions from coal plants are a major contributor to climate change. And&#8230;",
+    "authors": [
+      "Casey Crownhart"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284792"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/112800083/061700047/",
+    "journal": "Nikkei_BioTech",
+    "title": "Endpoints News、Trump政権、CDCワクチン委員会の全ての委員を解任",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/112800083/061700047/",
+    "published": "",
+    "summary": "米保健福祉省（HHS）のRobert F. Kennedy Jr.長官は、予防接種実施に関する諮問委員会（Advisory Committee on Immunization Practices：ACIP）として知られる、米疾病予防管理センター（CDC）のワクチン委員会の全ての委員を解任した。これまで長く続いて来たワクチン政策の先例を破る異例の措置だ。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284798"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/17/13427/",
+    "journal": "Nikkei_BioTech",
+    "title": "ベルギーAstriVax社、B型慢性肝炎ワクチンの第1相臨床試験を開始",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/17/13427/",
+    "published": "",
+    "summary": "ベルギーAstriVax Therapeutics（アストリバックス・セラピューティクス）社は2025年6月5日、独自のプラスミドを用いたワクチンプラットフォーム「Launch-iT：launched Immnunotherapy」により創製したワクチン（開発番号：AVX70371）が、B型肝炎ウイルス（HBV）による慢性感染を対象に第1相臨床試験（RUBY試験）に入ったと発表した。同プラットフォームにより創製したLaunch-iT開発品の3つ目が臨床入りした。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284804"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/17/13426/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Vasa社、HFpEF治療薬候補のMMP阻害薬VS-041の第1相を完了",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/17/13426/",
+    "published": "",
+    "summary": "心血管系及び代謝系の老化に対する新たな治療法の開発に取り組むバイオ医薬品会社の米Vasa Therapeutics（ヴァーサ・セラピューティクス）社は、2025年6月4日、左室駆出率が保たれた心不全（HFpEF）に対する治療薬候補のVS-041を健常人に始めて投与した第1相試験で、安全性と忍容性を示す結果が得られたと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284809"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13436/",
+    "journal": "Nikkei_BioTech",
+    "title": "大幸薬品と感染研、「正露丸」主成分がアニサキスの運動を抑制すると動物実験で確認",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13436/",
+    "published": "",
+    "summary": "大幸薬品は2025年6月19日、国立感染症研究所との共同研究によって、大幸薬品が販売している一般用医薬品の「正露丸」の主成分である木（もく）クレオソートがアニサキスの運動を抑制することを動物実験レベルで確認したと明らかにした。アニサキスは魚介類に寄生する寄生虫の一種で、アニサキス症などの食中毒を引き起こす原因になり得る。研究成果は、日本寄生虫学会の機関紙であるParasitology International誌（2025年10月発行）に掲載される予定だ。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284814"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13431/",
+    "journal": "Nikkei_BioTech",
+    "title": "レクメド、特定投資家向け銘柄制度を活用して個人投資家などから約13億円を調達",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13431/",
+    "published": "",
+    "summary": "レクメド（東京都町田市、松本正代表取締役社長）は2025年6月16日、第三者割当増資により12億9798万円を調達したことを発表した。ミドル・レイターステージのスタートアップなど非上場企業が特定投資家（一定以上の金融資産を持った投資のプロ）に対して投資を勧誘できる「特定投資家向け銘柄制度（J-Ships）」を活用して、個人投資家からの資金調達に成功した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284819"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13437/",
+    "journal": "Nikkei_BioTech",
+    "title": "サンバイオ、ミナリスのアクーゴ製造拠点を報道陣に公開",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13437/",
+    "published": "",
+    "summary": "サンバイオとミナリスアドバンストセラピーズ（横浜市、坂東博人代表取締役社長、元Minaris Regenerative Medicine、以下ミナリス）は2025年6月19日、サンバイオの細胞医薬「アクーゴ脳内移植用注」（バンデフィテムセル、開発番号：SB623）を受託製造しているミナリスの拠点を公開した。横浜市神奈川区にあるミナリスの製造拠点で、アクーゴの製造プロセスを一部説明した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-19T22:07:52.284823"
   }
 ]
