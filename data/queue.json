@@ -1,375 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-01931-1",
-    "journal": "Nature",
-    "title": "Daily briefing: Judge orders the restoration of hundreds of NIH grants",
-    "link": "https://www.nature.com/articles/d41586-025-01931-1",
-    "published": "",
-    "summary": "<p>Nature, Published online: 17 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01931-1\">doi:10.1038/d41586-025-01931-1</a></p>A US judge has ruled that cancelled funding for projects on diversity, equity and inclusion and COVID-19 must be restored by the National Institutes of Health. Plus, industrial slag can turn to rock within decades and the first ever artificial solar eclipse.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426113"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z2j70c9",
-    "journal": "Science",
-    "title": "For the first time, women scientists win $1 million climate research prize",
-    "link": "https://www.science.org/content/article/first-time-women-scientists-win-1-million-climate-research-prize",
-    "published": "",
-    "summary": "Following criticism for all-male winners in the past, women earned two of the three Frontiers Planet Prizes this year",
-    "authors": [
-      "Annika Inampudi"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426117"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z3ptiml",
-    "journal": "Science",
-    "title": "This giant, all-seeing telescope is set to revolutionize astronomy",
-    "link": "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy",
-    "published": "",
-    "summary": "The Vera C. Rubin Observatory will build an unprecedented map of the universe—and discover billions of fast-changing objects",
-    "authors": [
-      "Daniel Clery"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426121"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zkjglop",
-    "journal": "Science",
-    "title": "Breaking: Trump administration lifts freeze on NIH funding to Columbia University",
-    "link": "https://www.science.org/content/article/breaking-trump-administration-lifts-freeze-nih-funding-columbia-university",
-    "published": "",
-    "summary": "Internal email leaves unclear whether $250 million in terminated grants will be reinstated",
-    "authors": [
-      "Jocelyn Kaiser"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426126"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zoeegav",
-    "journal": "Science",
-    "title": "Will long-lasting HIV preventive be a game changer—or a missed opportunity?",
-    "link": "https://www.science.org/content/article/will-long-lasting-hiv-preventive-be-game-changer-or-missed-opportunity",
-    "published": "",
-    "summary": "FDA’s approval of lenacapavir comes at a time when global health cuts could stall its rollout",
-    "authors": [
-      "Kai Kupferschmidt"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426131"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z8sb68w",
-    "journal": "Science",
-    "title": "‘Dragon Man’ skull belongs to mysterious human relative",
-    "link": "https://www.science.org/content/article/dragon-man-skull-belongs-mysterious-human-relative",
-    "published": "",
-    "summary": "At long last, scientists have a nearly complete cranium from hominins known as Denisovans",
-    "authors": [
-      "Andrew Curry"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426137"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zd2hng4",
-    "journal": "Science",
-    "title": "U.S. National Academies adopts new business model to weather a financial storm",
-    "link": "https://www.science.org/content/article/u-s-national-academies-adopts-new-business-model-weather-financial-storm",
-    "published": "",
-    "summary": "Realignment of major program units aims to improve efficiency and make up for loss of federal contracts",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426141"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z7cromf",
-    "journal": "Science",
-    "title": "This moth makes its epic migration navigating by starlight",
-    "link": "https://www.science.org/content/article/moth-makes-its-epic-migration-navigating-starlight",
-    "published": "",
-    "summary": "Bogong moths fly 1000 kilometers orienting to stars and the Milky Way, an ability never seen before in invertebrates",
-    "authors": [
-      "Joshua Sokol"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426145"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zk4y23m",
-    "journal": "Science",
-    "title": "Funding cuts to U.S. archaeology could imperil field’s future",
-    "link": "https://www.science.org/content/article/funding-cuts-u-s-archaeology-could-imperil-field-s-future",
-    "published": "",
-    "summary": "A <cite>Science</cite> analysis of canceled and curtailed federal grants reveals hits to research, collections, and training",
-    "authors": [
-      "Taylor Mitchell Brown"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426149"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326621",
-    "journal": "PLoS_ONE",
-    "title": "Retraction: Selective inhibition of carbonic anhydrase IX over carbonic anhydrase XII in breast cancer cells using benzene sulfonamides: Disconnect between activity and growth inhibition",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326621",
-    "published": "2025-06-18T14:00:00Z",
-    "summary": "<p>by The PLOS One Editors  </p>",
-    "authors": [
-      "The PLOS One Editors"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426182"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326607",
-    "journal": "PLoS_ONE",
-    "title": "Does the registration system reform reduce the finance sector’s risk spillover effect in China’s stock market—Causal inference based on dual machine learning",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326607",
-    "published": "2025-06-18T14:00:00Z",
-    "summary": "<p>by Yuxi Zhang, Weidong Li, Shijun Dong</p>\n\nWith growing uncertainty in global trade, improving access to domestic capital markets has become an important way to manage financial risk spillovers. This study examines how the registration system reform affects the finance sector's risk spillovers to other 10 sectors in China’s stock market using a dual machine learning model. The findings include: (1) The finance sector's risk spillovers vary over time and are heterogeneous. Risk spillovers rapidly intensify two months after the outbreak of the COVID-19 pandemic, with the average net ∆CoVaR value changing from −0.001 to −0.006. The finance sector mainly accepts risk from the public utility sector and exports risk to the other 9 sectors, with the highest spillovers going to the communication and information technology sectors, showing extreme net ΔCoVaR values around −0.02. (2) The registration system reform increases the finance sector's risk spillover effect, and this conclusion remains the same after a series of robustness tests. (3) Sector heterogeneity tests show that the reform boosts the finance sector's risk spillovers to cyclical sectors and sectors with a low proportion of strategic emerging companies but reduces risk spillovers to midstream and supportive sectors. Finally, some suggestions and implications are proposed.",
-    "authors": [
-      "Yuxi Zhang",
-      "Weidong Li",
-      "Shijun Dong"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426189"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326581",
-    "journal": "PLoS_ONE",
-    "title": "Improving the performance of the coffee supply chain using integrating fuzzy MCDM and simulation methods",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326581",
-    "published": "2025-06-18T14:00:00Z",
-    "summary": "<p>by Ghazi M. Magableh, Abdullah F. Al-Dwairi, Ahmad Alhamouri</p>\n\nCoffee is one of the drinks that are consumed worldwide. The global coffee beans industry is currently facing several challenges, including The COVID19 pandemic’s long-term effects on their supply chains (SCs), adverse weather conditions affecting major coffee-producing regions, escalating price dynamics, and the increased in transportation costs. Jordan significantly relies on coffee imports, a critical agricultural product that constitutes an important part of local trade. Due to the lack of previous studies, the research aims to evaluate the current SC and improve Jordan’s coffee SC performance by reducing lead time and shipping cost. The research first uses the combined Fuzzy Analytic Hierarchy Process (FAHP) and The Fuzzy Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) method to rank the supplier and choose the best suppliers based on established criteria. Then, the research proposes an analysis with the goal of enhancing the efficiency of Jordan’s coffee SC by applying Discrete Event Simulation (DES). Real company data is utilized to study, apply and evaluate the methodology used. The decision-making process employ decision makers and expert opinion input, providing a comprehensive and balanced evaluation of suppliers. Different scenarios are evaluated and compared based on the integrations of the FMCDM results in the simulation model. The findings identify the best and least favorable suppliers, highlighting Ethiopia’s leadership in several indicators. The outcomes suggest reducing lead time and shipping costs, investing in technology, and establishing a culture of continuous improvement to improve efficiency, stability, and adapt to market conditions. The research provides a comprehensive analysis of the current state of the coffee SC and suggests opportunities for development. Finally, recommendations to improve the current coffee SC in Jordan and directions for future research are discussed.",
-    "authors": [
-      "Ghazi M. Magableh",
-      "Abdullah F. Al-Dwairi",
-      "Ahmad Alhamouri"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426195"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326532",
-    "journal": "PLoS_ONE",
-    "title": "Development of cookies from wheat-yellow/white maize composite blends and their physical and sensory evaluation",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326532",
-    "published": "2025-06-18T14:00:00Z",
-    "summary": "<p>by Muhammad Adnan, Masood Sadiq Butt, Imran pasha, Muhammad Shahid</p>\n\nWheat is a staple food in many countries globally, but it alone cannot meet the dietary demands of the growing population. To address this, there is an increasingly critical need to integrate alternative cereals into diets, enhancing nutritional diversity and reducing reliance on imports. In present study, various composite blends of wheat and maize were developed by taking different proportions of maize flour (10, 20, 30 and 40%) into the wheat flour and analyzed for proximate composition, phytates, minerals and pasting properties. By using these blends, cookies were made and tested for their physical and sensory evaluation. The crude fat, fiber and ash contents were increased significantly as the amount of maize into composite blends increased but insignificant for moisture, protein and NFE contents while reduction in the phytates was observed. The mineral analysis of various flours showed an increase in the calcium, magnesium, potassium and sodium while decrease in zinc contents. The pasting behaviour of wheat maize composite blends showed a significant decrease in their viscosities as the quantity of maize flour increased. The physical/textural parameters revealed a reduction in diameter and thickness whereas increase in hardness as the amount of maize supplementation increased which had diminishing affect at higher concentrations. It was observed that addition of maize flour into the wheat flour in the development of cookies at higher concentration negatively affected the sensorial attributes.",
-    "authors": [
-      "Muhammad Adnan",
-      "Masood Sadiq Butt",
-      "Imran pasha",
-      "Muhammad Shahid"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426220"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00642-4?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Hyperacute response proteins synthesized on γ-tubulin-FTO-MARK4 translation microdomains regulate cancer’s acute stress response",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00642-4?rss=yes",
-    "published": "",
-    "summary": "Saleme et al. show that cancer’s stress resistance is driven by translation of hyperacute response proteins from m6A-tagged mRNAs within minutes of various stresses (metabolic stress, radiation, oxidative stress, or chemotherapy). Translation is mediated by cytosolic FTO activation by MARK4 on specialized γ-tubulin-associated ribosomes. FTO and MARK4 inhibitors are therapeutic targets for cancer’s resistance to stress.",
-    "authors": [
-      "Bruno Saleme, Saymon Tejay, Kléouforo-Paul Dembélé, Rabih Abou Farraj, Yongneng Zhang, Yongsheng Liu, Aristeidis E. Boukouris, Sotirios D. Zervopoulos, Alois Haromy, Yuan-Yuan Zhao, Shelly Braun, William Saleme, Xuejun Sun, Richard P. Fahlman, Mark Glover, Adam Kinnaird, Gopinath Sutendra, Evangelos D. Michelakis"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426328"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41698-025-00971-0",
-    "journal": "Nature_CompBio",
-    "title": "Applying a multi-task and multi-instance framework to predict axillary lymph node metastases in breast cancer",
-    "link": "https://www.nature.com/articles/s41698-025-00971-0",
-    "published": "2025-06-18T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Yizhi Li et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426359"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1119042",
-    "journal": "MIT_TechReview",
-    "title": "OpenAI can rehabilitate AI models that develop a “bad boy persona”",
-    "link": "https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/",
-    "published": "Wed, 18 Jun 2025 18:19:15 +0000",
-    "summary": "A new paper from OpenAI released today has shown why a little bit of bad training can make AI models go rogue but also demonstrates that this problem is generally pretty easy to fix.&#160; Back in February, a group of researchers discovered that fine-tuning an AI model (in their case, OpenAI’s GPT-4o) by training it&#8230;",
-    "authors": [
-      "Peter Hall"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426370"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1119002",
-    "journal": "MIT_TechReview",
-    "title": "The Download: tackling tech-facilitated abuse, and opening up AI hardware",
-    "link": "https://www.technologyreview.com/2025/06/18/1119002/the-download-tech-abuse-ai-hardware/",
-    "published": "Wed, 18 Jun 2025 12:15:00 +0000",
-    "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why it’s so hard to stop tech-facilitated abuse After Gioia had her first child with her then husband, he installed baby monitors throughout their home—to “watch what we were doing,” she says, while&#8230;",
-    "authors": [
-      "Charlotte Jee"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426381"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1118235",
-    "journal": "MIT_TechReview",
-    "title": "The quest to defend against tech in intimate partner violence",
-    "link": "https://www.technologyreview.com/2025/06/18/1118235/big-tech-intimate-partner-violence/",
-    "published": "Wed, 18 Jun 2025 10:00:00 +0000",
-    "summary": "After Gioia had her first child with her then husband, he installed baby monitors throughout their Massachusetts home—to “watch what we were doing,” she says, while he went to work. She’d turn them off; he’d get angry. By the time their third child turned seven, Gioia and her husband had divorced, but he still found&#8230;",
-    "authors": [
-      "Jessica Klein"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426384"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1118943",
-    "journal": "MIT_TechReview",
-    "title": "Why AI hardware needs to be open",
-    "link": "https://www.technologyreview.com/2025/06/18/1118943/ai-hardware-open/",
-    "published": "Wed, 18 Jun 2025 08:49:23 +0000",
-    "summary": "When OpenAI acquired Io to create “the coolest piece of tech that the world will have ever seen,” it confirmed what industry experts have long been saying: Hardware is the new frontier for AI. AI will no longer just be an abstract thing in the cloud far away. It’s coming for our homes, our rooms,&#8230;",
-    "authors": [
-      "Ayah Bdeir"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-18T22:07:36.426388"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09237-y",
-    "journal": "Nature",
-    "title": "Publisher Correction: The P-loop NTPase RUVBL2 is a conserved clock component across eukaryotes",
-    "link": "https://www.nature.com/articles/s41586-025-09237-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09237-y\">doi:10.1038/s41586-025-09237-y</a></p>Publisher Correction: The P-loop NTPase RUVBL2 is a conserved clock component across eukaryotes",
-    "authors": [
-      "Meimei Liao",
-      "Yanqin Liu",
-      "Zhancong Xu",
-      "Mingxu Fang",
-      "Ziqing Yu",
-      "Yufan Cui",
-      "Zhengda Sun",
-      "Ran Huo",
-      "Jieyu Yang",
-      "Fusheng Huang",
-      "Mingming Liu",
-      "Qin Zhou",
-      "Xiaocui Song",
-      "Hui Han",
-      "She Chen",
-      "Xiaodong Xu",
-      "Ximing Qin",
-      "Qun He",
-      "Dapeng Ju",
-      "Tao Wang",
-      "Nirav Thakkar",
-      "Paul E. Hardin",
-      "Susan S. Golden",
-      "Eric Erquan Zhang"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284637"
-  },
-  {
     "id": "https://www.nature.com/articles/d41586-025-01910-6",
     "journal": "Nature",
     "title": "Revealed: How the brain turns stress into a bad night's sleep",
@@ -880,6 +510,74 @@
     "priority": 2,
     "priority_name": "HIGH",
     "added_at": "2025-06-20T22:07:41.844972"
+  },
+  {
+    "id": "https://www.nature.com/articles/s44385-025-00023-z",
+    "journal": "Nature_CompBio",
+    "title": "Deep learning identifies heterogeneous subpopulations in breast cancer cell lines",
+    "link": "https://www.nature.com/articles/s44385-025-00023-z",
+    "published": "2025-06-21T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Tyler A. Jost et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-21T22:06:56.065055"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42003-025-08372-6",
+    "journal": "Nature_CompBio",
+    "title": "Unveiling spatial domains from spatial multi-omics data using dual-graph regularized ensemble learning",
+    "link": "https://www.nature.com/articles/s42003-025-08372-6",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Ying Li et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-21T22:06:56.065095"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-59479-7",
+    "journal": "Nature_CompBio",
+    "title": "Quantitative measurement of phenotype dynamics during cancer drug resistance evolution using genetic barcoding",
+    "link": "https://www.nature.com/articles/s41467-025-59479-7",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Frederick J. H. Whiting et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-21T22:06:56.065136"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05691-w",
+    "journal": "Nature_CompBio",
+    "title": "Tuning surface properties of thiophene-based thin films on glass substrates for cancer cell adhesion, drug release control, and computational analysis",
+    "link": "https://www.nature.com/articles/s41598-025-05691-w",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Heba M. Metwally et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-21T22:06:56.065150"
   },
   {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326746",
@@ -2706,5 +2404,311 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-20T22:07:41.845010"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00670-9?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Lipocalin-2 regulates astrocyte-oligodendrocyte interaction to drive post-stroke secondary demyelination",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00670-9?rss=yes",
+    "published": "",
+    "summary": "Huang et al. demonstrate that PERK-mediated ER stress in astrocytes triggers LCN2 synthesis, which binds oligodendroglial LRP2 to activate JNK3 signaling and drive post-stroke demyelination. Targeting astrocytic LCN2 or oligodendroglial LRP2 rescues post-stroke white matter injury and cognitive deficits, defining a therapeutic ER stress-LCN2-LRP2 axis.",
+    "authors": [
+      "Zhenqian Huang, Xiaohao Zhang, Ying Zhao, Mingming Zha, Min Wu, Di Wang, Qiushi Lv, Yunzi Li, Jingwen Qi, Jie Gao, Ruidong Ye, Weixin Yuan, Junxian Shen, Wusheng Zhu, Xinfeng Liu, Yi Xie"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065012"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00665-5?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Rice B2 and B3 subgroup RAF kinases play central roles in both ABA and osmotic stress signaling",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00665-5?rss=yes",
+    "published": "",
+    "summary": "Wang et al. demonstrate that rice B2/B3 RAF kinases are crucial for phytohormone ABA signaling and osmotic stress responses. Through high-order mutants, they uncover the RAF-SAPK cascade’s role in ABA and drought/osmotic stress adaptation and its evolutionary divergence across plant species.",
+    "authors": [
+      "Xinyong Wang, Guanquan Lin, Hongliang Wang, Zhen Zhang, Yubei Wang, Zhaobo Lang, Jian-Kang Zhu, Pengcheng Wei, Pengcheng Wang"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065042"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00666-7?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "DEAD-box protein SMA1 activates immunity likely through the formation of nuclear condensates with EDS1 in Arabidopsis",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00666-7?rss=yes",
+    "published": "",
+    "summary": "Li et al. report that the DEAD-box protein SMA1, a critical regulator of RNA metabolism, forms nuclear condensates, which include EDS1, and modulates plant immune responses in Arabidopsis. This study investigates the biological function of SMA1, highlighting its dual involvement in the regulation of both plant immunity and RNA metabolism.",
+    "authors": [
+      "Xudong Li, Cong Liu, Jinge Du, Yuqing Sun, Ruibo Hu, Shuqing Liu, Qiyu Xu, Xiaoli He, Chang-Xiao Tang, Ran Xu, Yunhai Li, Zheng Qing Fu, Guan-Feng Wang, Shengjun Li"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065049"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05404-3",
+    "journal": "Nature_CompBio",
+    "title": "A mobile robot bridging manual and automated bioscientific workflows by applying the Swiss army knife principle",
+    "link": "https://www.nature.com/articles/s41598-025-05404-3",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Nicole Rupp et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065061"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-06447-2",
+    "journal": "Nature_CompBio",
+    "title": "Evaluating language model embeddings for Parkinson’s disease cohort harmonization using a novel manually curated variable mapping schema",
+    "link": "https://www.nature.com/articles/s41598-025-06447-2",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yasamin Salimi et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065072"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41551-025-01423-7",
+    "journal": "Nature_CompBio",
+    "title": "A deep generative model for deciphering cellular dynamics and in silico drug discovery in complex diseases",
+    "link": "https://www.nature.com/articles/s41551-025-01423-7",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yumin Zheng et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065077"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-04511-5",
+    "journal": "Nature_CompBio",
+    "title": "Effective workflow from multimodal MRI data to model-based prediction",
+    "link": "https://www.nature.com/articles/s41598-025-04511-5",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Kyesam Jung et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065084"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41589-025-01929-w",
+    "journal": "Nature_CompBio",
+    "title": "Accurate de novo design of high-affinity protein-binding macrocycles using deep learning",
+    "link": "https://www.nature.com/articles/s41589-025-01929-w",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Stephen A. Rettie et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065090"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05154-2",
+    "journal": "Nature_CompBio",
+    "title": "Development and validation of a semi-automated algorithm to analyze shear wave elastography clips in muscle tissue",
+    "link": "https://www.nature.com/articles/s41598-025-05154-2",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Andreas Haueise et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065099"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05484-1",
+    "journal": "Nature_CompBio",
+    "title": "Neural network-based image analysis of co-localized microorganisms and human cells on implant materials",
+    "link": "https://www.nature.com/articles/s41598-025-05484-1",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Nicolas Debener et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065104"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05670-1",
+    "journal": "Nature_CompBio",
+    "title": "Facilitating laboratory automation using a robot with a simple and inexpensive camera detection system",
+    "link": "https://www.nature.com/articles/s41598-025-05670-1",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Rebecca Wienbruch et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065109"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42255-025-01323-9",
+    "journal": "Nature_CompBio",
+    "title": "A brief guide to statistical analysis of grouped data in preclinical research",
+    "link": "https://www.nature.com/articles/s42255-025-01323-9",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Colby J. Vorland et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065113"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41551-025-01406-8",
+    "journal": "Nature_CompBio",
+    "title": "Multiplexed imaging of radionuclides",
+    "link": "https://www.nature.com/articles/s41551-025-01406-8",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Georgios Soultanidis et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065118"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-01749-1",
+    "journal": "Nature_CompBio",
+    "title": "Few shot learning for phenotype-driven diagnosis of patients with rare genetic diseases",
+    "link": "https://www.nature.com/articles/s41746-025-01749-1",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Emily Alsentzer et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065122"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-04162-6",
+    "journal": "Nature_CompBio",
+    "title": "Cytotoxicity evaluation and metabolomic profiling of Spheciospongia vagabunda-associated fungi corroborated by in silico studies",
+    "link": "https://www.nature.com/articles/s41598-025-04162-6",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Omnia Hesham Abdelhafez et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065127"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43856-025-00956-x",
+    "journal": "Nature_CompBio",
+    "title": "A survey of pathogenic involvement in non-communicable human diseases",
+    "link": "https://www.nature.com/articles/s43856-025-00956-x",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Michael Lape et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065132"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05900-6",
+    "journal": "Nature_CompBio",
+    "title": "Attention-driven UNet enhancement for accurate segmentation of bacterial spore outgrowth in microscopy images",
+    "link": "https://www.nature.com/articles/s41598-025-05900-6",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Saqib Qamar et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065141"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05283-8",
+    "journal": "Nature_CompBio",
+    "title": "Multistage pig identification using a sequential ear tag detection pipeline",
+    "link": "https://www.nature.com/articles/s41598-025-05283-8",
+    "published": "2025-06-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Martin Wutke et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-21T22:06:56.065145"
   }
 ]
