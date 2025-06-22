@@ -40,23 +40,6 @@
       "update_interval_hours": 12,
       "description": "Proceedings of the National Academy of Sciences RSS feed"
     },
-    "arXiv_CS": {
-      "url": "http://export.arxiv.org/rss/cs",
-      "enabled": true,
-      "priority": "medium",
-      "parser_type": "arxiv",
-      "update_interval_hours": 24,
-      "description": "arXiv Computer Science RSS feed",
-      "filter_keywords": ["machine learning", "AI", "neural", "deep learning"]
-    },
-    "arXiv_QB": {
-      "url": "http://export.arxiv.org/rss/q-bio",
-      "enabled": true,
-      "priority": "medium", 
-      "parser_type": "arxiv",
-      "update_interval_hours": 24,
-      "description": "arXiv Quantitative Biology RSS feed"
-    },
     "PLoS_ONE": {
       "url": "https://journals.plos.org/plosone/feed/atom",
       "enabled": true,
@@ -159,12 +142,6 @@
       "article_url_patterns": ["content/", "doi/"],
       "research_article_pattern": "content/",
       "exclude_news": true
-    },
-    "arxiv": {
-      "article_url_patterns": ["abs/"],
-      "research_article_pattern": "abs/",
-      "exclude_news": false,
-      "special_handling": "preprint"
     },
     "plos": {
       "article_url_patterns": ["article?id="],
