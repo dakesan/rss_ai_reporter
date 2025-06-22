@@ -1,345 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-01910-6",
-    "journal": "Nature",
-    "title": "Revealed: How the brain turns stress into a bad night's sleep",
-    "link": "https://www.nature.com/articles/d41586-025-01910-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01910-6\">doi:10.1038/d41586-025-01910-6</a></p>Neurons deep in the brain influence how stressful experiences disrupt both sleep and memory.",
-    "authors": [
-      "Katie Kavanagh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284651"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01916-0",
-    "journal": "Nature",
-    "title": "Single-celled organisms set for greater role in gut health",
-    "link": "https://www.nature.com/articles/d41586-025-01916-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01916-0\">doi:10.1038/d41586-025-01916-0</a></p>Long cast as villains, some protists, such as Blastocystis, are potentially beneficial to human health.",
-    "authors": [
-      "Anthony King"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284656"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01942-y",
-    "journal": "Nature",
-    "title": "AI slashes time to produce gold-standard medical reviews — but sceptics urge caution",
-    "link": "https://www.nature.com/articles/d41586-025-01942-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01942-y\">doi:10.1038/d41586-025-01942-y</a></p>Although language models can help to accelerate systematic reviews, a fully automated system is still some way off.",
-    "authors": [
-      "Helen Pearson"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284665"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01948-6",
-    "journal": "Nature",
-    "title": "Daily briefing: The most-energetic molecule ever made",
-    "link": "https://www.nature.com/articles/d41586-025-01948-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 18 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01948-6\">doi:10.1038/d41586-025-01948-6</a></p>Scientists have identified only the second known stable nitrogen molecule: hexanitrogen. Plus, much of the hunting driving pangolins to extinction in Nigeria is for food, not scales and an emergency check-up for the Atlantic Meridional Overturning Circulation.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284669"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zo65c41",
-    "journal": "Science",
-    "title": "No sour faces: How birds evolved to eat highly acidic fruits",
-    "link": "https://www.science.org/content/article/no-sour-faces-how-birds-evolved-eat-highly-acidic-fruits",
-    "published": "",
-    "summary": "Genetic mutations more than 20 million years ago helped birds tolerate the tart and broaden their diets",
-    "authors": [
-      "Nazeefa Ahmed"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284674"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zpdxyxk",
-    "journal": "Science",
-    "title": "New approach enables body to engineer its own cells to fight cancer or autoimmunity",
-    "link": "https://www.science.org/content/article/new-approach-enables-body-engineer-its-own-cells-fight-cancer-or-autoimmunity",
-    "published": "",
-    "summary": "Injections of mRNA may offer a simpler, cheaper way to build powerful CAR-T cells",
-    "authors": [
-      "Mitch Leslie"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284679"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00639-4?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Rapid group-2 innate lymphoid cell mobilization from the intestine aids in early lung defense and repair",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00639-4?rss=yes",
-    "published": "",
-    "summary": "Can et al. show that circulating group 2 innate lymphoid cells (ILC2s) rapidly migrate from the intestine to the lung after helminth infection. These early responders bolster type-2 immunity and barrier repair, highlighting a key gut-lung axis and distinguishing them from bone marrow-derived and tissue-resident ILC2 populations.",
-    "authors": [
-      "Uryan Isik Can, Sarah E. Stenske, Matthew D. Rosenbaum, R. Lee Reinhardt"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284697"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00623-0?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Choline transporters are required for oligodendrocyte differentiation and myelin sheath formation in mouse postnatal brain",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00623-0?rss=yes",
-    "published": "",
-    "summary": "Liu et al. show that the choline transporters SLC44A1/5 are required for oligodendrocyte differentiation and myelination in mouse postnatal brains. Specifically, SLC44A1 deletion in oligodendrocytes inhibits myelin sheath formation due to decreased plasmalogen synthesis. Choline transporters may be potential targets for myelin deficit-related diseases.",
-    "authors": [
-      "Ming-Chen Liu, Bin Yu, Yu Xia, Qian Cheng, Yao Chen, Xing Gao, Shuang-Ling Wu, Fei Wang, Tao Li, Lan Xiao, Qi-Jing Lei, Feng Mei"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284751"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00624-2?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Patterns of pathological tau deposition reflect the dynamics of cortical brain activity",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00624-2?rss=yes",
-    "published": "",
-    "summary": "Han et al. provide evidence suggesting that global brain activity and its coupling with CSF inflow are correlated with tau deposition in higher-order association regions in AD. Using fMRI and PET, they demonstrate that dynamic traveling waves across hierarchal cortices resemble tau spreading in AD and account for its inter-subject variability.",
-    "authors": [
-      "Feng Han, Xi Chen, Alice Murphy, JiaQie Lee, Jacob Ziontz, Susan M. Landau, Suzanne L. Baker, Theresa M. Harrison, William J. Jagust"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284756"
-  },
-  {
-    "id": "https://www.nature.com/articles/s42003-025-08341-z",
-    "journal": "Nature_CompBio",
-    "title": "Harmonizing network-based statistics across different atlases in brain connectome analysis",
-    "link": "https://www.nature.com/articles/s42003-025-08341-z",
-    "published": "2025-06-19T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Qingyuan Liu et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-19T22:07:52.284770"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09134-4",
-    "journal": "Nature",
-    "title": "Author Correction: Regulatory genomic circuitry of human disease loci by integrative epigenomics",
-    "link": "https://www.nature.com/articles/s41586-025-09134-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09134-4\">doi:10.1038/s41586-025-09134-4</a></p>Author Correction: Regulatory genomic circuitry of human disease loci by integrative epigenomics",
-    "authors": [
-      "Carles A. Boix",
-      "Benjamin T. James",
-      "Yongjin P. Park",
-      "Wouter Meuleman",
-      "Manolis Kellis"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844711"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01843-0",
-    "journal": "Nature",
-    "title": "This tiny robot moves mini-droplets with ease",
-    "link": "https://www.nature.com/articles/d41586-025-01843-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01843-0\">doi:10.1038/d41586-025-01843-0</a></p>Magnetially controlled device can combine or split microlitre-sized droplets.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844723"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01844-z",
-    "journal": "Nature",
-    "title": "Sensors pinpoint the exact time of a Yellowstone explosion",
-    "link": "https://www.nature.com/articles/d41586-025-01844-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01844-z\">doi:10.1038/d41586-025-01844-z</a></p>Data could help to reveal the warning signs of potentially dangerous eruptions caused by liquid groundwater abruptly turning into gas.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844729"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01950-y",
-    "journal": "Nature",
-    "title": "Stories that are out of this world: Books in brief",
-    "link": "https://www.nature.com/articles/d41586-025-01950-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01950-y\">doi:10.1038/d41586-025-01950-y</a></p>Andrew Robinson reviews five of the best science picks.",
-    "authors": [
-      "Andrew Robinson"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844734"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01901-7",
-    "journal": "Nature",
-    "title": "‘Super-healing’ animals inspire human treatments",
-    "link": "https://www.nature.com/articles/d41586-025-01901-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01901-7\">doi:10.1038/d41586-025-01901-7</a></p>Studies of the regenerative powers of worms, zebrafish and lizards suggest ways to improve recovery in people.",
-    "authors": [
-      "Smriti Mallapaty"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844742"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01951-x",
-    "journal": "Nature",
-    "title": "Happy birthday <i>Jaws</i>! How the movie changed shark science",
-    "link": "https://www.nature.com/articles/d41586-025-01951-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01951-x\">doi:10.1038/d41586-025-01951-x</a></p>Half a century after its cinematic release, Jaws is still shaping how we view — and protect — the ocean’s top predators.",
-    "authors": [
-      "Katie Kavanagh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844747"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01911-5",
-    "journal": "Nature",
-    "title": "Where is the best place to hold a scientific conference right now?",
-    "link": "https://www.nature.com/articles/d41586-025-01911-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01911-5\">doi:10.1038/d41586-025-01911-5</a></p>An immigration crackdown makes the United States less attractive. These locations could steal its crown and make conferences more globally inclusive.",
-    "authors": [
-      "Katie Kavanagh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844751"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01732-6",
-    "journal": "Nature",
-    "title": "Developing astronomers in Africa: ‘We wanted to create a discipline’",
-    "link": "https://www.nature.com/articles/d41586-025-01732-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01732-6\">doi:10.1038/d41586-025-01732-6</a></p>Astronomer Bernie Fanaroff helped to design South Africa’s plan to become a radioastronomy powerhouse — and it started with training the next generation.",
-    "authors": [
-      "Sarah Wild"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844760"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01841-2",
-    "journal": "Nature",
-    "title": "Bringing men into conversations about parenting in academia",
-    "link": "https://www.nature.com/articles/d41586-025-01841-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01841-2\">doi:10.1038/d41586-025-01841-2</a></p>A new campaign by the non-profit group Mothers in Science highlights the challenges and experiences that fathers face, providing actionable steps to becoming a better parent and ally.",
-    "authors": [
-      "Amanda Heidt"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844768"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01952-w",
-    "journal": "Nature",
-    "title": "Early grant success attracts more funding: study of 100,000 applicants hints at why",
-    "link": "https://www.nature.com/articles/d41586-025-01952-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01952-w\">doi:10.1038/d41586-025-01952-w</a></p>Largest study of its kind explores the ‘Matthew effect’ in research.",
-    "authors": [
-      "Holly Else"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844773"
-  },
-  {
     "id": "https://www.nature.com/articles/d41586-025-01670-3",
     "journal": "Nature",
     "title": "Africa’s chief diplomat for vaccine manufacturing",
@@ -578,6 +238,23 @@
     "priority": 2,
     "priority_name": "HIGH",
     "added_at": "2025-06-21T22:06:56.065150"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13439/",
+    "journal": "Nikkei_BioTech",
+    "title": "レナサイエンス、PAI-1阻害薬併用による皮膚血管肉腫の第2相臨床試験で症例登録を完了",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13439/",
+    "published": "",
+    "summary": "レナサイエンスは2025年6月20日、開発中のプラスミノーゲン活性化抑制因子1（PAI-1）阻害薬（開発コード：RS5614）と抗がん薬のパクリタキセルを皮膚血管肉腫の患者に対して併用する国内での第2相医師主導治験において、16症例の登録が予定通りに完了したと発表した。同社の取締役会長で東北大学大学院医学系研究科の宮田敏男教授は、「今後、最終症例への投与期間を経て、2026年5月頃までに試験結果を報告する」と話す。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-22T22:07:27.184635"
   },
   {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326746",
@@ -2710,5 +2387,73 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-21T22:06:56.065145"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13445/",
+    "journal": "Nikkei_BioTech",
+    "title": "ファストリ柳井氏寄付の自家iPS細胞製造施設が開所、2028年度に提供先が臨床試験開始へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13445/",
+    "published": "",
+    "summary": "臨床グレードの自家iPS細胞を製造する施設の「Yanai my iPS製作所（Y-FiT）」が完成し、2025年6月20日に開所式が開催された。同施設は、アパレルブランドの「ユニクロ」を展開するファーストリテイリングの柳井正代表取締役会長兼社長の寄付金を基に設立された。京都大学iPS細胞研究財団（iPS財団）は同日、記者会見と開設記念シンポジウムを開催した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-22T22:07:27.184603"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13432/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Kiora社、千寿製薬にアジアで網膜疾患にHCＮチャネル遮断薬を開発・販売するオプション権付与",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13432/",
+    "published": "",
+    "summary": "米Kiora Pharmaceuticals（キオラ・ファーマシューティカルズ）社は2025年6月3日、千寿製薬に対して、過分極活性化環状ヌクレオチド依存性チャネル（HCNチャネル）遮断薬（開発番号：KIO-301）の眼疾患に対する開発・販売権に関する独占的オプション権を付与したと発表した。同契約は、日本と中国を含む主要なアジア市場を対象としている。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-22T22:07:27.184618"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13438/",
+    "journal": "Nikkei_BioTech",
+    "title": "杏林大学・国立感染研、胃にはピロリ菌と同程度に他の細菌も感染していることを解明",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13438/",
+    "published": "",
+    "summary": "杏林大学と国立感染症研究所の研究チームは2025年6月20日、胃疾患における細菌感染で、ピロリ菌以外のヘリコバクター属菌への感染がどの程度見られるかなどを調べたと発表した。ピロリ菌はヒトの胃における主要な病原菌として知られているが、ピロリ菌以外のヘリコバクター属菌（Non-Helicobacter pylori Helicobacter species：NHPH）も胃疾患の原因となることが知られていた。ただし、NHPH感染は診断法や治療法が確立されておらず、NHPH感染の頻度や経路などは未解明だった。論文はEmerging Infectious Diseases誌に掲載された。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-22T22:07:27.184625"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13433/",
+    "journal": "Nikkei_BioTech",
+    "title": "Merck社、PCSK9を阻害する経口のペプチド医薬が2本の第3相試験で好結果示す",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13433/",
+    "published": "",
+    "summary": "米Merck（メルク）社は2025年6月9日、スタチン系薬剤を含む脂質低下療法を受けている高脂血症の成人患者を登録して、経口PCSK9（前駆蛋白質転換酵素サブチリシン/ケキシン9型）阻害薬であるenlicitide decanoate（開発番号：MK-0616）を投与し、安全性と有効性を評価する一連の二重盲検のランダム化第3相試験（CORALreef試験）のうち、最初の2本の試験で得られたトップラインデータを発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-22T22:07:27.184630"
   }
 ]
