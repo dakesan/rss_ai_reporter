@@ -292,7 +292,7 @@ class PaperSummarizerPipeline:
         except Exception as e:
             print(f"Error during Slack test with feedback: {e}")
 
-    def run_feedback_analysis(self, days: int = 30, min_feedback: int = 3):
+    def run_feedback_analysis(self, days: int = 30, min_feedback: int = 3, close_issues: bool = True):
         """フィードバック分析を実行"""
         try:
             print("🧠 Starting feedback analysis...")
@@ -302,7 +302,7 @@ class PaperSummarizerPipeline:
             analyzer = FeedbackAnalyzer(debug=self.debug_mode)
             
             # 分析実行
-            result = analyzer.run_analysis(days=days, min_feedback=min_feedback)
+            result = analyzer.run_analysis(days=days, min_feedback=min_feedback, close_issues=close_issues)
             
             # 結果表示
             print("\n" + "="*60)
@@ -348,6 +348,11 @@ class PaperSummarizerPipeline:
             
             print(f"\n💡 Reasoning: {recommendations.get('reasoning', 'No reasoning provided')}")
             print(f"🎯 Confidence Score: {recommendations.get('confidence', 0)}/10")
+            
+            # Issue クローズ情報
+            if 'closed_issues' in result:
+                print(f"\n📋 Issue Management:")
+                print(f"   ✅ Closed {result['closed_issues']} feedback issues")
             
             # デバッグモードの場合は詳細情報も表示
             if self.debug_mode:
@@ -576,6 +581,7 @@ def main():
     parser.add_argument('--analyze-feedback', action='store_true', help='Run feedback analysis and generate filter recommendations')
     parser.add_argument('--feedback-days', type=int, default=30, help='Days of feedback data to analyze (default: 30)')
     parser.add_argument('--feedback-min', type=int, default=3, help='Minimum feedback count for analysis (default: 3)')
+    parser.add_argument('--no-close-issues', action='store_true', help='Skip closing GitHub issues after analysis')
     parser.add_argument('--auto-update', action='store_true', help='Run automatic filter update based on feedback analysis')
     parser.add_argument('--auto-min-feedback', type=int, default=5, help='Minimum feedback count for auto-update (default: 5)')
     parser.add_argument('--auto-min-confidence', type=int, default=6, help='Minimum confidence score for auto-update (default: 6)')
@@ -594,7 +600,7 @@ def main():
             dry_run=args.dry_run
         )
     elif args.analyze_feedback:
-        pipeline.run_feedback_analysis(days=args.feedback_days, min_feedback=args.feedback_min)
+        pipeline.run_feedback_analysis(days=args.feedback_days, min_feedback=args.feedback_min, close_issues=not args.no_close_issues)
     elif args.slack_test:
         pipeline.run_slack_test(use_real_summaries=False)
     elif args.slack_test_real:

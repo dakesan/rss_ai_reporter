@@ -377,13 +377,113 @@ class FeedbackAnalyzer:
                         len(analysis.get('not_interested_patterns', {}).get('keywords', []))
         }
     
-    def run_analysis(self, days: int = 30, min_feedback: int = 3) -> Dict:
+    def close_processed_issues(self, feedback_data: List[Dict], analysis_result: Dict) -> int:
+        """
+        処理済みのフィードバックIssueをクローズする
+        
+        Args:
+            feedback_data: 処理されたフィードバックデータ
+            analysis_result: 分析結果
+            
+        Returns:
+            クローズしたIssue数
+        """
+        closed_count = 0
+        issue_numbers = set()
+        
+        # GitHub Issuesから取得したフィードバックのIssue番号を収集
+        for entry in feedback_data:
+            if entry.get('source') == 'github_issues' and 'issue_number' in entry:
+                issue_numbers.add(entry['issue_number'])
+        
+        if not issue_numbers:
+            self.logger.info("No GitHub Issues to close")
+            return 0
+        
+        self.logger.info(f"Closing {len(issue_numbers)} processed feedback issues...")
+        
+        # 分析サマリーを生成
+        summary_lines = [
+            "🤖 このフィードバックは自動分析システムによって処理されました。",
+            "",
+            "## 📊 分析結果サマリー",
+            f"- 分析期間: {analysis_result.get('analysis_period', 'N/A')}",
+            f"- 処理されたフィードバック数: {analysis_result.get('data_count', 0)}",
+            ""
+        ]
+        
+        # AI分析結果の要約
+        if 'ai_analysis' in analysis_result:
+            ai_summary = analysis_result['ai_analysis'].get('summary', '')
+            if ai_summary:
+                summary_lines.extend([
+                    "## 🧠 AI分析結果",
+                    ai_summary,
+                    ""
+                ])
+        
+        # フィルター推奨事項
+        if 'filter_recommendations' in analysis_result:
+            recommendations = analysis_result['filter_recommendations']
+            suggested = recommendations.get('suggested_additions', {})
+            
+            if suggested.get('include') or suggested.get('exclude'):
+                summary_lines.extend([
+                    "## 🎯 フィルター更新提案",
+                ])
+                
+                if suggested.get('include'):
+                    summary_lines.append(f"- 追加推奨キーワード: {', '.join(suggested['include'])}")
+                
+                if suggested.get('exclude'):
+                    summary_lines.append(f"- 除外推奨キーワード: {', '.join(suggested['exclude'])}")
+                
+                summary_lines.append("")
+        
+        summary_lines.extend([
+            "---",
+            f"処理日時: {datetime.now().strftime('%Y-%m-%d %H:%M:%S JST')}",
+            "このIssueは自動的にクローズされました。"
+        ])
+        
+        close_comment = '\n'.join(summary_lines)
+        
+        # 各Issueをクローズ
+        for issue_number in issue_numbers:
+            try:
+                # コメントを追加
+                comment_cmd = [
+                    'gh', 'issue', 'comment', str(issue_number),
+                    '--body', close_comment
+                ]
+                subprocess.run(comment_cmd, capture_output=True, text=True, check=True)
+                
+                # Issueをクローズ
+                close_cmd = [
+                    'gh', 'issue', 'close', str(issue_number),
+                    '--comment', '自動分析完了によりクローズ'
+                ]
+                subprocess.run(close_cmd, capture_output=True, text=True, check=True)
+                
+                closed_count += 1
+                self.logger.info(f"Closed issue #{issue_number}")
+                
+            except subprocess.CalledProcessError as e:
+                self.logger.error(f"Failed to close issue #{issue_number}: {e}")
+            except Exception as e:
+                self.logger.error(f"Error closing issue #{issue_number}: {e}")
+        
+        self.logger.info(f"Successfully closed {closed_count} issues")
+        return closed_count
+    
+    def run_analysis(self, days: int = 30, min_feedback: int = 3, close_issues: bool = True) -> Dict:
         """
         フィードバック分析を実行
         
         Args:
             days: 分析対象期間（日数）
             min_feedback: 分析に必要な最小フィードバック数
+            close_issues: 分析後にIssueを自動クローズするか
             
         Returns:
             分析結果と推奨事項
@@ -409,7 +509,7 @@ class FeedbackAnalyzer:
         # フィルター推奨事項生成
         filter_recommendations = self.generate_filter_recommendations(ai_analysis)
         
-        return {
+        result = {
             'status': 'success',
             'data_count': len(feedback_data),
             'analysis_period': f'{days} days',
@@ -418,6 +518,13 @@ class FeedbackAnalyzer:
             'filter_recommendations': filter_recommendations,
             'timestamp': datetime.now().isoformat()
         }
+        
+        # Issueを自動クローズ
+        if close_issues:
+            closed_count = self.close_processed_issues(feedback_data, result)
+            result['closed_issues'] = closed_count
+        
+        return result
 
 
 def main():
@@ -428,12 +535,17 @@ def main():
     parser.add_argument('--debug', action='store_true', help='Enable debug mode')
     parser.add_argument('--days', type=int, default=30, help='Analysis period in days')
     parser.add_argument('--min-feedback', type=int, default=3, help='Minimum feedback count')
+    parser.add_argument('--no-close-issues', action='store_true', help='Skip closing GitHub issues after analysis')
     
     args = parser.parse_args()
     
     try:
         analyzer = FeedbackAnalyzer(debug=args.debug)
-        result = analyzer.run_analysis(days=args.days, min_feedback=args.min_feedback)
+        result = analyzer.run_analysis(
+            days=args.days, 
+            min_feedback=args.min_feedback,
+            close_issues=not args.no_close_issues
+        )
         
         print("=" * 60)
         print("📊 FEEDBACK ANALYSIS RESULTS")
