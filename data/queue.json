@@ -1,260 +1,490 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-01670-3",
+    "id": "https://www.nature.com/articles/d41586-025-01970-8",
     "journal": "Nature",
-    "title": "Africa’s chief diplomat for vaccine manufacturing",
-    "link": "https://www.nature.com/articles/d41586-025-01670-3",
+    "title": "‘Natural history museums can save the world’: anti-colonialism, conservation and climate change",
+    "link": "https://www.nature.com/articles/d41586-025-01970-8",
     "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01670-3\">doi:10.1038/d41586-025-01670-3</a></p>Virologist Amadou Sall is the driving force behind a world-class manufacturing hub in Senegal.",
+    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01970-8\">doi:10.1038/d41586-025-01970-8</a></p>Zoologist Jack Ashby explains why it’s vital to invest in protecting specimens stored in scientific collections.",
     "authors": [
-      "Abdullahi Tsanni"
+      "Davide Castelvecchi"
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
     "priority": 2,
     "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844778"
+    "added_at": "2025-06-23T22:07:43.889416"
   },
   {
-    "id": "https://www.nature.com/articles/d41586-025-01960-w",
+    "id": "https://www.nature.com/articles/d41586-025-01992-2",
     "journal": "Nature",
-    "title": "Daily briefing: Some moths can navigate using starlight",
-    "link": "https://www.nature.com/articles/d41586-025-01960-w",
+    "title": "Did the US wipe out Iran's nuclear programme? What researchers know",
+    "link": "https://www.nature.com/articles/d41586-025-01992-2",
     "published": "",
-    "summary": "<p>Nature, Published online: 19 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01960-w\">doi:10.1038/d41586-025-01960-w</a></p>Bogong moths use the stars to find their way during an epic migration across Australia. Plus, the ‘Dragon Man’ fossil belonged to a Denisovan and how our brains might control ageing.",
+    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01992-2\">doi:10.1038/d41586-025-01992-2</a></p>Nuclear policy specialist David Albright told Nature how his organization is monitoring for damage to nuclear sites following US and Israeli strikes.",
     "authors": [
-      "Jacob Smith"
+      "Davide Castelvecchi"
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
     "priority": 2,
     "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844782"
+    "added_at": "2025-06-23T22:07:43.889421"
   },
   {
-    "id": "https://www.science.org/doi/10.1126/science.z957ie8",
+    "id": "https://www.nature.com/articles/d41586-025-01719-3",
+    "journal": "Nature",
+    "title": "Trump team vows to improve kids‘ health: scientists are sceptical",
+    "link": "https://www.nature.com/articles/d41586-025-01719-3",
+    "published": "",
+    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01719-3\">doi:10.1038/d41586-025-01719-3</a></p>Improving children’s health is central to the ‘Make America Healthy Again’ movement championed by health secretary Robert F. Kennedy Jr. But researchers fear that they will not get the support they need.",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889428"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01976-2",
+    "journal": "Nature",
+    "title": "Obesity drugs show promise for treating a new ailment: migraine",
+    "link": "https://www.nature.com/articles/d41586-025-01976-2",
+    "published": "",
+    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01976-2\">doi:10.1038/d41586-025-01976-2</a></p>Liraglutide, a member of the family of blockbuster weight-loss drugs, reduces headaches by half in a small study.",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889436"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01945-9",
+    "journal": "Nature",
+    "title": "Will Gates and other funders save massive public health database at risk from Trump cuts?",
+    "link": "https://www.nature.com/articles/d41586-025-01945-9",
+    "published": "",
+    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01945-9\">doi:10.1038/d41586-025-01945-9</a></p>UN in talks with governments and funding bodies to save highly-cited, 40-year health data set used by researchers in more than 90 countries.",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889441"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01971-7",
+    "journal": "Nature",
+    "title": "Tardigrade-obsessed: meet the researchers trying to turn water bears into neuroscience models",
+    "link": "https://www.nature.com/articles/d41586-025-01971-7",
+    "published": "",
+    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01971-7\">doi:10.1038/d41586-025-01971-7</a></p>For water-bear enthusiasts, it’s the creature’s legs that make it stand out.",
+    "authors": [
+      "Benjamin Plackett"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889446"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01855-w",
+    "journal": "Nature",
+    "title": "How many PhDs does the world need? Doctoral graduates vastly outnumber jobs in academia",
+    "link": "https://www.nature.com/articles/d41586-025-01855-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 22 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01855-w\">doi:10.1038/d41586-025-01855-w</a></p>PhD programmes need to better prepare students for careers outside universities, researchers warn.",
+    "authors": [
+      "Diana Kwon"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889450"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zzc37yz",
     "journal": "Science",
-    "title": "Culture literally changes how we see the world",
-    "link": "https://www.science.org/content/article/culture-literally-changes-how-we-see-world",
+    "title": "What scientists need to know about sharing—and protecting—their published work",
+    "link": "https://www.science.org/content/article/what-scientists-need-know-about-sharing-and-protecting-their-published-work",
     "published": "",
-    "summary": "Where city dwellers see rectangles, people who live in round huts see circles",
+    "summary": "With research papers becoming increasingly free to read and use, understanding open-access licenses is key",
     "authors": [
-      "Nala Rogers"
+      "Jeffrey Brainard"
     ],
     "doi": "",
     "parser_type": "science",
     "feed_priority": "high",
     "priority": 2,
     "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844786"
+    "added_at": "2025-06-23T22:07:43.889456"
   },
   {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326577",
-    "journal": "PLoS_ONE",
-    "title": "Efficient endogenous protein labelling in <i>Dictyostelium</i> using CRISPR/Cas9 knock-in and split fluorescent proteins",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326577",
-    "published": "2025-06-20T14:00:00Z",
-    "summary": "<p>by Kensuke Yamashita, Tetsuya Muramoto</p>\n\nFluorescent protein tagging is a powerful technique for visualising protein dynamics; however, full-length fluorescent protein knock-in can be inefficient at certain genomic loci, making it challenging to achieve stable and uniform expression. To address this issue, we used CRISPR/Cas9-mediated knock-in strategies with split fluorescent proteins in <i>Dictyostelium discoideum</i>. This approach enabled efficient integration of the short mNeonGreen2 (mNG2) fragment, mNG2<sub>11</sub>, particularly at functionally critical loci such as major histone <i>h2bv3</i>, where full-length tagging was unsuccessful. Our analysis revealed that inserting tandem repeats of mNG2<sub>11</sub> at the <i>h2bv3</i> locus progressively impaired cell proliferation, indicating that functional disruption depends on insert size. These findings suggest that using short tags like mNG2<sub>11</sub> minimises functional interference and facilitates knock-in at sensitive loci. We further optimised the fluorescence intensity by fine-tuning the expression of the long fragment, mNG2<sub>1–10</sub>, and introducing tandem repeats of mNG2<sub>11</sub>. This approach provides a reliable method for precise and stable endogenous protein labelling, facilitating live-cell imaging and functional studies in <i>D. discoideum</i>.",
-    "authors": [
-      "Kensuke Yamashita",
-      "Tetsuya Muramoto"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844822"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326455",
-    "journal": "PLoS_ONE",
-    "title": "A study on multi-objective optimization for the location selection of smart underground parking facilities in high-density urban areas of megacities: A case study of Jing’an district, Shanghai",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326455",
-    "published": "2025-06-20T14:00:00Z",
-    "summary": "<p>by Xiaodan Li, Yunci Guo, Zhen Liu, Dandan Sun, Yidi Liu, Wencan Wang</p>\n\nThe acceleration of global urbanization and the rapid growth of urban populations have intensified the complexity and urgency of parking demand. In megacities with limited land resources, efficiently addressing diverse parking needs has become a critical issue for sustainable urban development. Multi-objective optimization methods are widely applied to tackle such challenges, providing decision-makers with a set of optimal solutions that balance multiple objectives. However, existing studies often lack quantitative analyses of the relationships among these solutions, limiting their applicability in accommodating decision-makers with varying preferences. This study focuses on Jing’an District in Shanghai, a representative region of a Chinese megacity, to address this global issue. Based on real-world data, a multi-objective optimization model is constructed considering convenience, coverage, and cost-efficiency. The model is solved using an improved Non-dominated Sorting Genetic Algorithm II (NSGA-II), which dynamically adjusts crossover and mutation rates. Furthermore, the Pareto solution set is quantitatively analyzed from a cost-benefit perspective by integrating marginal benefit theory. This approach provides robust support for decision-makers seeking an optimal balance between cost and benefit, offering scenario-specific strategies. The findings of this study not only present an innovative, systematic, and flexible solution to the “parking dilemma” in high-density residential areas but also provide practical guidance and insights for other large cities in the planning and implementation of smart underground parking facilities.",
-    "authors": [
-      "Xiaodan Li",
-      "Yunci Guo",
-      "Zhen Liu",
-      "Dandan Sun",
-      "Yidi Liu",
-      "Wencan Wang"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844848"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326378",
-    "journal": "PLoS_ONE",
-    "title": "Psychological repercussions of breast or uterine cervical cancer disclosure to women in Gabon",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326378",
-    "published": "2025-06-20T14:00:00Z",
-    "summary": "<p>by Béa-Christelle Ndjengue Bengone, Jean Toniolo, Angela-Christie Filankembo Kava, Edgard Brice Ngoungou, Ernest Belembaogo, Pierre-Marie Preux</p>\nBackground <p>Breast and cervical cancers are major health issues globally, with particularly high burdens in sub-Saharan Africa, including Gabon. Limited epidemiological data and insufficient attention to the psychological impacts of these cancers highlight critical research gaps. This study aimed to explore the psychological repercussions experienced by Gabonese women following the disclosure of a breast or cervical cancer diagnosis.</p> Methods <p>A mixed-methods cross-sectional study was conducted from March to May 2023 at the Institut de Cancérologie d’Akanda. Women recently diagnosed with breast or cervical cancer were recruited using a consecutive sampling method. Data were collected through semi-structured individual interviews and one focus group to explore emotional responses, coping strategies, and perceptions of patient–provider interactions. In addition, the Patient Health Questionnaire-9 (PHQ-9) was administered to assess depressive symptoms.</p> Results <p>Thirteen Gabonese women diagnosed with breast (n = 10) or cervical cancer (n = 3) participated in this mixed-methods study. Following the disclosure, all patients reported depressive symptoms ranging from minimal to moderately severe (PHQ-9). Qualitative analysis revealed intense emotional distress, including anxiety, sadness, sleep disturbances, and despair. The diagnosis affected participants’ identity, body image, and social relationships, reinforcing feelings of stigma, isolation, and loss. Beliefs about disease etiology and social representations shaped emotional responses. While some relied on spirituality, social support, or personal resilience to cope, others expressed unmet psychological needs. Participants emphasized the importance of clear, compassionate communication from healthcare professionals, highlighting the need for empathy, trust, and active listening during diagnosis disclosure.</p> Conclusion <p>This pioneering study in Gabon identifies profound psychological effects associated with breast and cervical cancer diagnosis disclosure. The findings underscore the urgent need for improved psychosocial support, effective communication training for healthcare providers, and culturally tailored interventions to address mental health concerns in this population.</p>",
-    "authors": [
-      "Béa-Christelle Ndjengue Bengone",
-      "Jean Toniolo",
-      "Angela-Christie Filankembo Kava",
-      "Edgard Brice Ngoungou",
-      "Ernest Belembaogo",
-      "Pierre-Marie Preux"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844860"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326319",
-    "journal": "PLoS_ONE",
-    "title": "Cognitive emotion regulation questionnaire: Evidence of internal structure through confirmatory factor modeling and exploratory structural equation modeling",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326319",
-    "published": "2025-06-20T14:00:00Z",
-    "summary": "<p>by Pablo Ezequiel Flores-Kanter, Luciana Moretti, Zoilo Emilio García-Batista, Leonardo Medrano</p>\n\nThe Cognitive Emotion Regulation Questionnaire is one of the most widely used instruments to measure cognitive emotion regulation, and its psychometric properties have been evaluated in various studies and cultural contexts. However, the 9-factor internal structure originally proposed for the scale measures does not present consistent evidence in the literature. The exclusive use of the confirmatory factor modeling in previous literature may largely explain this inconsistency. In the present research, we propose to estimate innovative measurement models for this questionnaire, the exploratory structural equation modeling. For this purpose, we worked with a large sample of Argentines of 6881 Argentine adults aged between 18 and 81 (M = 27.14, SD = 9.86; 69.6% female; 86.4% not being in psychological or psychiatric treatment) and compared the fit of the models. The results favored the exploratory structural equation model (χ2 = 4092.89, df = 342, CFI = .982, SRMR = .013, RMSEA = .04), indicating that we are not observing indicators that reflect simple factorial structures. Based on the results of the present study, it can be concluded that the simple 9-factor structure traditionally proposed for the CERQ does not exhibit adequate model fit. This finding suggests the need for caution among applied psychologists and clinical researchers who interpret scale scores as if they reflect distinct, unidimensional factors. The common practice of generating summed scores across items associated with each of the originally proposed factors may therefore be questionable. A more nuanced understanding of the questionnaire’s internal structure may ultimately enhance the reliability and interpretability of CERQ scores in both clinical and applied settings, thereby improving the quality of psychological assessment and intervention outcomes.",
-    "authors": [
-      "Pablo Ezequiel Flores-Kanter",
-      "Luciana Moretti",
-      "Zoilo Emilio García-Batista",
-      "Leonardo Medrano"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844869"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326040",
-    "journal": "PLoS_ONE",
-    "title": "Outcomes of complex decongestive therapy in managing upper limb lymphedema in female breast cancer patients at a palliative care unit of a tertiary care hospital in Bangladesh",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326040",
-    "published": "2025-06-20T14:00:00Z",
-    "summary": "<p>by Rifat Jahan, A.K.M. Motiur Rahman Bhuiyan, Afroja Alam, Mostofa Kamal Chowdhury, Romena Hassan, Nisha Mortuja Aktar</p>\nBackground <p>Lymphedema is a chronic condition that significantly affects both physical function and quality of life of breast cancer patients. Although there is no definitive cure, various treatment options exist to alleviate its symptoms. Among these, Complex Decongestive Therapy (CDT) is widely regarded as a primary approach. This study seeks to evaluate the effectiveness of CDT for breast cancer patients with upper limb lymphedema and aims to assess the benefits of this treatment despite the challenges and constraints in resource-limited settings.</p> Methods <p>This observational study was conducted among 42 female breast cancer patients with unilateral upper limb lymphedema attending the Lymphedema Clinic of the Department of Palliative Medicine at Bangladesh Medical University in Dhaka, Bangladesh. Limb volume, skin condition, and clinical signs and symptoms were assessed at baseline. All patients received the intensive phase of Complex Decongestive Therapy (CDT) for 6 weeks, with follow-up assessments conducted at the 3rd week and the 6th week.</p> Result <p>A significant reduction in the volume of the affected limbs was observed from baseline to the 6th week, as well as from the 3rd week to the 6th week. Although no statistically significant improvement in skin edema was recorded during this period, visible clinical improvement in skin texture was noted. After receiving CDT and proper skin care, 59.5% of patients regained normal skin on the affected limb. Additionally, there was a significant reduction in self-reported symptoms such as tightness, heaviness, and pain in the affected limb from baseline to the 6th week.</p> Conclusion <p>Lymphedema management using all components of Complex Decongestive Therapy (CDT) was found to be effective in reducing limb volume and alleviating the distressing symptoms of patients. Timely referral of lymphedema patients to specialized clinics and initiation of CDT can significantly reduce their ongoing suffering in Bangladesh.</p>",
-    "authors": [
-      "Rifat Jahan",
-      "A.K.M. Motiur Rahman Bhuiyan",
-      "Afroja Alam",
-      "Mostofa Kamal Chowdhury",
-      "Romena Hassan",
-      "Nisha Mortuja Aktar"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844899"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00643-6?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Mapping cancer gene dynamics through state-specific interactions",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00643-6?rss=yes",
+    "id": "https://www.science.org/doi/10.1126/science.zioa4qx",
+    "journal": "Science",
+    "title": "Killer whales groom each other—with pieces of kelp",
+    "link": "https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp",
     "published": "",
-    "summary": "Maqueda-Real et al. analyzed the association between mutations and copy number alterations in 25,000 tumor samples spanning primary and metastatic cancers, demonstrating cancer-state-specific fitness changes across cancer genes and types.",
+    "summary": "In a newly discovered form of social tool use, orcas scratch each other’s backs with seaweed",
     "authors": [
-      "Adrián Maqueda-Real, Laia Ollé-Monràs, Solip Park"
+      "Annika Inampudi"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889461"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zf54q4w",
+    "journal": "Science",
+    "title": "Rubin observatory unveils first images taken with its giant mirror and camera",
+    "link": "https://www.science.org/content/article/rubin-observatory-unveils-first-images-taken-its-giant-mirror-and-camera",
+    "published": "",
+    "summary": "Pictures are a prelude to a transformative, all-sky survey set to begin in months",
+    "authors": [
+      "Daniel Clery"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889466"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326944",
+    "journal": "PLoS_ONE",
+    "title": "Home settings are associated with less functional decline among older adults compared to community-care foster homes and skilled nursing facilities in Hawaii",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326944",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Hua Zan, Yanyan Wu, Yan Luo, John P. Barile, Joshua R. Holmes, Joy Agner</p>\n\nMedicaid-funded home and community-based services (HCBS) allow older adults with disabilities to avoid long-term institutionalization in nursing homes or hospitals. Past research has shown mixed results on the positive impacts of HCBS. These inconsistent results may stem from studies combining varied HCBS settings, obscuring their differential impacts on older adults’ health and well-being. In Hawaii, HCBS settings primarily include private residences and community care foster homes. There is very little research on adult foster homes, and it remains unclear whether adult foster homes are associated with differential rates of functional decline over time compared to private homes or nursing homes. This research contributes to these literature gaps by comparing functional decline (measured using Hawaii Medicaid level-of-care assessments) across three settings: private homes, adult foster homes, and nursing homes from 2014 to 2021. Among 5,315 dual eligible Medicaid recipients, we found distinct characteristics in initial placement. Individuals placed at home were younger and had lower functional impairment scores compared to individuals in foster homes or nursing homes. To increase comparability despite these differences, we matched older adults (n = 852) on baseline functional status, age, sex, marital status, and race/ethnicity using propensity score matching and performed sensitivity analyses on cognitive status. After matching, linear mixed-effects modeling revealed a notably slower rate of functional decline at home compared to nursing homes or foster homes. Individuals at home had fairly stable functional status (low deterioration) over the eight years. Nursing home residents had the fastest rate of decline, followed closely by individuals in foster homes. These findings of the varying functional outcomes across care settings can inform policymakers, families, and caregivers in selecting effective care options.",
+    "authors": [
+      "Hua Zan",
+      "Yanyan Wu",
+      "Yan Luo",
+      "John P. Barile",
+      "Joshua R. Holmes",
+      "Joy Agner"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889478"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326798",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Predicting the risk of atherosclerotic cardiovascular disease among adults living with HIV/AIDS in Addis Ababa, Ethiopia: A hospital-based study",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326798",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889520"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326785",
+    "journal": "PLoS_ONE",
+    "title": "The effect of adding neuromuscular electrical stimulation to exercise therapy on patellofemoral pain: A systematic review and meta-analysis",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326785",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Jiawei Zheng, Zixuan Wei, Huiwu Zuo, Kunpeng Wang, Xikai Lin, Jian Chen</p>\nBackground <p>This study investigated the effects of adding neuromuscular electrical stimulation (NMES) to exercise therapy on pain, knee function, quadriceps strength, and the ratio of activation of the Vastus Medialis Oblique (VMO) to Vastus Lateralis (VL) muscles in people with Patellofemoral pain (PFP).</p> Methods <p>A rigorous search for randomized controlled trials (RCTs) spanning database inception to July 1, 2024, was executed across PubMed, Embase, Web of Science, Cochrane Library, and Scopus. Two researchers independently screened the literature and extracted data. The Cochrane Risk of Bias Tool was used for included studies to assess risk of bias and the GRADE system was used to assess the certainty of evidence for outcomes.</p> Result <p>Nine randomized controlled trials, encompassing 337 participants (171 intervention, 166 control), were included in the analysis. The meta-analysis findings indicated that compared to exercise therapy alone, NMES combined with exercise therapy significantly reduces pain intensity (MD: −0.37; 95% CI: −0.64 to −0.10; P = 0.007), notable improvements in knee function (MD: 4.76; 95% CI: 2.08 to 6.84; P = 0.0002), and significantly increased quadriceps muscle strength (SMD: 0.55; 95% CI: 0.24 to 0.87; P = 0.0006). However, there was no significant impact observed on the VMO/VL ratio (SMD: 0.8; 95% CI: −0.33 to 1.93; P = 0.16). Subgroup analyses superimposed that incorporating NMES did not result in a meaningful reduction in pain intensity (MD: −0.85; 95% CI: −1.76 to 0.07; P = 0.07) or a significant improvement in quadriceps muscle strength (SMD: 0.27; 95% CI: −0.24 to 0.78; P = 0.30) when the treatment period was less than or equal to 4 weeks.</p> Conclusion <p>The study’s findings revealed that adding NMES to exercise therapy offers further improvement in pain intensity, knee function, and quadriceps strength in people with PFP compared with exercise therapy alone, but did not significantly improve VMO/VL ratio, and it recommended that the duration of the intervention lasts more than4 weeks for better therapeutic outcomes.</p>",
+    "authors": [
+      "Jiawei Zheng",
+      "Zixuan Wei",
+      "Huiwu Zuo",
+      "Kunpeng Wang",
+      "Xikai Lin",
+      "Jian Chen"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889532"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326777",
+    "journal": "PLoS_ONE",
+    "title": "Clinical efficacy and Safety of Baloxavir Marboxil compared with Oseltamivir against influenza virus in children: A systematic review and meta-analysis",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326777",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Ling Zhu, Li Zhong, Guidong Huang</p>\nObjective <p>Comparing the clinical efficacy and safety of baloxavir marboxil and oseltamivir against influenza viruses in children, to provide theoretical references for clinical practice.</p> Methods <p>A systematic search of PubMed, Embase, Web of Science, Cochrane Library, Epistemonikos, CNKI, Wipu.com, Wan Fang Database, and China Biomedical Literature Database for articles published up to December 25th, 2024, was conducted. After literature screening, data extraction, and quality evaluation, descriptive analysis was performed.</p> Results <p>Eight papers were included, comprising three randomized controlled studies and Five cohort studies, involving 3141 patients (1745 in the baloxavir marboxil group and 1396 in the oseltamivir group). Meta-analysis revealed no significant differences in time to remission of influenza symptoms and duration of fever between the two groups. However, baloxavir marboxil demonstrated a significantly greater reduction in influenza virus titer and RNA load. Additionally, the incidence of adverse events was significantly lower with baloxavir marboxil (p = 0.03).</p> Conclusions <p>Baloxavir marboxil appears more effective than oseltamivir in reducing viral load and is associated with fewer adverse events in children with influenza, while both drugs yield comparable effects in relieving symptoms. Given the limited number of included studies and absence of subgroup analyses, further well-designed trials are needed to corroborate these findings.PROSPERO Registration Number: CRD42024565338</p>",
+    "authors": [
+      "Ling Zhu",
+      "Li Zhong",
+      "Guidong Huang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889536"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326735",
+    "journal": "PLoS_ONE",
+    "title": "Empowering EFL teachers’ perceptions of generative AI-mediated self-professionalism",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326735",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Mohd Nazim, Ali Abbas Falah Alzubi</p>\n\nThis study intends to empower English as a Foreign Language (EFL) teachers’ perceptions of generative artificial intelligence (AI)-mediated self-professionalism in engagement, attitudes, constraints, and solutions. Employing the mixed methods research design, the researchers collected data from male and female teachers (N = 278) of eight public universities, utilizing convenience sampling and a set of instruments: a questionnaire and a semi-structured interview. The data analysis combined quantitative and qualitative methods, using SPSS version 26 for statistical analysis (Pearson correlation, Cronbach’s alpha, means, standard deviations), and thematic analysis for qualitative data, with data triangulation employed to compare questionnaire and interview responses for a comprehensive understanding of EFL teachers’ engagement with generative AI. The results revealed that the study sample engaged in self-professionalism at a medium level, yet they hold high attitudes toward generative AI-mediated self-professionalism. In addition, the content analysis exhibited several constraints, including technological competence and AI literacy, AI-generated content reliability and accuracy, ethical issues, and encroachment on professional autonomy. Moreover, the respondents proposed solutions such as offering AI-driven training programs, establishing clear ethical guidelines and protocols, emphasizing AI as a supplementary tool rather than a substitute, and implementing impartial access mechanisms for AI content to strengthen EFL teachers’ self-professionalism mediated by generative AI. Studies in the context of generative AI-driven self-professionalism appear limited, particularly in the context of Arab higher education institutions. This dearth of research presents an opportunity for the current study to make significant improvements in contributing innovative insights to the EFL teachers’ self-professionalism landscape.",
+    "authors": [
+      "Mohd Nazim",
+      "Ali Abbas Falah Alzubi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889541"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326688",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Exposure to mass media chronic health campaign messages and the uptake of non-communicable disease screening in Ghana",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326688",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Irenius Konkor, Elijah Bisung, Ophelia Soliku, Martin Ayanore, Vincent Kuuire</p>",
+    "authors": [
+      "Irenius Konkor",
+      "Elijah Bisung",
+      "Ophelia Soliku",
+      "Martin Ayanore",
+      "Vincent Kuuire"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889545"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326603",
+    "journal": "PLoS_ONE",
+    "title": "The NW extension of the Nahavand Fault along the Main Recent Fault, west Iran",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326603",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Reza Alipoor, Ehsan Aghayani</p>\n\nThe MRF (Main Recent Fault) is an active fault zone in the western Iranian Plateau. The Nahavand Fault, an active 80-km segment of the MRF, lies between the Sahneh Fault to the northwest and the Qaleh-Hatam and Dorud faults to the southeast. The aim of this study is to examine the northwestern extension of the Nahavand Fault beneath Quaternary alluvial deposits. For this purpose, detailed field studies were conducted on a trench excavated perpendicular to the fault’s strike to determine the fault plane’s mechanism and characteristics. Additionally, data from the interpretation of two geoelectrical profiles were used to locate the surface trace of the fault beneath the alluvial deposits. The results indicate that, at the southeastern termination of the Nahavand Fault, the transpression stress regime has been overprinted by a transtensional regime. At its northwestern termination, the Nahavand Fault connects with the Sahneh Fault via a fault-bend pattern. The characteristics of the Nahavand Fault beneath the alluvial deposits of the Nahavand plain are N70°W/75°NE, with a rake of 15°. The Nahavand Fault extends northwestward with an updated length of approximately 80 km.",
+    "authors": [
+      "Reza Alipoor",
+      "Ehsan Aghayani"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889568"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326572",
+    "journal": "PLoS_ONE",
+    "title": "Strain variation in feeding response of house flies, <i>Musca domestica</i>, to denatonium benzoate, a bittering agent used in commercial fly baits",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326572",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Panchalie B. Gunathunga, B. H. King, Edwin R. Burgess I.V.</p>\n\nGranular fly baits remain one of the most popular and effective forms of chemical control of house flies (<i>Musca domestica</i>). While these baits contain a sucrose phagostimulant, some also contain the bittering agent denatonium benzoate at 20 or 100 ppm, as a feeding deterrent for humans. The response of adult house flies to 10, 100 and, 1000 ppm denatonium benzoate in sucrose solution was compared to response to sucrose only solution using proboscis extension response and no-choice consumption assays. Three house fly strains, DBQB, WD, and UF, each from a different Florida dairy farm, were tested within two generations of collection. Strain DBQB, but not strains WD or UF, had a known history of exposure to toxic baits containing denatonium benzoate, although recent insecticide history was unknown. For males, all strains avoided proboscis extension response and consumption with 1000 ppm, but not with 10 ppm. Males of WD and UF strains, but not DBQB strain showed significantly lower frequency of proboscis extension response at 100 ppm. Males of WD strain, but not DBQB or UF strains, also avoided consuming 100 ppm. For females, the pattern of significance for proboscis extension response was the same for all strains: avoidance for 1000 ppm but not for 10 or 100 ppm. Female consumption was significantly reduced at 1000 ppm for the DBQB and WD strains, but not for the UF strain, but no strain avoided 10 or 100 ppm for consumption. Thus, our results suggest that in some populations of house flies, 100 ppm of denatonium benzoate may reduce consumption by males, although not consumption by females.",
+    "authors": [
+      "Panchalie B. Gunathunga",
+      "B. H. King",
+      "Edwin R. Burgess I.V."
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889576"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326537",
+    "journal": "PLoS_ONE",
+    "title": "Does postoperative plasma IL-6 improve early prediction of infection after pulmonary cancer surgery? A two-centre prospective study",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326537",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Ted Reniers, Peter G. Noordzij, Eelco J. Veen, Erik F.N. Hofman, Anne Marlies Taselaar, W. Anton Visser, Pim van der Heiden, Stefan Boeckx, Judith M.A. Emmen, Ineke M. Dijkstra, Olaf L. Cremer, Lisette M. Vernooij, Thijs C.D. Rettig</p>\nIntroduction <p>Postoperative hyperinflammation increases infection risk. We hypothesized that interleukin-6 (IL-6) is an early predictor of infection after pulmonary cancer surgery.</p> Methods <p>A two-centre prospective cohort study, including consecutive elective pulmonary cancer surgery patients. The primary outcome was any postoperative infection within 30 days. Multivariable logistic regression was used to create a core model (age, sex, surgery duration and Charlson comorbidity index) to which maximum IL-6, C-reactive protein (CRP), procalcitonin (PCT) concentrations and white blood cell count (WBC) between start of anaesthesia and 24 hours were added. The predictive performance of the models was assessed.</p> Results <p>170 patients were analysed, of whom 38 (22%) developed a postoperative infection. IL-6 concentrations peaked 6 hours postoperatively, whereas CRP had not yet reached peak levels at 24 hours (time of prediction). Maximum IL-6 concentrations were associated with postoperative infection (adjusted odds ratio (aOR) 1.04 per 10 pg/ml, 95% confidence interval (CI) 1.00–1.09, p = 0.047) as was CRP (aOR 1.01 per mg/L, 1.00–1.03, p = 0.032). WBC and PCT were not associated with postoperative infection. The c-statistic of the prediction models that included IL-6 or CRP concentrations were 0.67 (95%CI: 0.56–0.77) and 0.68 (0.57–0.77), respectively, compared to 0.67 (0.56–0.76) for the core model. IL-6 and CRP slightly improved calibration by broadening the range of predicted probabilities. Reclassification did not improve.</p> Conclusion <p>Plasma IL-6 and CRP levels observed within 24 hours from the start of surgery are associated with postoperative infection risk, yet the added value of these biomarkers to a simple clinical prediction model seems limited.</p>",
+    "authors": [
+      "Ted Reniers",
+      "Peter G. Noordzij",
+      "Eelco J. Veen",
+      "Erik F.N. Hofman",
+      "Anne Marlies Taselaar",
+      "W. Anton Visser",
+      "Pim van der Heiden",
+      "Stefan Boeckx",
+      "Judith M.A. Emmen",
+      "Ineke M. Dijkstra",
+      "Olaf L. Cremer",
+      "Lisette M. Vernooij",
+      "Thijs C.D. Rettig"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889586"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326456",
+    "journal": "PLoS_ONE",
+    "title": "Improving the robustness and efficiency of cell sheet protocol for breast cancer induction in animal model: A Geltrex plus Gelatin approach",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326456",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Alaa T. Alshareeda, Nada Albarakati, Yasser Alshawakir, Ayidah Alghuwainem, Batla S. Al-Sowayan, Abdul Latif Khan, Abdullah Almubarak, Sarah Al-Maiman, Ahood Al Sayed, Nur Khatijah Mohd Zin, Amal S. Alhamid</p>\nBackground <p>Breast cancer remains a global health challenge, necessitating improved preclinical models that better mimic the complexity of the disease. The cell sheet technique holds promise in creating three-dimensional tissue constructs resembling breast cancer tissue. However, maintaining cell sheet integrity during transplantation poses challenges, particularly with low junction cells. This study aims to establish a modified protocol utilizing Geltrex™ and Gelatin to fabricate cell sheets from MDA-MB-231 cells and evaluate their tumorigenic potential <i>in vivo</i>.</p> Method <p>We developed a novel protocol for fabricating cell sheets from MDA-MB-231 cells using Geltrex™ and Gelatin. This construct was then used to induce breast cancer <i>in vivo</i>. The novel protocol was compared to the conventional cell injection method by monitoring tumor progression <i>in vivo</i>.</p> Results <p>The novel protocol enhanced cell sheet transplant efficiency by providing scaffold support and temporary adhesion. It successfully induced breast cancer <i>in vivo</i> and facilitated metastasis, closely mimicking the progression of human breast cancer.</p> Conclusion <p>This study highlights the potential of Geltrex™ and Gelatin as carriers for poor junction cell sheets. This original research study introduces a methodological advance in cell sheet fabrication, combining preclinical validation with technical innovation to address challenges in modeling triple-negative breast cancer (TNBC). By offering a more accurate <i>in vivo</i> representation of tumor development, this protocol enhances our understanding of breast cancer biology. The practical implications are promising, as this research can lead to more effective methods for generating <i>in vivo</i> models and tissue-engineered constructs for cancer research and regenerative medicine.</p>",
+    "authors": [
+      "Alaa T. Alshareeda",
+      "Nada Albarakati",
+      "Yasser Alshawakir",
+      "Ayidah Alghuwainem",
+      "Batla S. Al-Sowayan",
+      "Abdul Latif Khan",
+      "Abdullah Almubarak",
+      "Sarah Al-Maiman",
+      "Ahood Al Sayed",
+      "Nur Khatijah Mohd Zin",
+      "Amal S. Alhamid"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889596"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326432",
+    "journal": "PLoS_ONE",
+    "title": "Buddha image meditation is a potent predictor for mental health outcomes: A cross-sectional study among Thai high-school students",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326432",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Justin DeMaranville, Tinakon Wongpakaran, Nahathai Wongpakaran, Danny Wedding</p>\nPurpose <p>Meditation has been demonstrated to benefit adolescent mental health. This research examined various meditation styles practiced in northern Thailand to determine which were associated with positive and negative mental health outcomes in adolescents.</p> Population and methods <p>High school students who were 15–18 years old and who were enrolled in grades 10–12 in either secular or Buddhist Thai boarding schools were recruited following their school’s willingness to participate.They provided information about meditation styles and their practice frequency during the last month (i.e., breathing, kasina (color), Buddha image visualization, Manomayiddhi, mindfulness, recollections, and vipassanā). The Rosenberg Self-Esteem Scale (RSES), Resilience Inventory (RI-9), Outcome Inventory-21 (OI-21), and Perceived Stress Scale (PSS-10) were completed. Multiple linear regression model analysis was used to identify the effects of meditation styles on mental health outcomes.</p> Results <p>Among 443 participants, 390 were females (87.9%). The mean age was 16.35 ± 0.96 years. The three most common meditation styles practiced were breathing, Buddha image visualization, and mindfulness (46.5%, 26.2%, and 22.8%, respectively). Buddha image visualization was a significant predictor of RSES (B = 1.69, 95%CI = 0.77, 2.61), RI-9 (B = 2.95, 95%CI = 0.68, 2.95), OI-Anxiety (B = −2.38, 95%CI = −3.34, −1.41), OI-Depression (B = −1.94, 95%CI = −2.64, −1.24), and PSS-10 (B = −2.47, 95%CI = −3.65, −1.28), whereas Manomayiddhi was a predictor of RI-9 (B = 2.47, 95%CI = 0.74, 2.47), OI-Anxiety (B = −2.32, 95%CI = −3.41, −1.23), OI-Depression (B = −1.53, 95%CI = −2.32, −0.74), and PSS-10 (B = −2.14, 95%CI = −3.46, −0.81). Breathing meditation predicted OI-Depression (B = −0.87, 95%CI = −1.45, −0.29). Daily meditation frequency was associated with the best mental health scores (p < 0.001).</p> Conclusion <p>Buddha image visualization, Manomayiddhi, and breathing meditation were predictive of adolescents’ mental health. A higher practice frequency is associated with positive mental health outcomes.</p>",
+    "authors": [
+      "Justin DeMaranville",
+      "Tinakon Wongpakaran",
+      "Nahathai Wongpakaran",
+      "Danny Wedding"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889600"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41392-025-02286-9",
+    "journal": "Nature_SystemsBiology",
+    "title": "Uncovering injury-specific proteomic signatures and neurodegenerative risks in single and repetitive traumatic brain injury",
+    "link": "https://www.nature.com/articles/s41392-025-02286-9",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Sarah Mantash et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-23T22:07:43.889626"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00647-3?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "ABBA+BraiAn, an integrated suite for whole-brain mapping, reveals brain-wide differences in immediate-early genes induction upon learning",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00647-3?rss=yes",
+    "published": "",
+    "summary": "Chiaruttini, Castoldi, Requie, et al. present ABBA+BraiAn, a suite for automated whole-brain atlas registration, image analysis, data management, analysis, and visualization of histological sections. They systematically compared the immediate-early genes cFos, Arc, and NPAS4 and revealed major differences in their brain-wide distribution as well as their induction upon learning.",
+    "authors": [
+      "Nicolas Chiaruttini, Carlo Castoldi, Linda Maria Requie, Carmen Camarena-Delgado, Beatrice Dal Bianco, Johannes Gräff, Arne Seitz, Bianca A. Silva"
     ],
     "doi": "",
     "parser_type": "cell",
     "feed_priority": "medium",
     "priority": 2,
     "priority_name": "HIGH",
-    "added_at": "2025-06-20T22:07:41.844972"
+    "added_at": "2025-06-23T22:07:43.889636"
   },
   {
-    "id": "https://www.nature.com/articles/s44385-025-00023-z",
+    "id": "https://www.nature.com/articles/s42256-025-01046-2",
     "journal": "Nature_CompBio",
-    "title": "Deep learning identifies heterogeneous subpopulations in breast cancer cell lines",
-    "link": "https://www.nature.com/articles/s44385-025-00023-z",
-    "published": "2025-06-21T00:00:00+00:00",
+    "title": "Robust virtual staining of landmark organelles with Cytoland",
+    "link": "https://www.nature.com/articles/s42256-025-01046-2",
+    "published": "2025-06-23T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Tyler A. Jost et al."
+      "Ziwen Liu et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
     "priority": 2,
     "priority_name": "HIGH",
-    "added_at": "2025-06-21T22:06:56.065055"
+    "added_at": "2025-06-23T22:07:43.889640"
   },
   {
-    "id": "https://www.nature.com/articles/s42003-025-08372-6",
+    "id": "https://www.nature.com/articles/s41598-025-06676-5",
     "journal": "Nature_CompBio",
-    "title": "Unveiling spatial domains from spatial multi-omics data using dual-graph regularized ensemble learning",
-    "link": "https://www.nature.com/articles/s42003-025-08372-6",
-    "published": "2025-06-20T00:00:00+00:00",
+    "title": "K36-based inhibitor analogs as potential therapeutics against SARS-CoV-2 main protease (Mpro): a computational investigation",
+    "link": "https://www.nature.com/articles/s41598-025-06676-5",
+    "published": "2025-06-23T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Ying Li et al."
+      "Mohamed L. AbouYoussef et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
     "priority": 2,
     "priority_name": "HIGH",
-    "added_at": "2025-06-21T22:06:56.065095"
+    "added_at": "2025-06-23T22:07:43.889653"
   },
   {
-    "id": "https://www.nature.com/articles/s41467-025-59479-7",
-    "journal": "Nature_CompBio",
-    "title": "Quantitative measurement of phenotype dynamics during cancer drug resistance evolution using genetic barcoding",
-    "link": "https://www.nature.com/articles/s41467-025-59479-7",
-    "published": "2025-06-20T00:00:00+00:00",
-    "summary": "",
+    "id": "https://www.technologyreview.com/?p=1119190",
+    "journal": "MIT_TechReview",
+    "title": "A Chinese firm has just launched a constantly changing set of AI benchmarks",
+    "link": "https://www.technologyreview.com/2025/06/23/1119190/chinese-changing-ai-benchmarks/",
+    "published": "Mon, 23 Jun 2025 15:46:28 +0000",
+    "summary": "When testing an AI model, it’s hard to tell if it is reasoning or just regurgitating answers from its training data. Xbench, a new benchmark developed by the Chinese venture capital firm HSG, or HongShan Capital Group, might help to sidestep that issue. That’s thanks to the way it evaluates models not only on the&#8230;",
     "authors": [
-      "Frederick J. H. Whiting et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-21T22:06:56.065136"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-05691-w",
-    "journal": "Nature_CompBio",
-    "title": "Tuning surface properties of thiophene-based thin films on glass substrates for cancer cell adhesion, drug release control, and computational analysis",
-    "link": "https://www.nature.com/articles/s41598-025-05691-w",
-    "published": "2025-06-20T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Heba M. Metwally et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-21T22:06:56.065150"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13439/",
-    "journal": "Nikkei_BioTech",
-    "title": "レナサイエンス、PAI-1阻害薬併用による皮膚血管肉腫の第2相臨床試験で症例登録を完了",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13439/",
-    "published": "",
-    "summary": "レナサイエンスは2025年6月20日、開発中のプラスミノーゲン活性化抑制因子1（PAI-1）阻害薬（開発コード：RS5614）と抗がん薬のパクリタキセルを皮膚血管肉腫の患者に対して併用する国内での第2相医師主導治験において、16症例の登録が予定通りに完了したと発表した。同社の取締役会長で東北大学大学院医学系研究科の宮田敏男教授は、「今後、最終症例への投与期間を経て、2026年5月頃までに試験結果を報告する」と話す。",
-    "authors": [
-      "BTO"
+      "Caiwei Chen"
     ],
     "doi": "",
     "parser_type": "generic",
     "feed_priority": "medium",
     "priority": 2,
     "priority_name": "HIGH",
-    "added_at": "2025-06-22T22:07:27.184635"
+    "added_at": "2025-06-23T22:07:43.889670"
   },
   {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326746",
@@ -2455,5 +2685,654 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-22T22:07:27.184630"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326955",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Trends in lifetime risk and years of potential life lost from diabetes in the United States, 1997–2018",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326955",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Alain K. Koyama, Yiling J. Cheng, Ralph Brinks, Hui Xie, Edward W. Gregg, Annika Hoyer, Meda E. Pavkov, Giuseppina Imperatore</p>",
+    "authors": [
+      "Alain K. Koyama",
+      "Yiling J. Cheng",
+      "Ralph Brinks",
+      "Hui Xie",
+      "Edward W. Gregg",
+      "Annika Hoyer",
+      "Meda E. Pavkov",
+      "Giuseppina Imperatore"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889473"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326896",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Exploring the impact of total quality management initiatives on construction industry projects in Pakistan",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326896",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Nimra Afzal, Aamer Hanif, Muhammad Rafique</p>",
+    "authors": [
+      "Nimra Afzal",
+      "Aamer Hanif",
+      "Muhammad Rafique"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889489"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326894",
+    "journal": "PLoS_ONE",
+    "title": "Expression of Concern: Assessment of time management practice and associated factors among primary hospitals employees in north Gondar, northwest Ethiopia",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326894",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889494"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326888",
+    "journal": "PLoS_ONE",
+    "title": "Expression of Concern: Prevalence of type-2 diabetes and prediabetes in Malaysia: A systematic review and meta-analysis",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326888",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889499"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326875",
+    "journal": "PLoS_ONE",
+    "title": "Infected connections: Unraveling the impact of a bacterial symbiont on ant-aphid partnership",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326875",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Margaux Jossart, Thierry Hance, Claire Detrain</p>\n\nThe multitrophic plant-aphid-ant system is a model widely studied in ecology and evolutionary biology. Within this system, bacterial symbionts can circulate and may modify the relationships between partners. A common symbiont of aphids, <i>Serratia symbiotica,</i> shows a wide variety of strains with different lifestyles, one of them being associated with the aphid gut and found in the digestive tract of aphid-tending ants. This free-living <i>S. symbiotica</i> strain induces fitness costs on its aphid host which can be offset by a lower selective pressure exerted by parasitoids. In this paper, we investigated whether this aphid gut-associated bacterium may alter the mutualistic relationships between <i>Aphis fabae</i> aphids and <i>Lasius niger</i> ants. Aphids infected with <i>S. symbiotica</i> showed a reduced population growth, this negative effect being attenuated in the presence of aphid-tending ants. This bacterium also reduced the ant interest in honeydew-producing aphids: they were less likely to visit plants bearing <i>S. symbiotica</i>-infected aphids, they ingested fewer honeydew droplets and they took a longer time before deciding to feed on released honeydew. The bacterium thus makes honeydew less palatable for ant foragers, most probably by altering its composition. This suggests that the free-living <i>S. symbiotica</i> strain may promote a gradual abandonment of infected aphids by ants and ultimately jeopardize the ant-aphid mutualistic relationship. We speculate about bacteria-induced consequences of reduced ant protection against aphid natural enemies and increased host plant defense as due to a potential redirection of ant foraging towards extrafloral nectaries as an alternative sugar resource.",
+    "authors": [
+      "Margaux Jossart",
+      "Thierry Hance",
+      "Claire Detrain"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889504"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326848",
+    "journal": "PLoS_ONE",
+    "title": "International experience of a direct supervisor–does it matter for self-initiated expatriates’ adjustment?",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326848",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Irma Baneviciene, Luisa Helena Pinto, Vilmante Kumpikaite-Valiuniene</p>\n\nDue to increasing global mobility flows, self-initiated expatriates (SIEs) in both employee and managerial roles are now commonplace. However, the influence of direct supervisors’ international experience on the adjustment of SIEs remains underexplored. This study, grounded in signaling and similarity-attraction theories, addresses this gap through a qualitative examination of supervisors with international experience and at least one SIE under their supervision. The findings indicate that both foreign-born and locally born supervisors perceive their international experience as valuable in managing their international teams. Foreign-born supervisors, more frequently than their locally born counterparts, interpreted the uncertainty signals from their SIE employees as a reflection of empathy and open-mindedness, attributes shaped by their international backgrounds and cultural insights. Furthermore, the results suggest that all direct supervisors focus their support and actions primarily on facilitating SIEs’ adjustment in the work environment, rather than in the non-work environment. This research offers theoretical and practical insights for international human resource management, highlighting the positive impact of supervisors with international experience on the onboarding and adjustment processes of new SIEs, thereby enhancing the management of international teams.",
+    "authors": [
+      "Irma Baneviciene",
+      "Luisa Helena Pinto",
+      "Vilmante Kumpikaite-Valiuniene"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889511"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326808",
+    "journal": "PLoS_ONE",
+    "title": "Anti-inflammatory, analgesic, antioxidant, and alpha-amylase inhibitory effects of the hydroethanolic leaf extract of <i>Aleuritopteris bicolor</i> (Roxb.) Fraser-Jenk.",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326808",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Prabhat Kumar Jha, Bipindra Pandey, Ram Kishor Yadav, K. C. Sindhu, Sandesh Poudel, Sushil Panta</p>\n\n<i>Aleuritopteris bicolor</i> (Roxb.) Fraser-Jenk. is used in traditional medicine in Nepal to treat a variety of ailments. This study aimed to investigate qualitative phytochemical screening, quantitative phytochemical analysis (total phenolic and flavonoid content estimation), <i>in vitro</i> antioxidant activity, alpha-amylase inhibitory activity of <i>Aleuritopteris bicolor</i> (Roxb.) Fraser-Jenk. leaves from Nepal. Furthermore, this study examined the analgesic (tail flick and hot plate test method) and anti-inflammatory (carrageenan-induced paw edema) activities of <i>Aleuritopteris bicolor</i> leaves in an acute pain and inflammation rat model. The <i>Aleuritopteris bicolor</i> extract exhibited flavonoid (405.95 ± 0.28 mg QE/g) and phenolic content (20.98 ± 0.20 mg GAE/g). <i>Aleuritopteris bicolor</i> showed free radical scavenging activity with IC<sub>50</sub> value in difference antioxidant methods (IC<sub>50</sub>:9.87 µg/mL, DPPH scavenging assay; 249.59 µg/mL, Hydrogen peroxide; 72.98 µg/mL, Nitric oxide assay), and significant Ferric reducing power assay (0.51 ± 0.004). It increased analgesic activity by 38.89% (hot plate test) and 16.84% (tail-flick test) at 250 mg/kg, reduced inflammation by 36.44% at 180 min (500 mg/kg), and inhibited alpha-amylase activity (IC<sub>50</sub>:59.31 µg/mL). <i>Aleuritopteris bicolor</i> exhibits significant analgesic, anti-inflammatory, and hypoglycemic potential, making it a promising candidate for further pharmacological exploration. This study marks the first scientific study of the <i>in vivo</i> analgesic and anti-inflammatory effects from the leaf extract of <i>Aleuritopteris bicolor</i> till date.",
+    "authors": [
+      "Prabhat Kumar Jha",
+      "Bipindra Pandey",
+      "Ram Kishor Yadav",
+      "K. C. Sindhu",
+      "Sandesh Poudel",
+      "Sushil Panta"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889516"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326797",
+    "journal": "PLoS_ONE",
+    "title": "Expression of Concern: Predicting young Chinese consumers’ intentions to purchase Western brands: Structural model analysis",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326797",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889527"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326683",
+    "journal": "PLoS_ONE",
+    "title": "Retraction: Design of a tomato classifier based on machine vision",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326683",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors  </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889549"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326680",
+    "journal": "PLoS_ONE",
+    "title": "Effects of pressure garments of varying designs on upper extremity sensorimotor functions and quality of life after stroke: Study protocol for a multicenter, double-blind, prospective randomized controlled trial",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326680",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Zhenkun Xu, Siaw Chui Chai, Shin Ying Chu, Kuicheng Li</p>\nRationale <p>Stroke often results in extensive neurological damage, leading to a wide range of rehabilitation needs and challenges, with upper extremity dysfunction being particularly prevalent. Although pressure garments have been used in the rehabilitation of children with cerebral palsy to reduce muscle tone, their therapeutic effects have not been thoroughly investigated in the field of stroke.</p> Aims <p>To determine the effects of pressure garments with varying designs on stroke patients’ sensorimotor function and quality of life.</p> Sample size estimate <p>A total of 165 participants is required (55/group) with an effect size of 0.125, power of 0.80, alpha level of 0.05, and adjusted for a dropout rate of 20%.</p> Methods and design <p>This is a multicenter, double-blind, prospective randomized controlled, three-group trial. At three hospitals in Shandong, China, 165 patients within 1−12 months of stroke are randomly assigned (1:1:1) to receive Dorsal-Double-layered 10% circumferential reduction (DD-10, intervention), Single-layered 10% circumferential reduction (S-10, intervention), or Single-layered 0% circumferential reduction (S-0, placebo) pressure garments. Pressure garments are worn for 3 hours in the morning, 3 hours in the afternoon, and 8 hours at night daily for 8 weeks. During the first 4 weeks, patients also receive 30-min occupational therapy sessions.</p> Study outcomes <p>The primary outcome is the Fugl-Meyer Assessment of Upper Extremity to assess motor control. Secondary outcomes are the Box and Block Test (BBT) for assessing dexterity, Modified Ashworth Scale (MAS) for assessing muscle tone, Visual Analogue Scale for assessing pain, Disabilities of Arm, Shoulder, and Hand (DASH) for assessing self-perceived upper extremity function, and 36 Item Short Health Survey (SF-36) for assessing quality of life. Measurements are taken at Time 1(Baseline), Time 2 (Week 4), and Time 3 (Week 8).</p> Discussion <p>The expected outcome of this study is that it can determine the design of pressure garments best suited to improve sensorimotor function and the quality of life of stroke patients. It can also extend the clinical value of pressure garments and help healthcare professionals make more targeted treatment choices for stroke patients.</p> Trial registration <p>ClinicalTrials.gov Identifier: NCT06587308.</p>",
+    "authors": [
+      "Zhenkun Xu",
+      "Siaw Chui Chai",
+      "Shin Ying Chu",
+      "Kuicheng Li"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889555"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326674",
+    "journal": "PLoS_ONE",
+    "title": "Validity of pulse oximetry measures for heart rate and oxygen saturation during profound hypoxia in normobaric simulated extreme altitudes",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326674",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Harald Vikne, Jon Arild Kjeserud, Willy Westgaard, Ruben Baalsrud Westlie, Jan Ivar Kåsin, Jon Ingulf Medbø, Terje Gjøvaag, Nils Henrik Holmedahl</p>\nIntroduction <p>Commercial pulse oximeters may not be well calibrated for oxygen saturations below 70%, conditions that may be met in high altitude aviation and mountaineering. We therefore examined the bias and variability of heart rate (HR) and blood oxygen saturation (SpO<sub>2</sub>) of four different pulse oximeters (PO) at arterial blood oxygen saturation (SaO<sub>2</sub>) between 55 and 100%.</p> Methods <p>Seventeen healthy participants (age 33 ± 11 (mean ± standard deviation (SD)) yr) were exposed to controlled desaturation at rest by stepwise reduction of the oxygen fraction in the breathing air between 20.9 and 8%. Parallel measurements of HR (<i>n</i> = 383) and blood oxygen saturation (<i>n</i> = 304) from four pulse oximeters (RAD-97, PM100N, M7500 and Nell1-SR) and from reference instruments (by hemoximetry and electrocardiography (ECG)) were taken during the exposure. The validity was assessed in intervals of 55–70%, 70–85% and 85–100% SaO<sub>2</sub> using the Bland-Altman method (bias and 95% limits of agreement (LoA)) and the root mean square error for variability. The demarcation criteria for agreement between methods were ±6 percentage points O<sub>2</sub>Hb saturation and ±6 bpm HR.</p> Results <p>At the 85–100% SaO<sub>2</sub> interval, all POs but the Nell1-SR were in agreement with the reference for O<sub>2</sub> saturation. Only M7500 agreed with the reference for the 70–85% interval and none of the POs were in agreement with the reference for the 55–70% interval. The pulse oximeters and ECG were not in agreement for HR at neither the 55–70% nor the 85–100% interval but agreed at the 70–85% interval except the RAD-97. All pulse oximeters increased the bias or the variability for SpO<sub>2</sub> significantly by reductions in oxygen saturation, while no systematic differences were found for HR.</p> Conclusion <p>The study shows that medically approved pulse oximeters are not in agreement with reference measurements of neither blood oxygen saturation nor HR at SaO<sub>2</sub> levels below 70%, and their readings should therefore be interpreted cautiously during severe desaturation.</p>",
+    "authors": [
+      "Harald Vikne",
+      "Jon Arild Kjeserud",
+      "Willy Westgaard",
+      "Ruben Baalsrud Westlie",
+      "Jan Ivar Kåsin",
+      "Jon Ingulf Medbø",
+      "Terje Gjøvaag",
+      "Nils Henrik Holmedahl"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889559"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326656",
+    "journal": "PLoS_ONE",
+    "title": "The Dominant factors and optimization plan of soccer substitutions in Chinese Football Association Super League under the Five-substitution rule",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326656",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Tong Chen, Liang Chen, Rong Li, KeHao Lv</p>\n\nSubstitution strategy is a fundamental component of tactical adjustments in soccer matches. Since the official introduction of the five-substitution rule in 2020, substitute players have faced increased performance demands. This study examines 2,125 substitution events (excluding goalkeepers) from the 2023 Chinese Football Association Super League (CSL) season, utilizing non-parametric tests (Kruskal-Wallis and Mann-Whitney) to compare soccer player performance differences under different substitution effectiveness conditions. A random forest model is also developed to assess the influence of contextual and player performance variables on substitution effectiveness, aiming to identify optimal decision-making pathways. Results show that, regardless of effectiveness, substitute players display significantly greater high-intensity running distances and passing accuracy than those they replaced. Effective substitutes also demonstrate superior ball recovery. Ineffective substitutions tend to occur earlier in the match, whereas effective and neutral substitutions are more concentrated in later phases. Effective substitutes perform better in medium-to-high-intensity running, passing accuracy, and shooting. Contextual variables contribute more to predicting substitution effectiveness, and the decision pathways suggest prioritizing players with high passing accuracy when leading, while targeted adjustments are needed when trailing.",
+    "authors": [
+      "Tong Chen",
+      "Liang Chen",
+      "Rong Li",
+      "KeHao Lv"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889564"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326580",
+    "journal": "PLoS_ONE",
+    "title": "Type 1 diabetes mellitus patients had lower total vitamin K levels and increased sensitivity to direct anticoagulants",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326580",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Alejandro Carazo, Markéta Paclíková, Jaka Fadraersada, Raúl Alva-Gallegos, Pavel Skořepa, Catherine Gunaseelan, Kateřina Matoušová, Kristýna Mrštná, Lenka Kujovská Krčmová, Alena Šmahelová, Vladimír Blaha, Přemysl Mladěnka</p>\n\nThe abnormalities in blood coagulation in patients with diabetes can lead to a prothrombotic state and requirement for the administration of direct anticoagulants. However, no comparative studies have been conducted on the effects of different direct anticoagulants. A head-to-head investigation of the impact of anticoagulants in 50 patients of type 1 diabetes mellitus (DMT1) was performed, and the data were compared to 50 generally healthy individuals. Prothrombin time (PT) and activated partial thromboplastin time (aPTT) were measured in plasma treated with vehicle, heparin, or four direct anticoagulants at 1 μM. In addition to common biochemical parameters, novel inflammatory markers (neopterin, kynurenine/tryptophan ratio) and major vitamin K forms were measured. Heparin and dabigatran treatments resulted in prolonged coagulation in DMT1 patients compared to healthy individuals in both tests (both p < 0.001). The same phenomenon was observed for rivaroxaban and apixaban-treated samples in PT (p < 0.001). Interestingly, healthy volunteers had higher total vitamin K levels than DMT1. Further analysis suggested that observed coagulation differences were not caused by differences in glycemia but were rather associated with an unexpected, better lipid profile of our DMT1 group. There were also correlations between prolongation of coagulation brought about by the most active anticoagulants and inflammatory markers, and hence inflammatory state probably also contributed to the differences, as well as the mentioned differences in vitamin K levels. Conclusively, this paper suggests the suitability for controlling the effects of direct anticoagulants in DMT1 patients.",
+    "authors": [
+      "Alejandro Carazo",
+      "Markéta Paclíková",
+      "Jaka Fadraersada",
+      "Raúl Alva-Gallegos",
+      "Pavel Skořepa",
+      "Catherine Gunaseelan",
+      "Kateřina Matoušová",
+      "Kristýna Mrštná",
+      "Lenka Kujovská Krčmová",
+      "Alena Šmahelová",
+      "Vladimír Blaha",
+      "Přemysl Mladěnka"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889572"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326560",
+    "journal": "PLoS_ONE",
+    "title": "Mixing performance test and uniformity analysis of a two-stage injection jet on-line mixer",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326560",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Ping Jiang, Siliang Xiang, Wenwu Hu, Yahui Luo, Wen Li, Xiang Dong, Yixin Shi</p>\n\nWith the mixing of water and pesticides being a critical step, which is often performed using mixers. Traditional mixers, however, frequently exhibit issues such as uneven mixing and limited ratios. A dual-stage injection jet online mixer was designed to enhance the uniformity of pesticide and water mixing. This paper presents performance tests and uniformity analysis of this mixer, aiming to assess its effectiveness post-installation and to determine if it meets the required mixing performance and uniformity standards. Image analysis was utilized for qualitative assessment, revealing that the mixer’s two-dimensional curves in both axial and radial directions matched the pattern of pure pesticides. The root mean square error (RMSE) decreased with increasing mixing ratios, ranging from a minimum of 8.57% at a 300:1 ratio to a maximum of 9.94% at 2000:1. These variations were minimal, indicating good homogeneity across different ratios. Quantitative analysis using UV spectrophotometry showed that the actual mass concentration of the mixture deviated by less than 0.1% from the expected values at different sampling times, confirming superior temporal distribution uniformity. The variation in mixture mass concentration was insignificant across different locations, and the error variation at the same mixing ratio was less than 0.03%, indicating an excellent spatial distribution uniformity of the mixer. These findings demonstrate that the two-stage injection jet online mixer is effective over a wide range of mixing ratios, providing theoretical and technical support for accurate online variable spraying. This advancement is crucial for enhancing pesticide mixing efficiency and promoting sustainable agricultural development.",
+    "authors": [
+      "Ping Jiang",
+      "Siliang Xiang",
+      "Wenwu Hu",
+      "Yahui Luo",
+      "Wen Li",
+      "Xiang Dong",
+      "Yixin Shi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889580"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326516",
+    "journal": "PLoS_ONE",
+    "title": "Long-term benefit of vasodilating beta-blockers in acute myocardial infarction patients with mildly reduced left ventricular ejection fraction",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326516",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Ki Yung Boo, Miyeon Kim, Jae-Geun Lee, Geum Ko, Joon Hyouk Choi, Song-Yi Kim, Seung-Jae Joo, Jin-Yong Hwang, Seung-Ho Hur, Kwang Soo Cha, Myung Ho Jeong, on behalf of the KAMIR-NIH registry investigators </p>\n\nBeta-blockers have been considered the cornerstone of treatment for patients with acute myocardial infarction (AMI). However, long-term benefits of vasodilating beta-blockers remain uncertain. This study aimed to investigate the long-term clinical benefits of vasodilating beta-blockers compared to conventional beta-blockers in AMI patients with mildly reduced ejection fraction (mrEF). Among 13,624 patients who enrolled in the nationwide AMI database of South Korea, the KAMIR-NIH Registry, 2,662 AMI patients with mrEF, who were prescribed beta-blockers at discharge were selected for this study. The primary outcome was a composite of cardiac death, recurrent MI, or hospitalization for heart failure (HF) during 3-year follow up period. In the entire cohort, the use of vasodilating beta-blockers at discharge was associated with lower incidence of primary outcome at 3-year (hazard ratio [HR] 0.80; 95% confidence interval [CI], 0.62–0.98; <i>P</i> = 0.039) compared to the use of conventional beta-blockers at discharge. In the propensity score–matched (PSM) cohort, the use of vasodilating beta-blockers at discharge was also associated with a significantly lower incidence of primary outcome (HR, 0.66; 95% CI, 0.50–0.88; <i>P</i> = 0.004) compared to the use of conventional beta-blockers at discharge. Furthermore, in the PSM cohort, the use of vasodilating beta-blockers was associated with lower incidences of the cardiac death (HR, 0.60; 95% CI, 0.39–0.92; <i>P</i> = 0.020), hospitalization for HF (HR, 0.72; 95% CI, 0.46–0.98; <i>P</i> = 0.042), and all-cause death (HR, 0.67; 95% CI, 0.48–0.93; <i>P</i> = 0.017) compared to the use of conventional beta-blockers. However, no significant differences were observed between the groups in the incidences of recurrent MI (HR, 0.62; 95% CI, 0.34–1.14; <i>P</i> = 0.122), any revascularization (HR, 1.04; 95% CI, 0.76–1.42; <i>P</i> = 0.821), stroke (HR, 0.84; 95% CI, 0.44–1.60; <i>P</i> = 0.589), stent thrombosis (HR, 1.12; 95% CI, 0.40–3.11; <i>P</i> = 0.833). In AMI patients with mrEF, the use of vasodilating beta-blockers at discharge was associated with better long-term clinical outcomes compared to the use of conventional beta-blockers.",
+    "authors": [
+      "Ki Yung Boo",
+      "Miyeon Kim",
+      "Jae-Geun Lee",
+      "Geum Ko",
+      "Joon Hyouk Choi",
+      "Song-Yi Kim",
+      "Seung-Jae Joo",
+      "Jin-Yong Hwang",
+      "Seung-Ho Hur",
+      "Kwang Soo Cha",
+      "Myung Ho Jeong",
+      "on behalf of the KAMIR-NIH registry investigators"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889591"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326420",
+    "journal": "PLoS_ONE",
+    "title": "Barriers experienced by and educational needs of clinicians who provide care for transgender, nonbinary, and gender-diverse young adults in the Mid-Atlantic and Southern United States",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326420",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Jessica Kremen, Meg Quint, Regina Tham, Kaiden Kane, Elizabeth R. Boskey, Cassandra Morrow, Sari L. Reisner, Rena Xu</p>\nPurpose <p>The purpose of this study is to identify and explore the educational needs of and broader barriers experienced by clinicians who provide care to transgender, nonbinary, and gender diverse (TGD) young adults (aged 18–24), with a focus on unique healthcare needs and challenges.</p> Methods <p>Between April 2022 – July 2022, we conducted qualitative interviews with 13 clinicians (n = 9 medical and n = 4 mental health) about perceived needs and barriers relating to the care of TGD young adults. Clinicians were recruited throughout the Southeastern and Mid-Atlantic United States and were a mix of general practitioners and specialists. Using a hybrid deductive and inductive thematic analysis approach, the interview transcripts were analyzed and key themes identified.</p> Results <p>Thematic analyses of these interviews identified three main themes: the need for knowledgeable clinicians, the need and desire for reliable training resources and mentorship, and concerns surrounding the impact of the sociopolitical environment. Many participants noted a lack of access to local educational opportunities and mentorship but expressed willingness to seek these out if centralized resources, such as national platforms or accessible training modules, were available.</p> Conclusion <p>This study identifies both gaps in clinician education and broader barriers – such as local politics and access to mentorship – that hinder the ability to provide effective care to TGD young adults. These findings will help to inform the development of clinician education and support programs.</p>",
+    "authors": [
+      "Jessica Kremen",
+      "Meg Quint",
+      "Regina Tham",
+      "Kaiden Kane",
+      "Elizabeth R. Boskey",
+      "Cassandra Morrow",
+      "Sari L. Reisner",
+      "Rena Xu"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889605"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326368",
+    "journal": "PLoS_ONE",
+    "title": "Exploring the impact of a brief positive experience on dogs’ performance and stress resilience during a learning task",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326368",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Julia Miller, Camila Cavalli, Amin Azadian, Alexandra Protopopova</p>\n\nLearning and stress resilience can be influenced by recent experiences. Research has traditionally focused on the effects of negative situations and stressors on subsequent learning and stress resilience, while knowledge is limited regarding the effects of positive experiences. We aimed to examine the impact of a pre-session brief positive experience on dogs’ learning and stress resilience. Pet dogs were quasi-randomly assigned to the experimental (n = 20) or control (n = 20) group, counterbalanced for age, sex, and breed clade. Experimental dogs received a session intended to provide a positive experience, which included a 15 min walk on a long leash, human interaction, exploration, playing, and olfactory-based foraging. Control dogs were kept on leash in an office without being allowed to explore nor interact with their owner or the experimenters for 15 min. After 60 s of habituation to the testing room, all dogs were taught to nose-touch the experimenter’s hand. After the Learning phase, there was a 2 min Disruption phase, in which a remote-controlled car moved inside of a tub at a distance. Measures included the number of hand touches in each phase, the latency to return to the task, and general stress and affiliative behaviours. No differences were observed in the Learning phase. Surprisingly, experimental dogs exhibited higher stress levels than control dogs during the Disruption phase. These dogs also spent a significantly higher proportion of time in proximity to their owners, which could be interpreted as reassurance-seeking behaviour. Contrary to our predictions, exposure to a brief positive experience did not impact learning and, surprisingly, seemed to have made dogs more susceptible to stress during the Disruption phase. Several possible explanations are discussed, including the possibility of an unintentional induction of a negative emotional state by the termination of the positive experience, as well as differences in arousal, or habituation to the indoor environment.",
+    "authors": [
+      "Julia Miller",
+      "Camila Cavalli",
+      "Amin Azadian",
+      "Alexandra Protopopova"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889611"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326360",
+    "journal": "PLoS_ONE",
+    "title": "Protocol for developing a model to promote the mental health of nurses caring for mental healthcare users at mental health institutions in Limpopo province, South Africa",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326360",
+    "published": "2025-06-23T14:00:00Z",
+    "summary": "<p>by Annikie V. Hobyane, Hilda N. Shilubane, Tinyiko N. Rikhotso</p>\n\nThe nurses as front liners caring for mental health care users (MHCUs) at mental health institutions are susceptible to adverse physical and psychological effects as a result of hostile behaviors of mentally ill patients. Most nurses suffer from stress that is caused by management’s lack of support, working overtime, lack of recognition by supervisors, and lack of skills and knowledge on how to handle aggressive mental health care users. The present study aims to develop a model to promote the mental health of nursing staff providing care to individuals with mental disorders at mental health institutions. Phase 1, the empirical face, will employ a qualitative, exploratory, and descriptive design focusing on nurses’ experiences caring for MHCUs and their views on improving their mental health. Information will be gathered using unstructured individual interviews with nurses purposefully sampled at selected mental health institutions. The study will apply procedures to safeguard trustworthiness and moral principles during the study. Phase 2 will focus on developing a model, and in phase 3, the developed model will be validated. The findings of the study will determine recommendations.",
+    "authors": [
+      "Annikie V. Hobyane",
+      "Hilda N. Shilubane",
+      "Tinyiko N. Rikhotso"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889616"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-06344-8",
+    "journal": "Nature_SystemsBiology",
+    "title": "Recognizing American Sign Language gestures efficiently and accurately using a hybrid transformer model",
+    "link": "https://www.nature.com/articles/s41598-025-06344-8",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Mohammed Aly et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889622"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-06438-3",
+    "journal": "Nature_SystemsBiology",
+    "title": "Cryogenic mouse tissue homogenization as an alternative to fresh-frozen biopsy use for genomics, transcriptomics, proteomics and metabolomics",
+    "link": "https://www.nature.com/articles/s41598-025-06438-3",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Laimdota Zizmare et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889630"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42256-025-01041-7",
+    "journal": "Nature_CompBio",
+    "title": "Dimensions underlying the representational alignment of deep neural networks with humans",
+    "link": "https://www.nature.com/articles/s42256-025-01041-7",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Florian P. Mahner et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889644"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41597-025-05384-z",
+    "journal": "Nature_CompBio",
+    "title": "SAVI Space—combinatorial encoding of the billion-size synthetically accessible virtual inventory",
+    "link": "https://www.nature.com/articles/s41597-025-05384-z",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Malte Korn et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889649"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41588-025-02233-y",
+    "journal": "Nature_CompBio",
+    "title": "Predicting resistance to chemotherapy using chromosomal instability signatures",
+    "link": "https://www.nature.com/articles/s41588-025-02233-y",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Joe Sneath Thompson et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889657"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-01736-6",
+    "journal": "Nature_CompBio",
+    "title": "Multiscale modeling of drug-induced liver injury from organ to lobule",
+    "link": "https://www.nature.com/articles/s41746-025-01736-6",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Alon Malka-Markovitz et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889661"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42003-025-08387-z",
+    "journal": "Nature_CompBio",
+    "title": "Identification of conserved and tissue-restricted transcriptional profiles for lipid associated macrophages",
+    "link": "https://www.nature.com/articles/s42003-025-08387-z",
+    "published": "2025-06-23T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yingzheng Xu et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889666"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119009",
+    "journal": "MIT_TechReview",
+    "title": "Scaling integrated digital health",
+    "link": "https://www.technologyreview.com/2025/06/23/1119009/scaling-integrated-digital-health/",
+    "published": "Mon, 23 Jun 2025 13:19:03 +0000",
+    "summary": "Around the world, countries are facing the challenges of aging populations, growing rates of chronic disease, and workforce shortages, leading to a growing burden on health care systems. From diagnosis to treatment, AI and other digital solutions can enhance the efficiency and effectiveness of health care, easing the burden on straining systems. According to the&#8230;",
+    "authors": [
+      "MIT Technology Review Insights"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889674"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119166",
+    "journal": "MIT_TechReview",
+    "title": "The Download: the Vera C. Rubin Observatory’s first pictures, and reframing privacy",
+    "link": "https://www.technologyreview.com/2025/06/23/1119166/the-download-the-vera-c-rubin-observatorys-first-pictures-and-reframing-privacy/",
+    "published": "Mon, 23 Jun 2025 12:10:00 +0000",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. See the stunning first images from the Vera C. Rubin Observatory The first spectacular images taken by the Vera C. Rubin Observatory have been released for the world to peruse: a panoply of&#8230;",
+    "authors": [
+      "Rhiannon Williams"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889685"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1118401",
+    "journal": "MIT_TechReview",
+    "title": "Book review: Surveillance & privacy",
+    "link": "https://www.technologyreview.com/2025/06/23/1118401/privacy-book-reviews-surveillance-higher-education/",
+    "published": "Mon, 23 Jun 2025 10:00:00 +0000",
+    "summary": "Privacy only matters to those with something to hide. So goes one of the more inane and disingenuous justifications for mass government and corporate surveillance. There are others, of course, but the “nothing to hide” argument remains a popular way to rationalize or excuse what’s become standard practice in our digital age: the widespread and&#8230;",
+    "authors": [
+      "Bryan Gardiner"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889689"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119129",
+    "journal": "MIT_TechReview",
+    "title": "See the stunning first images from the Vera C. Rubin Observatory",
+    "link": "https://www.technologyreview.com/2025/06/23/1119129/first-images-vera-c-rubin-observatory/",
+    "published": "Mon, 23 Jun 2025 04:01:00 +0000",
+    "summary": "The first spectacular images taken by the Vera C. Rubin Observatory have been released for the world to peruse: a panoply of iridescent galaxies and shimmering nebulas. “This is the dawn of the Rubin Observatory,” says Meg Schwamb, a planetary scientist and astronomer at Queen’s University Belfast in Northern Ireland. Much has been written about&#8230;",
+    "authors": [
+      "Robin George Andrews"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889694"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13440/",
+    "journal": "Nikkei_BioTech",
+    "title": "AMEDの2025年度第1回調整費、127課題・2施策に147.6億円を配分",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13440/",
+    "published": "",
+    "summary": "政府の健康・医療戦略推進本部は2025年6月20日、医療分野の研究開発関連の調整費について、2025年度の1回目は127課題・2施策に147億6000万円を配分することを決定した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889699"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13444/",
+    "journal": "Nikkei_BioTech",
+    "title": "AbbVie社、c-Met標的ADCがNSCLCの2次治療でコンパニオン診断付きのFDA迅速承認",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13444/",
+    "published": "",
+    "summary": "米AbbVie（アッヴィ）社は、c-Metを標的とする抗体薬物複合体（ADC）の「Emrelis」（telisotuzumab vedotin-tllv）について、米食品医薬品局（FDA）が2025年5月14日に迅速承認したと発表した。適応症は、全身治療後に局所進行した、または転移した非扁平上皮型非小細胞肺がん（NSQ-NSCLC）で、コンパニオン診断薬でc-Met蛋白質の過剰発現を確認した患者が対象だ。FDAは同日、Emrelisのコンパニオン診断薬としてスイスRoche Diagnostics社の「VENTANA MET (SP44) RxDx Assay」を承認した。Emrelisの処方対象となる患者は、免疫組織化学（IHC）の同アッセイでc-Met蛋白質が腫瘍細胞の50％以上、かつ染色スコア3＋の条件を満たす必要がある。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889704"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13435/",
+    "journal": "Nikkei_BioTech",
+    "title": "名古屋大・慶應義塾大、線維芽細胞から肺細胞を短期間で作製する技術を開発",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13435/",
+    "published": "",
+    "summary": "名古屋大学と慶應義塾大学の研究チームが、マウスの胚性線維芽細胞から、短期間で肺細胞を作製することに成功した。線維芽細胞を直接リプログラミングし、肺細胞の元となる幹細胞に誘導した。自己皮膚由来の細胞医薬の開発につながる可能性がある。論文は2025年6月23日、npj Regenerative Medicine誌に掲載された。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889708"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13441/",
+    "journal": "Nikkei_BioTech",
+    "title": "スウェーデンCamurus社とLilly社、「FluidCrystal」ベースの長時間作用型インクレチン製剤の開発目指し協力",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13441/",
+    "published": "",
+    "summary": "スウェーデンCamurus（カムラス）社は2025年6月3日、米Eli Lilly and Company（イーライリリー・アンド・カンパニー）社と協力及びライセンス契約を結び、Camurus社専有の「FluidCrystal」技術を用いて、長時間作用型インクレチン製剤の研究、開発、製造、及び商業化を行う世界的独占的な権利をLilly社に付与したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889714"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13447/",
+    "journal": "Nikkei_BioTech",
+    "title": "大塚製薬、中国Harbour BioMed社のBCMA×CD3のT細胞エンゲージャー導入し自己免疫疾患に開発へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13447/",
+    "published": "",
+    "summary": "大塚製薬は、2025年6月23日、中国Harbour BioMed（ハーバー・バイオメッド、HBM）社が開発しているBCMAとCD3を標的とした二重特異性抗体のT細胞エンゲージャー（開発番号：HBM7020）について、中華圏を除く全世界を対象とした独占的開発販売権を取得するライセンス契約を締結したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-23T22:07:43.889719"
   }
 ]
