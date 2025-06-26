@@ -1,303 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-01956-6",
-    "journal": "Nature",
-    "title": "The shattered statues of Queen Hatshepsut: the reasons for the wreckage",
-    "link": "https://www.nature.com/articles/d41586-025-01956-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01956-6\">doi:10.1038/d41586-025-01956-6</a></p>Ritual ‘retirement’ rather than family feud might explain why so many figures of the female pharaoh are broken and cracked.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344446"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01997-x",
-    "journal": "Nature",
-    "title": "Daily briefing: Space shots from the largest digital camera in the world",
-    "link": "https://www.nature.com/articles/d41586-025-01997-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01997-x\">doi:10.1038/d41586-025-01997-x</a></p>The Vera C. Rubin Observatory has released the first images taken using its 3,200 megapixel camera. Plus, why the ‘Matthew effect’ is rampant in research and what to do when PhDs vastly outnumber jobs in academia.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344450"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01988-y",
-    "journal": "Nature",
-    "title": "Daily briefing: Which is the perfect conference country?",
-    "link": "https://www.nature.com/articles/d41586-025-01988-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01988-y\">doi:10.1038/d41586-025-01988-y</a></p>Which countries offer the ideal combination of easy visas and human rights to host a scientific conference? Plus, how Jaws transformed our view of sharks and experiments to accelerate gold-standard medical reviews using AI.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344454"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z438ois",
-    "journal": "Science",
-    "title": "A single shot of a flu drug could outperform vaccines—and protect for an entire season",
-    "link": "https://www.science.org/content/article/single-shot-flu-drug-could-outperform-vaccines-and-protect-entire-season",
-    "published": "",
-    "summary": "One injection of a long-lasting drug showed up to 76% efficacy in a large trial",
-    "authors": [
-      "Jon Cohen"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344460"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zk7gt3f",
-    "journal": "Science",
-    "title": "Mountain-dwelling animals may have a worse sense of smell",
-    "link": "https://www.science.org/content/article/mountain-dwelling-animals-may-have-worse-sense-smell",
-    "published": "",
-    "summary": "Poor olfaction could be an adaptation to frigid environments",
-    "authors": [
-      "Annika Inampudi"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344466"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.znjn1a2",
-    "journal": "Science",
-    "title": "Roman gravestones hint that ancient economies still shape the present",
-    "link": "https://www.science.org/content/article/roman-gravestones-hint-ancient-economies-still-shape-present",
-    "published": "",
-    "summary": "A computer analysis of Latin inscriptions argues that economic complexity is “sticky” over time. Historians are skeptical",
-    "authors": [
-      "Elise Cutts"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344470"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326665",
-    "journal": "PLoS_ONE",
-    "title": "New approach to the development of tailor-made feed for fish larvae using Zebrafish <i>Danio rerio</i> as a model",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326665",
-    "published": "2025-06-24T14:00:00Z",
-    "summary": "<p>by Giovanni S. Molinari, Michal Wojno, Macdonald Wick, Karolina Kwasek</p>\n\nProtein hydrolysates have been used extensively as dietary protein for larval fish. Typically, they are expensive, difficult to produce, and show varying results when utilized for different species. This study proposed a practical hydrolysis method that utilizes endogenous enzymes within the body to “auto-hydrolyze”, or digest its tissue proteins with its own endogenous enzymes, and produce a fishmeal tailored to nutritional requirements and absorptive capacity of larval fish. The objectives for this experiment were to determine the: 1) effect of the proposed hydrolysis method on tissue protein breakdown level; and 2) effect of dietary inclusion of obtained hydrolysates on larval growth performance, using Zebrafish (<i>Danio rerio</i>). Whole-body adult Zebrafish were utilized to produce an unhydrolyzed fishmeal, and three fishmeals hydrolyzed for 1, 2, and 3 h, respectively. Three diets were formulated, defined by their dietary protein supply. The Unhydro diet contained unhydrolyzed Zebrafish meal. The 50% Hydro diet contained 50% Zebrafish meal hydrolysates and 50% unhydrolyzed Zebrafish meal. The 100% Hydro diet contained 100% Zebrafish meal hydrolysates. Five groups were utilized in this study, with three groups receiving one of the produced Zebrafish meal-based diets. Larvae fed a commercial starter diet and <i>Artemia</i>, respectively, were included as reference groups. Larval fish were randomly stocked into tanks (100 fish per tank) at 3 days-post-hatch (dph), and the trial was carried out until 18 dph. Electrophoretic analysis showed that the proposed hydrolysis method was able to efficiently hydrolyze the protein within Zebrafish body. The feeding trial results found no significant differences in weight, total length, or survival between the Unhydro, 50% Hydro, and 100% Hydro groups. The proposed hydrolysis method provides a practical and potentially cost-effective approach to producing species-specific fishmeal hydrolysates. Further research is necessary to determine whether the produced hydrolysates can improve the growth of larval fish in other species.",
-    "authors": [
-      "Giovanni S. Molinari",
-      "Michal Wojno",
-      "Macdonald Wick",
-      "Karolina Kwasek"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344549"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326655",
-    "journal": "PLoS_ONE",
-    "title": "Computational design and cheminformatics profiling of omeprazole derivatives for enhanced proton pump inhibition of potassium-transporting ATPase alpha chain 1",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326655",
-    "published": "2025-06-24T14:00:00Z",
-    "summary": "<p>by Mahmudul Hasan, Md. Ifteker Hossain, Noimul Hasan Siddiquee, Ezaz Ahmed, Md Walid Hossain Talukder, Md Rahamatolla, Tasrin Nahar, Popy Rani Paul, Mahmudul Hassan Suhag, Monir Uzzaman</p>\n\nProton pump inhibitors are essential for treating moderate-to-severe gastroesophageal reflux, peptic ulcers, esophagitis, and related conditions by increasing gastric pH and inhibiting hydrogen ion discharge into the stomach. However, prolonged use may lead to adverse effects along with reduced efficacy. Our research investigates the strategic modification of omeprazole (OMP) derivatives to improve their binding affinity to targeted proteins, thereby enhancing their chemical reactivity, stability, and toxicity profiles. A total of 22 novel OMP analogues were designed through structural alterations, focusing on the benzimidazole and pyridine rings. The geometrical attributes of the analogues were further confirmed through spectral and quantum computational analysis based on density functional theory (DFT) and a B3LYP/6-31G+ G (d, p) basis set. The molecular docking with PTAAC1 presented that most of the analogues had similar or higher binding affinities and nonbonding interactions, including OMP3, OMP19, and OMP21, with binding energies of -7.3, -8.3, and -8.1 kcal/mol compared to the OMP at -7.1 kcal/mol. Pharmacokinetic, biological, and toxicological profiles via ADMET and PASS predictions also demonstrated increased safety and therapeutic potential. MD simulation also showed good stability of OMP3, OMP19, and OMP21 in binding to PTAAC1, and the RMSD, RMSF, ligand RMSD, rGyr, SASA, MolSA, PolSA, and hydrogen bond analysis also suggested superior drug potential compared to OMP. Additionally, the post-simulation MM/GBSA analysis revealed that OMP3 (-36.91 kcal/mol) outperformed OMP19 (-26.45) and OMP21 (-12.61). The protein binding site’s high stability and elevated negative binding free energy value further indicate a robust compound-protein interaction with OMP3. However, principal component analysis (PCA) showed the highest variance for OMP21, accounting for 50.66%, 21.58%, and 6.51%, respectively, for PC1, PC2, and PC3. These findings could lead to the development of OMP3 and OMP21 as potential next-generation PPIs with enhanced pharmacological activity and improved side-effect profiles, necessitating more <i>in vitro</i> and <i>in vivo</i> testing.",
-    "authors": [
-      "Mahmudul Hasan",
-      "Md. Ifteker Hossain",
-      "Noimul Hasan Siddiquee",
-      "Ezaz Ahmed",
-      "Md Walid Hossain Talukder",
-      "Md Rahamatolla",
-      "Tasrin Nahar",
-      "Popy Rani Paul",
-      "Mahmudul Hassan Suhag",
-      "Monir Uzzaman"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344553"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326587",
-    "journal": "PLoS_ONE",
-    "title": "An integrated IKOA-CNN-BiGRU-Attention framework with SHAP explainability for high-precision debris flow hazard prediction in the Nujiang river basin, China",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326587",
-    "published": "2025-06-24T14:00:00Z",
-    "summary": "<p>by Hao Yang, Tianlong Wang, Nikita Igorevich Fomin, Shuoting Xiao, Liang Liu</p>\n\nDebris flows represent a persistent challenge for disaster prediction in mountainous regions due to their highly nonlinear and multivariate triggering mechanisms. This study proposes an explainable deep learning framework, the Improved Kepler Optimization Algorithm-Convolutional Neural Network-Bidirectional Gated Recurrent Unit-Attention (IKOA-CNN-BiGRU-Attention) model, for precise debris flow hazard prediction in the Yunnan section of the Nujiang River Basin, China. The model is developed and validated using data from 159 debris flow-prone gullies, integrating deep convolutional, recurrent, and attention-based architectures, with hyperparameters autonomously optimized by IKOA. Model explainability is enhanced using SHapley Additive exPlanations (SHAP), which quantify the influence of key factors. The IKOA-CNN-BiGRU-Attention framework consistently outperforms 13 benchmark models, achieving a root mean square error of 2.33 × 10<sup>−6</sup>, mean absolute error of 1.51 × 10<sup>−6</sup>, and mean absolute percentage error of 0.006%. The model maintains high stability across 50 repeated experiments, strong resilience to 20% input noise, and robust generalizability under five-fold cross-validation. Interpretability analysis identifies potential source energy and maximum 24-hour rainfall as primary determinants and uncovers a dual-threshold physical mechanism underlying debris flow initiation. These findings provide a quantitative basis for adaptive early warning and targeted risk mitigation, and establish a transferable framework for explainable geohazard prediction.",
-    "authors": [
-      "Hao Yang",
-      "Tianlong Wang",
-      "Nikita Igorevich Fomin",
-      "Shuoting Xiao",
-      "Liang Liu"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344566"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326343",
-    "journal": "PLoS_ONE",
-    "title": "Genetic profiling of inherited colorectal cancer syndromes in Tunisian patients",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326343",
-    "published": "2025-06-24T14:00:00Z",
-    "summary": "<p>by Rania Abdelmaksoud-Dammak, Nihel Ammous-Boukhris, Amena Saadallah-Kallel, Dorra Ben Ayed-Guerfali, Souhir Guidara, Imen Miladi-Abdennadher, Ikhlas Ben Ayed, Hassen Kamoun, Slim Charfi, Tahya Sellami-Boudawara, Imen Zribi, Foued Frikha, Salah Boujelbene, Raja Mokdad-Gargouri</p>\nObjective <p>Colorectal cancer (CRC) is among the most commonly diagnosed cancers worldwide, with 2% to 5% of cases being linked to inherited syndromes.</p> Material and methods <p>A cohort of 30 Tunisian patients was selected and divided into two groups based on clinical features and family history: Group 1 included patients clinically diagnosed with hereditary polyposis syndromes, including MUTYH-Associated Polyposis (MAP: 15 cases) and Familial Adenomatous Polyposis (FAP: 5 cases). Group 2 consisted of patients clinically diagnosed with non-polyposis syndromes, including Lynch Syndrome (LS: 7 cases) and other rare syndromes (OS: 3 cases). Genetic testing was performed using either Sanger sequencing or targeted next-generation sequencing (NGS) with a cancer panel including 31 cancer-related genes.</p> Results <p>In Group 1, MAP was confirmed in 13 patients who were homozygous carriers of the pathogenic variant (c.1143_1144dup p.Glu382fs) in the <i>MUTYH</i> gene. For patients suspected of having FAP, pathogenic variants in the <i>APC</i> gene were identified in only two patients (c.3183_3187del p.Lys1061_Gln1062insTer, and c.2016_2017del p.His672Ter), while another patient carried a frameshift variant (c.502_503del, p.Ile168SerTer11) in the <i>PTEN</i> gene, indicating Cowden Syndrome. In Group 2, genetic testing confirmed Peutz-Jeghers Syndrome in a young girl who had a large deletion in the <i>STK11</i> gene. For patients suspected to have LS, only variants of unknown significance (VUS) were identified in MMR. Further genetic investigations are required to identify the pathogenic variant in these patients.</p> Conclusion <p>Overall, our results highlight the importance of genetic testing to better understand hereditary CRC syndromes in Tunisian families, and to improve the management of patients and their relatives.</p>",
-    "authors": [
-      "Rania Abdelmaksoud-Dammak",
-      "Nihel Ammous-Boukhris",
-      "Amena Saadallah-Kallel",
-      "Dorra Ben Ayed-Guerfali",
-      "Souhir Guidara",
-      "Imen Miladi-Abdennadher",
-      "Ikhlas Ben Ayed",
-      "Hassen Kamoun",
-      "Slim Charfi",
-      "Tahya Sellami-Boudawara",
-      "Imen Zribi",
-      "Foued Frikha",
-      "Salah Boujelbene",
-      "Raja Mokdad-Gargouri"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344605"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00650-3?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Comparative analysis of mouse strains for in vivo induction of reprogramming factors",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00650-3?rss=yes",
-    "published": "",
-    "summary": "Picó et al. conduct a comparative analysis of expression of OSKM in multiple reprogrammable mouse strains across different tissues and organs. In addition, they develop reprogrammable strains by restricting OSKM expression to specific cells, tissues, and organs, which might be used to investigate the full potential of in vivo reprogramming.",
-    "authors": [
-      "Sara Picó, Alba Vílchez-Acosta, João Agostinho de Sousa, María del Carmen Maza, Calida Mrabti, Alberto Parras, Gabriela Desdín-Micó, Céline Yacoub Maroun, Clémence Branchina, Ferdinand von Meyenn, Alejandro Ocampo"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344674"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1117741",
-    "journal": "MIT_TechReview",
-    "title": "Cancer-targeting nanoparticles are moving closer to human trials",
-    "link": "https://www.technologyreview.com/2025/06/24/1117741/cancer-targeting-nanoparticles-are-moving-closer-to-human-trials/",
-    "published": "Tue, 24 Jun 2025 21:00:00 +0000",
-    "summary": "Over the past decade, Institute Professor Paula Hammond ’84, PhD ’93, and her students have used a technique known as layer-by-layer assembly to create a variety of polymer-coated nanoparticles that can be loaded with cancer-fighting drugs. The particles, which could prevent many side effects of chemotherapy by targeting tumors directly, have proved effective in mouse&#8230;",
-    "authors": [
-      "Anne Trafton"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-24T22:07:43.344707"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02008-9",
-    "journal": "Nature",
-    "title": "These scientists re-enacted Stone-Age voyage to Japan’s remotest islands",
-    "link": "https://www.nature.com/articles/d41586-025-02008-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02008-9\">doi:10.1038/d41586-025-02008-9</a></p>Experiment shows how dugout canoes could have crossed treacherous straits from Taiwan to the Ryukyu Islands.",
-    "authors": [
-      "Katie Kavanagh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385381"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01925-z",
-    "journal": "Nature",
-    "title": "Can industry fill the gap left by US research funding cuts?",
-    "link": "https://www.nature.com/articles/d41586-025-01925-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01925-z\">doi:10.1038/d41586-025-01925-z</a></p>If companies do step in to support research, will they publish the results, or keep them close to their chest?",
-    "authors": [
-      "Bec Crew"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385392"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01991-3",
-    "journal": "Nature",
-    "title": "Pioneering but overlooked 1938 fusion experiment is recreated at last",
-    "link": "https://www.nature.com/articles/d41586-025-01991-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01991-3\">doi:10.1038/d41586-025-01991-3</a></p>Modern re-run shows that Arthur Ruhlig’s conclusions, which probably influenced early thinking about fusion energy, were correct, but his numbers were off.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385398"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02004-z",
-    "journal": "Nature",
-    "title": "Is AI watching you? The hidden links between research and surveillance",
-    "link": "https://www.nature.com/articles/d41586-025-02004-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02004-z\">doi:10.1038/d41586-025-02004-z</a></p>Analysis suggests that 90% of computer vision studies involve imaging humans — plus, the first images from the Vera C. Rubin Observatory.",
-    "authors": [
-      "Benjamin Thompson",
-      "Shamini Bundell"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385402"
-  },
-  {
     "id": "https://www.nature.com/articles/d41586-025-01896-1",
     "journal": "Nature",
     "title": "Hormone helps mice live longer and avoid obesity",
@@ -2146,6 +1848,620 @@
     "priority": 2,
     "priority_name": "HIGH",
     "added_at": "2025-06-25T22:07:40.386327"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-09282-7",
+    "journal": "Nature",
+    "title": "Addendum: Unravelling cysteine-deficiency-associated rapid weight loss",
+    "link": "https://www.nature.com/articles/s41586-025-09282-7",
+    "published": "",
+    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/s41586-025-09282-7\">doi:10.1038/s41586-025-09282-7</a></p>Addendum: Unravelling cysteine-deficiency-associated rapid weight loss",
+    "authors": [
+      "Alan Varghese",
+      "Ivan Gusarov",
+      "Begoña Gamallo-Lana",
+      "Daria Dolgonos",
+      "Yatin Mankan",
+      "Ilya Shamovsky",
+      "Mydia Phan",
+      "Rebecca Jones",
+      "Maria Gomez-Jenkins",
+      "Eileen White",
+      "Rui Wang",
+      "Drew R. Jones",
+      "Thales Papagiannakopoulos",
+      "Michael E. Pacold",
+      "Adam C. Mar",
+      "Dan R. Littman",
+      "Evgeny Nudler"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679514"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02010-1",
+    "journal": "Nature",
+    "title": "Are these the world’s oldest rocks? Fresh data confirm contested claim",
+    "link": "https://www.nature.com/articles/d41586-025-02010-1",
+    "published": "",
+    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02010-1\">doi:10.1038/d41586-025-02010-1</a></p>Scientists debate age of ancient Canadian crust as Inuit leaders work to preserve the location.",
+    "authors": [
+      "Alexandra Witze"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679527"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01938-8",
+    "journal": "Nature",
+    "title": "NIH-funded science must now be free to read instantly: what you should know",
+    "link": "https://www.nature.com/articles/d41586-025-01938-8",
+    "published": "",
+    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01938-8\">doi:10.1038/d41586-025-01938-8</a></p>US biomedical agency’s public-access policy kicks in on 1 July. Nature talks to specialists about how to comply.",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679533"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01816-3",
+    "journal": "Nature",
+    "title": "‘I didn’t know someone could pursue astronomy as a career’",
+    "link": "https://www.nature.com/articles/d41586-025-01816-3",
+    "published": "",
+    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01816-3\">doi:10.1038/d41586-025-01816-3</a></p>Astronomer Willice Obonyo describes how scholarship programmes seeded a fresh crop of radioastronomers in Africa.",
+    "authors": [
+      "Sarah Wild"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679539"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02017-8",
+    "journal": "Nature",
+    "title": "Harvard vs Trump: what this epic battle means for science",
+    "link": "https://www.nature.com/articles/d41586-025-02017-8",
+    "published": "",
+    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02017-8\">doi:10.1038/d41586-025-02017-8</a></p>Research across science and medicine will probably shrink at one of the world’s most elite universities amid a new political reality.",
+    "authors": [
+      "Jeff Tollefson"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679544"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01986-0",
+    "journal": "Nature",
+    "title": "Everyday painkiller made from plastic — by <i>E. coli</i>",
+    "link": "https://www.nature.com/articles/d41586-025-01986-0",
+    "published": "",
+    "summary": "<p>Nature, Published online: 23 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01986-0\">doi:10.1038/d41586-025-01986-0</a></p>Study highlights potential for sustainable synthesis of paracetamol.",
+    "authors": [
+      "Rita Aksenfeld"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679549"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.z4b05z2",
+    "journal": "Science",
+    "title": "The U.S. reneged on aid commitments. Nepal’s malnourished children are paying the price",
+    "link": "https://www.science.org/content/article/u-s-reneged-aid-commitments-nepal-s-malnourished-children-are-paying-price",
+    "published": "",
+    "summary": "Hard-won progress in improving child and maternal nutrition hangs in the balance",
+    "authors": [
+      "Catherine Offord"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679555"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.z62xnwg",
+    "journal": "Science",
+    "title": "Japan’s new seafloor monitors could reveal how ‘slow slip’ earthquakes turn into big ones",
+    "link": "https://www.science.org/content/article/japan-s-new-seafloor-monitors-could-reveal-how-slow-slip-earthquakes-turn-big-ones",
+    "published": "",
+    "summary": "Network could add 20 minutes of tsunami warning at dangerous Nankai Trough",
+    "authors": [
+      "Paul Voosen"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679565"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.ztmc9l6",
+    "journal": "Science",
+    "title": "Hundreds of hidden fossils reveal squids’ evolutionary origins",
+    "link": "https://www.science.org/content/article/hundreds-hidden-fossils-reveal-squids-evolutionary-origins",
+    "published": "",
+    "summary": "To uncover a trove of squid beaks, scientists first had to grind the fossils into dust",
+    "authors": [
+      "Phie Jacobs"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679571"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zwqy6bb",
+    "journal": "Science",
+    "title": "Stone Age farmers’ households passed from mother to daughter",
+    "link": "https://www.science.org/content/article/stone-age-farmers-households-passed-mother-daughter",
+    "published": "",
+    "summary": "Moms and daughters were at the center of the family in ancient Çatalhöyük, ancient DNA and archaeological evidence suggest",
+    "authors": [
+      "Andrew Curry"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679576"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zu97ehq",
+    "journal": "Science",
+    "title": "NIH will reinstate 900 grants in response to court order",
+    "link": "https://www.science.org/content/article/nih-will-reinstate-900-grants-response-court-order",
+    "published": "",
+    "summary": "Projects touching on sensitive topics such as DEI had been illegally terminated, judge found",
+    "authors": [
+      "Jocelyn Kaiser"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679580"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00623-3?rss=yes",
+    "journal": "Cell",
+    "title": "Alternating Cav3.2 current conducts love’s pendulum",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00623-3?rss=yes",
+    "published": "",
+    "summary": "The reproductive cycle in females influences their social and sexual behaviors. In this issue of Cell, Wang et al. find that the calcium channel Cav3.2 in the brain’s prefrontal cortex functions as a hormone-regulated electrophysiological switch. It connects hormonal state to brain activity, enabling the processing of signals from potential male partners and facilitating sexual behavior during the reproductive period.",
+    "authors": [
+      "Zheyi Ni, Hailan Hu"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679585"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00675-0?rss=yes",
+    "journal": "Cell",
+    "title": "Virtual Cell Challenge: Toward a Turing test for the virtual cell",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00675-0?rss=yes",
+    "published": "",
+    "summary": "Virtual cells are an emerging frontier at the intersection of artificial intelligence and biology. A key goal of these cell state models is predicting cellular responses to perturbations. The Virtual Cell Challenge is being established to catalyze progress toward this goal. This recurring and open benchmark competition from the Arc Institute will provide an evaluation framework, purpose-built datasets, and a venue for accelerating model development.",
+    "authors": [
+      "Yusuf H. Roohani, Tony J. Hua, Po-Yuan Tung, Lexi R. Bounds, Feiqiao B. Yu, Alexander Dobin, Noam Teyssier, Abhinav Adduri, Alden Woodrow, Brian S. Plosky, Reshma Mehta, Benjamin Hsu, Jeremy Sullivan, Chiara Ricci-Tam, Nianzhen Li, Julia Kazaks, Luke A. Gilbert, Silvana Konermann, Patrick D. Hsu, Hani Goodarzi, Dave P. Burke"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679589"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4?rss=yes",
+    "journal": "Cell",
+    "title": "Near-infrared spatiotemporal color vision in humans enabled by upconversion contact lenses",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4?rss=yes",
+    "published": "",
+    "summary": "Based on the principle of refractive index matching, highly transparent upconversion contact lenses (UCLs) with a high concentration of upconversion nanoparticles (UCNPs) were developed. These lenses efficiently convert multispectral near-infrared (NIR) light into the three primary visible colors, enabling humans to acquire wearable NIR color vision.",
+    "authors": [
+      "Yuqian Ma, Yunuo Chen, Sheng Wang, Zi-Han Chen, Yuanwei Zhang, Ling Huang, Xinxin Zhang, Fei Yin, Yunxuan Wang, Mingzhu Yang, Zhanjun Li, Kai Huang, Xin Fang, Zishuo Li, Minghong Wang, Wenhui Liu, Jia-Nan Li, Longfei Li, Hang Zhao, Min Wei, Yiming Shi, Rong Liu, Mei Zhang, Jutao Chen, Jiawei Shen, Jianjun Meng, Yupeng Yang, Fan Zhang, Xinglong Gong, Gang Han, Tian Xue"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679594"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00462-3?rss=yes",
+    "journal": "Cell",
+    "title": "50,000 years of evolutionary history of India: Impact on health and disease variation",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00462-3?rss=yes",
+    "published": "",
+    "summary": "A genomic study of 2,762 individuals from India offers important insights into the genomic diversity and evolutionary history of the subcontinent and highlights the extensive genetic variation, gene flow, and founder effects, and the importance of leveraging ancestry and homozygosity for effective disease mapping and functional variation in the Indian population.",
+    "authors": [
+      "Elise Kerdoncuff, Laurits Skov, Nick Patterson, Joyita Banerjee, Pranali Khobragade, Sankha S. Chakrabarti, Avinash Chakrawarty, Prasun Chatterjee, Minakshi Dhar, Monica Gupta, John P. John, Parvaiz A. Koul, Sarabmeet S. Lehl, Rashmi R. Mohanty, Mekala Padmaja, Arokiasamy Perianayagam, Chhaya Rajguru, Lalit Sankhe, Arunansu Talukdar, Mathew Varghese, Sathyanarayana Raju Yadati, Wei Zhao, Yuk Yee Leung, Gerard D. Schellenberg, Yi Zhe Wang, Jennifer A. Smith, Sharmistha Dey, Andrea Ganna, Aparajit Ballav Dey, Sharon L.R. Kardia, Jinkook Lee, Priya Moorjani"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679598"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00414-3?rss=yes",
+    "journal": "Cell",
+    "title": "Extrachromosomal DNA replication and maintenance couple with DNA damage pathway in tumors",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00414-3?rss=yes",
+    "published": "",
+    "summary": "This study demonstrates that extrachromosomal DNA (ecDNA) replication induces DNA double-strand breaks and activates the DNA damage response (DDR). The DDR pathways, such as alt-NHEJ, are critical for ecDNA maintenance in tumor cells. Mechanistic insights into ecDNA replication and maintenance unveil a therapeutic approach for treating tumors harboring ecDNA.",
+    "authors": [
+      "Xing Kang, Xinran Li, Jiaqi Zhou, Yang Zhang, Lingyu Qiu, Congcong Tian, Zhiwen Deng, Xiaoyan Liang, Ziwei Zhang, Songlin Du, Suili Hu, Nan Wang, Zhen Yue, Yajing Xu, Yuan Gao, Junbiao Dai, Zhiquan Wang, Chuanhe Yu, Jinyi Chen, Yuchun Wu, Liangming Chen, Yuan Yao, Sitong Yao, Xinran Yang, Lixia Yan, Qing Wen, Olivia M. Depies, Kuiming Chan, Xiaohuan Liang, Gang Li, Zhike Zi, Xiangyu Liu, Haiyun Gan"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679601"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00399-X?rss=yes",
+    "journal": "Cell",
+    "title": "Mis-splicing-derived neoantigens and cognate TCRs in splicing factor mutant leukemias",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00399-X?rss=yes",
+    "published": "",
+    "summary": "Common oncogenic RNA splicing factor mutations in myeloid malignancies generate recurrent splicing-derived neoantigens, which can be selectively targeted using a T cell receptor-based approach.",
+    "authors": [
+      "Won Jun Kim, Edie I. Crosse, Emma De Neef, Inaki Etxeberria, Erich Y. Sabio, Eric Wang, Jan Philipp Bewersdorf, Kuan-Ting Lin, Sydney X. Lu, Andrea Belleville, Nina Fox, Cynthia Castro, Pu Zhang, Takeshi Fujino, Jennifer Lewis, Jahan Rahman, Beatrice Zhang, Jacob H. Winick, Alexander M. Lewis, Robert F. Stanley, Susan DeWolf, Brigita Meškauskaitė Urben, Meril Takizawa, Tobias Krause, Henrik Molina, Ronan Chaligne, Priya Koppikar, Jeffrey Molldrem, Mathieu Gigoux, Taha Merghoub, Anthony Daniyan, Smita S. Chandran, Benjamin D. Greenbaum, Christopher A. Klebanoff, Robert K. Bradley, Omar Abdel-Wahab"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679605"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00406-4?rss=yes",
+    "journal": "Cell",
+    "title": "SLC7A11 is an unconventional H+ transporter in lysosomes",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00406-4?rss=yes",
+    "published": "",
+    "summary": "SLC7A11 acts as an unconventional proton exporter in lysosomes regulating proteolytic degradation, ferroptotic cell death, and Parkinson’s disease pathology.",
+    "authors": [
+      "Nan Zhou, Jingzhi Chen, Meiqin Hu, Na Wen, Weijie Cai, Ping Li, Liding Zhao, Yaping Meng, Dongdong Zhao, Xiaotong Yang, Siyu Liu, Fangqian Huang, Cheng Zhao, Xinghua Feng, Zikai Jiang, Enjun Xie, Hongxu Pan, Zhidong Cen, Xinhui Chen, Wei Luo, Beisha Tang, Junxia Min, Fudi Wang, Junsheng Yang, Haoxing Xu"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679611"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00394-0?rss=yes",
+    "journal": "Cell",
+    "title": "Tissue geometry spatiotemporally drives bacterial infections",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00394-0?rss=yes",
+    "published": "",
+    "summary": "Tissue-geometry-regulated cellular traction forces trigger the activation of Piezo1 and its co-localization with bacteria to facilitate the formation of specific bacterial invasion patterns to promote infection.",
+    "authors": [
+      "Yiming Han, Xiaoye Liu, Shaoqi Qu, Xiaocen Duan, Yunqing Xiang, Nan Jiang, Shuyu Yang, Xu Fang, Liang Xu, Hui Wen, Yue Yu, Shuqiang Huang, Jianyong Huang, Kui Zhu"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679615"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00407-6?rss=yes",
+    "journal": "Cell",
+    "title": "Macrophages direct location-dependent recall of B cell memory to vaccination",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00407-6?rss=yes",
+    "published": "",
+    "summary": "Subcapsular sinus macrophages in the draining lymph node help retain resident memory B cells in the subcapsular niche and promote their re-entry into secondary germinal centers. Boosting vaccines in the same arm leads to more rapid secretion of broadly neutralizing antibodies.",
+    "authors": [
+      "Rama Dhenni, Alexandra Carey Hoppé, Arnold Reynaldi, Wunna Kyaw, Nathalie Tricia Handoko, Abigail K. Grootveld, Yuki Honda Keith, Nayan Deger Bhattacharyya, Holly I. Ahel, Aiden Josiah Telfser, Andrew N. McCorkindale, Seyhan Yazar, Christina H.T. Bui, James T. Smith, Weng Hua Khoo, Mollie Boyd, Solange Obeid, Brad Milner, Mitchell Starr, Fabienne Brilot, Vanessa Milogiannakis, Anouschka Akerman, Anupriya Aggarwal, Miles P. Davenport, Elissa K. Deenick, Christine L. Chaffer, Peter I. Croucher, Robert Brink, Leonard D. Goldstein, Deborah Cromer, Stuart G. Turville, Anthony D. Kelleher, Vanessa Venturi, C. Mee Ling Munier, Tri Giang Phan"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679620"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00409-X?rss=yes",
+    "journal": "Cell",
+    "title": "Selective requirement of glycosphingolipid synthesis for natural killer and cytotoxic T cells",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00409-X?rss=yes",
+    "published": "",
+    "summary": "Cytotoxic cells, especially natural killer cells, have a particular dependence on glycosphingolipid synthesis to survive and maintain cellular function.",
+    "authors": [
+      "Tasha A. Morrison, Jaelyn Vigee, Kevin A. Tovar, Taylor A. Talley, Adriana M. Mujal, Mari Kono, Rachael Philips, Hiroyuki Nagashima, Stephen R. Brooks, Hannah Dada, Isaiah Rozich, Kelly Hudspeth, Colleen M. Lau, Chen Yao, Giuseppe Sciumè, Hong-Wei Sun, Juan S. Bonifacino, Yuka Kanno, Michael L. Dustin, Davide Randazzo, Richard L. Proia, Joseph C. Sun, Han-Yu Shih, John J. O’Shea"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679624"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00397-6?rss=yes",
+    "journal": "Cell",
+    "title": "Transcriptional regulation by PHGDH drives amyloid pathology in Alzheimer’s disease",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00397-6?rss=yes",
+    "published": "",
+    "summary": "This study uncovers a previously unknown role for PHGDH in Alzheimer’s disease, showing that its transcriptional regulatory activity—distinct from its known metabolic function—initiates early disease pathology, opening new therapeutic avenues for late-onset Alzheimer's.",
+    "authors": [
+      "Junchen Chen, Fatemeh Hadi, Xingzhao Wen, Wenxin Zhao, Ming Xu, Shuanghong Xue, Pei Lin, Riccardo Calandrelli, John Lalith Charles Richard, Zhixuan Song, Jessica Li, Alborz Amani, Yang Liu, Xu Chen, Sheng Zhong"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679630"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00505-7?rss=yes",
+    "journal": "Cell",
+    "title": "Integrating reproductive states and social cues in the control of sociosexual behaviors",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00505-7?rss=yes",
+    "published": "",
+    "summary": "A subset of neurons in the medial prefrontal cortex is shown to exert top-down regulation of adaptive innate reproductive behaviors by integrating social cues with estrous states to orchestrate sociosexual behaviors.",
+    "authors": [
+      "Yuping Wang, Xinli Song, Xiangmao Chen, Ying Zhou, Jihao Ma, Fang Zhang, Liqiang Wei, Guoxu Qi, Nakul Yadav, Benjie Miao, Yiming Yan, Guohua Yuan, Da Mi, Priyamvada Rajasethupathy, Ines Ibañez-Tallon, Xiaoxuan Jia, Nathaniel Heintz, Kun Li"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679634"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00403-9?rss=yes",
+    "journal": "Cell",
+    "title": "Hypothalamic PNOC/NPY neurons constitute mediators of leptin-controlled energy homeostasis",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00403-9?rss=yes",
+    "published": "",
+    "summary": "Activation of PNOCARC neurons promotes feeding. Here, Solheim et al. describe PNOC neurons in the murine ARC as mediators of leptin action in body weight maintenance. Moreover, they molecularly and functionally define a specific PNOCARC subtype, characterized by co-expression of PNOC and NPY, which is conserved in humans and regulates feeding in mice.",
+    "authors": [
+      "Marie H. Solheim, Sima Stroganov, Weiyi Chen, P. Sicilia Subagia, Corinna A. Bauder, Daria Wnuk-Lipinski, Almudena Del Río-Martín, Tamara Sotelo-Hitschfeld, Cait A. Beddows, Paul Klemm, Garron T. Dodd, Sofia Lundh, Anna Secher, F. Thomas Wunderlich, Lukas Steuernagel, Jens C. Brüning"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679651"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00405-2?rss=yes",
+    "journal": "Cell",
+    "title": "Regional differences in progenitor metabolism shape brain growth during development",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00405-2?rss=yes",
+    "published": "",
+    "summary": "Brain-wide birthdate mapping reveals that while hindbrain neurogenesis is transient, forebrain neurogenesis is temporally sustained through spatiotemporal regulation of progenitor mitochondrial function.",
+    "authors": [
+      "Natalia Baumann, Robin J. Wagener, Awais Javed, Eleonora Conti, Philipp Abe, Andrea Lopes, Roberto Sansevrino, Adrien Lavalley, Elia Magrinelli, Timea Szalai, Daniel Fuciec, Clothilde Ferreira, Sabine Fièvre, Andreane Fouassier, Davide D’Amico, Oliver Harschnitz, Denis Jabaudon"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679656"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00396-4?rss=yes",
+    "journal": "Cell",
+    "title": "The establishment of nuclear organization in mouse embryos is orchestrated by multiple epigenetic pathways",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00396-4?rss=yes",
+    "published": "",
+    "summary": "In vivo screening in mouse embryos provides insights into the functional interplay between chromatin and the nuclear envelope in the establishment of lamina-associated domains, the earliest feature of nuclear organization following fertilization.",
+    "authors": [
+      "Mrinmoy Pal, Tamas Schauer, Adam Burton, Tsunetoshi Nakatani, Federico Pecori, Alicia Hernández-Giménez, Iliya Nadelson, Marc A. Marti-Renom, Maria-Elena Torres-Padilla"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679660"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00398-8?rss=yes",
+    "journal": "Cell",
+    "title": "Encoding and decoding selectivity and promiscuity in the human chemokine-GPCR interaction network",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00398-8?rss=yes",
+    "published": "",
+    "summary": "Sequence and structure-based analysis highlight the molecular principles driving chemokine-GPCR selectivity and promiscuity, enabling the design of chemokines with altered receptor preferences.",
+    "authors": [
+      "Andrew B. Kleist, Martyna Szpakowska, Lindsay J. Talbot, Greg Slodkowicz, Duccio Malinverni, Monica A. Thomas, Kyler S. Crawford, Daniel J. McGrail, Acacia F. Dishman, Michael J. Wedemeyer, Madison Sluter, S. Stephen Yi, Nidhi Sahni, Francis C. Peterson, Andy Chevigné, Brian F. Volkman, M. Madan Babu"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679665"
+  },
+  {
+    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00631-2?rss=yes",
+    "journal": "Cell",
+    "title": "Sensory Neurons that Detect Stretch and Nutrients in the Digestive System",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00631-2?rss=yes",
+    "published": "",
+    "summary": "(Cell 166, 209–221; June 30, 2016)",
+    "authors": [
+      "Erika K. Williams, Rui B. Chang, David E. Strochlic, Benjamin D. Umans, Bradford B. Lowell, Stephen D. Liberles"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679675"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327195",
+    "journal": "PLoS_ONE",
+    "title": "Study on static and dynamic performance of aircraft maintenance hangar under multiple load combinations",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327195",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Xiaolan Liu, Zhihua Chen, Fengheng Zhu, Hao Chen</p>\n\nTo analyze the collaborative work performance of the roof structure and the lower support structure for the aircraft maintenance hangar, a numerical model of a single-span aircraft maintenance hangar is established to study the static and dynamic mechanical responses under various load combinations. Results show that the primary axial force and bending moment responses are concentrated in the main truss and the lower support column. The maximum compression occurs at the upper section of the two main trusses, while the maximum tension appears at the mid-span of the lower inner truss near the hangar gate. The displacement of the main truss exceeds that of the secondary truss, with the roof’s mid-span displacement being greater than that at the edges. The maximum support reactions occur at the main truss support column, the secondary truss column of the rear gable wall, and the lateral bracing between double-angle steel columns. The first three vibration modes and frequencies are highly susceptible to excitation and contribute significantly to the structure’s seismic response. This study provides critical theoretical support for the design of large-span aircraft maintenance hangars. The findings can guide optimized design strategies to enhance structural safety and efficiency, contributing to advancements in long-span hangar construction and maintenance practices.",
+    "authors": [
+      "Xiaolan Liu",
+      "Zhihua Chen",
+      "Fengheng Zhu",
+      "Hao Chen"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679679"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327015",
+    "journal": "PLoS_ONE",
+    "title": "Scholarly publishing’s hidden diversity: How exclusive databases sustain the oligopoly of academic publishers",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327015",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Simon van Bellen, Juan Pablo Alperin, Vincent Larivière</p>\n\nGlobal scholarly publishing has been dominated by a small number of publishers for several decades. This paper revisits the data on corporate control of scholarly publishing by analyzing the relative shares of scholarly journals and articles published by the major publishers and the “long tail” of smaller, independent publishers, using Dimensions and Web of Science (WoS). The reduction of expenses for printing and distribution and the availability of open-source journal management tools may have contributed to the emergence of small publishers, while recently developed inclusive databases may allow for the study of these. Dimensions’ inclusive indexing revealed the number of scholarly journals and articles published by smaller publishers has been growing rapidly, especially since the onset of large-scale online publishing around 2000, resulting in a higher share of articles from smaller publishers. In parallel, WoS shows increasing concentration within a few corporate publishers. For the 1980–2021 period, we retrieved 32% more articles from Dimensions compared to the more selective WoS. Dimensions’ data showed the expansion of small publishers was most pronounced in the Social Sciences and the Arts and Humanities, but a similar trend is observed in the Natural Sciences and Engineering, and the Health Sciences. A major geographical divergence is also revealed, with English-speaking countries and/or those located in northwestern Europe relying heavily on major publishers for the dissemination of their research, while the rest of the world being relatively independent of the oligopoly. Finally, independent journals publish more often in open access in general, and in Diamond open access in particular. We conclude that enhanced indexing and visibility of recently created, independent journals may favour their growth and stimulate global scholarly bibliodiversity.",
+    "authors": [
+      "Simon van Bellen",
+      "Juan Pablo Alperin",
+      "Vincent Larivière"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679706"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326755",
+    "journal": "PLoS_ONE",
+    "title": "Impact of out-of-pocket expenses on children with cancer in Tanzania: A mixed-methods economic study",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326755",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Emily R. Smith, Pamela Espinoza, Happiness D. Kajoka, Henry E. Rice, Madeline Metcalf, Anna Tupetz, Cesia Cotache-Condor, Blandina T. Mmbaga, Catherine Staton, Esther Majaliwa</p>\nBackground <p>For children with cancer in low- and middle-income countries, medical and non-medical expenses are often paid through out-of-pocket (OOP) expenditures, which pose significant barriers to timely care. Our study aims to estimate the impact of OOP expenditures for cancer care for children in Tanzania through a mixed-methods approach.</p> Methods <p>We used an explanatory mixed-method design to evaluate the impact of OOP expenditures for children receiving cancer care at the Kilimanjaro Christian Medical Center in Tanzania based on the Three Delays Framework. Quantitative data were collected to measure OOP expenditures and to assess the risk of catastrophic health expenditure or depth of impoverishment associated. Qualitative interviews were conducted to evaluate financial barriers and facilitators to care and were analyzed using thematic content analysis. Qualitative and quantitative data were triangulated to compare themes, identify areas of agreement or dissonance, and assess for complementarity.</p> Results <p>Thirteen caregivers of children with cancer at KCMC formed the study cohort. Most lived in a rural setting (92%) and were farmers or livestock keepers (68%). Quantitative analysis showed that total median OOP health expenditures were $53.01 (IQR: 26.50–106.01). All families were pushed further into poverty from the OOP expenses as shown by widening poverty gaps. Qualitative interviews revealed several themes related to financial challenges for families with cancer, particularly during the time period prior to definitive care including worry about job losses and having to sell assets to reach care. Data triangulation confirmed strong agreement between qualitative and quantitative data on the impact of financial barriers on care. However, families stated higher OOP costs in qualitative interviews compared to quantitative data.</p> Conclusions <p>Protecting families from impoverishment by reducing OOP costs during time periods prior to receiving definitive care may be a strategic way to improve timely diagnosis and early treatment for children with cancer.</p>",
+    "authors": [
+      "Emily R. Smith",
+      "Pamela Espinoza",
+      "Happiness D. Kajoka",
+      "Henry E. Rice",
+      "Madeline Metcalf",
+      "Anna Tupetz",
+      "Cesia Cotache-Condor",
+      "Blandina T. Mmbaga",
+      "Catherine Staton",
+      "Esther Majaliwa"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679770"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326742",
+    "journal": "PLoS_ONE",
+    "title": "Ivermectin inhibits epithelial-to-mesenchymal transition via Wnt signaling in endocrine-resistant breast cancer cells",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326742",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Kitiya Rujimongkon, Patthamapon Adchariyasakulchai, Phum Meeprasertskul, Wannarasmi Ketchart</p>\n\nIvermectin (IVM), an antiparasitic drug, has been explored for its anticancer properties in various cancer types, including breast cancer. Endocrine therapy resistance poses a significant challenge in breast cancer treatment, often leading to metastasis prevention failure. This study aimed to investigate the effects of IVM on endocrine-resistant breast cancer cells, focusing on mechanisms associated with epithelial-to-mesenchymal transition (EMT). IVM was administered to endocrine-resistant breast cancer cell lines, MCF-7/LCC2 (tamoxifen resistant) and MCF-7/LCC9 (fulvestrant resistant), to evaluate its influence on cell proliferation, invasion, and EMT-related mechanisms. The findings indicated that IVM’s half-maximum inhibitory concentration (IC<sub>50</sub>) inhibited MCF-7/LCC2 and MCF-7/LCC9 at 9.35 and 9.06 µM, respectively, within 24 h of treatment. Moreover, IC<sub>50</sub> concentration treatment for 24 h led to over a 50% reduction in cell motility and a 62% and 35% decrease in cell invasion in MCF-7/LCC2 and MCF-7/LCC9 cells, respectively. Metastasis biomarkers demonstrated that IVM treatment reduced the expression of vimentin and snail. The study also discovered that IVM diminished the expression of Wnt5a/b and lipoprotein receptor-related protein 6 (LRP6), associated with the metastasis-related Wnt signaling pathway. In conclusion, IVM inhibits the Wnt signaling pathway associated with EMT in the metastasis of endocrine-resistant breast cancer cells. These insights underscore the potential of repurposing IVM for endocrine-resistant breast cancer patients.",
+    "authors": [
+      "Kitiya Rujimongkon",
+      "Patthamapon Adchariyasakulchai",
+      "Phum Meeprasertskul",
+      "Wannarasmi Ketchart"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679781"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326684",
+    "journal": "PLoS_ONE",
+    "title": "Level and determinants of pentavalent vaccine dropout during infancy: A hierarchical analysis of community-level longitudinal study",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326684",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Tariku Tesfaye Bekuma, Assefa Seme, Saifuddin Ahmed, Muluemebet Abera</p>\nBackground <p>An estimated 23 million children under the age of one do not get the recommended basic vaccinations globally, and Ethiopia is one of the 10 countries where almost 60% of these children live. The alarming decline in childhood vaccination is leaving millions of children at risk of devastating but preventable diseases. Vaccination dropout poses a significant challenge in ensuring that children receive the full protection provided by vaccines. In Ethiopia, individual vaccine coverage has improved, but the proportion of fully vaccinated children with all recommended vaccines remains low. The study aimed to examine the level and determinants of pentavalent vaccine dropouts during infancy.</p> Methods <p>The study utilized data from the PMA Ethiopia panel survey, which was conducted in three regions: Amhara, Oromia, and the former SNNP. A multi-stage cluster design with urban-rural stratification was used to draw a probability sample of households and women of reproductive age. We employed a multilevel logistic regression analysis in light of the hierarchically clustered nature of PMA data and the results are reported in odds ratio. The measures of variation were explained by intra-cluster correlation, median odds ratio, and proportional change in variance.</p> Results <p>A total of 1295 infants were included in the final analysis. The result shows that a dropout from the first to the third dose of pentavalent was 37.48%. Pentavalent dropout rates were about two times (AOR = 1.84, 95% CI: 1.24–2.72) higher for infants born at home than for babies born at a health facility, and two times (AOR = 1.77, 95% CI: 1.04 2.99) higher for infants born to mothers who perceived the community did not support postnatal care than for babies born to mothers who believed the community supported it. Infants whose mothers had trouble accessing PNC following the COVID-19 pandemic were dropped out of Pentavalent five times higher (AOR = 5.06, 95% CI: 1.32–19.48). Pentavalent dropout is more than three times (AOR = 3.78, 95% CI: 1.75–8.16) higher among those who lived in the former SNNP region and more than two times (AOR = 2.75, 95% CI: 1.17–6.43) higher among infants born to mothers who lived in a community with a high level of poverty.</p> Conclusion and recommendation <p>The dropout rate from the first to the third pentavalent vaccine is higher than what has been reported in other studies in Ethiopia and abroad. Residing in a high-poverty community, giving birth at home, perceiving that the community did not support postnatal care, and having trouble accessing PNC following COVID 19 significantly determined pentavalent dropout. Improving health education, healthcare access, institutional delivery, and the health systems linkage are therefore essential to addressing these problems in the targeted population.</p>",
+    "authors": [
+      "Tariku Tesfaye Bekuma",
+      "Assefa Seme",
+      "Saifuddin Ahmed",
+      "Muluemebet Abera"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679806"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119379",
+    "journal": "MIT_TechReview",
+    "title": "The Download: Google DeepMind’s DNA AI, and heatwaves’ impact on the grid",
+    "link": "https://www.technologyreview.com/2025/06/26/1119379/the-download-google-deepminds-dna-ai-and-heatwaves-impact-on-the-grid/",
+    "published": "Thu, 26 Jun 2025 12:10:00 +0000",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s new AI will help researchers understand how our genes work When scientists first sequenced the human genome in 2003, they revealed the full set of DNA instructions that make a person. But&#8230;",
+    "authors": [
+      "Rhiannon Williams"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-26T22:07:43.679833"
   },
   {
     "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00630-8?rss=yes",
@@ -7267,5 +7583,626 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-25T22:07:40.386370"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327180",
+    "journal": "PLoS_ONE",
+    "title": "Osteoporosis is associated with increased CVD mortality and all-cause mortality in alcohol-consuming individuals: A cohort study using data from NHANES",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327180",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Xiaoqin Qu, Jingcheng Jiang</p>\nBackground <p>Osteoporosis, a skeletal disorder characterized by reduced bone density and increased fracture risk, imposes a significant global health burden, particularly in aging populations. Previous studies have highlighted the negative impact of alcohol consumption on bone health, but the interplay between osteoporosis and mortality risk in alcohol-consuming individuals remains underexplored. This study aimed to investigate the association between osteoporosis and cardiovascular disease (CVD) mortality and all-cause mortality in U.S. adults who consume alcohol.</p> Methods <p>This prospective cohort study utilized data from the National Health and Nutrition Examination Survey (NHANES) spanning five cycles (2005–2010, 2013–2014, and 2017–2018). A total of 12,178 alcohol-consuming participants aged 20 years and older were included after excluding those with missing data or non-drinking status. Bone density was measured using dual-energy X-ray absorptiometry (DXA), and osteoporosis was defined using World Health Organization (WHO) T-score criteria (T-score ≤ −2.5). Mortality data were obtained through linkage with the National Death Index (NDI). Multivariable Cox proportional hazards regression models were employed to assess the relationship between osteoporosis and mortality outcomes, adjusting for demographic, socioeconomic, and clinical covariates.</p> Results <p>Kaplan-Meier survival analysis revealed higher all-cause and CVD mortality rates in participants with osteoporosis compared to those without (Log-rank test P < 0.001 for both). After adjusting for potential confounders, osteoporosis was associated with a 1.60-fold increased risk of all-cause mortality (HR = 1.60, 95% CI = 1.26–2.03, P < 0.001) and a 1.55-fold increased risk of CVD mortality (HR = 1.55, 95% CI = 1.06–2.28, P = 0.025). Stratified analyses across age, sex, smoking status, and cardiovascular risk factors showed consistent results, with no significant interaction effects (P > 0.05). Sensitivity analyses confirmed the robustness of these findings.</p> Conclusion <p>Osteoporosis is positively associated with increased risks of all-cause and CVD mortality in alcohol-consuming individuals. These findings underscore the need for further research to elucidate the underlying mechanisms and inform preventive strategies targeting this high-risk population.</p>",
+    "authors": [
+      "Xiaoqin Qu",
+      "Jingcheng Jiang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679685"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327058",
+    "journal": "PLoS_ONE",
+    "title": "Fatty liver index and risk of type 2 diabetes of adults with normoglycemia: Insights into insulin sensitivity and beta-cell function",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327058",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Ji Hyun Bae, Min Jin Lee, Su Hyun Kim, Joo Yeon Kim, Ah Reum Khang, Yang Ho Kang, Dongwon Yi</p>\n\nThe fatty liver index (FLI) is a simple tool used to assess metabolic dysfunction-associated fatty liver disease (MAFLD). Previous studies have shown the utility of the FLI as an early predictor of diabetes for patients with prediabetes. We evaluated whether the FLI could predict the development of type 2 diabetes mellitus (T2DM) with normal glucose tolerance (NGT) by performing a retrospective assessment of a community-based cohort over the course of 18 years. We analyzed data of 6,083 adults with NGT available from the Korean Genome and Epidemiology Study database. Participants were stratified into the following three groups based on the FLI: low, FLI < 30; intermediate, FLI 30–59; and high, FLI ≥ 60. Cox proportional hazards regression models evaluated the T2DM risk differences. Insulin sensitivity and secretion markers were compared using multivariate linear regression and an analysis of covariance. The predictability of the FLI for T2DM was analyzed by comparing the area under the receiver-operator characteristic (ROC) curve (AUC) values from the ROC analysis. The cumulative incidence of T2DM was 31.9% for the high FLI group; however, it was 11.3% for the low FLI group (log-rank test, P < 0.0001). For individuals with NGT, a high FLI was associated with an increased T2DM risk (hazard ratio [HR], 3.42; 95% confidence interval [CI], 2.91–4.00). After adjusting for insulin sensitivity and secretion markers, FLI remained an independent predictor of T2DM (HR, 1.96, 95% CI, 1.54–2.50). The homeostasis model assessment of insulin resistance results and composite insulin sensitivity index of the high FLI group were higher than those of the other groups (P < 0.0001). However, the disposition index and insulin secretion-sensitivity index-2 of the high FLI group were lower than those of the intermediate FLI group (P = 0.027 and P = 0.011, respectively). The ROC analysis confirmed that the FLI had the highest predictive ability for T2DM (AUC, 0.654; P < 0.05) development in individuals with NGT compared to other insulin sensitivity and secretion markers. The FLI is an early predictor of T2DM that reflects underlying insulin sensitivity and β-cell function. These findings underscore the role of liver steatosis in the early T2DM pathogenesis and highlight the need for early preventive lifestyle interventions among individuals with normoglycemia and high FLI values.",
+    "authors": [
+      "Ji Hyun Bae",
+      "Min Jin Lee",
+      "Su Hyun Kim",
+      "Joo Yeon Kim",
+      "Ah Reum Khang",
+      "Yang Ho Kang",
+      "Dongwon Yi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679690"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327019",
+    "journal": "PLoS_ONE",
+    "title": "Effect of crystal-to-detector distance shift on data processing in serial crystallography",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327019",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Ki Hyun Nam</p>\n\nSerial crystallography (SX) is an emerging technique to determine the room-temperature structure of macromolecules while minimizing any radiation damage. In SX, many crystals are continuously delivered to the X-ray interaction points. Crystal-to-detector distance (CTDD), an important data processing parameter, changes during sample delivery. However, the ways in which these variations affect the data quality remain unclear. Therefore, this study aimed to assess the impact of CTDD accuracy on SX data quality. Serial synchrotron crystallographic data of hen egg white lysozyme (HEWL) and glucose isomerase (GI) were processed at various CTDDs using three indexing algorithms. The CTDD that yielded the maximum number of indexed images differed from the optimized CTDD, and the resulting indexing trends varied depending on the algorithm used. The indexed data near the actual CTDD exhibited a Gaussian unit cell distribution pattern; however, this pattern became distorted as the CTDD deviated from the actual CTDD value, resulting in changes in the indexed unit cell dimensions. The phase problem was successfully solved even when HEWL and GI data deviated by ±10 mm from the actual CTDD, excluding one dataset. For HEWL processed via MOSFLM, structure refinement statistics maintained acceptable R<sub>free</sub> values despite a ± 10 mm deviation; however, data quality deteriorated with increasing deviation from the actual CTDD. Collectively, these results provide valuable insights for efficient SX data processing and interpretation.",
+    "authors": [
+      "Ki Hyun Nam"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679701"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326979",
+    "journal": "PLoS_ONE",
+    "title": "Splinting in horizontal root fractures: A Bayesian network meta-analysis",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326979",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Tatiana Carvalho Kowaltschuk, Flávio Magno Gonçalves, Bianca Marques de Mattos de Araujo, Natália Teixeira da Silva Cruz, Angela Graciela Deliga Schroder, Bruna Belz Antoniazzi, Everdan Carneiro, Marisa Nogueira Alencar, Ulisses Xavier da Silva-Neto, Odilon Guariza-Filho, Cristiano Miranda de Araujo, Vânia Portela Ditzel Westphalen</p>\nObjective <p>This study aims to evaluate which splinting method offers the most favorable prognosis in cases of dental trauma involving horizontal intra-alveolar root fractures.</p> Materials and methods <p>Search strategies were adapted for seven electronic databases and gray literature to identify studies evaluating the prognosis of horizontal intra-alveolar root fractures based on the type of splint used. The risk of bias in the included studies was assessed using the Joanna Briggs Institute Critical Appraisal tools. A Bayesian network meta-analysis was conducted.</p> Results <p>A total of 3,174 references were retrieved, of which six studies met the inclusion criteria. No significant differences were found between the types of splints used and the healing outcomes of horizontally fractured intra-alveolar roots, including comparisons to cases without fixation. Across all studies, the degree of fragment displacement was a key factor influencing healing: the less displacement, the better the prognosis. Other treatment-related variables analyzed by the authors also played a role in determining tooth prognosis.</p> Conclusions <p>There may be no difference regarding the type of splint used when considering the healing of horizontal intra-alveolar root fractures; however, other factors may have influenced this outcome.</p> Clinical Relevance <p>Understanding the fracture characteristics and the type of splinting intervention employed is essential for ensuring appropriate treatment in such cases.</p>",
+    "authors": [
+      "Tatiana Carvalho Kowaltschuk",
+      "Flávio Magno Gonçalves",
+      "Bianca Marques de Mattos de Araujo",
+      "Natália Teixeira da Silva Cruz",
+      "Angela Graciela Deliga Schroder",
+      "Bruna Belz Antoniazzi",
+      "Everdan Carneiro",
+      "Marisa Nogueira Alencar",
+      "Ulisses Xavier da Silva-Neto",
+      "Odilon Guariza-Filho",
+      "Cristiano Miranda de Araujo",
+      "Vânia Portela Ditzel Westphalen"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679710"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326978",
+    "journal": "PLoS_ONE",
+    "title": "The Hippo-YAP/β-catenin signaling axis coordinates odontogenic differentiation in dental pulp stem cells: Implications for dentin-pulp regeneration",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326978",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Chang Chen, Qiqi Yun, Juanli Ran, Ziyao Zhou, Pengxiang Zhang, Rong Li</p>\nObjective <p>This study investigated the interplay between Hippo-YAP and β-catenin signaling in regulating odontogenic differentiation of human dental pulp stem cells (DPSCs) and explored its potential implications for dentin-pulp regeneration.</p> Methods <p>Using lentivirus-mediated YAP overexpression/silencing, β-catenin siRNA knockdown, and pharmacological Wnt inhibition (via WIF-1), we assessed DPSC proliferation, migration, mineralization, and molecular markers (via qRT-PCR, immunofluorescence). In vivo validation employed subcutaneous transplantation of DPSC-seeded scaffolds in immunocompromised mice.</p> Results <p>YAP activation enhanced DPSC proliferation (1.44-fold), migration (1.39-fold), invasion (1.54-fold), and differentiation, as evidenced by elevated ALP activity (1.46-fold) and mineralization (1.36-fold). We observed transcriptional upregulation of odontogenic markers (RUNX2, DSPP, DMP1, OCN, ALP) and Wnt pathway components (β-catenin, Cyclin D1, c-Myc). Immunofluorescence revealed coordinated YAP and β-catenin expression patterns during differentiation. β-catenin silencing or Wnt inhibition abolished YAP-mediated functional enhancements and simultaneously suppressed YAP expression, partially confirming bidirectional regulation. <i>In vivo</i>, YAP-overexpressing DPSCs exhibited 1.27- to 1.62-fold induction of dentin-specific markers and β-catenin, whereas YAP silencing impaired these markers expression.</p> Conclusions <p>Our findings demonstrate that coordinated YAP and β-catenin signaling drives DPSC odontogenesis, with potential implications for dentin regeneration. Although reciprocal regulation is evident, direct molecular interactions require further validation.</p>",
+    "authors": [
+      "Chang Chen",
+      "Qiqi Yun",
+      "Juanli Ran",
+      "Ziyao Zhou",
+      "Pengxiang Zhang",
+      "Rong Li"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679717"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326967",
+    "journal": "PLoS_ONE",
+    "title": "Increased sensitivity of primary aniridia limbal stromal cells to travoprost, leading to elevated migration and MMP-9 protein levels, <i>in vitro</i>",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326967",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Shuailin Li, Tanja Stachon, Shanhe Liu, Zhen Li, Shao-Lun Hsu, Swarnali Kundu, Fabian N. Fries, Berthold Seitz, Maryam Amini, Shweta Suiwal, Nóra Szentmáry</p>\nPurpose <p>In congenital aniridia, not only limbal epithelial cells but also limbal stromal cells may contribute to the development of aniridia associated keratopathy (AAK). Secondary glaucoma affects 50–75% of patients with congenital aniridia, and prostaglandin analogs are commonly used for conservative treatment. This study aimed to explore the effect of travoprost on corneal limbal stromal cells from healthy (LSCs) and congenital aniridia subjects (AN-LSCs), <i>in vitro</i>.</p> Materials and methods <p>Cells were extracted from aniridia (AN-LSCs) (n=7) and healthy donors (LSCs) (n=7). In culture, the cells were treated with travoprost at concentrations ranging from 0.039–40 μg/mL for 20 minutes. Cell viability, proliferation and migration were determined to assess the effect of travoprost on AN-LSCs and LSCs. Analysis of inflammation-, retinoic acid signaling-, and apoptosis-related genes and proteins was performed using qPCR, Western blot, and ELISA. One-way ANOVA was used to analyze cell viability and proliferation. The Mann–Whitney test was applied to compare between-group differences, while the Friedman test was used to assess within-group differences.</p> Results <p>Both in LSCs and AN-LSCs, travoprost treatment at 0.078 μg/mL and higher concentrations significantly reduced cell viability (p≤0.033; p<0.001) and proliferation decreased both in LSCs and AN-LSCs at 40 μg/mL travoprost concentration (p=0.006; p=0.002). At 6 and 12 hours, 0.313 μg/mL travoprost significantly increased the migration rate of AN-LSCs (p=0.021; p=0.021). AN-LSCs displayed lower <i>PAX6</i> and <i>JNK</i> (<i>MAPK8</i>) mRNA (p<0.001) but higher <i>MMP-3, MMP-9, ADH7, FABP5</i> and <i>VEGFA</i> mRNA levels (p≤0.037) than LSCs. <i>PTGFR</i> and <i>JNK</i> mRNA levels, MMP9 and ADH7 protein levels increased significantly in AN-LSCs after 0.313 μg/mL travoprost treatment (p≤0.039), while NF-κB and ADH7 protein levels decreased significantly in LSCs using 0.313 μg/mL travoprost (p=0.039; p<0.001).</p> Conclusions <p>Travoprost may affect viability, proliferation, and migration of both LSCs and AN-LSCs, with AN-LSCs exhibiting greater sensitivity than LSCs. Additionally, travoprost may regulate MMP-9 expression in AN-LSCs via the JNK signaling pathway. Furthermore, in AN-LSCs, travoprost treatment does not lead to a decrease in NF-κB and ADH7 protein levels.</p>",
+    "authors": [
+      "Shuailin Li",
+      "Tanja Stachon",
+      "Shanhe Liu",
+      "Zhen Li",
+      "Shao-Lun Hsu",
+      "Swarnali Kundu",
+      "Fabian N. Fries",
+      "Berthold Seitz",
+      "Maryam Amini",
+      "Shweta Suiwal",
+      "Nóra Szentmáry"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679723"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326949",
+    "journal": "PLoS_ONE",
+    "title": "Assessing the reliability of abdominal adiposity measurements by transabdominal ultrasound in first trimester pregnancies with sonographers of varying experience levels",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326949",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Noppasin Khwankaew, Nattraporn Srisovanna, Ninlapa Pruksanusak</p>\nObjective <p>Given the growing evidence linking increased abdominal adiposity in early pregnancy to a higher risk of developing gestational diabetes mellitus (GDM), this study aims to evaluate the reliability of the sonographic measurements of abdominal adiposity during the first trimester of pregnancy, comparing the performance of sonographers with varying levels of experience.</p> Methods <p>A cross-sectional study was conducted on singleton Asian pregnant women with gestational ages between 11 and 14 weeks. Transabdominal ultrasound measurements of abdominal adiposity were performed by three sonographers with different experience levels, including measurements of subcutaneous fat thickness (SFT), visceral fat thickness (VFT), and preperitoneal fat thickness (PFT) using three techniques. Intra- and interobserver reliability were assessed using intraclass correlation coefficient (ICC) with a 95% confidence interval. Spearman pairwise correlation coefficients were used to analyze the correlation between maternal body composition and the sonographic measurements of abdominal adiposity.</p> Result <p>Ninety pregnant women participated. The overall ICCs indicated excellent intraobserver reliability for all parameters, with VFT measurement showing slightly lower reliability for less experienced operators. Interobserver reliability was excellent for all measurements except VFT, which showed good reliability between the most and least experienced operators. VFT correlated significantly with maternal waist-to-hip ratio (WHR).</p> Conclusion <p>Sonographic measurements of abdominal adiposity during the first trimester show high reliability, particularly when performed by experienced sonographers. Notably, VFT measurement displayed a significant positive correlation with maternal WHR, highlighting its potential as an indicator of central adiposity.</p>",
+    "authors": [
+      "Noppasin Khwankaew",
+      "Nattraporn Srisovanna",
+      "Ninlapa Pruksanusak"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679728"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326932",
+    "journal": "PLoS_ONE",
+    "title": "The complex interplay of personal and external factors in medical students’ specialty decision-making: A qualitative study",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326932",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Quang Thanh Nguyen, Minh Phan Ngoc Nguyen, Nhi Yen Bui, Minh Quang Ngo, Linh Vu Thuy Nguyen, Trang Thu Dang</p>\nBackground <p>Medical students’ specialty decisions are shaped by a complex interaction of personal characteristics, academic experiences, social influences, and broader contextual factors. In lower-middle-income countries, where Western medical curricula are adapted to local educational and cultural contexts, little is known about how students make sense of these influences in shaping their future professional roles. This study aimed to explore how students interpret and construct their specialty choices in a newly established hybrid medical curriculum in Vietnam.</p> Methods <p>This qualitative study used an interpretive phenomenological approach. Semi-structured interviews were conducted with 27 medical students across all four academic years at a Vietnamese medical school. Participants were selected through purposive sampling to ensure diverse academic backgrounds and training levels. Interviews were thematically analyzed using an inductive framework to identify how students experienced and interpreted influences on their specialty decisions.</p> Results <p>Four interrelated themes emerged from the analysis. First, students described how personality traits shaped their emerging identity and influenced specialty preferences. Second, academic and extracurricular experiences, including clinical rotations, research, and volunteer work, were viewed as transformative encounters that clarified career direction. Third, students navigated financial hardship, family expectations, and academic pressure, often interpreting these constraints as factors in negotiating or compromising their career choices. Finally, the COVID-19 pandemic prompted moral reflection, with some students reaffirming frontline aspirations and others shifting toward specialties offering personal safety or opportunities for systemic impact.</p> Conclusion <p>Medical specialty choice is a reflective and identity-driven process shaped by personal dispositions, experiential learning, social pressures, and contextual disruptions. Rather than being solely determined by traits or external incentives, students engage in an evolving interpretation of who they are and what kind of doctor they wish to become. Medical education should incorporate reflective support systems to guide students through this complex process.</p>",
+    "authors": [
+      "Quang Thanh Nguyen",
+      "Minh Phan Ngoc Nguyen",
+      "Nhi Yen Bui",
+      "Minh Quang Ngo",
+      "Linh Vu Thuy Nguyen",
+      "Trang Thu Dang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679735"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326918",
+    "journal": "PLoS_ONE",
+    "title": "Research on mechanical characteristics and key technology of integral intelligent lifting construction of large-span heavy steel box girder",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326918",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Xiaofeng Liu, Mingliang Li, Zhi Geng, Shuhong Zhu, Wenjie Li, Bin Liang</p>\n\nThis paper aims to address the problems of aerial orientation control and safety in sudden extreme working conditions during the integral intelligent lifting of large-span heavy steel box girder. Based on the project of Xiaotun Bridge of Fuyi Expressway, a new integral lifting system and control method were proposed. To prevent extreme conditions during the lifting process, the mechanical properties of steel box girders in both synchronous and asynchronous integral lifting states were investigated using the finite element method. Moreover, the mechanical properties of the steel box girders during the lifting process were analyzed through on-site monitoring. The results show that an alignment device has been added to the existing synchronous hydraulic lifting system, which achieves precise control of the aerial orientation and stress of each component of the steel box girder through informal lifting, micromotion lifting and other methods. In the synchronous lifting condition, the failure of the lifting point will cause the redistribution of internal forces in the lifting sling, thereby endangering the lifting lugs, but the stress and deformation of the steel box girder change relatively little. In the asynchronized lifting condition, the use of double lifting points may potentially result in overturning and torsion of the girder. However, under the asynchronous lifting within the displacement error limits, the overall mechanical performance of the steel box girder meets the codes. The on-site monitoring results correlate closely with the simulation results for the normal lifting conditions of the steel box girder. The maximum stress and vertical displacement of the steel box girder are approximately 74 MPa and 70 mm, respectively, indicating that the overall girder structure is safe and reliable throughout the entire lifting process.",
+    "authors": [
+      "Xiaofeng Liu",
+      "Mingliang Li",
+      "Zhi Geng",
+      "Shuhong Zhu",
+      "Wenjie Li",
+      "Bin Liang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679740"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326872",
+    "journal": "PLoS_ONE",
+    "title": "Comprehensive multi-omics analysis reveals the prognostic and immune regulatory characteristics of the PTPN family in osteosarcoma",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326872",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Changhai Long, Biao Ma, Xingshun Zhong, Mingzhi Zou, Kai Li, Sijing Liu</p>\n\nOsteosarcoma is a highly aggressive bone tumor that primarily affects adolescents and young adults, posing significant challenges in therapeutic efficacy, prognostic assessment, and treatment strategies. This study investigates the oncogenic and immune regulatory roles of the PTPN family in osteosarcoma using a comprehensive multi-omics approach. We utilized transcriptomic data, single-cell RNA sequencing (scRNA-seq), and clinical information obtained from publicly available databases. Dimensionality reduction and clustering techniques were employed to subclassify immune cells and analyze the tumor microenvironment characteristics. We identified prognostic genes associated with the PTPN family and stratified osteosarcoma cases into distinct molecular subtypes using consensus clustering. A random forest model revealed that the PTPN family has a significant impact on prognosis and modulates key oncogenic pathways. Furthermore, we analyzed the role of the PTPN family in regulating immune cells and selected PTPN23 for experimental validation. This research not only enhances prognostic assessments in osteosarcoma but also establishes a foundation for personalized therapeutic interventions.",
+    "authors": [
+      "Changhai Long",
+      "Biao Ma",
+      "Xingshun Zhong",
+      "Mingzhi Zou",
+      "Kai Li",
+      "Sijing Liu"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679744"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326851",
+    "journal": "PLoS_ONE",
+    "title": "Neurologists’ perspectives on management challenges and mitigation strategies for Parkinson’s disease patients: A qualitative study in Iraq",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326851",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Mena Khalid Ibrahim, Samer Imad Mohammed, Gheyath Abd Ali Shallal Al-Gawwam</p>\nBackground <p>Parkinson’s disease (PD) is currently the fastest-growing neurological disorder in the world. Patients with PD face numerous challenges in managing their chronic condition, particularly in countries with scarce healthcare infrastructure.</p> Objective <p>This qualitative study aimed to delve into neurologists’ perspectives on challenges and gaps in the Iraqi healthcare system that influence the management of PD, as well as strategies to mitigate these obstacles.</p> Method <p>Semi-structured interviews were conducted with neurologists from five different Iraqi provinces, working in both hospitals and private neurology clinics, between November 2024 and January 2025. A thematic analysis approach was employed to identify the main challenges and gaps in the healthcare system, along with potential mitigation strategies for improving PD management in Iraq.</p> Results <p>Fourteen neurologists participated in this study. Among them, 71.4% identified medication adherence as a major challenge, followed by motor symptoms (64.3%). Physical dependency due to motor impairment was the most reported limitation affecting daily life and disease management. Neurologists cited several factors influencing patients’ knowledge, including educational background, depression or family support, were mentioned by neurologists. Significant gaps in the Iraqi healthcare system were noted, such as the lack of specialized abnormal movement disorders clinics, multidisciplinary collaboration, a universal healthcare system, insufficient public PD awareness, and the presence of unregulated pharmaceuticals in the market.</p> Conclusion <p>Addressing these challenges requires policy-driven reforms, enhanced regulatory oversight and the integration of multidisciplinary care frameworks to optimize the management of individuals with PD. Strengthening patient education and professional training programs could further raise public awareness and improve care quality. Future research should focus on evaluating the effects of these proposed interventions on clinical outcomes for PD patients and promoting more patient-centered care for individuals with PD in Iraq.</p>",
+    "authors": [
+      "Mena Khalid Ibrahim",
+      "Samer Imad Mohammed",
+      "Gheyath Abd Ali Shallal Al-Gawwam"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679751"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326791",
+    "journal": "PLoS_ONE",
+    "title": "Influence of capping agents on physicochemical properties and leukemic cytotoxicity of copper oxide nanoparticles biosynthesized using <i>Caesalpinia sappan</i> extract",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326791",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Mathurada Sasarom, Songyot Anuchapreeda, Wim E. Hennink, Siriporn Okonogi</p>\n\nThe aim of this study was to investigate the effects of capping agents on the physicochemical and biological properties, particularly their leukemic cytotoxicity, of copper oxide nanoparticles (CuONPs) using a <i>Caesalpinia sappan</i> extract as a reducing agent. Gelatin, polyethylene glycol 400 (PEG), polysorbate 80 (P80), octyl phenol ethoxylate, sodium lauryl ether sulfate and mannitol were added as capping agents to ensure colloidal stability of the formed CuONPs. As a control, CuONPs were also synthesized using gelatin and sodium borohydride as the capping and reducing agent, respectively. The physicochemical properties of the obtained CuONPs were determined using dynamic light scattering, zeta-potential measurements, energy dispersive X-ray spectroscopy, and Fourier-transform infrared spectroscopy. Their cytotoxic effects were investigated using normal human peripheral blood mononuclear cells (PBMC) and three strains of leukemic cell lines (KG1a, K562, and Molt4). The obtained CuONPs had a size range from 175–280 nm, with a reasonable size distribution between 0.2 and 0.4 and a negative zeta potential (range −30 to −35 mV) except the particles prepared using gelatin as a stabilizer which had a zeta potential of −3 mV. The CuONPs were incubated with both healthy PBMC and three types of leukemic cells to determine their IC<sub>50</sub> values. The IC<sub>50</sub> values of PEG-CuONPs and P80-CuONPs against healthy PBMC were 72.5 ± 5.8 and 85.0 ± 3.1 µg/mL, respectively, while that against the three strains of leukemic cells were in the range of 26–29 and 28–41 µg/mL, respectively. The results clearly demonstrate that the biosynthesized CuONPs using PEG and P80 as a capping agent exhibited the highest selectivity index defined as IC<sub>50</sub> of the particles for PBMC/IC<sub>50</sub> for leukemic cells. Therefore, these CuONPs are promising candidates for preclinical <i>in vivo</i> for leukemic treatments.",
+    "authors": [
+      "Mathurada Sasarom",
+      "Songyot Anuchapreeda",
+      "Wim E. Hennink",
+      "Siriporn Okonogi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679762"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326784",
+    "journal": "PLoS_ONE",
+    "title": "Approaches and results of intersectoral actions for tuberculosis control in the world: A scoping review",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326784",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Rosiane Davina da Silva, Erica Rayane Galvão de Farias, José Mateus Bezerra da Graça, Eslia Maria Nunes Pinheiro, Elisângela Franco de Oliveira Cavalcante</p>\nBackground <p>Tuberculosis is a neglected disease with a wide global scope that overcomes public health challenges, also constituting an obstacle to social development. In the effort to control the disease, Tuberculosis Control Programs around the world have aligned their actions with the World Health Organization End TB Strategy, which emphasizes intersectorality as a fundamental component for effective disease control.</p> Objective <p>To map the approaches and results of intersectoral tuberculosis control actions at the global scenario.</p> Methodology <p>This scoping review followed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines and the Joanna Briggs Institute manual, ensuring methodological rigor and transparency. The review protocol was registered in the Open Science Framework. Searches were carried out in indexed databases and in the gray literature. Data collection took place by two independent reviewers, with results stored and organized in spreadsheets.</p> Results <p>Three hundred and ninety-six (396) studies were identified, of which 60 were analyzed in full, resulting in the inclusion of 11 studies for the final review. It was evidenced that intersectoral articulation is fundamental in tuberculosis control, involving sectors such as health, education, social assistance and justice, to ensure adequate health care and social support, particularly for vulnerable populations. Community education and awareness played a central role in treatment adherence and reducing stigma, while resource mobilization was needed to maintain health services, especially in contexts of scarcity.</p> Conclusion <p>The integration of intersectoral services, involvement of non-governmental organizations and active community participation are essential elements for effective tuberculosis control. The findings reinforce the importance of addressing the social determinants of health to achieve the objectives of the End TB strategy, promoting an environment conducive to the prevention, early detection and effective treatment of the disease.</p>",
+    "authors": [
+      "Rosiane Davina da Silva",
+      "Erica Rayane Galvão de Farias",
+      "José Mateus Bezerra da Graça",
+      "Eslia Maria Nunes Pinheiro",
+      "Elisângela Franco de Oliveira Cavalcante"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679766"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326751",
+    "journal": "PLoS_ONE",
+    "title": "Screening for developmental delay at 18 months using the Infant Toddler Checklist: A validation study",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326751",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Cornelia M. Borkhoff, Haris Imsirovic, Imaan Bayoumi, Colin Macarthur, Kimberly M. Nurse, Teresa To, Mark E. Feldman, Eddy Lau, Braden Knight, Catherine S. Birken, Jonathon L. Maguire, Patricia C. Parkin</p>\nObjective <p>The Infant Toddler Checklist (ITC) may be promising as a single tool at the 18-month visit to detect a range of developmental concerns. We examined the predictive validity of the ITC; and the association between positive ITC screening and health care utilization (HCU).</p> Methods <p>Prospective cohort study of children at average-risk for developmental delay attending their 18-month visit in primary care in Toronto, Canada. Parents completed the ITC. HCU from the single-payer provincial health system was collected from health administrative databases ensuring complete follow-up. Physician billing code for a neurodevelopmental consultation was the primary outcome and criterion measure. Six other HCU types were assessed.</p> Results <p>Of 1460 children with a mean age at screening of 18 months, 11% screened ITC positive. Mean age at follow-up was 8 years, 2.6% had a neurodevelopmental consultation. Screening test properties (with neurodevelopmental consultation as the criterion measure): 40% sensitivity (95% CI 24%, 57%), 90% specificity (95% CI 88%, 91%), 10% false positive rate (95% CI 9%, 12%). Using multivariable negative binomial regression, a positive ITC was associated with higher rates of 6 of 7 HCU types, including neurodevelopmental consultation (aRR 2.78, 95% CI 1.37, 5.67, p = 0.005).</p> Conclusion <p>The ITC had high specificity and a low false positive rate, suggesting that most children with a negative ITC will not have a later neurodevelopmental consultation, and use of the tool may minimize unintended harms such as anxiety and resource use. The low sensitivity highlights the importance of ongoing developmental surveillance. Low sensitivity of other screening tools is discussed.</p>",
+    "authors": [
+      "Cornelia M. Borkhoff",
+      "Haris Imsirovic",
+      "Imaan Bayoumi",
+      "Colin Macarthur",
+      "Kimberly M. Nurse",
+      "Teresa To",
+      "Mark E. Feldman",
+      "Eddy Lau",
+      "Braden Knight",
+      "Catherine S. Birken",
+      "Jonathon L. Maguire",
+      "Patricia C. Parkin"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679776"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326733",
+    "journal": "PLoS_ONE",
+    "title": "Who marries whom and intentions for second child: Using family decision-making power as mediator",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326733",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Yuan Dang, Xin Liu</p>\n\nInterest in exploring fertility intentions, decisions, or the actual number of children through the perspective of assortative mating has been increasing; however, the mechanisms linking these variables remain unclear. Existing studies have shown that gaps in socio-economic resources between spouses shape intra-household decision-making patterns. Individuals who have the final-say power over homemaking exhibit more bargaining power in family fertility decisions. Based on the 2014 China Family Panel Studies, this research used latent class analysis to obtain the intra-household decision-making variable. A generalized structural equation model was built to examine this potential mediator. The findings reveal that family decision-making power helps to elucidate the relationship between the patterns of assortative mating and fertility intentions. Differences in couples’ educational attainment are a key aspect in assessing “who” is in charge of the household. The desire for a second child was greater if husbands had the final say. Participants in marriages where wives held decision-making power reported a lower willingness to have a second child. The mediation effects of “husband-dominated” or “wife-dominated” decision-making were confirmed in hypergamous marriage. Indirect-only mediating effects were found in mid-educated homogamous partnerships and hypogamous marriages. Suppression effects were present in educational homogamy among highly educated individuals.",
+    "authors": [
+      "Yuan Dang",
+      "Xin Liu"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679787"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326703",
+    "journal": "PLoS_ONE",
+    "title": "The cytological analysis of crossing over in armadillos supports the existence of a phylogenetic component of recombination rates in mammals",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326703",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Luis Francisco Rossi, María Inés Pigozzi</p>\n\nIn mammals rates of recombination are well predicted by the phylogenetic relationship between species, with lower recombination rates in more basal clades. In this regard, there is currently insufficient evidence for Xenarthra, one of the earliest branches of eutherian mammals. Here we estimated the average recombination rates in four species of armadillos (Cingulata, Xenarthra) using immunodetection of the protein MLH1, a reporter of reciprocal recombination, in pachytene. The recombination rates of the examined species are strikingly similar; despite the fact that they split more than 40 million years ago, suggesting that this may be a conserved trait in other Xenarthra. We provide evidence that armadillos have lower recombination rates than the average for eutherian mammals, and that they approach those of rodents more closely than those of early mammalian clades like Afrotheria.",
+    "authors": [
+      "Luis Francisco Rossi",
+      "María Inés Pigozzi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679792"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326691",
+    "journal": "PLoS_ONE",
+    "title": "SHR-A1811, a novel anti-HER2 antibody–drug conjugate with optimal drug-to-antibody ratio, efficient tumor killing potency, and favorable safety profiles",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326691",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Ting Zhang, Jianyan Xu, Junzhao Yin, Yun Gao, Hanwen Zheng, Beibei Fu, Jiakang Sun, Zhibin Xu, Shiwei Tu, Yuchang Mao, Weiyun Wen, Bolei Qu, Lingfeng You, Zhendong Xue, Xing Sun, Dan Cao, Jun Feng, Min Hu, Feng He</p>\n\nHER2-targeting antibody–drug conjugates (ADCs), especially trastuzumab deruxtecan (T-DXd), have revolutionized the treatment landscape of HER2-expressing or mutant cancers. However, undesired adverse events are still inevitable and it is necessary to discover a HER2-directed ADC with better safety profiles. SHR-A1811 is composed of trastuzumab, a cleavable linker and a novel topoisomerase I inhibitor, SHR169265. The results indicated that SHR169265 shows better permeability, strong cytotoxicity and faster systemic clearance than DXd analog (SHR197971). The drug-to-antibody ratio (DAR) of SHR-A1811 was optimized as 6 via balancing efficacy and toxicity. SHR-A1811 showed HER2-dependent growth inhibition against various cell lines and desirable bystander killing capability. SHR-A1811 led to tumor growth inhibition or even regression in a dose-dependent manner, at least comparable as HRA18-C015 (a synthesized T-DXd) and anti-HER2-SHR169265 (DAR 8) in multiple mouse xenograft models with a range of HER2 expression levels. SHR-A1811 exhibited a good pharmacokinetics profile, outstanding stability in plasma across different species and a favorable preclinical safety profile. The highest non-severely toxic dose (HNSTD) in cynomolgus monkeys was 40 mg/kg with thymus as the main target organ. The above results suggested that SHR-A1811 is a potential best-in-class anti-HER2 ADC with a highly permeable payload, optimized DAR, great potency and better safety profiles. Currently SHR-A1811 has entered phase II and phase III clinical studies for breast cancer, gastric cancer, colorectal cancer, and NSCLC.",
+    "authors": [
+      "Ting Zhang",
+      "Jianyan Xu",
+      "Junzhao Yin",
+      "Yun Gao",
+      "Hanwen Zheng",
+      "Beibei Fu",
+      "Jiakang Sun",
+      "Zhibin Xu",
+      "Shiwei Tu",
+      "Yuchang Mao",
+      "Weiyun Wen",
+      "Bolei Qu",
+      "Lingfeng You",
+      "Zhendong Xue",
+      "Xing Sun",
+      "Dan Cao",
+      "Jun Feng",
+      "Min Hu",
+      "Feng He"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679798"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326686",
+    "journal": "PLoS_ONE",
+    "title": "Alpha-1 Antitrypsin Deficiency-Associated panniculitis: A survey of lived experience",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326686",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Jaiden Townsend, Reem Alluhibi, Nicky Lynch, Richard Woolf, Aileen Marshall, David A. Lomas, John R. Hurst</p>\nIntroduction <p>Alpha-1 Antitrypsin Deficiency (AATD)-associated panniculitis is a rare inflammatory condition characterized by painful subcutaneous plaques or nodules, often accompanied by ulceration or oily discharge. Despite its clinical and emotional burden, limited data exist on the lived experiences of individuals with this condition.</p> Method <p>An international online survey was conducted between April and July 2024, targeting individuals with AATD-associated panniculitis. The survey, co-designed with an affected individual and multi-disciplinary specialists, included 32 questions on demographics, diagnostic journey, life impact, and treatments. Responses were analysed using descriptive statistics and thematic analysis.</p> Results <p>41 responses were included in the analysis (68% female; mean age 52.3 years). Participants reported lesions at diverse sites, affecting the lower and upper limbs, followed by the trunk, buttocks, and genitalia. 41.5% experienced both ulceration and oily discharge. 61% of participants reported being misdiagnosed which negatively affected their mental health. More than half of respondents ‘strongly agreed’ or ‘agreed’ that living with alpha-1 panniculitis had made them anxious. Access to specialist care was a major concern, with 69% finding it difficult to obtain specialist advice. Treatments varied, and augmentation therapy was identified as the subjectively the most effective. Open-ended responses revealed gaps in healthcare professionals’ awareness and highlighted the need for better mental health support and specialist access.</p> Conclusion <p>AATD-associated panniculitis significantly impacts physical, emotional, and social well-being. Addressing gaps in diagnosis and treatment, increasing healthcare providers awareness, and adopting multidisciplinary approaches are essential to improve individuals’ outcomes and quality of life.</p>",
+    "authors": [
+      "Jaiden Townsend",
+      "Reem Alluhibi",
+      "Nicky Lynch",
+      "Richard Woolf",
+      "Aileen Marshall",
+      "David A. Lomas",
+      "John R. Hurst"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679802"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326679",
+    "journal": "PLoS_ONE",
+    "title": "Using computer-generated protein models to analyze mutations linked to Amelogenesis Imperfecta",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326679",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Nazlee Sharmin, Jerald Yuan, Ava K. Chow</p>\n\nAmelogenesis Imperfecta (AI) is a disorder of tooth development caused by mutations in genes involved in several stages of tooth enamel formation. Few proteins involved in tooth development or developmental anomalies are explored in detail. Knowledge of 3D protein structure is essential to studying protein function. However, crystallized complete protein structures related to teeth and oral development are rare in the Protein Data Bank. Computational approaches for automated protein structure prediction have become a popular alternative for generating protein 3D structures. In this study, we aimed to explore the potential of using computer-generated protein models to analyze mutations linked to AI. We took a systematic approach to identify, screen, and analyze AI-linked protein variants. Proteins with AI-linked mutations were identified from the NCBI and OMIM databases, followed by screening of sequences for intrinsically disordered regions (IDRs). The iterative threading assembly refinement (I-TASSER) server was used to generate homology models for the wildtype and mutant proteins. PyMOL was used to analyze and compare the 3D structures of the proteins. Nineteen human genes with AI-associated mutations were identified from NCBI and OMIM. We identified multiple AI-associated protein variants with structural differences compared to their wildtype form. The current evidence aligns with several of the structural alterations identified in our study. Our findings suggest the potential of utilizing computer-generated protein models to investigate disease-associated mutations. However, careful consideration of models, templates, and alignments over the regions of interest is necessary to predict any potential structural impact of a disease-causing protein variant.",
+    "authors": [
+      "Nazlee Sharmin",
+      "Jerald Yuan",
+      "Ava K. Chow"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679810"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326676",
+    "journal": "PLoS_ONE",
+    "title": "Effects of <i>Conocarpus lancifolius</i> and crocin on superoxide dismutase and protein kinase B genes and protein expressions in diabetic rats",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326676",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Mohamed Lotfy, Abdallah Khalaf, Faisal AlBarghouthy, Abdulla Alhashmi, Hesham Adam, Abdulla Almesmari, Biduth Kundu, Taoufik Ksiksi</p>\nBackground <p>Diabetes mellitus, characterized by chronic hyperglycemia, is a global health challenge. Effective management strategies often focus on improving insulin sensitivity and enhancing antioxidant defenses to mitigate diabetes-related complications. This study explored the therapeutic potential of <i>Conocarpus lancifolius</i> (Co) and crocin in modulating insulin signaling and antioxidant gene expression in diabetic rats.</p> Methods <p>Male Wistar rats were rendered diabetic via alloxan injection and treated orally with <i>C. lancifolius</i> and crocin. Control groups included normal healthy control and untreated diabetic rats. Insulin signaling pathways were assessed by measuring key markers such as protein kinase B (AKT) through western blot and RT-PCR analysis. Antioxidant gene expressions, including superoxide dismutase (SOD), were quantified to evaluate oxidative stress response.</p> Results <p><i>C. lancifolius</i> and crocin treatment significantly improved fasting blood-glucose levels and insulin sensitivity in diabetic rats. Notably, <i>C. lancifolius</i> and crocin administration resulted in the upregulation of AKT, promoting glucose uptake in peripheral tissues. Additionally, <i>C. lancifolius</i> and crocin increased the expression of the SOD gene, improving antioxidant defense in diabetic rats.</p> Discussion <p><i>C. lancifolius</i> and crocin had a dual beneficial effect on diabetic rats by modulating key components of the insulin signaling pathway and bolstering antioxidant defenses. The upregulation of AKT as a key gene in insulin signaling pathways suggests an improvement in insulin sensitivity, which is crucial for glycemic control. Concurrently, the elevated antioxidant SOD gene expression indicates reduced oxidative stress, which is vital for preventing diabetic complications.</p> Conclusion <p>Our findings demonstrate that <i>C. lancifolius</i> and crocin significantly improved glucose tolerance, reduced fasting blood glucose levels, and enhanced antioxidant defense in diabetic rats. Histopathological improvements in the pancreas, liver, kidney, and heart further highlight their protective effects against diabetes-induced tissue damage. Additionally, the upregulation of SOD and AKT at both gene and protein levels suggests a role in modulating oxidative stress and insulin signaling pathways. While promising, further studies are needed to clarify their molecular mechanisms, particularly regarding insulin receptor interaction. These findings support the use of <i>C. lancifolius</i> and crocin as natural adjunct therapies to enhance diabetes treatment outcomes.</p>",
+    "authors": [
+      "Mohamed Lotfy",
+      "Abdallah Khalaf",
+      "Faisal AlBarghouthy",
+      "Abdulla Alhashmi",
+      "Hesham Adam",
+      "Abdulla Almesmari",
+      "Biduth Kundu",
+      "Taoufik Ksiksi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679814"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326671",
+    "journal": "PLoS_ONE",
+    "title": "Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326671",
+    "published": "2025-06-26T14:00:00Z",
+    "summary": "<p>by Ziyin Mai, Patrick C.M. Wong, Stephen Matthews, Virginia Yip, Hanbo Liao, Jiaqi Nie, Yue Chen</p>\n\nLinguistic properties of bilingual input and their relations with acquisition outcomes are being intensively studied in current research on early bilingual development. Motivated by emerging interests in grandparental input and the unique language profile of Zhuang-Mandarin bilinguals in rural China, this article reports an exploratory study investigating bilingual input-outcome relations in two groups of age-matched kindergarteners who were primarily cared for by Zhuang-speaking grandmothers (GRA group, n = 4) and by Zhuang-Mandarin bilingual mothers (MOT group, n = 5) respectively. Through (grand)parental questionnaires, caregiver-child interaction recordings and direct assessments of the children, we collected two waves of data around the beginning and the end of Mandarin-medium kindergarten, focusing on the input and the outcomes respectively (Time 1/Time 2 design). Our findings show that at both times, the grandparents spoke considerably larger proportions of Zhuang to the children than the mothers, who had completely shifted to Mandarin by Time 2. Both groups of children were dominant in Mandarin at Time 2, demonstrating quantitatively and qualitatively similar production performance, but only the GRA children were able to produce words and narratives in Zhuang. It is argued that early sequential bilingualism actively promoting and supporting grandparental input in Zhuang in addition to school input in Mandarin is beneficial to the preservation of Zhuang as a minority language and mastery of the national majority language. Implications for language intervention and planning concerning minority languages in rural China are discussed.",
+    "authors": [
+      "Ziyin Mai",
+      "Patrick C.M. Wong",
+      "Stephen Matthews",
+      "Virginia Yip",
+      "Hanbo Liao",
+      "Jiaqi Nie",
+      "Yue Chen"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679820"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-61207-0",
+    "journal": "Nature_SystemsBiology",
+    "title": "Author Correction: Modular RNA motifs for orthogonal phase separated compartments",
+    "link": "https://www.nature.com/articles/s41467-025-61207-0",
+    "published": "2025-06-26T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Jaimie Marie Stewart et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679824"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-60742-0",
+    "journal": "Nature_SystemsBiology",
+    "title": "Uncovering minimal pathways in melanoma initiation",
+    "link": "https://www.nature.com/articles/s41467-025-60742-0",
+    "published": "2025-06-26T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Hui Xiao et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679829"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119358",
+    "journal": "MIT_TechReview",
+    "title": "It’s officially summer, and the grid is stressed",
+    "link": "https://www.technologyreview.com/2025/06/26/1119358/summer-grid-ai-air-conditioning/",
+    "published": "Thu, 26 Jun 2025 10:00:00 +0000",
+    "summary": "It’s crunch time for the grid this week. As I’m writing this newsletter, it’s 100 °F (nearly 38 °C) here in New Jersey, and I’m huddled in the smallest room in my apartment with the shades drawn and a single window air conditioner working overtime.&#160;&#160; Large swaths of the US have seen brutal heat this&#8230;",
+    "authors": [
+      "Casey Crownhart"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679838"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/26/13467/",
+    "journal": "Nikkei_BioTech",
+    "title": "「創薬力向上のための官民協議会」が初会合、2026年度薬価改定に向け論点整理をWGで",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/26/13467/",
+    "published": "",
+    "summary": "政府は2025年6月26日、「創薬力向上のための官民協議会」の初会合を開催した。石破茂内閣総理大臣をはじめとした関係閣僚と、製薬業界団体、外資も含めた製薬企業、ベンチャーキャピタル（VC）、患者団体、アカデミアなどから30人が集まり、日本の創薬力向上に向けた取り組みについて意見が交わされた。今後、協議会の下にワーキンググループ（WG）を設置し、まず2026年度薬価改定をにらんだ議論を進める。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679843"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13451/",
+    "journal": "Nikkei_BioTech",
+    "title": "Genentech社、早期パーキンソン病に抗α-シヌクレイン抗体の第3相を開始へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13451/",
+    "published": "",
+    "summary": "米Genentech（ジェネンテック）社は 2025年6月15日、早期パーキンソン病患者を対象とする抗αシヌクレイン抗体（一般名：prasinezumab）の開発を第3相試験段階に進めることを決定したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679847"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/26/13464/",
+    "journal": "Nikkei_BioTech",
+    "title": "J-TEC新社長に山田一登氏が就任、「再生医療の安定供給で信頼性保つ」",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/26/13464/",
+    "published": "",
+    "summary": "ジャパン・ティッシュエンジニアリング（J-TEC）は2025年6月26日、新社長就任会見と経営方針説明会を開いた。2025年6月19日付で代表取締役社長執行役員に就任した山田一登（かずと）氏から、経営に関する所信表明や経営方針の説明があった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679854"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13450/",
+    "journal": "Nikkei_BioTech",
+    "title": "AstraZeneca社、広範な慢性疾患を対象に経口薬の開発目指して中国CSPC社と戦略的提携",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13450/",
+    "published": "",
+    "summary": "英AstraZeneca（アストラゼネカ）社は2025年6月13日、人工知能（AI）を活用した創薬研究に注力する中国CSPC Pharmaceutical Group（CSPCファーマシューティカルズグループ）社と戦略的に提携し、複数の慢性疾患に関係する、優先度の高い標的を対象とする新規経口薬候補の発見と開発に共同で取り組むと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679858"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/112800083/061900048/",
+    "journal": "Nikkei_BioTech",
+    "title": "Endpoints News、FDA長官のMakary氏、今後5年以内に万能インフルエンザワクチンの登場を予測",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/112800083/061900048/",
+    "published": "",
+    "summary": "米食品医薬品局（FDA）と欧州医薬品庁（EMA）の長官は、今後数年間の医薬品イノベーションについて、多くの革新的な進歩が達成されると期待している。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679863"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/24/13456/",
+    "journal": "Nikkei_BioTech",
+    "title": "BMS社日本法人の研究開発トップ、標的蛋白質分解誘導薬でのリーダーとしての自信を強調",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/24/13456/",
+    "published": "",
+    "summary": "米Bristol Myers Squibb（ブリストル マイヤーズ スクイブ、BMS）社は、主力品である抗凝固薬「エリキュース」（アピキサバン）と免疫チェックポイント阻害薬の「オプジーボ」（ニボルマブ）が特許切れを控えているが、日本では2032年の売上高を2023年比で2倍にする目標を掲げている。けん引役となる新製品にはどのようなものがあるのか。BMS社日本法人のブリストル・マイヤーズ スクイブで研究開発本部長を務めるAngela Davies（アンジェラ・デイビス）氏にインタビューした。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-26T22:07:43.679869"
   }
 ]
