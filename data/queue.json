@@ -1,345 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-01454-9",
-    "journal": "Nature",
-    "title": "Computer-vision research is hiding its role in creating ‘Big Brother’ technologies",
-    "link": "https://www.nature.com/articles/d41586-025-01454-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01454-9\">doi:10.1038/d41586-025-01454-9</a></p>Technologies that can interpret imagery have many potential applications. An innovative study of papers and patents in the field suggests one use case that overrides the others: human surveillance.",
-    "authors": [
-      "Jathan Sadowski"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385573"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01982-4",
-    "journal": "Nature",
-    "title": "‘Wildest thing’: solar-powered slug steals chloroplasts and stores them for emergencies",
-    "link": "https://www.nature.com/articles/d41586-025-01982-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01982-4\">doi:10.1038/d41586-025-01982-4</a></p>Marine creatures house contraband structures in special organelles, which the animal raids for food in times of need.",
-    "authors": [
-      "Humberto Basilio"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385579"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01839-w",
-    "journal": "Nature",
-    "title": "AI, peer review and the human activity of science",
-    "link": "https://www.nature.com/articles/d41586-025-01839-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01839-w\">doi:10.1038/d41586-025-01839-w</a></p>When researchers cede their scientific judgement to machines, we lose something important.",
-    "authors": [
-      "Carl T. Bergstrom",
-      "Joe Bak-Coleman"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385582"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01926-y",
-    "journal": "Nature",
-    "title": "What incentives do companies need to publish research?",
-    "link": "https://www.nature.com/articles/d41586-025-01926-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01926-y\">doi:10.1038/d41586-025-01926-y</a></p>There are good commercial reasons for firms to share their research in science journals, but the practice seems to be falling out of favour.",
-    "authors": [
-      "Brian Owens"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385586"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01745-1",
-    "journal": "Nature",
-    "title": "Wake up call for AI: computer-vision research increasingly used for surveillance",
-    "link": "https://www.nature.com/articles/d41586-025-01745-1",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01745-1\">doi:10.1038/d41586-025-01745-1</a></p>One analysis suggests that 90% of studies in the field involve data relating to humans.",
-    "authors": [
-      "Elizabeth Gibney"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385590"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01964-6",
-    "journal": "Nature",
-    "title": "Nanoscale heat transport tracked at interface between semiconductor materials",
-    "link": "https://www.nature.com/articles/d41586-025-01964-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01964-6\">doi:10.1038/d41586-025-01964-6</a></p>Phonons are quasiparticles that carry heat, and in electronic chips they can get blocked at interfaces between materials, leading to overheating. An electron-microscopy technique that relies on a phenomenon called inelastic electron scattering has been used to map phonons and temperatures with (sub-)nanometre resolution to characterize heat-transport dynamics across such interfaces.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385595"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01712-w",
-    "journal": "Nature",
-    "title": "Change of venue: fission-yeast cell-division cues actually initiate in the nucleus",
-    "link": "https://www.nature.com/articles/d41586-025-01712-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01712-w\">doi:10.1038/d41586-025-01712-w</a></p>In yeast, the CDK and cyclin proteins that drive cell division activate first in the nucleus — a different location in the cell from where was previously thought.",
-    "authors": [
-      "Julia Kamenz",
-      "James E. Ferrell Jr"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385600"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01967-3",
-    "journal": "Nature",
-    "title": "Missile defence won’t prevent the health crises that rock global security",
-    "link": "https://www.nature.com/articles/d41586-025-01967-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01967-3\">doi:10.1038/d41586-025-01967-3</a></p>As was realized after the Second World War, peace and prosperity stem from partnership and sustained investment in human development.",
-    "authors": [
-      "Nelson Evaborhene"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385607"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02005-y",
-    "journal": "Nature",
-    "title": "Does using ChatGPT change your brain activity? Study sparks debate",
-    "link": "https://www.nature.com/articles/d41586-025-02005-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02005-y\">doi:10.1038/d41586-025-02005-y</a></p>Scientists warn against reading too much into the small experiment getting lots of buzz.",
-    "authors": [
-      "Nicola Jones"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385610"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01974-4",
-    "journal": "Nature",
-    "title": "Family recipe",
-    "link": "https://www.nature.com/articles/d41586-025-01974-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01974-4\">doi:10.1038/d41586-025-01974-4</a></p>Food for thought.",
-    "authors": [
-      "P. K. Hoffmann"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385614"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01927-x",
-    "journal": "Nature",
-    "title": "Here’s why China’s science and innovation model is thriving",
-    "link": "https://www.nature.com/articles/d41586-025-01927-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01927-x\">doi:10.1038/d41586-025-01927-x</a></p>A combination of government planning, academic ambition and bold entrepreneurship are hallmarks of the country’s success.",
-    "authors": [
-      "Jacob   Dreyer"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385619"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01830-5",
-    "journal": "Nature",
-    "title": "The economic effects of federal cuts to US science — in 24 graphs",
-    "link": "https://www.nature.com/articles/d41586-025-01830-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01830-5\">doi:10.1038/d41586-025-01830-5</a></p>Is US science facing a recession? Growing evidence points to a looming downturn.",
-    "authors": [
-      "Christine Ro"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385624"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01998-w",
-    "journal": "Nature",
-    "title": "DeepMind’s new AlphaGenome AI tackles the ‘dark matter’ in our DNA",
-    "link": "https://www.nature.com/articles/d41586-025-01998-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01998-w\">doi:10.1038/d41586-025-01998-w</a></p>Tool aims to solve the mystery of non-coding sequences — but is still in its infancy.",
-    "authors": [
-      "Ewen Callaway"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385628"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02001-2",
-    "journal": "Nature",
-    "title": "Daily briefing: How to make America healthy — the real problems and how to fix them",
-    "link": "https://www.nature.com/articles/d41586-025-02001-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 24 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02001-2\">doi:10.1038/d41586-025-02001-2</a></p>How the United States can move the needle on its low life expectancy. Plus, weight-loss drugs might also help with migraine headaches and a tiny robot that can snatch up drops of liquid.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385632"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zt2gcl9",
-    "journal": "Science",
-    "title": "Federal judge orders agencies to restore grants to University of California scientists",
-    "link": "https://www.science.org/content/article/federal-judge-orders-agencies-restore-grants-university-california-scientists",
-    "published": "",
-    "summary": "Ruling on first class action suit reversing terminations may be expanded to entire government",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385637"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z5g1sb6",
-    "journal": "Science",
-    "title": "In latest blow, National Science Foundation staff to be booted from their headquarters",
-    "link": "https://www.science.org/content/article/latest-blow-national-science-foundation-staff-be-booted-their-headquarters",
-    "published": "",
-    "summary": "Trump administration is giving building to housing department but has not said where science agency will go",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385641"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z8rsh8i",
-    "journal": "Science",
-    "title": "Global warming is triggering earthquakes in the Alps",
-    "link": "https://www.science.org/content/article/global-warming-triggering-earthquakes-alps",
-    "published": "",
-    "summary": "Study provides first solid link between climate change and earthquake hazard",
-    "authors": [
-      "Paul Voosen"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385645"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z6j73rv",
-    "journal": "Science",
-    "title": "A mammoth boomerang returns new clues about early human toolmaking",
-    "link": "https://www.science.org/content/article/mammoth-boomerang-returns-new-clues-about-early-human-toolmaking",
-    "published": "",
-    "summary": "New dates for a throwing weapon found in Poland reveal it as one of the earliest of its kind",
-    "authors": [
-      "Nazeefa Ahmed"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385650"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zkr89eu",
-    "journal": "Science",
-    "title": "Prestigious NSF graduate fellowship tilts toward AI and quantum",
-    "link": "https://www.science.org/content/article/prestigious-nsf-graduate-fellowship-tilts-toward-ai-and-quantum",
-    "published": "",
-    "summary": "Students in the life sciences are shut out of latest cohort of 500 fellows",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385654"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zlsyvyy",
-    "journal": "Science",
-    "title": "National rare disease effort among those upended by Trump’s freeze on Harvard grants",
-    "link": "https://www.science.org/content/article/national-rare-disease-effort-among-those-upended-trump-s-freeze-harvard-grants",
-    "published": "",
-    "summary": "White House battle with Ivy League school disrupts databases and networks relied on by other universities",
-    "authors": [
-      "Sara Reardon"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385659"
-  },
-  {
     "id": "https://www.science.org/doi/10.1126/science.ztx1elm",
     "journal": "Science",
     "title": "Following court order, NIH ceases new terminations of politically sensitive grants",
@@ -7144,5 +6804,124 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-28T22:07:02.437110"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/062500061/",
+    "journal": "Nikkei_BioTech",
+    "title": "キーパーソンインタビュー、米Moderna社チーフ・メディカル・オフィサーに聞く",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/062500061/",
+    "published": "",
+    "summary": "新型コロナウイルス感染症（COVID-19）に対するmRNAワクチンの開発で脚光を浴びた米Moderna社。米保健福祉省（HHS）の長官にワクチン反対派のRobert F. Kennedy Jr.氏が就任した影響はあるのか。来日したModerna社チーフ・メディカル・オフィサー（CMO）のJacqueline Miller氏にインタビューした。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-29T22:07:23.443255"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/062500373/",
+    "journal": "Nikkei_BioTech",
+    "title": "ベンチャー探訪、LYMPHOGENiX、リンパ管新生促進による不妊症治療薬開発を目指し英国で起業",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/062500373/",
+    "published": "",
+    "summary": "英LYMPHOGENiX（リンフォジェニクス）社は、ウシやヒトを対象として、不妊症など線維化に関わる症状を改善する治療薬を開発するスタートアップだ。同社は現在、他家間葉系間質細胞（MSC）の培養上清液をゲル化した不妊症治療薬の開発に注力している。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-29T22:07:23.443268"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13469/",
+    "journal": "Nikkei_BioTech",
+    "title": "J＆J社、GPRC5DxCD3及びBCMAxCD3の二重特異性抗体併用が多発性骨髄腫の第2相で好結果",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13469/",
+    "published": "",
+    "summary": "米Johnson＆Johnson社（ジョンソン・エンド・ジョンソン、J＆J）は2025年6月15日、いずれも多発性骨髄腫を適応として米食品医薬品局（FDA）の承認を得ている、GPRC5D（G蛋白質共役型受容体ファミリーCグループ5メンバーD）とCD3を標的とする二重特異性抗体「TALVEY」（talquetamab-tgvs）と、BCMA（B細胞成熟抗原）とCD3を標的とする二重特異性抗体「TECVAYLI」（teclistamab-cqyv）を併用した、第2相臨床試験（RedirecTT-1試験）の新たなデータが、イタリアMilanで開催された欧州血液学会 （EHA）2025年次総会のLate-Breaking演題として口頭発表されたことを明らかにした。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-29T22:07:23.443275"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/28/13468/",
+    "journal": "Nikkei_BioTech",
+    "title": "ミトコンドリア病の治療薬開発する米Tisento社、sGC活性化薬がFDAからファストトラック指定",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/28/13468/",
+    "published": "",
+    "summary": "ミトコンドリア病の治療薬開発を手掛けている米Tisento Therapeutics（ティセント・セラピューティクス）社は2025年6月17日、可溶性グアニル酸シクラーゼ（sGC）を活性化する1日1回の経口薬（一般名：zagociguat、開発番号：CY-6463）が、MELAS（Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes：ミトコンドリア脳筋症・乳酸アシドーシス・脳卒中様エピソード）の適応で米食品医薬品局（FDA）からファストトラックに指定されたと発表した。同社は現在、第2b相臨床試験（PRIZM試験）の患者登録を進めている。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-29T22:07:23.443281"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250630/",
+    "journal": "Nikkei_BioTech",
+    "title": "2025年6月30日号　目次",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250630/",
+    "published": "",
+    "summary": "",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-29T22:07:23.443286"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/062500401/",
+    "journal": "Nikkei_BioTech",
+    "title": "特集◎国内製薬企業のパイプライン分析2025【企業編】（その1）、国内製薬パイプラインは前年から8件増、減少企業が多い中で第一三共が20件超の増加",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/062500401/",
+    "published": "",
+    "summary": "国内の研究開発志向型の製薬企業のうち、売上収益上位の11社のパイプラインを調べると、総数は455件。11社中7社が前年よりもパイプラインの保有件数を減らしたものの、第一三共のプロジェクトが大幅に増えた結果、前年から8件の増加となった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-29T22:07:23.443295"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/062400179/",
+    "journal": "Nikkei_BioTech",
+    "title": "オンライン閲覧TOP15、2025年6月7日から2025年6月20日まで",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/062400179/",
+    "published": "",
+    "summary": "2025年6月7日から2025年6月20日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-29T22:07:23.443300"
   }
 ]
