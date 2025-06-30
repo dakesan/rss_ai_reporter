@@ -1,357 +1,5 @@
 [
   {
-    "id": "https://www.science.org/doi/10.1126/science.ztx1elm",
-    "journal": "Science",
-    "title": "Following court order, NIH ceases new terminations of politically sensitive grants",
-    "link": "https://www.science.org/content/article/following-court-order-nih-ceases-new-terminations-politically-sensitive-grants",
-    "published": "",
-    "summary": "After a judge told agency to restore hundreds of killed grants, NIH backs off plans to cancel more existing projects",
-    "authors": [
-      "Sara Reardon"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385663"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zoucswb",
-    "journal": "Science",
-    "title": "Tumors may get supercharged by acquiring powerhouses of nerve cells",
-    "link": "https://www.science.org/content/article/tumors-may-get-supercharged-acquiring-powerhouses-nerve-cells",
-    "published": "",
-    "summary": "Scientists spot mitochondria traveling through “bridges” into nearby cancer cells",
-    "authors": [
-      "Mitch Leslie"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385667"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zqlbevq",
-    "journal": "Science",
-    "title": "Space telescope spies smallest alien world to be seen directly",
-    "link": "https://www.science.org/content/article/space-telescope-spies-smallest-alien-world-be-seen-directly",
-    "published": "",
-    "summary": "NASA’s JWST observatory takes picture of young, Saturn-size world that grew by sweeping up debris",
-    "authors": [
-      "Daniel Clery"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385670"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zqs998g",
-    "journal": "Science",
-    "title": "Africa’s embattled giraffe populations growing after years of decline",
-    "link": "https://www.science.org/content/article/africa-s-embattled-giraffe-populations-growing-after-years-decline",
-    "published": "",
-    "summary": "Still, several populations should be considered “endangered,” new report finds",
-    "authors": [
-      "Maina Waruru"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385675"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2417203122?af=R",
-    "journal": "PNAS",
-    "title": "Mapping encounters between Antarctic krill fishing vessels and air-breathing krill predators using acoustic data from the fishery",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2417203122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceAntarctic krill is critical to the Antarctic ecosystem and the target of a growing fishery. To minimize the impact of fishing on the ecosystem, cost-effective monitoring is essential. In this study, we developed a method to detect krill ...",
-    "authors": [
-      "Dominik BahlburgSebastian MenzeBjørn A. KrafftAndy D. LowtherBettina MeyeraPolar Biological Oceanography, Alfred Wegener Institute, Helmholtz Center for Polar and Marine Research, Bremerhaven 27570, GermanybHelmholtz Institute for Functional Marine Biodiversity, Oldenburg 26129, GermanycInstitute of Marine Research, Bergen 5005, NorwaydNorwegian Polar Institute, Tromsø 9296, NorwayeInstitute for Chemistry and Biology of the Marine Environment, Oldenburg 26129, Germany"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2417203122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385732"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2414926122?af=R",
-    "journal": "PNAS",
-    "title": "Estimating the extent and sources of model uncertainty in political science",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2414926122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceIn social sciences, assessing model uncertainty is essential. Yet traditional sensitivity analyses often focus on a few modeling choices, most notably the selection of control variables. This article develops a systematic approach to evaluate ...",
-    "authors": [
-      "Michael GanslmeierTim VlandasaCentre for Computational Social Science, Department of Humanities, Arts and Social Sciences, University of Exeter, Exeter EX4 4PY, United KingdombDepartment of Social Policy and Intervention, University of Oxford, Oxford OX1 2ER, United Kingdom"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2414926122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385802"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2423560122?af=R",
-    "journal": "PNAS",
-    "title": "The brain computes dynamic facial movements for emotion categorization using a third pathway",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2423560122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceWe present evidence for a third “social” brain pathway dedicated to processing dynamic social signals—specifically facial expressions—for behavioral emotion categorization. Using generative technology, we isolated facial movements (action ...",
-    "authors": [
-      "Yuening YanJiayu ZhanOliver G. B. GarrodRobin A. A. InceRachael E. JackPhilippe G. SchynsaSchool of Psychology and Neuroscience, University of Glasgow, Glasgow G12 8QB, United KingdombSchool of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University, Beijing 100871, ChinacState Key Laboratory of General Artificial Intelligence, Peking University, Beijing 100871, ChinadInstitute for Artificial Intelligence, Peking University, Beijing 100871, China"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2423560122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385822"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2503677122?af=R",
-    "journal": "PNAS",
-    "title": "Gut sulfide metabolism modulates behavior and brain bioenergetics",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2503677122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceThe host–microbiome interface is rich in metabolite-based communications that are modulated by diet. Hydrogen sulfide (H2S), which is a respiratory poison at high concentrations, is enriched at this interface and is detoxified by the host ...",
-    "authors": [
-      "Roshan KumarDelawrence J. SykesVictor I. BandMegan L. SchallerRomel PatelVictor VitvitskyPeter SajjakulnukitRashi SinghalHarrison K. A. WongSuchitra K. HouriganFumito IchinoseCostas A. LyssiotisYatrik M. ShahRuma BanerjeeaDepartment of Biological Chemistry, University of Michigan, Ann Arbor, MI 48109bDepartment of Biology, Berry College, Mount Berry, GA 30149cClinical Microbiome Unit, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892dDepartment of Molecular and Integrative Physiology, University of Michigan, Ann Arbor, MI 48109eRogel Cancer Center, University of Michigan, Ann Arbor, MI 48109fDepartment of Anesthesia, Critical Care and Pain Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114gDepartment of Internal Medicine, University of Michigan, Ann Arbor, MI 48109"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2503677122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385827"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2503748122?af=R",
-    "journal": "PNAS",
-    "title": "An ancient origin of the naked grains of maize",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2503748122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceThe domestication of plants not only transformed human societies by giving rise to agriculture, but also often transformed the plants themselves. During maize domestication the tough, stony fruitcase that encloses kernels of the wild relatives ...",
-    "authors": [
-      "Regina A. FairbanksJeffrey Ross-IbarraaDepartment of Evolution and Ecology and Center for Population Biology, University of California, Davis, CA 95616bGenome Center, University of California, Davis, CA 95616"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2503748122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385832"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2501044122?af=R",
-    "journal": "PNAS",
-    "title": "A self-assembling surface layer flattens the cytokinetic furrow to aid cell division in an archaeon",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2501044122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceCells must be protected from physical insults from the environment. Many bacteria and archaea employ an enveloping, protein-based coat for this purpose. Here, we show that the integrity of this coat inSulfolobus acidocaldariusis maintained ...",
-    "authors": [
-      "Sherman FooIdo CaspyAlice CezanneTanmay A. M. BharatBuzz BaumaCell Biology Division, Medical Research Council Laboratory of Molecular Biology, Cambridge CB2 0QH, United KingdombStructural Studies Division, Medical Research Council Laboratory of Molecular Biology, Cambridge CB2 0QH, United Kingdom"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2501044122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385840"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2425015122?af=R",
-    "journal": "PNAS",
-    "title": "Tumor-promoting UBR4 coordinates impaired mitophagy–associated senescence and lung adenocarcinoma pathogenesis",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2425015122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceOur study identifies a role of UBR4 in regulating mitochondrial quality, cellular aging, and tumor growth in lung adenocarcinoma (LUAD). UBR4 enables mitophagy to maintain healthy mitochondria and support stress adaptation. Loss of UBR4 causes ...",
-    "authors": [
-      "Dawon JeongSeo Hyeong ParkJiwon KimHyeyoon KimYejin JangJaemoon KohYoon Kyung JeonTakafumi TasakiYong Tae KwonDohyun HanSung-Yup ChoMin Jae LeeaDepartment of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul 03080, KoreabDepartment of Biomedical Sciences, Seoul National University Graduate School, Seoul 03080, KoreacGenomics Core Facility, Transdisciplinary Research & Collaboration Division, Biomedical Research Institute, Seoul National University Hospital, Seoul 03080, KoreadProteomics Core Facility, Transdisciplinary Research & Collaboration Division, Biomedical Research Institute, Seoul National University Hospital, Seoul 03080, KoreaeBiological Sciences Division, Pacific Northwest National Laboratory, Richland, WA 99354fDepartment of Pathology, Seoul National University College of Medicine, Seoul 03080, KoreagDepartment of Life Sciences, Kanazawa Medical University, Ishikawa 920-0293, JapanhDepartment of Pathology and Laboratory Medicine, University of California, Los Angeles, CA 90095iIschemic/Hypoxic Disease Institute, Convergence Research Center for Dementia, Medical Research Center, Seoul National University, Seoul 03080, Korea"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2425015122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385846"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2425439122?af=R",
-    "journal": "PNAS",
-    "title": "AI assessment changes human behavior",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2425439122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceThe shift from human to AI assessment raises an important question: do people behave differently when being assessed by AI? If so, this might have significant consequences for both people under assessment and the organizations conducting the ...",
-    "authors": [
-      "Jonas GoergenEmanuel de BellisAnne-Kathrin KlesseaInstitute of Behavioral Science and Technology, University of St.Gallen, St.Gallen 9000, SwitzerlandbRotterdam School of Management, Erasmus University Rotterdam, Rotterdam 3062 PA, The Netherlands"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2425439122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385913"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2419627122?af=R",
-    "journal": "PNAS",
-    "title": "Beyond additive genetic effects: Explaining family resemblance in school performance across millions of pairs of Norwegian relatives",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2419627122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceUnderstanding why educational outcomes run in families is important for both policy and research. Here, we report and analyze correlations between millions of pairs of relatives, of a wide range of categories, on psychometrically rigorous ...",
-    "authors": [
-      "Nikolai Haahjem EftedalEspen Moen EilertsenHans Fredrik SundeThomas Haarklau KleppestøEivind YstromNikolai Olavi CzajkowskiaPromenta Research Centre, Department of Psychology, University of Oslo, Oslo 0373, NorwaybCentre for Fertility and Health, Norwegian Institute of Public Health, Oslo 0456, NorwaycDepartment of Psychology, Norwegian University of Science and Technology, Trondheim 7491, NorwaydPsychGen Centre for Genetic Epidemiology and Mental Health, Norwegian Institute of Public Health, Oslo 0456, Norway"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2419627122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385925"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2415288122?af=R",
-    "journal": "PNAS",
-    "title": "Basic interactions responsible for thymus function explain the convoluted medulla shape",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2415288122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceThe thymus organ produces and selects nascent T cells (thymocytes) to establish a competent T cell repertoire, which is a central component of the adaptive immune system. Thymocyte production and (negative) selection occur in two spatially ...",
-    "authors": [
-      "David MuramatsuHenrik WeyerFlorian M. GartnerErwin FreyaDepartment of Physics, Arnold Sommerfeld Center for Theoretical Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, München D-80333, GermanybMax Planck School Matter to Life, Munich D-80539, Germany"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2415288122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385943"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2413214122?af=R",
-    "journal": "PNAS",
-    "title": "A norm about harvest division is maintained by a desire to follow tradition, not by social policing",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2413214122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />SignificanceMany researchers and policymakers believe that people comply with norms to avoid negative social payoffs. However, data from the Derung people in southern China suggest that they adhere to a harvest division norm primarily out of a desire to ...",
-    "authors": [
-      "Minhua YanZhizhong LiYuanmei LiRobert BoydSarah MathewaInstitute for Advanced Study in Toulouse, Toulouse School of Economics, University of Toulouse Capitole, Toulouse 31080, FrancebDepartment of Human Behavior, Ecology and Culture, Max Planck Institute for Evolutionary Anthropology, Leipzig 04103, GermanycDerung norm dynamics project Dizhengdang division, Gongshan, Yunnan 673503, ChinadSchool of Human Evolution and Social Change, Arizona State University, Tempe, AZ 85281eInstitute of Human Origins, Arizona State University, Tempe, AZ 85281"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2413214122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.385958"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2502322122?af=R",
-    "journal": "PNAS",
-    "title": "Why “decoding the elite soccer player’s psychological profile” fails to score",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2502322122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />",
-    "authors": [
-      "Lisa MusculusDuarte AraújoElisa BisagnoHenrik GustafssonAnton KalénMagnus LindwallAlexandra Pérez-FerreirósMarkus RaabA. Mark WilliamsAndreas StenlingaDepartment of Performance Psychology, Institute of Psychology, German Sport University Cologne, Cologne 50933, GermanybInterdisciplinary Centre for the Study of Human Performance (CIPER), Faculty of Human Kinetics, University of Lisbon, Lisbon 1499-002, PortugalcSurgical, Medical and Dental Department of Morphological Sciences related to Transplant, Oncology and Regenerative Medicine, University of Modena and Reggio Emilia, Reggio Emilia 421 21, ItalydThe Department of Sport and Social Sciences, Norwegian School of Sport Sciences, Oslo 0863, NorwayeDepartment of Educational Studies, Faculty of Arts and Social Sciences, Karlstad University, Karlstad SE-651 88, SwedenfDigital Services and Systems, Department of Computer Science, Electrical and Space Engineering, Lulea University, Luleå SE-971 87, SwedengDepartment of Psychology, University of Gothenburg, Gothenburg SE-405 30, SwedenhIndependent ResearcheriDepartment of Health and Kinesiology, College of Health, The University of Utah, Salt Lake City, UT 84112jDepartment of Psychology, Umeå University, Umeå SE-901 87, SwedenkDepartment of Sport Science and Physical Education, University of Agder, Kristiansand 4630, Norway"
-    ],
-    "doi": "https://doi.org/abs/10.1073/pnas.2502322122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.386031"
-  },
-  {
-    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2511617122?af=R",
-    "journal": "PNAS",
-    "title": "Correction for Liu et al., Transparency by Chinese cities reduces pollution violations and improves air quality",
-    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2511617122?af=R",
-    "published": "",
-    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 25, June 2025. <br />",
-    "authors": [],
-    "doi": "https://doi.org/abs/10.1073/pnas.2511617122",
-    "parser_type": "pnas",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.386046"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327248",
-    "journal": "PLoS_ONE",
-    "title": "Understanding the audiological care of patients with co-existing dementia or mild cognitive impairment and hearing loss in the United Kingdom National Health Service: A qualitative study",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327248",
-    "published": "2025-06-25T14:00:00Z",
-    "summary": "<p>by Sian Calvert, Aaron Chitty, Alex Langdon, Emma Broome, Helen Henshaw, Sarah Somerset, Tom Dening, Eithne Heffernan</p>\nBackground <p>Hearing loss is common among people living with dementia and can exacerbate the symptoms associated with dementia. The effective management of hearing loss can positively impact quality of life and help alleviate dementia-related symptoms. Little is known about current audiological pathways in the National Health Service (NHS) for adults living with dementia or mild cognitive impairment.</p> Objectives <p>To understand the current NHS audiological care pathways for adults living with dementia or mild cognitive impairment.</p> Design <p>Qualitative study</p> Results <p>Thirty-three NHS audiologists in the United Kingdom (UK) completed a qualitative survey about current adult audiological care pathways for people living with dementia or mild cognitive impairment, and 14 of those also participated in a follow-up interview. Data from the surveys and interviews were combined and analysed using reflexive thematic analysis. The key findings included the importance of person-centred care, the active involvement of carers, and the need for tailored approaches, including using adapted and additional tests to assess hearing loss while offering a variety of hearing interventions. Audiologists expressed a desire for more service integration, such as domiciliary visits, and emphasised the importance of adapting environments and practices, such as dementia-friendly spaces and routine dementia education for staff, to better support individuals living with these co-existing conditions,</p> Conclusions <p>These findings can help inform the development of formal clinical practice guidelines and evidence-based training to support audiological care for people living with dementia and mild cognitive impairment in the United Kingdom.</p>",
-    "authors": [
-      "Sian Calvert",
-      "Aaron Chitty",
-      "Alex Langdon",
-      "Emma Broome",
-      "Helen Henshaw",
-      "Sarah Somerset",
-      "Tom Dening",
-      "Eithne Heffernan"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.386085"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327175",
-    "journal": "PLoS_ONE",
-    "title": "Inadequate lumbar protection with load weight limits based on body weight percentages: An experimental and simulation study of the weight limits set by the Japanese guidelines for preventing low back pain",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327175",
-    "published": "2025-06-25T14:00:00Z",
-    "summary": "<p>by Fuyuki Oyama, Tanghuizi Du, Kazuyuki Iwakiri</p>\n\nWork-related low back pain is the most prevalent occupational disease in Japan, with 25% of cases resulting from manual handling of heavy loads. The Ministry of Health, Labor and Welfare of Japan has issued guidelines limiting load weights based on the worker’s body weight percentage: 40% of the body weight for males and 24% for females. This study aimed to evaluate the effectiveness of these weight limits in preventing excessive lower back strain and identify potential shortcomings. A total of 20 healthy participants (10 males and 10 females) were included in this study. The motions of the participants while holding loads at specific positions and lifting loads from the floor were recorded using a three-dimensional motion analysis system. The compressive force on the L5-S1 intervertebral disc (IVD-CF) was estimated by simulations using inverse dynamics analysis. The body weights for the musculoskeletal models were set at 50, 70, and 90 kg for males and 40, 55, and 70 kg for females, representing the light, average, and heavy body weights of Japanese workers. The load weights were set at 40% of the body weight for males and 24% for females. Increased body weight led to higher IVD-CF in males, exceeding the safe limit of 3400 N. Additionally, light-weight males experienced excessive strain when holding loads at shin height or lifting from the floor. The IVD-CF for females was lower than that for males because of their lighter body weight and load weight. However, heavy-weight females experienced excessive strain when holding loads at low and distant positions and during lifting. These findings indicate that weight limits based on body weight do not adequately prevent excessive lower back strain, and the nature of the task should be considered to avoid lower back strain.",
-    "authors": [
-      "Fuyuki Oyama",
-      "Tanghuizi Du",
-      "Kazuyuki Iwakiri"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.386106"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327163",
-    "journal": "PLoS_ONE",
-    "title": "fMRI insights into differential brain activation, executive function, and physical activity in older adults",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327163",
-    "published": "2025-06-25T14:00:00Z",
-    "summary": "<p>by Huiqi Song, Jie Feng, Yingying Wang, Qichen Zhou, Chenglin Zhou, Jing Jin</p>\nBackground <p>Executive function is vital for cognitive health, particularly in older adults, where declines can lead to an increased risk of cognitive impairment. Physical activity (PA) has been linked to improvements in executive function, yet the underlying mechanisms remain poorly understood.</p> Methods <p>This cross-sectional study involved 41 Chinese adults (21 young: 23.0 ± 2.12 years; 20 older: 63.30 ± 2.36 years) who were categorized as physically active (≥3000 metabolic equivalent (MET)-min/week) or inactive (<3000 MET-min/week). Participants performed fMRI while completing executive function tasks (Flanker, N-back, Switching). Brain activation patterns were analyzed using Statistical Parametric Mapping (SPM), with significance thresholds set at p < 0.01 (voxel-level) and p < 0.05 (whole-brain corrected).</p> Results <p>Physically active older adults showed significantly better accuracy and faster reaction times on the Flanker task than inactive peers. In young adults, those who were inactive exhibited greater activation in prefrontal regions during executive tasks. No significant differences in brain activation were found in older adults for these tasks. Additionally, activation in the right medial/paracentral cingulate gyrus (BA 6) negatively correlated with working memory reaction times in active young adults (r= −0.804, p < 0.05), whereas cognitive flexibility in active older adults positively correlated with activation in the right dorsolateral frontal gyrus (BA 32; r = 0.589, p < 0.05).</p> Conclusion <p>Active older adults require less brain activation to perform executive function tasks, suggesting enhanced cognitive efficiency. In contrast, young adults showed different patterns of brain activation, indicating potential compensatory mechanisms. These results underscore PA’s role in optimizing age-specific cognitive strategies and underscore the need for longitudinal research to clarify causality.</p>",
-    "authors": [
-      "Huiqi Song",
-      "Jie Feng",
-      "Yingying Wang",
-      "Qichen Zhou",
-      "Chenglin Zhou",
-      "Jing Jin"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-25T22:07:40.386109"
-  },
-  {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327144",
     "journal": "PLoS_ONE",
     "title": "HMGB1-BoxA gene therapy in reversing cisplatin resistance in non-small cell lung cancer",
@@ -1610,721 +1258,392 @@
     "added_at": "2025-06-28T22:07:02.437114"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13445/",
-    "journal": "Nikkei_BioTech",
-    "title": "ファストリ柳井氏寄付の自家iPS細胞製造施設が開所、2028年度に提供先が臨床試験開始へ",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13445/",
+    "id": "https://www.nature.com/articles/d41586-025-02047-2",
+    "journal": "Nature",
+    "title": "Natural nappers: monitoring the sleeping patterns of wild orangutans",
+    "link": "https://www.nature.com/articles/d41586-025-02047-2",
     "published": "",
-    "summary": "臨床グレードの自家iPS細胞を製造する施設の「Yanai my iPS製作所（Y-FiT）」が完成し、2025年6月20日に開所式が開催された。同施設は、アパレルブランドの「ユニクロ」を展開するファーストリテイリングの柳井正代表取締役会長兼社長の寄付金を基に設立された。京都大学iPS細胞研究財団（iPS財団）は同日、記者会見と開設記念シンポジウムを開催した。",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02047-2\">doi:10.1038/d41586-025-02047-2</a></p>How being near to other orangutans affects the duration of sleep.",
     "authors": [
-      "BTO"
+      "Mary Abraham"
     ],
     "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-22T22:07:27.184603"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906684"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13432/",
-    "journal": "Nikkei_BioTech",
-    "title": "米Kiora社、千寿製薬にアジアで網膜疾患にHCＮチャネル遮断薬を開発・販売するオプション権付与",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13432/",
+    "id": "https://www.nature.com/articles/d41586-025-02035-6",
+    "journal": "Nature",
+    "title": "I pioneered my country’s newborn health-screening programme",
+    "link": "https://www.nature.com/articles/d41586-025-02035-6",
     "published": "",
-    "summary": "米Kiora Pharmaceuticals（キオラ・ファーマシューティカルズ）社は2025年6月3日、千寿製薬に対して、過分極活性化環状ヌクレオチド依存性チャネル（HCNチャネル）遮断薬（開発番号：KIO-301）の眼疾患に対する開発・販売権に関する独占的オプション権を付与したと発表した。同契約は、日本と中国を含む主要なアジア市場を対象としている。",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02035-6\">doi:10.1038/d41586-025-02035-6</a></p>Clinical geneticist Carmencita Padilla advocates for expanded access to neonatal screening in the Philippines and around the world.",
     "authors": [
-      "BTO"
+      "James Mitchell Crow"
     ],
     "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-22T22:07:27.184618"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906702"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13438/",
-    "journal": "Nikkei_BioTech",
-    "title": "杏林大学・国立感染研、胃にはピロリ菌と同程度に他の細菌も感染していることを解明",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13438/",
+    "id": "https://www.nature.com/articles/d41586-025-01953-9",
+    "journal": "Nature",
+    "title": "If you’re a US researcher, now is the time to establish a plan B",
+    "link": "https://www.nature.com/articles/d41586-025-01953-9",
     "published": "",
-    "summary": "杏林大学と国立感染症研究所の研究チームは2025年6月20日、胃疾患における細菌感染で、ピロリ菌以外のヘリコバクター属菌への感染がどの程度見られるかなどを調べたと発表した。ピロリ菌はヒトの胃における主要な病原菌として知られているが、ピロリ菌以外のヘリコバクター属菌（Non-Helicobacter pylori Helicobacter species：NHPH）も胃疾患の原因となることが知られていた。ただし、NHPH感染は診断法や治療法が確立されておらず、NHPH感染の頻度や経路などは未解明だった。論文はEmerging Infectious Diseases誌に掲載された。",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01953-9\">doi:10.1038/d41586-025-01953-9</a></p>The scale of funding cuts in the United States means that countless scientists will lose their jobs. It would be naive not to start thinking about alternative career paths.",
     "authors": [
-      "BTO"
+      "Brandon  Brown"
     ],
     "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-22T22:07:27.184625"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906709"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13433/",
-    "journal": "Nikkei_BioTech",
-    "title": "Merck社、PCSK9を阻害する経口のペプチド医薬が2本の第3相試験で好結果示す",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13433/",
+    "id": "https://www.nature.com/articles/d41586-025-02034-7",
+    "journal": "Nature",
+    "title": "’We couldn’t live without it’: the UCSC Genome Browser turns 25",
+    "link": "https://www.nature.com/articles/d41586-025-02034-7",
     "published": "",
-    "summary": "米Merck（メルク）社は2025年6月9日、スタチン系薬剤を含む脂質低下療法を受けている高脂血症の成人患者を登録して、経口PCSK9（前駆蛋白質転換酵素サブチリシン/ケキシン9型）阻害薬であるenlicitide decanoate（開発番号：MK-0616）を投与し、安全性と有効性を評価する一連の二重盲検のランダム化第3相試験（CORALreef試験）のうち、最初の2本の試験で得られたトップラインデータを発表した。",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02034-7\">doi:10.1038/d41586-025-02034-7</a></p>After a quarter of a century, the website remains an essential tool for navigating the genome and understanding its structure, function and clinical impact.",
     "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-22T22:07:27.184630"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326955",
-    "journal": "PLoS_ONE",
-    "title": "Correction: Trends in lifetime risk and years of potential life lost from diabetes in the United States, 1997–2018",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326955",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Alain K. Koyama, Yiling J. Cheng, Ralph Brinks, Hui Xie, Edward W. Gregg, Annika Hoyer, Meda E. Pavkov, Giuseppina Imperatore</p>",
-    "authors": [
-      "Alain K. Koyama",
-      "Yiling J. Cheng",
-      "Ralph Brinks",
-      "Hui Xie",
-      "Edward W. Gregg",
-      "Annika Hoyer",
-      "Meda E. Pavkov",
-      "Giuseppina Imperatore"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889473"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326896",
-    "journal": "PLoS_ONE",
-    "title": "Correction: Exploring the impact of total quality management initiatives on construction industry projects in Pakistan",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326896",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Nimra Afzal, Aamer Hanif, Muhammad Rafique</p>",
-    "authors": [
-      "Nimra Afzal",
-      "Aamer Hanif",
-      "Muhammad Rafique"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889489"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326894",
-    "journal": "PLoS_ONE",
-    "title": "Expression of Concern: Assessment of time management practice and associated factors among primary hospitals employees in north Gondar, northwest Ethiopia",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326894",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by The PLOS One Editors </p>",
-    "authors": [
-      "The PLOS One Editors"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889494"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326888",
-    "journal": "PLoS_ONE",
-    "title": "Expression of Concern: Prevalence of type-2 diabetes and prediabetes in Malaysia: A systematic review and meta-analysis",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326888",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by The PLOS One Editors </p>",
-    "authors": [
-      "The PLOS One Editors"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889499"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326875",
-    "journal": "PLoS_ONE",
-    "title": "Infected connections: Unraveling the impact of a bacterial symbiont on ant-aphid partnership",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326875",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Margaux Jossart, Thierry Hance, Claire Detrain</p>\n\nThe multitrophic plant-aphid-ant system is a model widely studied in ecology and evolutionary biology. Within this system, bacterial symbionts can circulate and may modify the relationships between partners. A common symbiont of aphids, <i>Serratia symbiotica,</i> shows a wide variety of strains with different lifestyles, one of them being associated with the aphid gut and found in the digestive tract of aphid-tending ants. This free-living <i>S. symbiotica</i> strain induces fitness costs on its aphid host which can be offset by a lower selective pressure exerted by parasitoids. In this paper, we investigated whether this aphid gut-associated bacterium may alter the mutualistic relationships between <i>Aphis fabae</i> aphids and <i>Lasius niger</i> ants. Aphids infected with <i>S. symbiotica</i> showed a reduced population growth, this negative effect being attenuated in the presence of aphid-tending ants. This bacterium also reduced the ant interest in honeydew-producing aphids: they were less likely to visit plants bearing <i>S. symbiotica</i>-infected aphids, they ingested fewer honeydew droplets and they took a longer time before deciding to feed on released honeydew. The bacterium thus makes honeydew less palatable for ant foragers, most probably by altering its composition. This suggests that the free-living <i>S. symbiotica</i> strain may promote a gradual abandonment of infected aphids by ants and ultimately jeopardize the ant-aphid mutualistic relationship. We speculate about bacteria-induced consequences of reduced ant protection against aphid natural enemies and increased host plant defense as due to a potential redirection of ant foraging towards extrafloral nectaries as an alternative sugar resource.",
-    "authors": [
-      "Margaux Jossart",
-      "Thierry Hance",
-      "Claire Detrain"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889504"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326848",
-    "journal": "PLoS_ONE",
-    "title": "International experience of a direct supervisor–does it matter for self-initiated expatriates’ adjustment?",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326848",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Irma Baneviciene, Luisa Helena Pinto, Vilmante Kumpikaite-Valiuniene</p>\n\nDue to increasing global mobility flows, self-initiated expatriates (SIEs) in both employee and managerial roles are now commonplace. However, the influence of direct supervisors’ international experience on the adjustment of SIEs remains underexplored. This study, grounded in signaling and similarity-attraction theories, addresses this gap through a qualitative examination of supervisors with international experience and at least one SIE under their supervision. The findings indicate that both foreign-born and locally born supervisors perceive their international experience as valuable in managing their international teams. Foreign-born supervisors, more frequently than their locally born counterparts, interpreted the uncertainty signals from their SIE employees as a reflection of empathy and open-mindedness, attributes shaped by their international backgrounds and cultural insights. Furthermore, the results suggest that all direct supervisors focus their support and actions primarily on facilitating SIEs’ adjustment in the work environment, rather than in the non-work environment. This research offers theoretical and practical insights for international human resource management, highlighting the positive impact of supervisors with international experience on the onboarding and adjustment processes of new SIEs, thereby enhancing the management of international teams.",
-    "authors": [
-      "Irma Baneviciene",
-      "Luisa Helena Pinto",
-      "Vilmante Kumpikaite-Valiuniene"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889511"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326808",
-    "journal": "PLoS_ONE",
-    "title": "Anti-inflammatory, analgesic, antioxidant, and alpha-amylase inhibitory effects of the hydroethanolic leaf extract of <i>Aleuritopteris bicolor</i> (Roxb.) Fraser-Jenk.",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326808",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Prabhat Kumar Jha, Bipindra Pandey, Ram Kishor Yadav, K. C. Sindhu, Sandesh Poudel, Sushil Panta</p>\n\n<i>Aleuritopteris bicolor</i> (Roxb.) Fraser-Jenk. is used in traditional medicine in Nepal to treat a variety of ailments. This study aimed to investigate qualitative phytochemical screening, quantitative phytochemical analysis (total phenolic and flavonoid content estimation), <i>in vitro</i> antioxidant activity, alpha-amylase inhibitory activity of <i>Aleuritopteris bicolor</i> (Roxb.) Fraser-Jenk. leaves from Nepal. Furthermore, this study examined the analgesic (tail flick and hot plate test method) and anti-inflammatory (carrageenan-induced paw edema) activities of <i>Aleuritopteris bicolor</i> leaves in an acute pain and inflammation rat model. The <i>Aleuritopteris bicolor</i> extract exhibited flavonoid (405.95 ± 0.28 mg QE/g) and phenolic content (20.98 ± 0.20 mg GAE/g). <i>Aleuritopteris bicolor</i> showed free radical scavenging activity with IC<sub>50</sub> value in difference antioxidant methods (IC<sub>50</sub>:9.87 µg/mL, DPPH scavenging assay; 249.59 µg/mL, Hydrogen peroxide; 72.98 µg/mL, Nitric oxide assay), and significant Ferric reducing power assay (0.51 ± 0.004). It increased analgesic activity by 38.89% (hot plate test) and 16.84% (tail-flick test) at 250 mg/kg, reduced inflammation by 36.44% at 180 min (500 mg/kg), and inhibited alpha-amylase activity (IC<sub>50</sub>:59.31 µg/mL). <i>Aleuritopteris bicolor</i> exhibits significant analgesic, anti-inflammatory, and hypoglycemic potential, making it a promising candidate for further pharmacological exploration. This study marks the first scientific study of the <i>in vivo</i> analgesic and anti-inflammatory effects from the leaf extract of <i>Aleuritopteris bicolor</i> till date.",
-    "authors": [
-      "Prabhat Kumar Jha",
-      "Bipindra Pandey",
-      "Ram Kishor Yadav",
-      "K. C. Sindhu",
-      "Sandesh Poudel",
-      "Sushil Panta"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889516"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326797",
-    "journal": "PLoS_ONE",
-    "title": "Expression of Concern: Predicting young Chinese consumers’ intentions to purchase Western brands: Structural model analysis",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326797",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by The PLOS One Editors </p>",
-    "authors": [
-      "The PLOS One Editors"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889527"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326683",
-    "journal": "PLoS_ONE",
-    "title": "Retraction: Design of a tomato classifier based on machine vision",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326683",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by The PLOS One Editors  </p>",
-    "authors": [
-      "The PLOS One Editors"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889549"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326680",
-    "journal": "PLoS_ONE",
-    "title": "Effects of pressure garments of varying designs on upper extremity sensorimotor functions and quality of life after stroke: Study protocol for a multicenter, double-blind, prospective randomized controlled trial",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326680",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Zhenkun Xu, Siaw Chui Chai, Shin Ying Chu, Kuicheng Li</p>\nRationale <p>Stroke often results in extensive neurological damage, leading to a wide range of rehabilitation needs and challenges, with upper extremity dysfunction being particularly prevalent. Although pressure garments have been used in the rehabilitation of children with cerebral palsy to reduce muscle tone, their therapeutic effects have not been thoroughly investigated in the field of stroke.</p> Aims <p>To determine the effects of pressure garments with varying designs on stroke patients’ sensorimotor function and quality of life.</p> Sample size estimate <p>A total of 165 participants is required (55/group) with an effect size of 0.125, power of 0.80, alpha level of 0.05, and adjusted for a dropout rate of 20%.</p> Methods and design <p>This is a multicenter, double-blind, prospective randomized controlled, three-group trial. At three hospitals in Shandong, China, 165 patients within 1−12 months of stroke are randomly assigned (1:1:1) to receive Dorsal-Double-layered 10% circumferential reduction (DD-10, intervention), Single-layered 10% circumferential reduction (S-10, intervention), or Single-layered 0% circumferential reduction (S-0, placebo) pressure garments. Pressure garments are worn for 3 hours in the morning, 3 hours in the afternoon, and 8 hours at night daily for 8 weeks. During the first 4 weeks, patients also receive 30-min occupational therapy sessions.</p> Study outcomes <p>The primary outcome is the Fugl-Meyer Assessment of Upper Extremity to assess motor control. Secondary outcomes are the Box and Block Test (BBT) for assessing dexterity, Modified Ashworth Scale (MAS) for assessing muscle tone, Visual Analogue Scale for assessing pain, Disabilities of Arm, Shoulder, and Hand (DASH) for assessing self-perceived upper extremity function, and 36 Item Short Health Survey (SF-36) for assessing quality of life. Measurements are taken at Time 1(Baseline), Time 2 (Week 4), and Time 3 (Week 8).</p> Discussion <p>The expected outcome of this study is that it can determine the design of pressure garments best suited to improve sensorimotor function and the quality of life of stroke patients. It can also extend the clinical value of pressure garments and help healthcare professionals make more targeted treatment choices for stroke patients.</p> Trial registration <p>ClinicalTrials.gov Identifier: NCT06587308.</p>",
-    "authors": [
-      "Zhenkun Xu",
-      "Siaw Chui Chai",
-      "Shin Ying Chu",
-      "Kuicheng Li"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889555"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326674",
-    "journal": "PLoS_ONE",
-    "title": "Validity of pulse oximetry measures for heart rate and oxygen saturation during profound hypoxia in normobaric simulated extreme altitudes",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326674",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Harald Vikne, Jon Arild Kjeserud, Willy Westgaard, Ruben Baalsrud Westlie, Jan Ivar Kåsin, Jon Ingulf Medbø, Terje Gjøvaag, Nils Henrik Holmedahl</p>\nIntroduction <p>Commercial pulse oximeters may not be well calibrated for oxygen saturations below 70%, conditions that may be met in high altitude aviation and mountaineering. We therefore examined the bias and variability of heart rate (HR) and blood oxygen saturation (SpO<sub>2</sub>) of four different pulse oximeters (PO) at arterial blood oxygen saturation (SaO<sub>2</sub>) between 55 and 100%.</p> Methods <p>Seventeen healthy participants (age 33 ± 11 (mean ± standard deviation (SD)) yr) were exposed to controlled desaturation at rest by stepwise reduction of the oxygen fraction in the breathing air between 20.9 and 8%. Parallel measurements of HR (<i>n</i> = 383) and blood oxygen saturation (<i>n</i> = 304) from four pulse oximeters (RAD-97, PM100N, M7500 and Nell1-SR) and from reference instruments (by hemoximetry and electrocardiography (ECG)) were taken during the exposure. The validity was assessed in intervals of 55–70%, 70–85% and 85–100% SaO<sub>2</sub> using the Bland-Altman method (bias and 95% limits of agreement (LoA)) and the root mean square error for variability. The demarcation criteria for agreement between methods were ±6 percentage points O<sub>2</sub>Hb saturation and ±6 bpm HR.</p> Results <p>At the 85–100% SaO<sub>2</sub> interval, all POs but the Nell1-SR were in agreement with the reference for O<sub>2</sub> saturation. Only M7500 agreed with the reference for the 70–85% interval and none of the POs were in agreement with the reference for the 55–70% interval. The pulse oximeters and ECG were not in agreement for HR at neither the 55–70% nor the 85–100% interval but agreed at the 70–85% interval except the RAD-97. All pulse oximeters increased the bias or the variability for SpO<sub>2</sub> significantly by reductions in oxygen saturation, while no systematic differences were found for HR.</p> Conclusion <p>The study shows that medically approved pulse oximeters are not in agreement with reference measurements of neither blood oxygen saturation nor HR at SaO<sub>2</sub> levels below 70%, and their readings should therefore be interpreted cautiously during severe desaturation.</p>",
-    "authors": [
-      "Harald Vikne",
-      "Jon Arild Kjeserud",
-      "Willy Westgaard",
-      "Ruben Baalsrud Westlie",
-      "Jan Ivar Kåsin",
-      "Jon Ingulf Medbø",
-      "Terje Gjøvaag",
-      "Nils Henrik Holmedahl"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889559"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326656",
-    "journal": "PLoS_ONE",
-    "title": "The Dominant factors and optimization plan of soccer substitutions in Chinese Football Association Super League under the Five-substitution rule",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326656",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Tong Chen, Liang Chen, Rong Li, KeHao Lv</p>\n\nSubstitution strategy is a fundamental component of tactical adjustments in soccer matches. Since the official introduction of the five-substitution rule in 2020, substitute players have faced increased performance demands. This study examines 2,125 substitution events (excluding goalkeepers) from the 2023 Chinese Football Association Super League (CSL) season, utilizing non-parametric tests (Kruskal-Wallis and Mann-Whitney) to compare soccer player performance differences under different substitution effectiveness conditions. A random forest model is also developed to assess the influence of contextual and player performance variables on substitution effectiveness, aiming to identify optimal decision-making pathways. Results show that, regardless of effectiveness, substitute players display significantly greater high-intensity running distances and passing accuracy than those they replaced. Effective substitutes also demonstrate superior ball recovery. Ineffective substitutions tend to occur earlier in the match, whereas effective and neutral substitutions are more concentrated in later phases. Effective substitutes perform better in medium-to-high-intensity running, passing accuracy, and shooting. Contextual variables contribute more to predicting substitution effectiveness, and the decision pathways suggest prioritizing players with high passing accuracy when leading, while targeted adjustments are needed when trailing.",
-    "authors": [
-      "Tong Chen",
-      "Liang Chen",
-      "Rong Li",
-      "KeHao Lv"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889564"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326580",
-    "journal": "PLoS_ONE",
-    "title": "Type 1 diabetes mellitus patients had lower total vitamin K levels and increased sensitivity to direct anticoagulants",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326580",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Alejandro Carazo, Markéta Paclíková, Jaka Fadraersada, Raúl Alva-Gallegos, Pavel Skořepa, Catherine Gunaseelan, Kateřina Matoušová, Kristýna Mrštná, Lenka Kujovská Krčmová, Alena Šmahelová, Vladimír Blaha, Přemysl Mladěnka</p>\n\nThe abnormalities in blood coagulation in patients with diabetes can lead to a prothrombotic state and requirement for the administration of direct anticoagulants. However, no comparative studies have been conducted on the effects of different direct anticoagulants. A head-to-head investigation of the impact of anticoagulants in 50 patients of type 1 diabetes mellitus (DMT1) was performed, and the data were compared to 50 generally healthy individuals. Prothrombin time (PT) and activated partial thromboplastin time (aPTT) were measured in plasma treated with vehicle, heparin, or four direct anticoagulants at 1 μM. In addition to common biochemical parameters, novel inflammatory markers (neopterin, kynurenine/tryptophan ratio) and major vitamin K forms were measured. Heparin and dabigatran treatments resulted in prolonged coagulation in DMT1 patients compared to healthy individuals in both tests (both p < 0.001). The same phenomenon was observed for rivaroxaban and apixaban-treated samples in PT (p < 0.001). Interestingly, healthy volunteers had higher total vitamin K levels than DMT1. Further analysis suggested that observed coagulation differences were not caused by differences in glycemia but were rather associated with an unexpected, better lipid profile of our DMT1 group. There were also correlations between prolongation of coagulation brought about by the most active anticoagulants and inflammatory markers, and hence inflammatory state probably also contributed to the differences, as well as the mentioned differences in vitamin K levels. Conclusively, this paper suggests the suitability for controlling the effects of direct anticoagulants in DMT1 patients.",
-    "authors": [
-      "Alejandro Carazo",
-      "Markéta Paclíková",
-      "Jaka Fadraersada",
-      "Raúl Alva-Gallegos",
-      "Pavel Skořepa",
-      "Catherine Gunaseelan",
-      "Kateřina Matoušová",
-      "Kristýna Mrštná",
-      "Lenka Kujovská Krčmová",
-      "Alena Šmahelová",
-      "Vladimír Blaha",
-      "Přemysl Mladěnka"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889572"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326560",
-    "journal": "PLoS_ONE",
-    "title": "Mixing performance test and uniformity analysis of a two-stage injection jet on-line mixer",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326560",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Ping Jiang, Siliang Xiang, Wenwu Hu, Yahui Luo, Wen Li, Xiang Dong, Yixin Shi</p>\n\nWith the mixing of water and pesticides being a critical step, which is often performed using mixers. Traditional mixers, however, frequently exhibit issues such as uneven mixing and limited ratios. A dual-stage injection jet online mixer was designed to enhance the uniformity of pesticide and water mixing. This paper presents performance tests and uniformity analysis of this mixer, aiming to assess its effectiveness post-installation and to determine if it meets the required mixing performance and uniformity standards. Image analysis was utilized for qualitative assessment, revealing that the mixer’s two-dimensional curves in both axial and radial directions matched the pattern of pure pesticides. The root mean square error (RMSE) decreased with increasing mixing ratios, ranging from a minimum of 8.57% at a 300:1 ratio to a maximum of 9.94% at 2000:1. These variations were minimal, indicating good homogeneity across different ratios. Quantitative analysis using UV spectrophotometry showed that the actual mass concentration of the mixture deviated by less than 0.1% from the expected values at different sampling times, confirming superior temporal distribution uniformity. The variation in mixture mass concentration was insignificant across different locations, and the error variation at the same mixing ratio was less than 0.03%, indicating an excellent spatial distribution uniformity of the mixer. These findings demonstrate that the two-stage injection jet online mixer is effective over a wide range of mixing ratios, providing theoretical and technical support for accurate online variable spraying. This advancement is crucial for enhancing pesticide mixing efficiency and promoting sustainable agricultural development.",
-    "authors": [
-      "Ping Jiang",
-      "Siliang Xiang",
-      "Wenwu Hu",
-      "Yahui Luo",
-      "Wen Li",
-      "Xiang Dong",
-      "Yixin Shi"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889580"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326516",
-    "journal": "PLoS_ONE",
-    "title": "Long-term benefit of vasodilating beta-blockers in acute myocardial infarction patients with mildly reduced left ventricular ejection fraction",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326516",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Ki Yung Boo, Miyeon Kim, Jae-Geun Lee, Geum Ko, Joon Hyouk Choi, Song-Yi Kim, Seung-Jae Joo, Jin-Yong Hwang, Seung-Ho Hur, Kwang Soo Cha, Myung Ho Jeong, on behalf of the KAMIR-NIH registry investigators </p>\n\nBeta-blockers have been considered the cornerstone of treatment for patients with acute myocardial infarction (AMI). However, long-term benefits of vasodilating beta-blockers remain uncertain. This study aimed to investigate the long-term clinical benefits of vasodilating beta-blockers compared to conventional beta-blockers in AMI patients with mildly reduced ejection fraction (mrEF). Among 13,624 patients who enrolled in the nationwide AMI database of South Korea, the KAMIR-NIH Registry, 2,662 AMI patients with mrEF, who were prescribed beta-blockers at discharge were selected for this study. The primary outcome was a composite of cardiac death, recurrent MI, or hospitalization for heart failure (HF) during 3-year follow up period. In the entire cohort, the use of vasodilating beta-blockers at discharge was associated with lower incidence of primary outcome at 3-year (hazard ratio [HR] 0.80; 95% confidence interval [CI], 0.62–0.98; <i>P</i> = 0.039) compared to the use of conventional beta-blockers at discharge. In the propensity score–matched (PSM) cohort, the use of vasodilating beta-blockers at discharge was also associated with a significantly lower incidence of primary outcome (HR, 0.66; 95% CI, 0.50–0.88; <i>P</i> = 0.004) compared to the use of conventional beta-blockers at discharge. Furthermore, in the PSM cohort, the use of vasodilating beta-blockers was associated with lower incidences of the cardiac death (HR, 0.60; 95% CI, 0.39–0.92; <i>P</i> = 0.020), hospitalization for HF (HR, 0.72; 95% CI, 0.46–0.98; <i>P</i> = 0.042), and all-cause death (HR, 0.67; 95% CI, 0.48–0.93; <i>P</i> = 0.017) compared to the use of conventional beta-blockers. However, no significant differences were observed between the groups in the incidences of recurrent MI (HR, 0.62; 95% CI, 0.34–1.14; <i>P</i> = 0.122), any revascularization (HR, 1.04; 95% CI, 0.76–1.42; <i>P</i> = 0.821), stroke (HR, 0.84; 95% CI, 0.44–1.60; <i>P</i> = 0.589), stent thrombosis (HR, 1.12; 95% CI, 0.40–3.11; <i>P</i> = 0.833). In AMI patients with mrEF, the use of vasodilating beta-blockers at discharge was associated with better long-term clinical outcomes compared to the use of conventional beta-blockers.",
-    "authors": [
-      "Ki Yung Boo",
-      "Miyeon Kim",
-      "Jae-Geun Lee",
-      "Geum Ko",
-      "Joon Hyouk Choi",
-      "Song-Yi Kim",
-      "Seung-Jae Joo",
-      "Jin-Yong Hwang",
-      "Seung-Ho Hur",
-      "Kwang Soo Cha",
-      "Myung Ho Jeong",
-      "on behalf of the KAMIR-NIH registry investigators"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889591"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326420",
-    "journal": "PLoS_ONE",
-    "title": "Barriers experienced by and educational needs of clinicians who provide care for transgender, nonbinary, and gender-diverse young adults in the Mid-Atlantic and Southern United States",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326420",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Jessica Kremen, Meg Quint, Regina Tham, Kaiden Kane, Elizabeth R. Boskey, Cassandra Morrow, Sari L. Reisner, Rena Xu</p>\nPurpose <p>The purpose of this study is to identify and explore the educational needs of and broader barriers experienced by clinicians who provide care to transgender, nonbinary, and gender diverse (TGD) young adults (aged 18–24), with a focus on unique healthcare needs and challenges.</p> Methods <p>Between April 2022 – July 2022, we conducted qualitative interviews with 13 clinicians (n = 9 medical and n = 4 mental health) about perceived needs and barriers relating to the care of TGD young adults. Clinicians were recruited throughout the Southeastern and Mid-Atlantic United States and were a mix of general practitioners and specialists. Using a hybrid deductive and inductive thematic analysis approach, the interview transcripts were analyzed and key themes identified.</p> Results <p>Thematic analyses of these interviews identified three main themes: the need for knowledgeable clinicians, the need and desire for reliable training resources and mentorship, and concerns surrounding the impact of the sociopolitical environment. Many participants noted a lack of access to local educational opportunities and mentorship but expressed willingness to seek these out if centralized resources, such as national platforms or accessible training modules, were available.</p> Conclusion <p>This study identifies both gaps in clinician education and broader barriers – such as local politics and access to mentorship – that hinder the ability to provide effective care to TGD young adults. These findings will help to inform the development of clinician education and support programs.</p>",
-    "authors": [
-      "Jessica Kremen",
-      "Meg Quint",
-      "Regina Tham",
-      "Kaiden Kane",
-      "Elizabeth R. Boskey",
-      "Cassandra Morrow",
-      "Sari L. Reisner",
-      "Rena Xu"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889605"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326368",
-    "journal": "PLoS_ONE",
-    "title": "Exploring the impact of a brief positive experience on dogs’ performance and stress resilience during a learning task",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326368",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Julia Miller, Camila Cavalli, Amin Azadian, Alexandra Protopopova</p>\n\nLearning and stress resilience can be influenced by recent experiences. Research has traditionally focused on the effects of negative situations and stressors on subsequent learning and stress resilience, while knowledge is limited regarding the effects of positive experiences. We aimed to examine the impact of a pre-session brief positive experience on dogs’ learning and stress resilience. Pet dogs were quasi-randomly assigned to the experimental (n = 20) or control (n = 20) group, counterbalanced for age, sex, and breed clade. Experimental dogs received a session intended to provide a positive experience, which included a 15 min walk on a long leash, human interaction, exploration, playing, and olfactory-based foraging. Control dogs were kept on leash in an office without being allowed to explore nor interact with their owner or the experimenters for 15 min. After 60 s of habituation to the testing room, all dogs were taught to nose-touch the experimenter’s hand. After the Learning phase, there was a 2 min Disruption phase, in which a remote-controlled car moved inside of a tub at a distance. Measures included the number of hand touches in each phase, the latency to return to the task, and general stress and affiliative behaviours. No differences were observed in the Learning phase. Surprisingly, experimental dogs exhibited higher stress levels than control dogs during the Disruption phase. These dogs also spent a significantly higher proportion of time in proximity to their owners, which could be interpreted as reassurance-seeking behaviour. Contrary to our predictions, exposure to a brief positive experience did not impact learning and, surprisingly, seemed to have made dogs more susceptible to stress during the Disruption phase. Several possible explanations are discussed, including the possibility of an unintentional induction of a negative emotional state by the termination of the positive experience, as well as differences in arousal, or habituation to the indoor environment.",
-    "authors": [
-      "Julia Miller",
-      "Camila Cavalli",
-      "Amin Azadian",
-      "Alexandra Protopopova"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889611"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326360",
-    "journal": "PLoS_ONE",
-    "title": "Protocol for developing a model to promote the mental health of nurses caring for mental healthcare users at mental health institutions in Limpopo province, South Africa",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326360",
-    "published": "2025-06-23T14:00:00Z",
-    "summary": "<p>by Annikie V. Hobyane, Hilda N. Shilubane, Tinyiko N. Rikhotso</p>\n\nThe nurses as front liners caring for mental health care users (MHCUs) at mental health institutions are susceptible to adverse physical and psychological effects as a result of hostile behaviors of mentally ill patients. Most nurses suffer from stress that is caused by management’s lack of support, working overtime, lack of recognition by supervisors, and lack of skills and knowledge on how to handle aggressive mental health care users. The present study aims to develop a model to promote the mental health of nursing staff providing care to individuals with mental disorders at mental health institutions. Phase 1, the empirical face, will employ a qualitative, exploratory, and descriptive design focusing on nurses’ experiences caring for MHCUs and their views on improving their mental health. Information will be gathered using unstructured individual interviews with nurses purposefully sampled at selected mental health institutions. The study will apply procedures to safeguard trustworthiness and moral principles during the study. Phase 2 will focus on developing a model, and in phase 3, the developed model will be validated. The findings of the study will determine recommendations.",
-    "authors": [
-      "Annikie V. Hobyane",
-      "Hilda N. Shilubane",
-      "Tinyiko N. Rikhotso"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889616"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-06344-8",
-    "journal": "Nature_SystemsBiology",
-    "title": "Recognizing American Sign Language gestures efficiently and accurately using a hybrid transformer model",
-    "link": "https://www.nature.com/articles/s41598-025-06344-8",
-    "published": "2025-06-23T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Mohammed Aly et al."
+      "Michael Eisenstein"
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889622"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906716"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-06438-3",
-    "journal": "Nature_SystemsBiology",
-    "title": "Cryogenic mouse tissue homogenization as an alternative to fresh-frozen biopsy use for genomics, transcriptomics, proteomics and metabolomics",
-    "link": "https://www.nature.com/articles/s41598-025-06438-3",
-    "published": "2025-06-23T00:00:00+00:00",
-    "summary": "",
+    "id": "https://www.nature.com/articles/d41586-025-01987-z",
+    "journal": "Nature",
+    "title": "Obesity drugs made in China could power next wave of treatments",
+    "link": "https://www.nature.com/articles/d41586-025-01987-z",
+    "published": "",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01987-z\">doi:10.1038/d41586-025-01987-z</a></p>Drugs currently being tested target complications associated with obesity such as heart disease, fatty liver disease and type 2 diabetes.",
     "authors": [
-      "Laimdota Zizmare et al."
+      "Rachel Fieldhouse"
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889630"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906721"
   },
   {
-    "id": "https://www.nature.com/articles/s42256-025-01041-7",
+    "id": "https://www.nature.com/articles/d41586-025-01957-5",
+    "journal": "Nature",
+    "title": "Stare into a whale’s colossal eye — June’s best science images",
+    "link": "https://www.nature.com/articles/d41586-025-01957-5",
+    "published": "",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01957-5\">doi:10.1038/d41586-025-01957-5</a></p>The month’s sharpest science shots — selected by Nature’s photo team.",
+    "authors": [
+      "Katie Kavanagh"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906726"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02080-1",
+    "journal": "Nature",
+    "title": "Trump team axes contracts with publishing giant Springer Nature",
+    "link": "https://www.nature.com/articles/d41586-025-02080-1",
+    "published": "",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02080-1\">doi:10.1038/d41586-025-02080-1</a></p>The action comes as high-ranking US officials criticize top journals as ‘woke’ and ‘corrupt’.",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906731"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02085-w",
+    "journal": "Nature",
+    "title": "Ageing is linked to inflammation — but only in the industrialized world",
+    "link": "https://www.nature.com/articles/d41586-025-02085-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02085-w\">doi:10.1038/d41586-025-02085-w</a></p>Inflammation, thought to be a driver of age-related disease, does not worsen with age in some Indigenous communities.",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906738"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02033-8",
+    "journal": "Nature",
+    "title": "What do dolphins talk about? One biologist is trying to listen in",
+    "link": "https://www.nature.com/articles/d41586-025-02033-8",
+    "published": "",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02033-8\">doi:10.1038/d41586-025-02033-8</a></p>A marine ecologist’s 40-year struggle to understand how animals signal to one another.",
+    "authors": [
+      "Laela Sayigh"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906743"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02048-1",
+    "journal": "Nature",
+    "title": "Deciphering how dog roses with an odd chromosome copy number sexually reproduce",
+    "link": "https://www.nature.com/articles/d41586-025-02048-1",
+    "published": "",
+    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02048-1\">doi:10.1038/d41586-025-02048-1</a></p>Most sexually reproducing species have an even chromosome copy number, but the dog rose does not. What explains its unusual pattern of chromosome inheritance?",
+    "authors": [
+      "Adrián Gonzalo",
+      "Joiselle B. Fernandes"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906748"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02082-z",
+    "journal": "Nature",
+    "title": "Daily briefing: The oldest rocks on Earth",
+    "link": "https://www.nature.com/articles/d41586-025-02082-z",
+    "published": "",
+    "summary": "<p>Nature, Published online: 27 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02082-z\">doi:10.1038/d41586-025-02082-z</a></p>Rocks on Hudson Bay, Canada are the only piece of Earth’s crust known to have survived from the planet’s earliest eon. Plus, sea slugs steal photosynthetic equipment from algae to use as an energy source and how artificial-intelligence research is used to bolster surveillance.",
+    "authors": [
+      "Flora Graham"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906752"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zc8695t",
+    "journal": "Science",
+    "title": "Scattershot vaccination fails to slow mpox spread in Congo",
+    "link": "https://www.science.org/content/article/scattershot-vaccination-fails-slow-mpox-spread-congo",
+    "published": "",
+    "summary": "Limited vaccine doses weren’t used strategically, WHO analysis finds",
+    "authors": [
+      "Jon Cohen"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906756"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zkhnh4b",
+    "journal": "Science",
+    "title": "How do research careers compare across countries? New global database has some answers",
+    "link": "https://www.science.org/content/article/how-do-research-careers-compare-across-countries-new-global-database-has-some-answers",
+    "published": "",
+    "summary": "Online tool from the Research and Innovation Careers Observatory allows users to compare salary, typical career destinations, and more",
+    "authors": [
+      "Elisabeth Pain"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906761"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327251",
+    "journal": "PLoS_ONE",
+    "title": "The serum vitamin D levels alleviate the influence of dietary inflammation on frailty: A cross-sectional analysis in the U.S. older adults",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327251",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Yali Wang, Ning Yan, Yiling Luo, Kai Liu, Junru Wang, Jiahui Zhang, Xiaojun Ma, Jing Wang, Zhuoyuan Li, Liqun Wang</p>\n\nDietary inflammation (DI) and suitable vitamin D intake was associated with frailty. However, the possible mechanism that how DI affected frailty was still unclear. The current study aimed to explore the mediating association of vitamin D levels in the link between DI and frailty. A cross-sectional study of 1172 participants from the National Health and Nutrition Examination Survey (NHANES) database in 2011−2014 was conducted. DI was assessed by the Dietary Inflammation Index (DII), serum vitamin D level were assessed by serum 25-hydroxyvitamin D3 (25-(OH)D3), and frailty was assessed by 49-frailty index. The mediation package in R 4.3.3 was used to examine the mediating association of serum 25-(OH)D3 levels on the relationship between DII and frailty. The prevalence of frailty was 32.3%. DII was negatively correlated with 25-(OH)D3 (r = −0.131, <i>P</i> < 0.001), and positively related with frailty (r = 0.131, <i>P</i> < 0.001). 25-(OH)D3 was negatively associated with frailty (r = −0.073, <i>P</i> = 0.013). And the results showed that 25-(OH)D3 was a possible mediating association between DI and frailty, which explained 10.5% of the total effect (0.0004/0.0038). Improvements in DI and increased vitamin D levels may help alleviate frailty. People should pay more attention to the diet pattern of older adults.",
+    "authors": [
+      "Yali Wang",
+      "Ning Yan",
+      "Yiling Luo",
+      "Kai Liu",
+      "Junru Wang",
+      "Jiahui Zhang",
+      "Xiaojun Ma",
+      "Jing Wang",
+      "Zhuoyuan Li",
+      "Liqun Wang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906830"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327237",
+    "journal": "PLoS_ONE",
+    "title": "Effects of unilateral and bilateral complex-contrast training on lower limb strength and jump performance in collegiate female volleyball players",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327237",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Beiwang Deng, Ruixiang Yan, Xinke Sui, Gesheng Lin, Shicong Ding, Duanying Li, Jian Sun</p>\n\nThe concurrent development of strength and power is considered effective for improving jump performance in athletes.Although previous studies have examined the effects of unilateral and bilateral training, there is a lack of systematic research comparing the impact of these two training modes within the framework of Complex-Contrast Training (CCT) on female volleyball players. This study aimed to compare the effects of Unilateral Complex-Contrast Training (UCCT) and Bilateral Complex-Contrast Training (BCCT) on lower limb strength and jump performance in collegiate female volleyball athletes. A total of 16 female volleyball players were randomly assigned to either the UCCT group (n = 8) or the BCCT group (n = 8) using a random number-based randomization method. The training intervention consisted of 2 sessions per week for 8 weeks.Before and after the intervention, participants underwent a series of standardized tests, including Countermovement Jump (CMJ), Squat Jump (SJ), Drop Jump (DJ), Eccentric Utilization Rate (EUR), Standing Long Jump (SLJ), and one-repetition maximum (1-RM) squat. Statistical analysis was conducted using JASP version 0.18.3.0 with a 2 (group) × 2 (time) two-way repeated measures ANOVA. The results showed significant main effects of time (p < 0.001) for CMJ, DJ, SLJ, and 1-RM squat, while SJ and EUR did not exhibit significant improvements. A significant time × group interaction was found for CMJ (p = 0.009), and simple effects analysis indicated that the UCCT group showed a more pronounced improvement. No significant main effects of group or time × group interaction effects were observed for the other variables. Overall, UCCT demonstrated similar effects to BCCT in improving horizontal jump performance and maximal lower limb strength, but showed a greater advantage in enhancing vertical jump performance.",
+    "authors": [
+      "Beiwang Deng",
+      "Ruixiang Yan",
+      "Xinke Sui",
+      "Gesheng Lin",
+      "Shicong Ding",
+      "Duanying Li",
+      "Jian Sun"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906835"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326930",
+    "journal": "PLoS_ONE",
+    "title": "Development and acceptability of ViviendoPositivos: A culturally tailored telenovela (soap opera) intervention to improve self-management among Latinos with HIV",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326930",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Evelyn Iriarte, Natalia Villegas, Samantha Stonbraker, Paul Cook, Maria Jose Baeza, Rosina Cianelli, Christine Toledo, Kristine M. Erlandson, Catherine Jankowski</p>\n\nBecause people with HIV are living longer, there is a growing need for effective health self-management interventions. An urgent gap in care for Latino people with HIV (LWH) is the lack of culturally adapted interventions to support their health information needs. To respond to this need, we developed <i>ViviendoPositivos,</i> a culturally tailored telenovela (soap opera) intervention to promote HIV self-management among LWH. We used a mixed methods approach to gather data for the development of the intervention from 24 Spanish or English-speaking LWHs aged ≥ 18 years. Telenovela vignettes were co-created in collaboration with a community advisory board (CAB), our research team, and a telenovela director. Through focus groups, individual interviews, and a survey, we explored the acceptability of the telenovela vignettes (<i>n</i> = 24 LWH). Participants were mostly male (88%, <i>n</i> = 21), with an average age of 49 years (<i>SD</i> = 12) and living with HIV for 16 years (<i>SD = </i>12). During the development of <i>ViviendoPositivos,</i> CAB members identified five priority content areas: mental health and social support, HIV knowledge, adherence to antiretroviral treatment, partner communication and negotiation, and healthy aging. Contextual and cultural aspects were also incorporated into the telenovela vignettes. Participants reported high satisfaction with the information and stories presented (92%, <i>n</i> = 22) and mentioned that the topics were relatable. All participants expressed willingness to watch the telenovela with a preference for online streaming via a website. The final product was an HIV self-management telenovela series of five 10-minute filmed episodes that incorporated the ideas and feedback of LWH.",
+    "authors": [
+      "Evelyn Iriarte",
+      "Natalia Villegas",
+      "Samantha Stonbraker",
+      "Paul Cook",
+      "Maria Jose Baeza",
+      "Rosina Cianelli",
+      "Christine Toledo",
+      "Kristine M. Erlandson",
+      "Catherine Jankowski"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906893"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326906",
+    "journal": "PLoS_ONE",
+    "title": "Dissecting the inhibitory activity of <i>Burkholderia orbicola</i> against Gram-positive and - negative multidrug-resistant bacteria",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326906",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Leslie-Mariana Morales-Ruíz, Anuar Salazar-Gómez, Álvaro-Omar Hernández-Rangel, Jeniffer-Chris Kerber-Díaz, María-Elena Vargas-Díaz, J. Antonio-Ibarra, Fernando-Uriel Rojas-Rojas, Paulina Estrada-de los Santos</p>\n\nThe genus <i>Burkholderia</i> is currently recognized for producing several antimicrobial compounds with potential applications in developing novel treatments for infectious diseases, including those caused by multidrug-resistant (MDR) bacteria. This study aimed to investigate the ability of <i>Burkholderia orbicola</i> TAtl-371<sup>T</sup> and CACua-24 to inhibit the growth of MDR human pathogens and to analyze the chemical composition of active extracts from cultures of these strains to identify putative compounds associated with their activity. The double-layer agar technique was used to evaluate the antimicrobial activity of <i>B. orbicola</i> strains. Sequential solvent extraction with hexane, dichloromethane, ethyl acetate, and methanol was conducted on <i>B. orbicola</i> cultures, and the active extract was analyzed by bioautography and fractionated using preparative thin-layer chromatography. Putative antimicrobials in the active fraction were identified through <sup>1</sup>H, <sup>13</sup>C NMR, and mass spectrometry. <i>B. orbicola</i> strains inhibited several MDR strains of <i>Acinetobacter baumannii</i>, <i>Klebsiella pneumoniae</i>, <i>Pseudomonas aeruginosa</i>, <i>Escherichia coli</i>, and <i>Staphylococcus aureus</i> on double-layer agar probes, displaying inhibition halos ranging from 5 to 41 mm. The hexane extract showed the best inhibitory activity against MDR strains, except for <i>P. aeruginosa</i> strains. Analysis through thin-layer chromatography and bioautography revealed a tailing spot with antimicrobial activity. The spectroscopic analysis of this tailing spot revealed the presence of the siderophore fragin. This fragin-containing fraction inhibited the MDR <i>A. baumannii</i> (1024 µg/mL), <i>K. pneumoniae</i> 903137 (128 µg/mL), <i>E. coli</i> (256 µg/mL), and <i>S. aureus</i> (128 µg/mL), but no effect was observed against <i>P. aeruginosa</i>. This fraction also inhibited yeasts of the species <i>Candida albicans</i> and <i>Nakaseomyces glabratus</i>, suggesting an antimicrobial spectrum that extends beyond MDR bacteria. The genomic sequence analysis of strains TAtl-371<sup>T</sup> and CACua-24 revealed a cluster of 7 genes, resulting in the same organization and over 99% similarity to the fragin genes reported for <i>Burkholderia cenocepacia</i> H111. This study highlights the potential of <i>B. orbicola</i> to produce fragin and its potential activity against MDR bacteria that affect human health worldwide.",
+    "authors": [
+      "Leslie-Mariana Morales-Ruíz",
+      "Anuar Salazar-Gómez",
+      "Álvaro-Omar Hernández-Rangel",
+      "Jeniffer-Chris Kerber-Díaz",
+      "María-Elena Vargas-Díaz",
+      "J. Antonio-Ibarra",
+      "Fernando-Uriel Rojas-Rojas",
+      "Paulina Estrada-de los Santos"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906906"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00706-5?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Maternal obesity impairs fetal brown adipogenesis by attenuating fetal FGF21 signaling",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00706-5?rss=yes",
+    "published": "",
+    "summary": "Hua et al. demonstrate that maternal obesity impairs fetal brown adipogenesis by attenuating fetal FGF21 signaling. Meanwhile, postnatal FGF21 supplementation could counteract the adverse effects of maternal obesity on fetal BAT development.",
+    "authors": [
+      "Lun Hua, Wenxue Shen, Dengfeng Gao, Yi Yang, Xiaohan Yang, Haoqi Zhang, Siyuan Liu, Luting Liu, Yaxue Cao, Xuemei Jiang, Xingfa Han, Chao Jin, Bin Feng, Lianqiang Che, Shengyu Xu, Yan Lin, Jian Li, Zhengfeng Fang, Ting Luo, Mingzhou Li, De Wu, Yong Zhuo"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906921"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41564-025-02041-4",
     "journal": "Nature_CompBio",
-    "title": "Dimensions underlying the representational alignment of deep neural networks with humans",
-    "link": "https://www.nature.com/articles/s42256-025-01041-7",
-    "published": "2025-06-23T00:00:00+00:00",
+    "title": "Intraspecies warfare restricts strain coexistence in human skin microbiomes",
+    "link": "https://www.nature.com/articles/s41564-025-02041-4",
+    "published": "2025-06-30T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Florian P. Mahner et al."
+      "Christopher P. Mancuso et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889644"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906934"
   },
   {
-    "id": "https://www.nature.com/articles/s41597-025-05384-z",
-    "journal": "Nature_CompBio",
-    "title": "SAVI Space—combinatorial encoding of the billion-size synthetically accessible virtual inventory",
-    "link": "https://www.nature.com/articles/s41597-025-05384-z",
-    "published": "2025-06-23T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Malte Korn et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889649"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41588-025-02233-y",
-    "journal": "Nature_CompBio",
-    "title": "Predicting resistance to chemotherapy using chromosomal instability signatures",
-    "link": "https://www.nature.com/articles/s41588-025-02233-y",
-    "published": "2025-06-23T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Joe Sneath Thompson et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889657"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41746-025-01736-6",
-    "journal": "Nature_CompBio",
-    "title": "Multiscale modeling of drug-induced liver injury from organ to lobule",
-    "link": "https://www.nature.com/articles/s41746-025-01736-6",
-    "published": "2025-06-23T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Alon Malka-Markovitz et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889661"
-  },
-  {
-    "id": "https://www.nature.com/articles/s42003-025-08387-z",
-    "journal": "Nature_CompBio",
-    "title": "Identification of conserved and tissue-restricted transcriptional profiles for lipid associated macrophages",
-    "link": "https://www.nature.com/articles/s42003-025-08387-z",
-    "published": "2025-06-23T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Yingzheng Xu et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889666"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1119009",
+    "id": "https://www.technologyreview.com/?p=1118540",
     "journal": "MIT_TechReview",
-    "title": "Scaling integrated digital health",
-    "link": "https://www.technologyreview.com/2025/06/23/1119009/scaling-integrated-digital-health/",
-    "published": "Mon, 23 Jun 2025 13:19:03 +0000",
-    "summary": "Around the world, countries are facing the challenges of aging populations, growing rates of chronic disease, and workforce shortages, leading to a growing burden on health care systems. From diagnosis to treatment, AI and other digital solutions can enhance the efficiency and effectiveness of health care, easing the burden on straining systems. According to the&#8230;",
+    "title": "Roundtables: Inside OpenAI’s Empire with Karen Hao",
+    "link": "https://www.technologyreview.com/2025/06/30/1118540/roundtables-inside-openais-empire-with-karen-hao/",
+    "published": "Mon, 30 Jun 2025 14:59:17 +0000",
+    "summary": "Recorded on June 30, 2025 AI journalist Karen Hao’s book, Empire of AI: Dreams and Nightmares in Sam Altman&#8217;s OpenAI, tells the story of OpenAI’s rise to power and its far-reaching impact all over the world. Hear from Karen Hao, former MIT Technology Review senior editor, and executive editor Niall Firth for a conversation exploring&#8230;",
     "authors": [
-      "MIT Technology Review Insights"
+      "MIT Technology Review"
     ],
     "doi": "",
     "parser_type": "generic",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889674"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906939"
   },
   {
-    "id": "https://www.technologyreview.com/?p=1119166",
+    "id": "https://www.technologyreview.com/?p=1119469",
     "journal": "MIT_TechReview",
-    "title": "The Download: the Vera C. Rubin Observatory’s first pictures, and reframing privacy",
-    "link": "https://www.technologyreview.com/2025/06/23/1119166/the-download-the-vera-c-rubin-observatorys-first-pictures-and-reframing-privacy/",
-    "published": "Mon, 23 Jun 2025 12:10:00 +0000",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. See the stunning first images from the Vera C. Rubin Observatory The first spectacular images taken by the Vera C. Rubin Observatory have been released for the world to peruse: a panoply of&#8230;",
+    "title": "The Download: meet RFK Jr’s right-hand man, and inside OpenAI",
+    "link": "https://www.technologyreview.com/2025/06/30/1119469/the-download-meet-rfk-jrs-right-hand-man-and-inside-openai/",
+    "published": "Mon, 30 Jun 2025 12:10:00 +0000",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man When Jim O’Neill was nominated to be the second in command at the US Department of Health and Human Services,&#8230;",
     "authors": [
       "Rhiannon Williams"
     ],
     "doi": "",
     "parser_type": "generic",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889685"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1118401",
-    "journal": "MIT_TechReview",
-    "title": "Book review: Surveillance & privacy",
-    "link": "https://www.technologyreview.com/2025/06/23/1118401/privacy-book-reviews-surveillance-higher-education/",
-    "published": "Mon, 23 Jun 2025 10:00:00 +0000",
-    "summary": "Privacy only matters to those with something to hide. So goes one of the more inane and disingenuous justifications for mass government and corporate surveillance. There are others, of course, but the “nothing to hide” argument remains a popular way to rationalize or excuse what’s become standard practice in our digital age: the widespread and&#8230;",
-    "authors": [
-      "Bryan Gardiner"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889689"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1119129",
-    "journal": "MIT_TechReview",
-    "title": "See the stunning first images from the Vera C. Rubin Observatory",
-    "link": "https://www.technologyreview.com/2025/06/23/1119129/first-images-vera-c-rubin-observatory/",
-    "published": "Mon, 23 Jun 2025 04:01:00 +0000",
-    "summary": "The first spectacular images taken by the Vera C. Rubin Observatory have been released for the world to peruse: a panoply of iridescent galaxies and shimmering nebulas. “This is the dawn of the Rubin Observatory,” says Meg Schwamb, a planetary scientist and astronomer at Queen’s University Belfast in Northern Ireland. Much has been written about&#8230;",
-    "authors": [
-      "Robin George Andrews"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889694"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13440/",
-    "journal": "Nikkei_BioTech",
-    "title": "AMEDの2025年度第1回調整費、127課題・2施策に147.6億円を配分",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/20/13440/",
-    "published": "",
-    "summary": "政府の健康・医療戦略推進本部は2025年6月20日、医療分野の研究開発関連の調整費について、2025年度の1回目は127課題・2施策に147億6000万円を配分することを決定した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889699"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13444/",
-    "journal": "Nikkei_BioTech",
-    "title": "AbbVie社、c-Met標的ADCがNSCLCの2次治療でコンパニオン診断付きのFDA迅速承認",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13444/",
-    "published": "",
-    "summary": "米AbbVie（アッヴィ）社は、c-Metを標的とする抗体薬物複合体（ADC）の「Emrelis」（telisotuzumab vedotin-tllv）について、米食品医薬品局（FDA）が2025年5月14日に迅速承認したと発表した。適応症は、全身治療後に局所進行した、または転移した非扁平上皮型非小細胞肺がん（NSQ-NSCLC）で、コンパニオン診断薬でc-Met蛋白質の過剰発現を確認した患者が対象だ。FDAは同日、Emrelisのコンパニオン診断薬としてスイスRoche Diagnostics社の「VENTANA MET (SP44) RxDx Assay」を承認した。Emrelisの処方対象となる患者は、免疫組織化学（IHC）の同アッセイでc-Met蛋白質が腫瘍細胞の50％以上、かつ染色スコア3＋の条件を満たす必要がある。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889704"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13435/",
-    "journal": "Nikkei_BioTech",
-    "title": "名古屋大・慶應義塾大、線維芽細胞から肺細胞を短期間で作製する技術を開発",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/19/13435/",
-    "published": "",
-    "summary": "名古屋大学と慶應義塾大学の研究チームが、マウスの胚性線維芽細胞から、短期間で肺細胞を作製することに成功した。線維芽細胞を直接リプログラミングし、肺細胞の元となる幹細胞に誘導した。自己皮膚由来の細胞医薬の開発につながる可能性がある。論文は2025年6月23日、npj Regenerative Medicine誌に掲載された。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889708"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13441/",
-    "journal": "Nikkei_BioTech",
-    "title": "スウェーデンCamurus社とLilly社、「FluidCrystal」ベースの長時間作用型インクレチン製剤の開発目指し協力",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/21/13441/",
-    "published": "",
-    "summary": "スウェーデンCamurus（カムラス）社は2025年6月3日、米Eli Lilly and Company（イーライリリー・アンド・カンパニー）社と協力及びライセンス契約を結び、Camurus社専有の「FluidCrystal」技術を用いて、長時間作用型インクレチン製剤の研究、開発、製造、及び商業化を行う世界的独占的な権利をLilly社に付与したと発表した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889714"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13447/",
-    "journal": "Nikkei_BioTech",
-    "title": "大塚製薬、中国Harbour BioMed社のBCMA×CD3のT細胞エンゲージャー導入し自己免疫疾患に開発へ",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/23/13447/",
-    "published": "",
-    "summary": "大塚製薬は、2025年6月23日、中国Harbour BioMed（ハーバー・バイオメッド、HBM）社が開発しているBCMAとCD3を標的とした二重特異性抗体のT細胞エンゲージャー（開発番号：HBM7020）について、中華圏を除く全世界を対象とした独占的開発販売権を取得するライセンス契約を締結したと発表した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-23T22:07:43.889719"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-06-30T22:07:49.906943"
   },
   {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327239",
@@ -6923,5 +6242,681 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-06-29T22:07:23.443300"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327594",
+    "journal": "PLoS_ONE",
+    "title": "Characterizing the trophic ecology of herbivorous coral reef fishes using stable isotope and fatty acid biomarkers",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327594",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Rita García-Seoane, W. Lindsey White, Brett M. Taylor, Kendall D. Clements</p>\n\nUnderstanding the trophic ecology of herbivorous and detritivorous fishes is essential for evaluating their ecological roles in coral reef ecosystems. In this study, we combined bulk stable isotope (δ<sup>15</sup>N and δ<sup>13</sup>C) and fatty acid analyses to investigate trophic partitioning and dietary resource use among herbivorous and detritivorous fishes from the Great Barrier Reef, Australia. Isotopic niches and fatty acid profiles confirmed significant trophic partitioning among algivores, detritivorous surgeonfishes, and parrotfishes. We also applied mixing models based on these ecological tracers to quantify the contributions of basal dietary sources to the fish. Our findings further support previous dietary knowledge for several species, including algivorous acanthurids, kyphosid chubs, and the rabbitfish <i>Siganus doliatus</i>. However, they also highlight trophic niche specializations within these groups, particularly in <i>Naso unicornis</i>, which assimilates substantial dietary protein from epiphytic cyanobacteria despite a macroalgal diet, and in the detritivorous <i>Ctenochaetus striatus</i>, which exhibited isotopic similarities to parrotfishes but differed in fatty acid composition, likely due to a higher intake of diatoms. Additionally, our analyses reinforce the distinctive dietary composition of parrotfishes, emphasizing the complexity of their feeding biology, in which microscopic photoautotrophs such as cyanobacteria and dinoflagellates play a key dietary role that has often been overlooked in previous studies on their nutritional ecology. Furthermore, these findings underscore the usefulness of multi-tracer approaches in refining our understanding of coral reef fish trophic ecology.",
+    "authors": [
+      "Rita García-Seoane",
+      "W. Lindsey White",
+      "Brett M. Taylor",
+      "Kendall D. Clements"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906769"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327525",
+    "journal": "PLoS_ONE",
+    "title": "Intense low-frequency sound transiently biases human sound lateralisation",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327525",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Carlos Jurado, Benedikt Grothe, Markus Drexl</p>\n\nIntense low-frequency (LF) sound exposure transiently alters hearing thresholds and other markers of cochlear sensitivity, and for these changes the term ‘Bounce phenomenon’ (BP) has been coined. Under the BP, hearing thresholds slowly oscillate for several minutes involving both stages of hyper- and hyposensitivity and it is reasonable to assume that the perception of sounds at levels well above threshold will also be affected. Here, we evaluated the effect of the BP on auditory lateralisation in healthy human subjects. Sound lateralisation crucially depends on the processing of either interaural level- or time differences (ILDs and ITDs, respectively), depending on the spectral content of the sound. The ILD needed to perceive a virtual sound source in the middle of the head was tracked across time. Measurements were carried out without and with a previous exposure to an intense LF-sound in the left ear, to elicit the BP. In 65% of the recordings, significant time-variant deviations from the perceived midline were observed after cessation of the LF-sound. In other words, a binaural stimulus perceived in the middle moved perceptually to the side and often back to the middle after presentation of the intense LF-sound. This means that intense LF-sound exposure can lead to a biasing of ILD-based sound localisation.",
+    "authors": [
+      "Carlos Jurado",
+      "Benedikt Grothe",
+      "Markus Drexl"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906774"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327489",
+    "journal": "PLoS_ONE",
+    "title": "Differentiating bacteria by their unique surface interactions",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327489",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Nicholas K. Kotoulas, Stephanie Tan, Justin R. Nodwell, M. Cynthia Goh</p>\n\nNew, rapid, and accessible approaches to bacterial detection are necessary to help curb the rising impacts of antimicrobial resistance. In this study, we introduce a technique that distinguishes bacteria through their unique surface interactions. By measuring and combining the interaction strengths of a bacterium across a set of chemically defined surfaces, we produced a novel bacterial identifier termed the surface interaction profile (SIP). The interaction strengths of twelve test bacteria across three discrete polyelectrolyte multilayer films (PEMs) were measured, facilitated by introducing each bacterial suspension to individual PEMs in microfluidic channels over a 10-minute interaction period and rinsing to remove bulk and loosely bound bacteria. The remaining surface-bound cells were counted via microscopy and plotted against suspension concentrations to build attachment curves whose slopes were measured as the strength of interaction for a given bacteria-PEM combination. These slopes were collected, per bacterial type, to produce each SIP. SIPs were capable of distinguishing between our pathogenic strains (<i>Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, Enterococcus faecalis</i>, methicillin-resistant <i>Staphylococcus aureus</i>, and vancomycin-intermediate <i>Staphylococcus aureus</i>) by Gram stain and individual species, and each blind test pathogen was successfully identified through SIP comparison. Furthermore, SIPs were also successful at differentiating between select <i>Staphylococcus aureus walKR</i> mutants impacting cell wall metabolism and high-risk antibiotic resistance mutants (MRSA and VISA), highlighting the utility and future diagnostic potential of this technique.",
+    "authors": [
+      "Nicholas K. Kotoulas",
+      "Stephanie Tan",
+      "Justin R. Nodwell",
+      "M. Cynthia Goh"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906778"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327481",
+    "journal": "PLoS_ONE",
+    "title": "TGEL-transformer: Fusing educational theories with deep learning for interpretable student performance prediction",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327481",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Yuhao Gong, Fei Wang, Yuchen Zhang, Jiaqi Geng</p>\n\nWith the integration of educational technology and artificial intelligence, personalized learning has become increasingly important. However, traditional educational data mining methods struggle to effectively integrate heterogeneous feature data and represent complex learning interaction processes, while existing deep learning models lack educational theory guidance, resulting in insufficient interpretability. To address these challenges, this study proposes the TGEL-Transformer (Theory-Guided Educational Learning Transformer) framework, which integrates multiple intelligence theory and social cognitive theory, featuring three innovations: a dual-channel feature processing module that integrates cognitive, affective, and environmental dimension features; a theory-guided four-head attention mechanism that models educational interaction dynamics; and an interpretable prediction layer that provides theoretical support for educational interventions. Using a dataset of 6,608 students, TGEL-Transformer achieved RMSE = 1.87 and R<sup>2</sup> = 0.75, outperforming existing methods with statistically significant improvements (p < 0.001) ranging from 1.1% against recent state-of-the-art models to 5.6% against transformer baselines. External validation on cross-cultural data (n = 480) demonstrated strong generalizability with R<sup>2</sup> = 0.683. Attention weight analysis revealed that teacher support (0.15), prior knowledge (0.15), and peer interaction (0.13) are key factors influencing learning outcomes. This study provides a theory-guided framework for educational data mining, offering data-driven support for personalized education and advancing intelligent education development.",
+    "authors": [
+      "Yuhao Gong",
+      "Fei Wang",
+      "Yuchen Zhang",
+      "Jiaqi Geng"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906783"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327393",
+    "journal": "PLoS_ONE",
+    "title": "Intrinsic vs. extrinsic motivation in high school physical education: Which fuels adolescent achievement emotions better?",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327393",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Mustafa Enes Işıkgöz</p>\n\nThe purpose of this study was to examine the relationship between the intrinsic, extrinsic, and amotivation levels of high school students toward physical education and their emotions of achievement. The study was carried out in the fall semester of the 2024–2025 academic year, with 1399 students studying at various high schools in Turkey. Participants’ motivation levels were assessed using the “Motivation for Participation in Physical Education Lesson Scale,” and their achievement emotions were evaluated with the “Achievement Emotions Scale for Physical Education.” A cross-sectional design was used in the study and data were analysed using structural equation modelling. The findings showed intrinsic motivation strongly related to positive achievement emotions and negatively to negative ones. Extrinsic motivation was weakly correlated with positive achievement emotions and not significantly with negative ones. Amotivation negatively correlated with positive achievement emotions and positively correlated with negative ones. Students’ motivation and emotions are influenced by how well their basic psychological needs are met, according to self-determination and psychological needs theories. The support of intrinsic motivation in physical education is essential for their achievement emotions and well-being. Teachers must promote autonomy, competence, and relatedness in learning environments. Future studies should test these findings in various cultural contexts using various data sources and longitudinal designs. Exploring technological and cultural influences on motivation will add valuable information to the literature.",
+    "authors": [
+      "Mustafa Enes Işıkgöz"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906789"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327381",
+    "journal": "PLoS_ONE",
+    "title": "Exploring the torque- velocity relationship in postmenopausal women: Analyzing the influence of data processing",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327381",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Jessica Rial-Vázquez, Alejandra Camacho-Villa, Sonia Liliana Rivera-Mejía, Iván Nine, María Rúa-Alonso, Juan Fariñas, Borja Revuelta-Lera, Eliseo Iglesias-Soler</p>\nObjective <p>The main aims of this study were to compare the goodness of fit and derived parameters of linear and non-linear models for fitting the torque-velocity (TV) relationship in postmenopausal women, and to examine the influence of data processing on the results obtained.</p> Methods <p>Sixteen physically active postmenopausal women completed the experiment. Knee extensor (KE) and elbow flexor (EF) muscle strength was evaluated in the dominant limb using an isokinetic dynamometer. Isometric and isokinetic tests were conducted at 30, 60, 120, 180, 240, and 300°/s. Peak torque and the corresponding joint angles were recorded for each test. TV data were fitted using linear, quadratic polynomial (PM), and Hill’s (HM) regression models. TV relationships were analyzed using both actual data (i.e., the velocity achieved and its associated torque; TV<sub>A</sub>) and target data (i.e., the velocity preset on the dynamometer and the torque reported; TV<sub>T</sub>). TV parameters derived from each model and their goodness of fit were calculated for both TV<sub>A</sub> and TV<sub>T</sub> relationships.</p> Results <p>The goodness of fit and the estimated TV parameters derived from the regression models differed significantly between TV<sub>A</sub> and TV<sub>T</sub> for both KE and EF (P < 0.05). For TV<sub>A</sub>, the models with the best fit were HM for KE and PM for EF. However, HM yielded unrealistically high theoretical maximum velocity values (6764.69 ± 11619.09°/s) for KE. Parameter estimates for TV<sub>A</sub> differed significantly between models (P < 0.001).</p> Conclusion <p>Caution is advised when performing isokinetic assessments at high velocities in middle-aged women. The obtained data should be carefully examined, as TV<sub>A</sub> and TV<sub>T</sub> should not be used interchangeably. The choice of model can influence the estimated parameters. We recommend using quadratic polynomial models to fit TV data for both KE and EF in postmenopausal women.</p>",
+    "authors": [
+      "Jessica Rial-Vázquez",
+      "Alejandra Camacho-Villa",
+      "Sonia Liliana Rivera-Mejía",
+      "Iván Nine",
+      "María Rúa-Alonso",
+      "Juan Fariñas",
+      "Borja Revuelta-Lera",
+      "Eliseo Iglesias-Soler"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906795"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327376",
+    "journal": "PLoS_ONE",
+    "title": "Real-world Lyme disease testing results using modified vs standard two-tier test protocols",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327376",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Yonghong Li, Zhen Chen, Carmen H. Tong, Ky Van, Robert S. Jones, Lance A. Bare</p>\n\nThe modified two-tier test (MTTT) and standard two-tier test (STTT) protocols are being used for Lyme disease serology testing in the clinic. We aimed to compare the real-world testing results of MTTT, a recently approved protocol, vs STTT, a mainstay protocol over the past decades. To this end, we obtained results of Lyme disease testing performed in a US national reference laboratory in 2022 and 2023 and constructed a matched cohort with 66,708 individuals tested using MTTT and 66,708 individuals tested using STTT. We found that, compared with STTT, MTTT identified more test positives in adults aged 18 and older and similar number of test positives in the children and adolescents. The odds ratio (95% confidence interval) of testing positive using MTTT vs STTT was 1.88 (1.79–1.98) in adults and 1.09 (0.97–1.23) in non-adults. In addition, more patients tested positive for immunoglobulin M antibody alone or positive for both immunoglobulin M and immunoglobulin G antibodies using MTTT than STTT.",
+    "authors": [
+      "Yonghong Li",
+      "Zhen Chen",
+      "Carmen H. Tong",
+      "Ky Van",
+      "Robert S. Jones",
+      "Lance A. Bare"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906799"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327349",
+    "journal": "PLoS_ONE",
+    "title": "Selective activation of ipRGC modulates working memory performance",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327349",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Yuta Suzuki, Shigeki Nakauchi, Hsin-I. Liao</p>\n\nIntrinsically photosensitive retinal ganglion cells (ipRGCs) are known to be sensitive to short-wavelength light (460–480 nm; blue or cyan light) and to play a role in regulating physiological responses such as circadian rhythms. Previous studies have shown that exposure to blue light improves performance on working memory tasks compared with exposure to amber light. However, it remains unclear whether these cognitive benefits via light are attributable to integrated signals across ipRGCs and rod/cone or ipRGC alone. To address this, the present study investigates the specific contribution of ipRGCs to working memory performance using a silent substitution method that selectively manipulates ipRGC activity while minimizing the influence of LMS cone responses. Participants engaged in 1- and 2-back tasks under low- or high-ipRGC activation light, a metameric color perceived as magenta. Results showed that hit rate in the 2-back task was significantly higher under exposure to high-ipRGC light than to low-ipRGC light. Our overall findings provide direct evidence that isolated ipRGC activation, independent of perceptual blue or cone involvement, can modulate cognitive task processing.",
+    "authors": [
+      "Yuta Suzuki",
+      "Shigeki Nakauchi",
+      "Hsin-I. Liao"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906803"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327346",
+    "journal": "PLoS_ONE",
+    "title": "Knowledge and attitudes towards Alzheimer’s disease among adult residents in Jiulongpo, Chongqing, China: A cross-sectional survey",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327346",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Jinhua Zhang, Yao Huang, Yi Jiang, Tong Li</p>\nBackground <p>The prevalence of Alzheimer’s disease (AD) continues to rise as the aging population increases, and the resulting cognitive decline severely affects patients’ quality of life. However, the public’s understanding of AD is markedly insufficient, which limits the effectiveness of early prevention and treatment. This study conducted a cross-sectional survey to assess the level of knowledge about AD among adult residents in Jiulongpo District, Chongqing, as well as their attitudes towards people with dementia, providing a basis for formulating targeted intervention strategies.</p> Methods <p>A cross-sectional survey was conducted in Jiulongpo, Chongqing, China, from September to October 2024. The self-reported questionnaire for participants included three parts: demographic information, the Alzheimer’s Disease Knowledge Scale (ADKS), and the Dementia Attitude Scale (DAS). Multiple linear regression analysis was used to identify the main factors influencing AD knowledge and attitudes.</p> Results <p>1,362 respondents were surveyed, with 64.24% female. The age group of 40–64 has the largest number of people, accounting for 38.03%. The average ADKS score was 17.67 (standard deviation = 2.47), with individual item score rates ranging from 16.01% to 89.72% across the 30 items. The domains with the lowest ADKS score rates were “Caregiving” (43.40%) and “Symptoms” (52.25%). The average score on the DAS was 81.72 (standard deviation = 11.19). The score rates for the “Dementia knowledge,” “Positive social comfort,” and “Negative social comfort” dimensions of the DAS were 61.56%, 55.02%, and 56.38%, respectively. Residents aged 18–39, living in urban areas, with higher education or above, working in healthcare, having a higher income level, being unmarried, and having experience in Alzheimer’s Disease and Related Dementias (ADRD) knowledge training have a higher level of knowledge about AD and a more positive attitude towards it. Residents with family members suffering from ADRD have lower DAS scores than those without such family members.</p> Conclusion <p>People’s understanding of AD is limited, especially in the areas of “Caregiving” and “Symptoms”, and they hold a neutral attitude toward dementia. We recommend intensifying health education efforts on AD knowledge across different populations, particularly emphasizing the promotion of knowledge in weak areas, while also cultivating their friendly attitudes towards dementia patients.</p>",
+    "authors": [
+      "Jinhua Zhang",
+      "Yao Huang",
+      "Yi Jiang",
+      "Tong Li"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906812"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327328",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Exploring prevalent injuries among tennis players and optimal rehabilitation approaches: A systematic review protocol",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327328",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Eva María Rodríguez-González, María Soledad Amor-Salamanca, Domingo Rosselló, María de Lluc-Bauza, Francisco Hermosilla-Perona, Adrián Martín-Castellanos, Ivan Herrera-Peco</p>",
+    "authors": [
+      "Eva María Rodríguez-González",
+      "María Soledad Amor-Salamanca",
+      "Domingo Rosselló",
+      "María de Lluc-Bauza",
+      "Francisco Hermosilla-Perona",
+      "Adrián Martín-Castellanos",
+      "Ivan Herrera-Peco"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906817"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327326",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Childhood infection burden, recent antibiotic exposure and vascular phenotypes in preschool children",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327326",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906821"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327308",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Correlation between individual thigh muscle volume and grip strength in relation to sarcopenia with automated muscle segmentation",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327308",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Hyeon Su Kim, Shinjune Kim, Hyunbin Kim, Yonghan Cha, Jung-Taek Kim, Jin-Woo Kim, Yong-Chan Ha, Jun-Il Yoo</p>",
+    "authors": [
+      "Hyeon Su Kim",
+      "Shinjune Kim",
+      "Hyunbin Kim",
+      "Yonghan Cha",
+      "Jung-Taek Kim",
+      "Jin-Woo Kim",
+      "Yong-Chan Ha",
+      "Jun-Il Yoo"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906826"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327235",
+    "journal": "PLoS_ONE",
+    "title": "Superior growth performance in carp fry achieved with chitosan-alginate encapsulated A-ghrelin versus free peptide: Evidence from physiological, molecular, and morphological analyses",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327235",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Mohammad Matinfar, Behrooz Heidari, AbdolMajid Valipour, Tahereh Rahdari, Sorour Ramezanpour, Mahvash Hadavi, S. Mohsen Asghari</p>\n\nThis study investigates the potential of delivering ghrelin via chitosan-alginate (Cs-Al) nanocapsules to enhance growth performance, immune function, and stress biomarker parameters in common carp fry (<i>Cyprinus carpio</i>). Characterization of the nanoparticles revealed an average size of 130 nm for Cs-Al particles and 150 nm for A-ghrelin-loaded nanoparticles, with polydispersity indices (PDI) of 0.3 and 0.4, respectively. The zeta potential was measured at +20 mV for Cs-Al nanoparticles and +22 mV for ghrelin-loaded nanoparticles. Morphological analysis using FE-SEM and AFM revealed that the nanoparticles exhibit a predominantly spherical and uniform morphology, while FTIR analysis confirmed their successful synthesis and functionalization. The A-Ghrelin-Cs-Al NP group showed superior growth performance, with higher weight gain vs. control (P < 0.05) and thicker intestinal walls (P < 0.05). While all ghrelin treatments elevated IGF-1 expression (P < 0.05 vs. control), the Cs-Al NP delivery system reduced IgM levels (P < 0.05) and C3 (P < 0.05) compared to free A-Ghrelin, suggesting encapsulation may modulate immune responses. No significant differences in gill morphology were observed between groups (P > 0.05). These findings highlight the potential of ghrelin, particularly when delivered through alginate-chitosan nanocapsules, as a promising tool to promote growth and physiological health in juvenile fish. This approach offers a novel strategy to enhance aquaculture productivity and sustainability through nanotechnology-based delivery systems.",
+    "authors": [
+      "Mohammad Matinfar",
+      "Behrooz Heidari",
+      "AbdolMajid Valipour",
+      "Tahereh Rahdari",
+      "Sorour Ramezanpour",
+      "Mahvash Hadavi",
+      "S. Mohsen Asghari"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906840"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327190",
+    "journal": "PLoS_ONE",
+    "title": "In utero exposure to electronic cigarette carriers alters craniofacial morphology",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327190",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Ethan Richlak, Logan Shope, Ethan Leonard, Leslie Sewell, Tyler Maykovich, Amr Mohi, Roy A. Miller, Matthew W. Gorr, Loren E. Wold, James J. Cray</p>\nObjectives <p>Despite the popularity of electronic nicotine delivery systems (ENDS), there is currently a lack of regulation and consistency regarding the formulation of the e-liquids that undergo combustion in use. The two main constituents of most e-liquids are the humectants propylene glycol (PG) and glycerol (vegetable glycerin, VG). E-liquids consist of a ratio of these two components with PG utilized to increase the “throat hit” effect and VG used to increase visible vapor. As PG-based e-liquids are known to generate more carcinogenic carbonyls and increase the uptake of nicotine, many commercial products have moved toward a more VG-centric formulation to reduce potential harm. The purpose of this study was to test the hypothesis that a common VG-based formulation (30/70 PG/VG) would result in fewer negative effects on craniofacial growth compared to an evenly concentrated formulation (50/50 PG/VG) in the absence of nicotine.</p> Materials and Methods <p>Adult breeder mice were utilized to generate <i>in utero</i> ENDS component exposed litters including free air exposure (control), 30/70 PG/VG, and 50/50 PG/VG groups. The resulting pups were assessed at postnatal day 14 for skull morphology.</p> Results <p>Data demonstrate significant reductions in body weight, facial, and cranial dimensions, where there was a significant reduction in growth for the 30/70 PG/VG exposed group. There were no significant differences found between control and 50/50 PG/VG.</p> Conclusions <p>These results suggest the overall movement to a more VG-centric ENDS formulation may not result in reduced profile for health concerns. Further, it suggests that PG/VG are not a harmless carrier and now popular nicotine-free ENDS formulation may not be considered safe for use in pregnant populations.</p>",
+    "authors": [
+      "Ethan Richlak",
+      "Logan Shope",
+      "Ethan Leonard",
+      "Leslie Sewell",
+      "Tyler Maykovich",
+      "Amr Mohi",
+      "Roy A. Miller",
+      "Matthew W. Gorr",
+      "Loren E. Wold",
+      "James J. Cray"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906844"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327181",
+    "journal": "PLoS_ONE",
+    "title": "Investigating the impact of adventure education on children’s physical, cognitive and socio-emotional development: A mixed method systematic review",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327181",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Ruhina Binta A. Ghani, Patrick W. C. Lau, Nike Lu, Peng Zhou, Jing Jing Wang</p>\n\nThis mixed-method systematic review examines how Adventure Education is perceived by children and its impact on their development. Children’s age ranged between 06–18 years. AE been reported to improve participants’ leadership, self-efficacy, peer support, relationship skills, independence, and the ability to follow instructions. Six quantitative research studies have shown a positive association of AE with various socio-emotional development outcomes. Participants exhibited enhanced resilience, hedonic balance, and life satisfaction. Individuals engaged in AE were found to experience reduced mental health issues and stress levels. One study found that the AE program significantly impacted physical activity outcomes, with effect sizes ranging from 0.029 to 0.663. However, long-term effects could not be definitively concluded due to the lack of follow-up measures of the interventions.",
+    "authors": [
+      "Ruhina Binta A. Ghani",
+      "Patrick W. C. Lau",
+      "Nike Lu",
+      "Peng Zhou",
+      "Jing Jing Wang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906850"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327160",
+    "journal": "PLoS_ONE",
+    "title": "Behavioral and electrophysiological responses of <i>Hippodamia variegata</i> to plant volatiles",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327160",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Yi Wang, Ying Zhang, Tao Zhang, Zihan Li, Tinghui Liu, Yanhui Lu</p>\n\nNatural enemies use odors to find prey in nature. The use of plant volatiles to attract natural enemy insects and promote their feeding on pests has great potential for practical application in integrated pest management. Of the 28 materials tested, ethyl benzoate, octyl formate, methyl jasmonate, and methyl dihydrojasmonate were significantly attractive to <i>H. variegata</i>. We tested the ladybeetle’s behavioral responses to three concentrations of the compounds (100, 10, and 1 µg/µL) and found that high and medium levels were both attractive to <i>H. variegata</i>. In electroantennography (EAG) tests, the response of <i>H. variegata</i> to the above four compounds increased with the increasing concentration. Also, feeding of <i>H. variegata</i> increased in the presence of these plant volatiles under the condition of enclosures. These findings provide a theoretical basis for future behavioral manipulation of this predator under field conditions.",
+    "authors": [
+      "Yi Wang",
+      "Ying Zhang",
+      "Tao Zhang",
+      "Zihan Li",
+      "Tinghui Liu",
+      "Yanhui Lu"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906856"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327050",
+    "journal": "PLoS_ONE",
+    "title": "Retraction: Validation of postnatal growth and retinopathy of prematurity (G-ROP) screening guidelines in a tertiary care hospital of Pakistan: A report from low-middle income country",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327050",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906861"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327042",
+    "journal": "PLoS_ONE",
+    "title": "Expression of Concern: Multiple Low-Dose Radiation Prevents Type 2 Diabetes-Induced Renal Damage through Attenuation of Dyslipidemia and Insulin Resistance and Subsequent Renal Inflammation and Oxidative Stress",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327042",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906867"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327011",
+    "journal": "PLoS_ONE",
+    "title": "The effect of bone marrow mesenchymal stem cell-derived extracellular vesicles on bone mineral density and microstructure in osteoporosis: A systematic review and meta-analysis of preclinical studies",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327011",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Ying Zhang, Xining Xu, Ximei Ren, Zhenghong Li</p>\nObjective <p>The treatment of osteoporosis is challenged by limited bone regeneration and side effects. Bone marrow mesenchymal stem cell-derived extracellular vesicles (BMSC-EVs) have gained widespread attention as a potential therapeutic approach. This study aims to evaluate the effects of BMSC-EVs on bone density, trabecular microstructure, and biomechanical properties in animal models of osteoporosis, providing evidence to support clinical translation and mechanism exploration.</p> Methods <p>A systematic search was conducted in the PubMed, Cochrane, Web of Science, and Embase (inception to January 2025) databases for preclinical studies on BMSC-EV intervention in osteoporosis models. A random-effects model was used to synthesize and analyze seven key parameters (BMD, BV/TV, Tb.N, Tb.Sp, Tb.Th, Ct.Th, and ultimate load-bearing capacity). Subgroup analysis was performed based on species (rats/mice), EVs engineering targets/methods, injection frequency, and treatment duration. The quality of the studies was assessed using SYRCLE’s risk of bias tool.</p> Results <p>The meta-analysis of 10 studies (355 animals) showed that, compared to the control group, BMSC-EV treatment significantly increased BMD, BV/TV, Tb.N, Tb.Th, Ct.Th, and ultimate load-bearing capacity, while reducing Tb.Sp in the osteoporosis model. A publication bias was found in the summary analysis for Tb.N. However, sensitivity analysis confirmed that all summary results were relatively stable.</p> Conclusions <p>Compared to the control group, BMSC-EV treatment demonstrated positive effects in increasing BMD, improving trabecular microstructure, cortical thickness, and biomechanical properties in the osteoporosis model. However, clinical translation still requires standardized EV characterization and preclinical safety assessments.</p>",
+    "authors": [
+      "Ying Zhang",
+      "Xining Xu",
+      "Ximei Ren",
+      "Zhenghong Li"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906874"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327005",
+    "journal": "PLoS_ONE",
+    "title": "Indocyanine green fluorescence lymphography: An exploratory study of superficial lymphatic territories in the head and hind limbs of 33 cat cadavers",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327005",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Alessandra Ubiali, Elisa Maria Gariboldi, Luigi Auletta, Alessia Di Giancamillo, Silvia Clotilde Bianca Modina, Roberta Ferrari, Filippo Tagliasacchi, Valeria Martini, Damiano Stefanello</p>\n\nTo date, animal models for lymphographic studies mainly focused on dog, while lymphography is rarely reported in cats, and even less involving cutaneous lymphatic territories. This study aims to assess the feasibility of cutaneous lymphography using indocyanine green (ICG) fluorescence in cat cadavers and describe predictable lymphatic pathways from cutaneous regions of head and hind limb anatomical districts. Frozen or refrigerated cadavers of adult cats that died for causes unrelated to the study were included. Twenty cutaneous regions (6 from the head; 14 from the hind limb) were selected using easily assessable anatomical landmarks, and expected draining lymphocentrums were presumed based on canine studies since there is no similar information for cats. For each lymphography, a single selected cutaneous region per anatomical district was assessed. After intradermal ICG injections, lymphatic drainage was favored by massage and/or flexion-extension movements. For each lymphography, all expected and detected lymphocentrums were dissected, and lymph nodes extirpated. Variables regarding cadavers and lymphography characteristics were assessed. ICG-lymphography was repeated in 33 cadavers. Out of the 99 selected cutaneous regions available, 15 were excluded following inclusion criteria, therefore lymphographies were performed for a total of 84 selected cutaneous regions (26 from the head and 58 from the hind limbs). A success was recorded in 63/84 (75%) lymphographies, with a median migration time of 8 (1–30) minutes. The ICG drained to the expected lymphocentrum in 28/63 (44%) lymphographies, and to other ones in 35/84 (56%). ICG-lymphography is feasible in cat cadavers, regardless of technique or cadaver characteristics. The observed difference in lymphatic drainage (56% to unexpected lymphocentrums) highlights the importance of specifically mapping lymphatic territories in cats. ICG-lymphography demonstrated as an effective technique and could be used to improve knowledge of feline lymphatic physiology. Further studies may provide a more complete understanding of superficial lymphatic territories in cats.",
+    "authors": [
+      "Alessandra Ubiali",
+      "Elisa Maria Gariboldi",
+      "Luigi Auletta",
+      "Alessia Di Giancamillo",
+      "Silvia Clotilde Bianca Modina",
+      "Roberta Ferrari",
+      "Filippo Tagliasacchi",
+      "Valeria Martini",
+      "Damiano Stefanello"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906879"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326966",
+    "journal": "PLoS_ONE",
+    "title": "Enhancing student success prediction in higher education with swarm optimized enhanced efficientNet attention mechanism",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326966",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Meshari Alazmi, Nasir Ayub</p>\n\nPredicting student performance is crucial for providing personalized support and enhancing academic performance. Advanced machine-learning approaches are being used to understand student performance variables as educational data grows. A big dataset from several Chinese institutions and high schools is used to develop a credible student performance prediction technique. Moreover, the dataset includes 80 features and 200,000 records, and consequently, it represents one of the most extensive data collections available for educational research. Initially, data is passed through preprocessing to address outliers and missing values. In addition, we developed a novel hybrid feature selection model that combined correlation filtering with mutual information, Cross-Validation (CV) along with Recursive Feature Eliminatio (RFE) (R, and stability selection to identify the most impactful features. Moreover, This study develops the proposed EffiXNet, a more refined version of EfficientNet augmented with self-attention mechanisms, dynamic convolutions, improved normalization methods, and Sparrow Search Optimization Algorithm for hyperparameter optimization. The developed model was tested using an 80/20 train-test split, where 160,000 records were used for training and 40,000 for testing. The results reported, including accuracy, precision, recall, and F1-score, are based on the full test dataset. However, for better visualization, the confusion matrices display only a representative subset of test results. Furthermore, the EffiXNet value of AUC amounting to 0.99, a 25% reduction of logarithmic loss relative to the baseline models, precision of 97.8%, F1-score of 98.1%, and reliable optimization of memory usage. Significantly, the developed model showed a consistently high-performance level demonstrated by various metrics, which indicates that it is proficient in capturing intricate data patterns. The key insights the current research provides are the necessity of early intervention and directed training support in the educational domain. The EffiXNet framework offers a robust, scalable, and efficient solution for predicting student performance, with potential applications in academic institutions worldwide.",
+    "authors": [
+      "Meshari Alazmi",
+      "Nasir Ayub"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906884"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326933",
+    "journal": "PLoS_ONE",
+    "title": "Declining harbour seal abundance in a previously recovering meta-population",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326933",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Daire Carroll, Markus P. Ahola, Anja M. Carlsson, Anders Galatius, Kjell T. Nilssen, Tero Härkönen, Karin C. Harding</p>\n\nWe present evidence that the abundance of harbour seals in the Kattegat-Skagerrak is in decline. Until recently, the Kattegat-Skagerrak harbour seal population has grown exponentially as it has recovered from historic over-hunting and two mass mortality events. This has provided an important case study for the influence of environmental factors on population growth. Over recent years, deteriorating average body condition and reduced pup counts in certain colonies have indicated that the population is under stress. At the same time, there has been an increase in hunting in the region which may compound existing environmental stressors. To determine trends in harbour seal abundance, we compile aerial survey data for the Kattegat-Skagerrak and South-Western Baltic Sea (S.W. Baltic) populations between the years 2003 and 2023. With parametric modelling, we find that a logistic growth model is the best fit for aerial survey data from the Kattegat-Skagerrak population, while an exponential growth model is the best fit for data from the smaller S.W. Baltic population. We determine trends by fitting non-parametric Generalised Additive Models (GAMs) to aerial survey data and calculating their first derivative. In the Kattegat-Skagerrak, we estimate an annual decline of – 408 individuals (SE = 242, CI<sub>95%</sub> = [- 882, 67]) at the end of the survey period. This decline represents approximately 3.3% of the estimated mean count in 2023. Rate of change remained positive in the separate S.W. Baltic population throughout the survey period at an estimated annual increase of 54 individuals (SE = 23, CI<sub>95%</sub> = [9,99]), representing approximately 3.9% of mean counts in 2023. We find that the final rate of change was zero or below zero in eleven out of twelve subregions (representing individual colonies) in the Kattegat-Skagerrak. Declining counts in the Kattegat-Skagerrak since the mid-2010s may be influenced by changes in haul-out behaviour as a result of increased population density or vessel traffic. Despite this, declines likely reflect real changes in seal abundance. Changes in abundance may be the result of well documented environmental degradation affecting prey availability and causing regionally lowered birth rates.",
+    "authors": [
+      "Daire Carroll",
+      "Markus P. Ahola",
+      "Anja M. Carlsson",
+      "Anders Galatius",
+      "Kjell T. Nilssen",
+      "Tero Härkönen",
+      "Karin C. Harding"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906888"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326926",
+    "journal": "PLoS_ONE",
+    "title": "Forecasting regional carbon prices in china with a hybrid model based on quadratic decomposition and comprehensive feature screening",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326926",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Yaoyang Yi</p>\n\nIn light of global climate change and the objective of carbon neutrality, the carbon market has become an important tool for the international community to combat climate change. Nonetheless, due to the complexity and non-linear nature of the carbon price, its accurate prediction has always been a research difficulty. This work presents a hybrid model incorporating comprehensive feature screening, optimized quadratic decomposition, and the Optuna-Attention-LSTM prediction method, aiming to improve the accuracy and stability of carbon price prediction. First, the improved complete ensemble empirical mode decomposition with adaptive noise (ICEEMDAN) is used to decompose the carbon price time series once, extract high-frequency and low-frequency components, and denoise the high-frequency components using stacked denoising autoencoder (SDAE). Then, the variational mode decomposition (VMD) method is subsequently employed to execute a secondary decomposition on the reconstructed signal, with the decomposition hyperparameters optimized via crested porcupine optimization (CPO). Subsequently, Boruta and least absolute shrinkage and selection operator (Lasso) regression are employed to identify significant external features; finally, a long short-term memory (LSTM) model integrated with an attention mechanism is utilized for prediction, and optuna is introduced to optimize the hyperparameters. This paper evaluates the performance of the proposed model using the carbon markets of Guangdong, Hubei, and Shanghai in China as examples. The experimental results indicate that compared with the traditional model, the proposed model achieves average reductions of 67.30%, 47.68%, 48.42%, and 48.79% in the mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE), and mean absolute percentage error (MAPE), respectively, demonstrating higher prediction accuracy and robustness. Shapley additive explanations (SHAP) analysis results indicate that carbon prices in the Guangdong carbon market are dominated by macroeconomic and regional environmental factors, while those in the Hubei carbon market are mainly driven by changes in the energy market. The Shanghai carbon market, on the other hand, is more significantly influenced by global carbon market dynamics and international trade activities. The research not only verifies the efficacy of the decomposition ensemble prediction framework, but also provides a scientific basis for decision-making for carbon market participants and policymakers.",
+    "authors": [
+      "Yaoyang Yi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906898"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326925",
+    "journal": "PLoS_ONE",
+    "title": "Study on the mechanical properties of lithium slag recycled fine aggregate concrete",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326925",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Jun Wan, Caisen Wang, Jiongfeng Liang, Yunchen Wang</p>\n\nTo promote the sustainable utilization of industrial solid wastes in concrete applications, this study systematically investigates the combined use of lithium slag (LS) as a cement replacement and recycled fine aggregates (RFA) as a substitute for river sand (RS). Through experimental analysis with a fixed water-cement ratio (0.46), we evaluated the effects of varying LS content (0–40%) and RFA replacement rates (0–30%) on concrete performance. The results indicate that the optimal LS incorporation (20%) enhances compressive strength, splitting tensile strength, and flexural strength by 12.7%, 11.9%, and 9.16%, respectively, while maintaining adequate workability. In contrast, RFA addition caused a linear reduction in mechanical properties, with 30% RFA leading to a 19.07% decrease in compressive strength. However, the addition of LS effectively mitigated the performance losses induced by RFA, providing a compensatory effect. The conversion formulas established between cubic compressive strength and other mechanical parameters demonstrated high correlation coefficients, offering practical guidelines for lithium slag-recycled fine aggregate concrete (LSRFAC) applications. This dual-waste utilization strategy presents an environmentally responsible solution for construction material innovation, addressing both the recycling of industrial byproducts and the conservation of natural resources. Overall, this study provides a sustainable approach to concrete production by reducing environmental burdens and supporting the circular use of industrial and construction waste in structural engineering.",
+    "authors": [
+      "Jun Wan",
+      "Caisen Wang",
+      "Jiongfeng Liang",
+      "Yunchen Wang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906902"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326787",
+    "journal": "PLoS_ONE",
+    "title": "The reverse association between riboflavin intake and Helicobacter pylori infection in US adults: A cross-sectional study",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326787",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Xinyu Xu, Peizhong Chen, Yingyi Li, Xiaoxuan Chen, Yunhui Yan, Zicheng Huang</p>\nObjectives <p>This study aimed to examine the association between dietary riboflavin (vitamin B2) intake and Helicobacter pylori infection prevalence among U.S. adults, addressing the growing interest in nutritional strategies for microbial pathogenesis modulation.</p> Methods <p>We analyzed data from 2,895 participants in the 1999–2000 National Health and Nutrition Examination Survey (NHANES) with complete dietary and H. pylori serology records. Multivariable logistic regression models adjusted for sociodemographic, clinical, and nutritional covariates were employed to assess riboflavin-infection relationships. Dose-response patterns were evaluated using restricted cubic splines, and subgroup analyses tested heterogeneity across population strata.</p> Results <p>The overall H. pylori seropositivity rate was 44.2%. Higher riboflavin intake exhibited a dose-dependent inverse association with infection risk. Compared to the lowest quartile (Q1 ≤ 1.13 mg/day), adjusted odds ratios (95% CI) for Q2 (1.14–1.64 mg/day), Q3 (1.65–2.34 mg/day), and Q4 (≥2.35 mg/day) were 0.77 (0.60–0.99), 0.63 (0.48–0.84), and 0.62 (0.41–0.94), respectively. Spline analysis confirmed a near-linear risk reduction with increasing intake.</p> Conclusion <p>These findings suggest that dietary riboflavin may inversely correlate with H. pylori infection in a dose-responsive manner, potentially mediated through mitochondrial function preservation, oxidative stress reduction, and gut microbiota modulation. While observational design precludes causal inference, the results underscore the need for prospective studies evaluating riboflavin’s role in infection prevention.</p>",
+    "authors": [
+      "Xinyu Xu",
+      "Peizhong Chen",
+      "Yingyi Li",
+      "Xiaoxuan Chen",
+      "Yunhui Yan",
+      "Zicheng Huang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906911"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326786",
+    "journal": "PLoS_ONE",
+    "title": "A Macro-meso damage coupling rock mass damage model based on improved internal crack analysis",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326786",
+    "published": "2025-06-30T14:00:00Z",
+    "summary": "<p>by Haian Liang, Miao He, Hongliang Zhao, Yiru Zhang, Qingrui Lu, Shuren Hao, Zhiying Gong, Hao Guan</p>\n\nThe complex geological genesis and different geological environments of rocks can lead to defects such as micropores, microcracks, and joints, resulting in the degradation of their engineering mechanical properties. In order to describe the deformation and failure mechanisms of jointed rock, a rock damage constitutive model that accounts for the geometric parameters and mechanical properties of internal joints within the rock is proposed. By leveraging the principles of damage mechanics and the Lemaitre strain equivalence hypothesis, macroscopic and microscopic damages in rock were combined, ultimately resulting in the development of a damage constitutive model that encompassed both scales of damage. The damage constitutive model was verified by uniaxial compression tests of clay-like rock under different joint dip angles and joint area combinations. The results indicated that the proposed damage constitutive model had clear physical significance and could fully reflect the process of rock failure, which was highly consistent with experimental results. The model parameter <i>m</i> reflected the brittleness of jointed rocks, while <i>F</i>₀ reflected the average strength of jointed rocks. The combination of macroscopic and microscopic analysis methods used in this study is reasonable, and the established damage constitutive model reflects the mechanical behavior of rocks and fits the experimental results well.",
+    "authors": [
+      "Haian Liang",
+      "Miao He",
+      "Hongliang Zhao",
+      "Yiru Zhang",
+      "Qingrui Lu",
+      "Shuren Hao",
+      "Zhiying Gong",
+      "Hao Guan"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906916"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-01795-9",
+    "journal": "Nature_CompBio",
+    "title": "An openEHR based infection control system to support monitoring of nosocomial bacterial clusters and contacts",
+    "link": "https://www.nature.com/articles/s41746-025-01795-9",
+    "published": "2025-06-30T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Pascal Biermann et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906926"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43588-025-00816-7",
+    "journal": "Nature_CompBio",
+    "title": "Predicting adverse drug reactions for combination pharmacotherapy with cross-scale associative learning via attention modules",
+    "link": "https://www.nature.com/articles/s43588-025-00816-7",
+    "published": "2025-06-30T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Boyang Li et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906930"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119449",
+    "journal": "MIT_TechReview",
+    "title": "Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man",
+    "link": "https://www.technologyreview.com/2025/06/30/1119449/hhs-robert-f-kennedy-jr-jim-oneill-longevity-maha/",
+    "published": "Mon, 30 Jun 2025 09:00:00 +0000",
+    "summary": "When Jim O’Neill was nominated to be the second in command at the US Department of Health and Human Services, Dylan Livingston was excited. As founder and CEO of the lobbying group Alliance for Longevity Initiatives (A4LI), Livingston is a member of a community that seeks to extend human lifespan. O’Neill is “kind of one&#8230;",
+    "authors": [
+      "Jessica Hamzelou"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906948"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/062500402/",
+    "journal": "Nikkei_BioTech",
+    "title": "特集◎国内製薬企業のパイプライン分析2025【企業編】（その2）、第一三共、大塚HD、中外製薬のパイプラインを解説",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/062500402/",
+    "published": "",
+    "summary": "「国内製薬企業のパイプライン分析2025」から、第一三共、大塚ホールディングス（HD）、中外製薬のパイプラインを解説する。第一三共はがんのプロジェクトが大幅に増加。大塚HDはがん及び神経・精神領域でライフサイクルマネジメントを進めており、中外製薬は多くの多重特異性抗体候補を保有している。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906972"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/26/13465/",
+    "journal": "Nikkei_BioTech",
+    "title": "Spiber、蛋白質の生産性向上など受け、建設予定の量産プラントは小規模化の方針",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/26/13465/",
+    "published": "",
+    "summary": "微生物発酵で生産した蛋白質を事業化しているSpiber（山形県鶴岡市、関山和秀取締役兼代表執行役）が、蛋白質の量産化計画を変更する見通しだ。為替の影響や物価上昇で建設費が膨らんだことや、蛋白質の生産技術の改良で生産性が高まったことなどを受け、米国に建設予定の量産プラントを計画当初よりも小規模にする方針を取る。2025年6月24日、同社の関山和秀取締役兼代表執行役が本誌の取材に応じ、今後の資金繰りや設備投資の計画について語った。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906977"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13470/",
+    "journal": "Nikkei_BioTech",
+    "title": "Lilly社、米Verve社買収で心血管リスクの高い患者向け遺伝子編集療法の開発推進",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13470/",
+    "published": "",
+    "summary": "米Eli Lilly and Company（イーライリリー・アンド・カンパニー）社は2025年6月17日、心血管代謝疾患に対するin vivo遺伝子編集療法を開発している米Verve Therapeutics（ヴァーヴ・セラピューティクス）社の買収に関する正式契約を締結したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906981"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/30/13477/",
+    "journal": "Nikkei_BioTech",
+    "title": "大阪大・名古屋大・NIBN、腹膜播種を伴う胃がんに対するアンチセンス核酸の第1相医師主導治験を開始",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/30/13477/",
+    "published": "",
+    "summary": "大阪大学と名古屋大学、医薬基盤・健康・栄養研究所（NIBN）は2025年6月30日、腹腔内にがん細胞が散らばって転移する腹膜播種を伴う胃がんの患者を対象として、新規のアンチセンス核酸（ASO）の第1相医師主導治験を開始したと発表した。抗がん薬など既存療法での治療が難しい腹膜播種のある患者を対象に、synaptotagmin 13（SYT13）遺伝子を標的としたASOのASO-4733（開発番号）を投与する。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906988"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13471/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Vertex社、1型糖尿病への他家幹細胞由来の膵島細胞療法の第1/2相で好結果",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13471/",
+    "published": "",
+    "summary": "米Vertex Pharmaceuticals（バーテックス・ファーマシューティカルズ）社は2025年6月20日、他家幹細胞由来の完全分化型膵島細胞療法であるzimislecel（開発番号：VX-880）を、低血糖を自覚しにくく、重症低血糖イベント（SHE）を経験している1型糖尿病（T1D）患者に適用した、第1/2/3相臨床試験（FORWARD-101）の第1/2相部分の最新データが、米国シカゴで開催された米糖尿病学会（ADA）第85回学術集会（ADA2025）で口頭発表されたことを明らかにした。報告されたデータをまとめた論文は、New England Journal of Medicine（NEJM）誌で同時公開された。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-06-30T22:07:49.906993"
   }
 ]
