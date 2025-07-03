@@ -24,30 +24,6 @@
       "update_interval_hours": 12,
       "description": "Cell journal RSS feed"
     },
-    "NEJM": {
-      "url": "https://www.nejm.org/action/showFeed?type=etoc&feed=rss",
-      "enabled": true,
-      "priority": "high",
-      "parser_type": "nejm",
-      "update_interval_hours": 24,
-      "description": "New England Journal of Medicine RSS feed"
-    },
-    "PNAS": {
-      "url": "https://www.pnas.org/rss/current.xml",
-      "enabled": true,
-      "priority": "medium",
-      "parser_type": "pnas", 
-      "update_interval_hours": 12,
-      "description": "Proceedings of the National Academy of Sciences RSS feed"
-    },
-    "PLoS_ONE": {
-      "url": "https://journals.plos.org/plosone/feed/atom",
-      "enabled": true,
-      "priority": "medium",
-      "parser_type": "plos",
-      "update_interval_hours": 12,
-      "description": "PLoS ONE journal RSS feed"
-    },
     "Nature_SystemsBiology": {
       "url": "https://www.nature.com/subjects/systems-biology.atom",
       "enabled": true,
@@ -56,14 +32,6 @@
       "update_interval_hours": 12,
       "description": "Nature Systems Biology subject feed",
       "filter_keywords": ["systems biology", "network", "omics", "computational biology"]
-    },
-    "NAR": {
-      "url": "https://academic.oup.com/rss/site_5139/3001.xml",
-      "enabled": true,
-      "priority": "high",
-      "parser_type": "oup",
-      "update_interval_hours": 12,
-      "description": "Nucleic Acids Research journal RSS feed"
     },
     "Cell_Reports": {
       "url": "https://www.cell.com/cell-reports/current.rss",
@@ -132,27 +100,6 @@
       "article_url_patterns": ["cell/fulltext"],
       "research_article_pattern": "cell/fulltext",
       "exclude_news": true
-    },
-    "nejm": {
-      "article_url_patterns": ["doi/full/10.1056"],
-      "research_article_pattern": "doi/full/10.1056",
-      "exclude_news": false
-    },
-    "pnas": {
-      "article_url_patterns": ["content/", "doi/"],
-      "research_article_pattern": "content/",
-      "exclude_news": true
-    },
-    "plos": {
-      "article_url_patterns": ["article?id="],
-      "research_article_pattern": "article?id=",
-      "exclude_news": true
-    },
-    "oup": {
-      "article_url_patterns": ["article/", "advance-article/"],
-      "research_article_pattern": "article/",
-      "exclude_news": true,
-      "special_handling": "oxford"
     },
     "generic": {
       "article_url_patterns": [],
