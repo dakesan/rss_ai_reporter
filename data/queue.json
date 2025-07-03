@@ -1,357 +1,5 @@
 [
   {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327195",
-    "journal": "PLoS_ONE",
-    "title": "Study on static and dynamic performance of aircraft maintenance hangar under multiple load combinations",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327195",
-    "published": "2025-06-26T14:00:00Z",
-    "summary": "<p>by Xiaolan Liu, Zhihua Chen, Fengheng Zhu, Hao Chen</p>\n\nTo analyze the collaborative work performance of the roof structure and the lower support structure for the aircraft maintenance hangar, a numerical model of a single-span aircraft maintenance hangar is established to study the static and dynamic mechanical responses under various load combinations. Results show that the primary axial force and bending moment responses are concentrated in the main truss and the lower support column. The maximum compression occurs at the upper section of the two main trusses, while the maximum tension appears at the mid-span of the lower inner truss near the hangar gate. The displacement of the main truss exceeds that of the secondary truss, with the roof’s mid-span displacement being greater than that at the edges. The maximum support reactions occur at the main truss support column, the secondary truss column of the rear gable wall, and the lateral bracing between double-angle steel columns. The first three vibration modes and frequencies are highly susceptible to excitation and contribute significantly to the structure’s seismic response. This study provides critical theoretical support for the design of large-span aircraft maintenance hangars. The findings can guide optimized design strategies to enhance structural safety and efficiency, contributing to advancements in long-span hangar construction and maintenance practices.",
-    "authors": [
-      "Xiaolan Liu",
-      "Zhihua Chen",
-      "Fengheng Zhu",
-      "Hao Chen"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-26T22:07:43.679679"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327015",
-    "journal": "PLoS_ONE",
-    "title": "Scholarly publishing’s hidden diversity: How exclusive databases sustain the oligopoly of academic publishers",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327015",
-    "published": "2025-06-26T14:00:00Z",
-    "summary": "<p>by Simon van Bellen, Juan Pablo Alperin, Vincent Larivière</p>\n\nGlobal scholarly publishing has been dominated by a small number of publishers for several decades. This paper revisits the data on corporate control of scholarly publishing by analyzing the relative shares of scholarly journals and articles published by the major publishers and the “long tail” of smaller, independent publishers, using Dimensions and Web of Science (WoS). The reduction of expenses for printing and distribution and the availability of open-source journal management tools may have contributed to the emergence of small publishers, while recently developed inclusive databases may allow for the study of these. Dimensions’ inclusive indexing revealed the number of scholarly journals and articles published by smaller publishers has been growing rapidly, especially since the onset of large-scale online publishing around 2000, resulting in a higher share of articles from smaller publishers. In parallel, WoS shows increasing concentration within a few corporate publishers. For the 1980–2021 period, we retrieved 32% more articles from Dimensions compared to the more selective WoS. Dimensions’ data showed the expansion of small publishers was most pronounced in the Social Sciences and the Arts and Humanities, but a similar trend is observed in the Natural Sciences and Engineering, and the Health Sciences. A major geographical divergence is also revealed, with English-speaking countries and/or those located in northwestern Europe relying heavily on major publishers for the dissemination of their research, while the rest of the world being relatively independent of the oligopoly. Finally, independent journals publish more often in open access in general, and in Diamond open access in particular. We conclude that enhanced indexing and visibility of recently created, independent journals may favour their growth and stimulate global scholarly bibliodiversity.",
-    "authors": [
-      "Simon van Bellen",
-      "Juan Pablo Alperin",
-      "Vincent Larivière"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-26T22:07:43.679706"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326755",
-    "journal": "PLoS_ONE",
-    "title": "Impact of out-of-pocket expenses on children with cancer in Tanzania: A mixed-methods economic study",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326755",
-    "published": "2025-06-26T14:00:00Z",
-    "summary": "<p>by Emily R. Smith, Pamela Espinoza, Happiness D. Kajoka, Henry E. Rice, Madeline Metcalf, Anna Tupetz, Cesia Cotache-Condor, Blandina T. Mmbaga, Catherine Staton, Esther Majaliwa</p>\nBackground <p>For children with cancer in low- and middle-income countries, medical and non-medical expenses are often paid through out-of-pocket (OOP) expenditures, which pose significant barriers to timely care. Our study aims to estimate the impact of OOP expenditures for cancer care for children in Tanzania through a mixed-methods approach.</p> Methods <p>We used an explanatory mixed-method design to evaluate the impact of OOP expenditures for children receiving cancer care at the Kilimanjaro Christian Medical Center in Tanzania based on the Three Delays Framework. Quantitative data were collected to measure OOP expenditures and to assess the risk of catastrophic health expenditure or depth of impoverishment associated. Qualitative interviews were conducted to evaluate financial barriers and facilitators to care and were analyzed using thematic content analysis. Qualitative and quantitative data were triangulated to compare themes, identify areas of agreement or dissonance, and assess for complementarity.</p> Results <p>Thirteen caregivers of children with cancer at KCMC formed the study cohort. Most lived in a rural setting (92%) and were farmers or livestock keepers (68%). Quantitative analysis showed that total median OOP health expenditures were $53.01 (IQR: 26.50–106.01). All families were pushed further into poverty from the OOP expenses as shown by widening poverty gaps. Qualitative interviews revealed several themes related to financial challenges for families with cancer, particularly during the time period prior to definitive care including worry about job losses and having to sell assets to reach care. Data triangulation confirmed strong agreement between qualitative and quantitative data on the impact of financial barriers on care. However, families stated higher OOP costs in qualitative interviews compared to quantitative data.</p> Conclusions <p>Protecting families from impoverishment by reducing OOP costs during time periods prior to receiving definitive care may be a strategic way to improve timely diagnosis and early treatment for children with cancer.</p>",
-    "authors": [
-      "Emily R. Smith",
-      "Pamela Espinoza",
-      "Happiness D. Kajoka",
-      "Henry E. Rice",
-      "Madeline Metcalf",
-      "Anna Tupetz",
-      "Cesia Cotache-Condor",
-      "Blandina T. Mmbaga",
-      "Catherine Staton",
-      "Esther Majaliwa"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-26T22:07:43.679770"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326742",
-    "journal": "PLoS_ONE",
-    "title": "Ivermectin inhibits epithelial-to-mesenchymal transition via Wnt signaling in endocrine-resistant breast cancer cells",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326742",
-    "published": "2025-06-26T14:00:00Z",
-    "summary": "<p>by Kitiya Rujimongkon, Patthamapon Adchariyasakulchai, Phum Meeprasertskul, Wannarasmi Ketchart</p>\n\nIvermectin (IVM), an antiparasitic drug, has been explored for its anticancer properties in various cancer types, including breast cancer. Endocrine therapy resistance poses a significant challenge in breast cancer treatment, often leading to metastasis prevention failure. This study aimed to investigate the effects of IVM on endocrine-resistant breast cancer cells, focusing on mechanisms associated with epithelial-to-mesenchymal transition (EMT). IVM was administered to endocrine-resistant breast cancer cell lines, MCF-7/LCC2 (tamoxifen resistant) and MCF-7/LCC9 (fulvestrant resistant), to evaluate its influence on cell proliferation, invasion, and EMT-related mechanisms. The findings indicated that IVM’s half-maximum inhibitory concentration (IC<sub>50</sub>) inhibited MCF-7/LCC2 and MCF-7/LCC9 at 9.35 and 9.06 µM, respectively, within 24 h of treatment. Moreover, IC<sub>50</sub> concentration treatment for 24 h led to over a 50% reduction in cell motility and a 62% and 35% decrease in cell invasion in MCF-7/LCC2 and MCF-7/LCC9 cells, respectively. Metastasis biomarkers demonstrated that IVM treatment reduced the expression of vimentin and snail. The study also discovered that IVM diminished the expression of Wnt5a/b and lipoprotein receptor-related protein 6 (LRP6), associated with the metastasis-related Wnt signaling pathway. In conclusion, IVM inhibits the Wnt signaling pathway associated with EMT in the metastasis of endocrine-resistant breast cancer cells. These insights underscore the potential of repurposing IVM for endocrine-resistant breast cancer patients.",
-    "authors": [
-      "Kitiya Rujimongkon",
-      "Patthamapon Adchariyasakulchai",
-      "Phum Meeprasertskul",
-      "Wannarasmi Ketchart"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-26T22:07:43.679781"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326684",
-    "journal": "PLoS_ONE",
-    "title": "Level and determinants of pentavalent vaccine dropout during infancy: A hierarchical analysis of community-level longitudinal study",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326684",
-    "published": "2025-06-26T14:00:00Z",
-    "summary": "<p>by Tariku Tesfaye Bekuma, Assefa Seme, Saifuddin Ahmed, Muluemebet Abera</p>\nBackground <p>An estimated 23 million children under the age of one do not get the recommended basic vaccinations globally, and Ethiopia is one of the 10 countries where almost 60% of these children live. The alarming decline in childhood vaccination is leaving millions of children at risk of devastating but preventable diseases. Vaccination dropout poses a significant challenge in ensuring that children receive the full protection provided by vaccines. In Ethiopia, individual vaccine coverage has improved, but the proportion of fully vaccinated children with all recommended vaccines remains low. The study aimed to examine the level and determinants of pentavalent vaccine dropouts during infancy.</p> Methods <p>The study utilized data from the PMA Ethiopia panel survey, which was conducted in three regions: Amhara, Oromia, and the former SNNP. A multi-stage cluster design with urban-rural stratification was used to draw a probability sample of households and women of reproductive age. We employed a multilevel logistic regression analysis in light of the hierarchically clustered nature of PMA data and the results are reported in odds ratio. The measures of variation were explained by intra-cluster correlation, median odds ratio, and proportional change in variance.</p> Results <p>A total of 1295 infants were included in the final analysis. The result shows that a dropout from the first to the third dose of pentavalent was 37.48%. Pentavalent dropout rates were about two times (AOR = 1.84, 95% CI: 1.24–2.72) higher for infants born at home than for babies born at a health facility, and two times (AOR = 1.77, 95% CI: 1.04 2.99) higher for infants born to mothers who perceived the community did not support postnatal care than for babies born to mothers who believed the community supported it. Infants whose mothers had trouble accessing PNC following the COVID-19 pandemic were dropped out of Pentavalent five times higher (AOR = 5.06, 95% CI: 1.32–19.48). Pentavalent dropout is more than three times (AOR = 3.78, 95% CI: 1.75–8.16) higher among those who lived in the former SNNP region and more than two times (AOR = 2.75, 95% CI: 1.17–6.43) higher among infants born to mothers who lived in a community with a high level of poverty.</p> Conclusion and recommendation <p>The dropout rate from the first to the third pentavalent vaccine is higher than what has been reported in other studies in Ethiopia and abroad. Residing in a high-poverty community, giving birth at home, perceiving that the community did not support postnatal care, and having trouble accessing PNC following COVID 19 significantly determined pentavalent dropout. Improving health education, healthcare access, institutional delivery, and the health systems linkage are therefore essential to addressing these problems in the targeted population.</p>",
-    "authors": [
-      "Tariku Tesfaye Bekuma",
-      "Assefa Seme",
-      "Saifuddin Ahmed",
-      "Muluemebet Abera"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-26T22:07:43.679806"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1119379",
-    "journal": "MIT_TechReview",
-    "title": "The Download: Google DeepMind’s DNA AI, and heatwaves’ impact on the grid",
-    "link": "https://www.technologyreview.com/2025/06/26/1119379/the-download-google-deepminds-dna-ai-and-heatwaves-impact-on-the-grid/",
-    "published": "Thu, 26 Jun 2025 12:10:00 +0000",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s new AI will help researchers understand how our genes work When scientists first sequenced the human genome in 2003, they revealed the full set of DNA instructions that make a person. But&#8230;",
-    "authors": [
-      "Rhiannon Williams"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-26T22:07:43.679833"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02024-9",
-    "journal": "Nature",
-    "title": "Exclusive: NIH still screens grants in process a judge ruled illegal",
-    "link": "https://www.nature.com/articles/d41586-025-02024-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02024-9\">doi:10.1038/d41586-025-02024-9</a></p>Directives by the Trump administration are still being applied to grant materials despite court order.",
-    "authors": [
-      "Max Kozlov"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512016"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01958-4",
-    "journal": "Nature",
-    "title": "Arrests of scientists over smuggled samples add to US border anxiety",
-    "link": "https://www.nature.com/articles/d41586-025-01958-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01958-4\">doi:10.1038/d41586-025-01958-4</a></p>Nature talks to legal and other specialists about the cases and what to watch out for when transporting lab materials.",
-    "authors": [
-      "Humberto Basilio"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512029"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02011-0",
-    "journal": "Nature",
-    "title": "Can AI build a virtual cell? Scientists race to model life’s smallest unit",
-    "link": "https://www.nature.com/articles/d41586-025-02011-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02011-0\">doi:10.1038/d41586-025-02011-0</a></p>Several groups hope to develop artificial-intelligence models that can predict how cells behave.",
-    "authors": [
-      "Ewen Callaway"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512037"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02009-8",
-    "journal": "Nature",
-    "title": "First independent survey of deaths in Gaza reports more than 80,000 fatalities",
-    "link": "https://www.nature.com/articles/d41586-025-02009-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02009-8\">doi:10.1038/d41586-025-02009-8</a></p>Results align with other efforts to count the number of people killed amid the ongoing conflict.",
-    "authors": [
-      "Rachel Fieldhouse"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512042"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02029-4",
-    "journal": "Nature",
-    "title": "Niède Guidon obituary: Brazilian archaeologist who upended ideas on early human migration",
-    "link": "https://www.nature.com/articles/d41586-025-02029-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02029-4\">doi:10.1038/d41586-025-02029-4</a></p>Researcher used carbon dating to provide evidence that humans had arrived in Brazil much earlier than previously thought.",
-    "authors": [
-      "Meghie Rodrigues"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512048"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01993-1",
-    "journal": "Nature",
-    "title": "Killer whales exfoliate each other with home-made scrubbers",
-    "link": "https://www.nature.com/articles/d41586-025-01993-1",
-    "published": "",
-    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-01993-1\">doi:10.1038/d41586-025-01993-1</a></p>Kelp ‘loofahs’ might be first example of toolmaking by marine mammals.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512053"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02025-8",
-    "journal": "Nature",
-    "title": "Daily briefing: Researchers re-enact an epic ancient canoe trip",
-    "link": "https://www.nature.com/articles/d41586-025-02025-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02025-8\">doi:10.1038/d41586-025-02025-8</a></p>Researchers have shown how Stone Age people might have canoed from Taiwan to Japan more than 30,000 years ago by doing it themselves. Plus, cancer cells can steal energy-making machinery from nerve cells and what the battle between the Trump administration and Harvard University means for science.",
-    "authors": [
-      "Jacob Smith"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512057"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02000-3",
-    "journal": "Nature",
-    "title": "RFK Jr’s vaccine advisers vote down flu-shot ingredient — but back some jabs",
-    "link": "https://www.nature.com/articles/d41586-025-02000-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 26 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02000-3\">doi:10.1038/d41586-025-02000-3</a></p>Thimerosal is found in only a small fraction of US vaccine doses but has long been viewed with suspicion by the anti-vaccination community.",
-    "authors": [
-      "Mariana Lenharo"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512065"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02012-z",
-    "journal": "Nature",
-    "title": "Daily briefing: The neuroscience behind eureka moments",
-    "link": "https://www.nature.com/articles/d41586-025-02012-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 25 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02012-z\">doi:10.1038/d41586-025-02012-z</a></p>Scientists are digging into the regions of the brain involved in lightbulb moments. Plus, the man o’ war is at least four species and whether mega-funders can rescue a highly cited health database hit by US cuts.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512069"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.ztsett1",
-    "journal": "Science",
-    "title": "UV-C light kills nearly everything—except this unusual organism",
-    "link": "https://www.science.org/content/article/uv-c-light-kills-nearly-everything-except-unusual-organism",
-    "published": "",
-    "summary": "Built-in Sun protection might be a blueprint for surviving in space",
-    "authors": [
-      "Hannah Richter"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512075"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z1xb4c8",
-    "journal": "Science",
-    "title": "China’s massive coastal restoration project could backfire",
-    "link": "https://www.science.org/content/article/china-s-massive-coastal-restoration-project-could-backfire",
-    "published": "",
-    "summary": "Study finds that efforts to replace an invasive weed could spike greenhouse gas emissions in the region",
-    "authors": [
-      "Sahas Mehra"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512080"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326923",
-    "journal": "PLoS_ONE",
-    "title": "Coping strategies of Ghanaian couples after unsuccessful infertility treatment: An exploratory qualitative study",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326923",
-    "published": "2025-06-27T14:00:00Z",
-    "summary": "<p>by Stephen Mensah Arhin, Kwesi Boadu Mensah, Isaac Tabiri Henneh, Felix Yirdong, Evans Kofi Agbeno, Charles Ansah, Martins Ekor</p>\nBackground <p>Psychological distress and social burdens associated with infertility among couples have been well-documented. However, little is known about the specific coping strategies employed by couples in low-middle-income countries such as Ghana, in the aftermath of unsuccessful infertility treatment attempts. In this qualitative study, we explored specific coping strategies patients adopt to address psychological distress related to unsuccessful treatment for infertility.</p> Methods <p>A semi-structured interview approach was used to elicit qualitative responses from 18 fertility clients after unsuccessful treatment at four fertility clinics in Ghana. Thematic analysis (TA) was used to examine the coping strategies adopted by participants in response to psychological distress associated with infertility treatment failures. This allowed us to explore potential culturally specific coping strategies employed by participants in response to infertility-related psychological distress.</p> Results <p>The themes that emerged as coping strategies in response to infertility-related psychological distress were diversional activities, intrapersonal cognitive reframing, social isolation, familial support, religious coping, avoidance-focused coping strategies, seeking encouragement, and professional help.</p> Conclusion <p>The findings from this study indicate that coping strategies that involve isolating oneself may not provide lasting emotional relief for individuals experiencing infertility. Relational activities contribute positively to coping. This is relevant in helping health professionals in the management of infertility treatment failures, which may include setting up support groups of similar experiences to draw strength from each. Furthermore, the results underscore the need to integrate psychological interventions into the counseling of couples following an unsuccessful infertility treatment. The clinical and research implications of these findings are discussed.</p>",
-    "authors": [
-      "Stephen Mensah Arhin",
-      "Kwesi Boadu Mensah",
-      "Isaac Tabiri Henneh",
-      "Felix Yirdong",
-      "Evans Kofi Agbeno",
-      "Charles Ansah",
-      "Martins Ekor"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512161"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326701",
-    "journal": "PLoS_ONE",
-    "title": "Heavy metal distribution and ecological risk in surface sediments of the Bohai Sea",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326701",
-    "published": "2025-06-27T14:00:00Z",
-    "summary": "<p>by Shilin Li, Jianlei Chen, Xuzhi Zhang, Jianshe Zhang, Yongjiang Xu, Yong Xu</p>\n\nHeavy metal contamination in marine sediments poses significant ecological risks, particularly in semi-enclosed seas like the Bohai Sea, where limited water exchange exacerbates pollution retention. Heavy metals are persistent, bioaccumulative, and toxic, making their assessment crucial for environmental management. This study investigated the spatial distribution, seasonal dynamics, and potential ecological risks of heavy metal contamination in the central Bohai Sea, with an emphasis on regulatory interventions and anthropogenic influences. The annual average concentrations of Cu, Zn, Pb, Cd, Hg and As in surface sediments were 15.951, 32.556, 15.234, 0.250, 0.028 and 2.628 mg/kg, respectively, all below China’s Class I Marine Sediment Quality Standards. Seasonal variations revealed peak concentrations in August for Zn, Pb, Hg and As, likely driven by increased terrestrial inputs and hydrodynamic conditions. Cd exhibited the highest ecological risk, with a single-factor risk index exceeding 30 in May, followed by Hg, Pb, Cu, As and Zn. The comprehensive pollution index remained below 5 across all seasons, indicating overall low pollution levels. However, localized exceedances of Class I standards for Cu, Pb and Cd were observed, particularly in summer and autumn. Spatially, metal concentrations were higher near industrial and riverine discharge zones, with anthropogenic sources such as petrochemical industries, aquaculture, and urban runoff contributing significantly. This study highlighted seasonal and spatial heterogeneity in heavy metal contamination in the central Bohai Sea, emphasizing the influence of industrial activities and hydrodynamic processes. While overall pollution levels were low, the high ecological risk associated with Cd underscores the need for continued monitoring and targeted pollution control measures. Strengthening enforcement of industrial regulations, improving sediment management, and addressing seasonal fluctuations in pollutant inputs were critical for mitigating future risks. These findings provided a scientific foundation for sustainable marine environmental management and policy formulation in the Bohai Sea.",
-    "authors": [
-      "Shilin Li",
-      "Jianlei Chen",
-      "Xuzhi Zhang",
-      "Jianshe Zhang",
-      "Yongjiang Xu",
-      "Yong Xu"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-06-27T22:07:42.512191"
-  },
-  {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0326687",
     "journal": "PLoS_ONE",
     "title": "Synergistic effects of notoginsenoside R1 and saikosaponin B2 in atherosclerosis: A novel approach targeting PI3K/AKT/mTOR pathway and macrophage autophagy",
@@ -4003,6 +3651,584 @@
     "added_at": "2025-07-02T22:07:46.008499"
   },
   {
+    "id": "https://www.nature.com/articles/d41586-025-02021-y",
+    "journal": "Nature",
+    "title": "Poo of farm animals teems with drug-resistance genes",
+    "link": "https://www.nature.com/articles/d41586-025-02021-y",
+    "published": "",
+    "summary": "<p>Nature, Published online: 03 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02021-y\">doi:10.1038/d41586-025-02021-y</a></p>A global map reveals the prevalence of thousands of genes that arm pathogens against antibiotics.",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518376"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02104-w",
+    "journal": "Nature",
+    "title": "Neanderthals boiled bones in 'fat factories' to enrich their lean diet",
+    "link": "https://www.nature.com/articles/d41586-025-02104-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 03 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02104-w\">doi:10.1038/d41586-025-02104-w</a></p>Germany digs reveal a large-scale operation 100,000 years earlier than oldest known fat rendering by modern humans.",
+    "authors": [
+      "Katie Kavanagh"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518390"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02112-w",
+    "journal": "Nature",
+    "title": "How we’re rebuilding the Weizmann Institute — and our hopes for a better future",
+    "link": "https://www.nature.com/articles/d41586-025-02112-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 03 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02112-w\">doi:10.1038/d41586-025-02112-w</a></p>Scientific research is at the heart of Israel’s success and has worldwide benefits. Our work will continue despite adversity.",
+    "authors": [
+      "Alon Chen"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518400"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02110-y",
+    "journal": "Nature",
+    "title": "‘Tour de force’ experiment probes quantum tunnelling in action",
+    "link": "https://www.nature.com/articles/d41586-025-02110-y",
+    "published": "",
+    "summary": "<p>Nature, Published online: 03 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02110-y\">doi:10.1038/d41586-025-02110-y</a></p>Probing photons inside a barrier also challenges a long-standing interpretation of quantum physics.",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518405"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02141-5",
+    "journal": "Nature",
+    "title": "Rare find: interstellar visitor seen blazing through our Solar System",
+    "link": "https://www.nature.com/articles/d41586-025-02141-5",
+    "published": "",
+    "summary": "<p>Nature, Published online: 03 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02141-5\">doi:10.1038/d41586-025-02141-5</a></p>The comet-like body called either C/2025 N1 or 3I/ATLAS is now zipping past Jupiter.",
+    "authors": [
+      "Nicola Jones"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518410"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-01983-3",
+    "journal": "Nature",
+    "title": "Academic language has become a proxy for European culture wars",
+    "link": "https://www.nature.com/articles/d41586-025-01983-3",
+    "published": "",
+    "summary": "<p>Nature, Published online: 03 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-01983-3\">doi:10.1038/d41586-025-01983-3</a></p>Some European governments are rethinking the use of English in universities, exposing tensions between internationalization and national priorities.",
+    "authors": [
+      "Linda Nordling"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518418"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02106-8",
+    "journal": "Nature",
+    "title": "Home medical tests miss the mark",
+    "link": "https://www.nature.com/articles/d41586-025-02106-8",
+    "published": "",
+    "summary": "<p>Nature, Published online: 03 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02106-8\">doi:10.1038/d41586-025-02106-8</a></p>Kits sold directly to consumers to check a variety of health metrics provide little value when it comes to guiding health decisions.",
+    "authors": [
+      "Cassandra Willyard"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518422"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02119-3",
+    "journal": "Nature",
+    "title": "Daily briefing: A unique methane-detecting satellite has been lost",
+    "link": "https://www.nature.com/articles/d41586-025-02119-3",
+    "published": "",
+    "summary": "<p>Nature, Published online: 02 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02119-3\">doi:10.1038/d41586-025-02119-3</a></p>MethaneSAT, a satellite designed to detect sources of the most powerful greenhouse gas, has been lost 15 months into its 5-year mission. Plus, how brain scans can reveal the pace of biological ageing and what it’s like to do science with an AI team.",
+    "authors": [
+      "Flora Graham"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518428"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02097-6",
+    "journal": "Nature",
+    "title": "Signs of AI-generated text found in 14% of biomedical abstracts last year",
+    "link": "https://www.nature.com/articles/d41586-025-02097-6",
+    "published": "",
+    "summary": "<p>Nature, Published online: 02 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02097-6\">doi:10.1038/d41586-025-02097-6</a></p>Abstracts included telltale words, such as ‘unparalleled’ and ‘invaluable’, that are common in text generated by large language models.",
+    "authors": [
+      "Smriti Mallapaty"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518433"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zdf1uzq",
+    "journal": "Science",
+    "title": "NIH restores grants to South Africa scientists, adds funding option for other halted foreign projects",
+    "link": "https://www.science.org/content/article/nih-restores-grants-south-africa-scientists-adds-funding-option-other-halted-foreign",
+    "published": "",
+    "summary": "A policy tweak to the ban on foreign “subawards” should allow clinical trials worldwide to continue",
+    "authors": [
+      "Jocelyn Kaiser"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518438"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.z3l40m7",
+    "journal": "Science",
+    "title": "Ancient wooden tools show human ancestors ate their veggies",
+    "link": "https://www.science.org/content/article/ancient-wooden-tools-show-human-ancestors-ate-their-veggies",
+    "published": "",
+    "summary": "Found in China, 300,000-year-old digging sticks reveal a lost technology",
+    "authors": [
+      "Andrew Curry"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518442"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zn5lm7q",
+    "journal": "Science",
+    "title": "Genetic evidence that our brains make new neurons in adulthood may close a century-old debate",
+    "link": "https://www.science.org/content/article/genetic-evidence-our-brains-make-new-neurons-adulthood-may-close-century-old-debate",
+    "published": "",
+    "summary": "Cells from human brain tissue have genetic hallmarks of neural progenitors, AI-aided study finds",
+    "authors": [
+      "Annika Inampudi"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518446"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.z8z2rnz",
+    "journal": "Science",
+    "title": "Exclusive: Famed protein structure competition nears end as NIH grant money runs out",
+    "link": "https://www.science.org/content/article/exclusive-famed-protein-structure-competition-nears-end-nih-grant-money-runs-out",
+    "published": "",
+    "summary": "Agency silent on funding renewal for contest that inspired creation of AIs that predicted how proteins would fold",
+    "authors": [
+      "Robert F. Service"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518451"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327757",
+    "journal": "PLoS_ONE",
+    "title": "Postoperative joint pain is associated with long-term all-cause mortality after total joint arthroplasty",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327757",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Ming Liu, Andrew Furey, Proton Rahman, Guangju Zhai</p>\n\nThe aims of this study were to assess (1) if postoperative joint pain can predict long-term all-cause mortality after total joint arthroplasty (TJA), and (2) if postoperative joint pain was associated with causes of death (COD) in TJA patients. Patients who underwent total knee or hip arthroplasty were assessed once for their postoperative joint pain at least one-year after TJA using the Western Ontario and McMaster Universities Osteoarthritis Index Likert 3.0 pain subscale. Three pain definitions were utilized: “sustained pain” – pain on all five questions, “pain while active” – pain while walking and taking stairs, and “pain at rest” – pain while sitting/lying and at night while in bed. Patients reporting no pain were classified as controls. Associations between postoperative joint pain and mortality were assessed using Kaplan-Meier survival analysis and multivariable Cox proportional hazards regression to adjust for age at TJA, sex, body mass index (BMI), cardiovascular diseases (CVD), and cancer. The distribution of COD between pain groups and controls were compared using Fisher’s exact test. A total of 727 patients were included in the study, of which 129 (18%) were deceased. The prevalence of postoperative sustained pain, pain while active, and pain at rest at 4-year after TJA was 10, 17, and 12%, respectively. The all-cause mortality rate at 11-year after TJA was 20, 26, 19, and 15% in these pain groups and controls, respectively, significantly higher in pain while active group (p = 0.006). Pain while active was positively associated with mortality when knee and hip patients were analyzed together and separately (p ≤ 0.03, hazard ratio (HR)≥1.80), and the significances became stronger after adjusting for age at surgery, sex, BMI, CVD, and cancer (p < 0.001, HR ≥ 2.57). No association was observed between postoperative joint pain and COD. Our results demonstrated that postoperative joint pain could be an important predictor for long-term all-cause mortality in TJA patients.",
+    "authors": [
+      "Ming Liu",
+      "Andrew Furey",
+      "Proton Rahman",
+      "Guangju Zhai"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518469"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327664",
+    "journal": "PLoS_ONE",
+    "title": "Empirical study of daily link traffic volume forecasting based on a deep neural network",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327664",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Jin Ki Eom, Kwang-Sub Lee, Jin Hong Min, Ho-Chan Kwak</p>\n\nForecasting the daily link traffic volume is critical in transportation demand analysis in feasibility studies for planning transportation facilities. The high purchase and maintenance cost of commercial transport planning software poses a challenge for several underdeveloped and developing countries. Therefore, there is a need for cost-effective methodology to forecast link traffic volume. This study proposes a data-driven approach for modeling traffic assignment and employs a deep neural network to forecast daily link volume derived from transport planning software. The main idea is that link traffic volume is significantly associated with traffic network attributes (i.e., number of lanes, travel speed, lane capacity, and roadway type) and network flow attributes (i.e., number of shortest paths on the corresponding link and origin-destination travel demand). Therefore, a multi-layer perception model is developed to effectively capture the nonlinear relationship among the link traffic volume, traffic network attributes, and network flow attributes. A case study demonstrated that the proposed method achieves comparable performance to commercial software in forecasting long-term link traffic volume. The obtained results indicated that the proposed method has the potential to serve as an alternative to commercialized software, although further studies are required to validate and enhance its application.",
+    "authors": [
+      "Jin Ki Eom",
+      "Kwang-Sub Lee",
+      "Jin Hong Min",
+      "Ho-Chan Kwak"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518493"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327591",
+    "journal": "PLoS_ONE",
+    "title": "Biosimilars in practice: Discriminant factors influencing prescription decisions among physicians in Thailand",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327591",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Chaoncin Sooksriwong, Ekapong Kachai, Wanruchada Katchamart, Ponlapat Rojnuckarin, Ekaphop Sirachainan, Tuangrat Phodha</p>\n\nThis study aimed to assess the discriminant factors and determine the cutoff value which can predict or classify the group of prescribed and non-prescribed biosimilar among Thai physicians. The online surveys were distributed to physicians via major three medical associations in Thailand. Five psychological variables were obtained from the surveys (familiarity, attitude toward biosimilar medication, attitude toward biosimilar practice scenarios, attitude toward naming biosimilars in prescriptions, and attitude toward pricing of biosimilar). The point-based system was used to score all variables and transformed to percentage. The assumptions were tested before using discriminant function analysis (DFA). Total 82 respondents were analyzed. Data of all variables met the assumptions of DFA. Familiarity was the most influential factor to differentiate the group of physicians, followed by attitude toward biosimilar medication. The cutoff value for group differences was −0.600. The accuracy rate of discriminant function equations was 82.9% overall for the stepwise method. The study concluded that the psychological factors such as familiarity with biosimilars and attitude toward biosimilars would play a significant role to classify between prescribed and non-prescribed biosimilar groups.",
+    "authors": [
+      "Chaoncin Sooksriwong",
+      "Ekapong Kachai",
+      "Wanruchada Katchamart",
+      "Ponlapat Rojnuckarin",
+      "Ekaphop Sirachainan",
+      "Tuangrat Phodha"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518521"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327566",
+    "journal": "PLoS_ONE",
+    "title": "Oral cancer in Hungary: An epidemiological profile (2015–2019)",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327566",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Amr Sayed Ghanem, Laszlo Trefan, Ildikó Márton, Petra Fadgyas-Freyler, Attila Csaba Nagy, Marianna Móré</p>\nObjective <p>Hungary is among countries with the highest standardised rate oral and mouth cancers.This first national analysis aimed to quantify age-standardized oral cancer incidence in Hungary from 2015 to 2019 by sex and age, determine the median interval from diagnosis to death, and evaluate comorbidity prevalence and its prognostic impact.</p> Methods <p>We used real-world data from the Hungarian National Health Insurance Fund database. Adjusted, standardised incidence- and hospital readmission rates were calculated; time between diagnosis and death and effect of comorbidities coexisting with oral cancer were analysed.</p> Results <p>Generally, incidence and hospitalisation rates decreased in the studied period, for males and older age group both rates were higher. From year 2017 for incidence rates significant differences were found between a particular region and the other regions; and hospitalisation rates differed significantly for three regions from other regions. Almost half (46.3%) of the patients died within a year after diagnosis, mortality rates were 31.8% for males and 14.5% for females. Existence of oral cancer indicated 5.20 (95% confidence interval, 5.03,5.38), 5.84 (95% confidence interval, 5.64,6.04) odd ratios for mortality by two models. Number and relative risk of comorbidities were higher among patients diagnosed with oral cancer than in the control population.</p> Conclusion <p>The study highlighted progress in reducing oral cancer incidence rates in Hungary, however significant challenges remain in reducing mortality rates and improving survival within the first year of diagnosis. The study also showed oral cancer a serious burden in the country, especially for males.</p>",
+    "authors": [
+      "Amr Sayed Ghanem",
+      "Laszlo Trefan",
+      "Ildikó Márton",
+      "Petra Fadgyas-Freyler",
+      "Attila Csaba Nagy",
+      "Marianna Móré"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518526"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327518",
+    "journal": "PLoS_ONE",
+    "title": "Expression of Concern: Differential expression and function of CAIX and CAXII in breast cancer: A comparison between tumorgraft models and cells",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327518",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518558"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327507",
+    "journal": "PLoS_ONE",
+    "title": "Editorial Note: Time to initiation of antenatal care and its predictors among pregnant women in Ethiopia: Cox-gamma shared frailty model",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327507",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by The PLOS One Editors </p>",
+    "authors": [
+      "The PLOS One Editors"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518569"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327458",
+    "journal": "PLoS_ONE",
+    "title": "Therapeutic patterns and outcomes in older patients (aged ≥ 65 years) with stage III inoperable non-small cell lung cancer (NSCLC): An investigational study from the SEER database",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327458",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Wangyan Zhong, Hang Yuan, Ting Li, Xueying Jin</p>\nPurpose <p>Currently, optimal treatment regimens for older patients with stage III inoperable NSCLC remain unclear. The aim of this retrospective study was to investigate therapeutic patterns and survival outcomes in older patients with stage III inoperable NSCLC who received radiation therapy (RT) alone or combined with chemotherapy (CT).</p> Methods <p>A retrospective analysis was conducted on 5740 patients aged ≥65 years with stage III inoperable NSCLC, using data from the Surveillance, Epidemiology, and End Results (SEER) registry (20182021). Patients treated with RT alone (n = 1077) were compared to those receiving RT + CT (n = 4663). Kaplan-Meier analysis and Log-rank tests were performed.</p> Results <p>The estimated 3 years overall survival (OS) and cancer-specific survival (CSS) rates were 34.9% and 42.8%, respectively. Median OS and CSS were 21 and 28 months, respectively. Univariate analysis indicated that age, gender, T stage, pathological type and treatment option were independent prognosticators of OS and CSS. Multivariate analysis demonstrated that age, gender, T stage, N stage, and therapeutic strategy were correlated with OS, while gender, T stage, N stage and treatment option were independent prognostic factors for CSS. Subgroup analyses demonstrated that combining RT with CT improved OS in all patient subgroups, and improved CSS in all patients except those at stage N0.</p> Conclusion <p>In patients aged ≥65 years with stage III inoperable NSCLC from the SEER database, treatment with RT plus CT provided longer OS and CSS compared to RT alone, except for patients with N0 stage disease.</p>",
+    "authors": [
+      "Wangyan Zhong",
+      "Hang Yuan",
+      "Ting Li",
+      "Xueying Jin"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518585"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41540-025-00547-5",
+    "journal": "Nature_SystemsBiology",
+    "title": "Personalized cancer treatment strategies incorporating irreversible and reversible drug resistance mechanisms",
+    "link": "https://www.nature.com/articles/s41540-025-00547-5",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Wei He et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518610"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-07952-0",
+    "journal": "Nature_SystemsBiology",
+    "title": "Machine learning-based identification of wastewater treatment plant-specific microbial indicators using 16S rRNA gene sequencing",
+    "link": "https://www.nature.com/articles/s41598-025-07952-0",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Jaana Jurvansuu et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518614"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42003-025-08394-0",
+    "journal": "Nature_SystemsBiology",
+    "title": "Loss of Eml1 alters microtubule-associated protein networks in mouse brain heterotopia",
+    "link": "https://www.nature.com/articles/s42003-025-08394-0",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Berfu Nur Yigit et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518620"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00222-X?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "An organ-chip model of sporadic ALS using iPSC-derived spinal cord motor neurons and an integrated blood-brain-like barrier",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00222-X?rss=yes",
+    "published": "",
+    "summary": "Lall et al. differentiate iPSCs from young-onset, sporadic ALS patients into spinal cord motor neurons and co-culture them with brain microvascular endothelial-like cells in a microfluidic organ-chip system. Transcriptomics, proteomics, and single-nuclei RNA sequencing identify distinct motor neuron subpopulations with ALS-specific dysregulation in neurofilaments, glutamatergic, and synaptic signaling.",
+    "authors": [
+      "Deepti Lall, Michael J. Workman, Samuel Sances, Briana N. Ondatje, Shaughn Bell, George Lawless, Amanda Woodbury, Dylan West, Amanda Meyer, Andrea Matlock, Vineet Vaibhav, Jennifer E. Van Eyk, Clive N. Svendsen"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518672"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00193-6?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Human airway submucosal gland organoids to study respiratory inflammation and infection",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00193-6?rss=yes",
+    "published": "",
+    "summary": "Lin and Pou Casellas et al. established human airway submucosal gland (SMG) organoid cultures that capture region-specific mucous cells and viral infection responses. These SMG organoids provide a new platform to investigate airway regeneration, inflammation, and viral infections, offering insights into respiratory (patho-)physiology beyond the surface epithelium.",
+    "authors": [
+      "Lin Lin, Carla Pou Casellas, Antonella F.M. Dost, Harry Begthel, Jeroen Korving, Stieneke van den Brink, Talya Dayton, Matthijs F.M. van Oosterhout, Niels Smakman, Lisa Thomann, Volker Thiel, Johan H. van Es, Hans Clevers"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518680"
+  },
+  {
+    "id": "https://www.nature.com/articles/s44401-025-00025-4",
+    "journal": "Nature_CompBio",
+    "title": "MuTATE: an interpretable multi-endpoint machine learning framework for automated molecular subtyping in cancer",
+    "link": "https://www.nature.com/articles/s44401-025-00025-4",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Sarah G. Ayton et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518697"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05585-x",
+    "journal": "Nature_CompBio",
+    "title": "Multiclass leukemia cell classification using hybrid deep learning and machine learning with CNN-based feature extraction",
+    "link": "https://www.nature.com/articles/s41598-025-05585-x",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Sazzli Kasim et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518707"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-09146-0",
+    "journal": "Nature_CompBio",
+    "title": "Self-calibrated acceleration and detail preserving for semantic segmentation of lactating sows and piglets under low-light conditions",
+    "link": "https://www.nature.com/articles/s41598-025-09146-0",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Aqing Yang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518711"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-08062-7",
+    "journal": "Nature_CompBio",
+    "title": "Synthesis, comprehensive in silico studies, and cytotoxicity evaluation of novel quinazolinone derivatives as potential anticancer agents",
+    "link": "https://www.nature.com/articles/s41598-025-08062-7",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "David S. A. Haneen et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518743"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-01834-5",
+    "journal": "Nature_CompBio",
+    "title": "A GPT-4o-powered framework for identifying cognitive impairment stages in electronic health records",
+    "link": "https://www.nature.com/articles/s41746-025-01834-5",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yu Leng et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518746"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41698-025-00889-7",
+    "journal": "Nature_CompBio",
+    "title": "Prevalence and biological impact of clinically relevant gene fusions in head and neck cancers",
+    "link": "https://www.nature.com/articles/s41698-025-00889-7",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Emily L. Hoskins et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518752"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119682",
+    "journal": "MIT_TechReview",
+    "title": "The Download: AI agents hype, and Google’s electricity plans",
+    "link": "https://www.technologyreview.com/2025/07/03/1119682/the-download-ai-agents-hype-and-googles-electricity-plans/",
+    "published": "Thu, 03 Jul 2025 12:10:00 +0000",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t let hype about AI agents get ahead of reality —Yoav Shoham is a professor emeritus at Stanford University and cofounder of AI21 Labs. At Google’s I/O 2025 event in May, the company&#8230;",
+    "authors": [
+      "Rhiannon Williams"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518779"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119545",
+    "journal": "MIT_TechReview",
+    "title": "Don’t let hype about AI agents get ahead of reality",
+    "link": "https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/",
+    "published": "Thu, 03 Jul 2025 09:00:00 +0000",
+    "summary": "Google’s recent unveiling of what it calls a “new class of agentic experiences” feels like a turning point. At its I/O 2025 event in May, for example, the company showed off a digital assistant that didn’t just answer questions; it helped work on a bicycle repair by finding a matching user manual, locating a YouTube&#8230;",
+    "authors": [
+      "Yoav Shoham"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-03T22:07:35.518788"
+  },
+  {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327180",
     "journal": "PLoS_ONE",
     "title": "Osteoporosis is associated with increased CVD mortality and all-cause mortality in alcohol-consuming individuals: A cohort study using data from NHANES",
@@ -7612,5 +7838,1077 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-07-02T22:07:46.007773"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327888",
+    "journal": "PLoS_ONE",
+    "title": "Association of monocyte and lymphocyte ratio with risk of abdominal aortic calcification",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327888",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Wenting Yan, Tingting Hu</p>\nObjectives <p>The aim of the study was to evaluate the relationship between monocyte and lymphocyte ratio (MLR) with severe AAC.</p> Methods <p>This cross-sectional study enrolled 3041 patients with AAC from the National Health and Nutrition Examination Survey 2013–2014. Abdominal aortic calcification detected with dual-energy X-ray absorptiometry was quantified using the Kauppila score system. We measured white blood cell, neutrophil, lymphocyte counts, monocyte counts, red blood cell, calcium, 25-VitD3, and phosphorus levels in blood samples. Multivariate logistic regression was performed to examine the association between MLR (as a qualitative or quantitative variable) and severe AAC morbidity.</p> Results <p>Severe AAC was detected in 273 (9.0%) participants. Multivariate logistic regression analysis indicated that high MLR was an independent predictor of severe AAC (odds ratio [OR] 2.80, 95% confidence interval [CI] 1.04–7.50; <i>P</i> = 0.041).</p> Conclusions <p>Elevated MLR levels are independently associated with higher odds for severe AAC, which can serve as a new risk factor in clinical practice.</p>",
+    "authors": [
+      "Wenting Yan",
+      "Tingting Hu"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518457"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327772",
+    "journal": "PLoS_ONE",
+    "title": "Cardiometabolic dysfunction burden and mortality outcomes in metabolic dysfunction-associated steatotic liver disease",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327772",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Ying Wen, Yu Min, Yi Lei, Zhigong Wei</p>\nBackground/Objectives <p>The term metabolic dysfunction-associated steatotic liver disease (MASLD) reflects the key role of cardiometabolic dysfunction in steatotic liver disease. We aim to assess the association between cardiometabolic dysfunction burden and mortality outcomes in MASLD.</p> Methods <p>Participants with MASLD were selected from the National Health and Nutrition Examination Survey (NHANES) database between 1999 and 2018. The mortality outcomes of participants with different numbers of cardiometabolic risk factors were compared by using Kaplan-Meier curves and Cox regression analysis.</p> Results <p>This study included 9,017 participants with MASLD (4,613 men and 4,404 women, median age 49.0). With a median 115-month follow-up, 1,447 all-cause deaths and 407 cardiovascular-specific deaths were observed. Multivariate regression analysis showed that participants with five cardiometabolic risk factors had significantly increased all-cause mortality risk compared to those with one risk factor (adjusted hazard ratio [aHR] = 3.57, 95% confidence interval [CI]: 2.04–6.24, <i>P</i> < 0.001). Similarly, the cardiovascular mortality risk was markedly higher for participants with five risk factors (aHR = 7.72, 95% CI: 1.89–31.53, <i>P</i> = 0.004). Among participants with the same number of cardiometabolic risk factors, those with blood glucose or blood pressure abnormalities showed the lowest survival rates than other subgroups. Besides, participants with younger ages were more vulnerable to the harmful prognostic effects of cardiometabolic dysfunction burden on the mortality risks.</p> Conclusions <p>The MASLD population with high cardiometabolic dysfunction burdens exhibits increased mortality risk. Assessing cardiometabolic dysfunction, particularly abnormalities in blood glucose and blood pressure, is crucial for effective management in this population.</p>",
+    "authors": [
+      "Ying Wen",
+      "Yu Min",
+      "Yi Lei",
+      "Zhigong Wei"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518463"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327736",
+    "journal": "PLoS_ONE",
+    "title": "Correction: Geographical epidemiology of <i>Hyalomma anatolicum</i> and <i>Rhipicephalus microplus</i> in Pakistan: A systematic review",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327736",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Abrar Hussain, Sabir Hussain, Ao Yu, Csaba Varga, Giulio A. De Leo, Rebecca L. Smith</p>",
+    "authors": [
+      "Abrar Hussain",
+      "Sabir Hussain",
+      "Ao Yu",
+      "Csaba Varga",
+      "Giulio A. De Leo",
+      "Rebecca L. Smith"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518474"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327719",
+    "journal": "PLoS_ONE",
+    "title": "The effect of policy measures, school holidays and travel on the incidence of SARS-CoV-2 infection in children and adults in Estonia from 2021 to 2022",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327719",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Hiie Soeorg, Taavi Päll, Aare Abroi, Radko Avi, Olga Sadikova, Mari-Anne Härma, Tuuli Reisberg, Irja Lutsar, Kristi Huik</p>\nPurpose <p>The policy measures implemented during the COVID-19 pandemic, travel and school holidays could have influenced the spread of SARS-CoV-2 infection in children and adults differently. We aimed to determine the effect of policy measures, school holidays and travel on the incidence of SARS-CoV-2 infection in children and adults.</p> Methods <p>The overall SARS-CoV-2 infection incidence between 1 February 2021 and 1 May 2022 was decomposed into the most common lineage-specific incidence per 100,000 by imputing lineage based on the sequencing results of random samples. A phenomenological logistic growth model was fitted to the incidence data in adults (aged ≥15 years) and children (aged <15 years) in four regions in Estonia. Factors influencing the spread of the virus, such as policy measures, school holidays, the number of travel-related cases, and cumulative vaccination or infection rates, were tested as covariates in the model.</p> Results <p>The eleven most common lineages (one Alpha, six Delta, two Omicron BA.1, and two Omicron BA.2) caused 84.7% and 85.8% of all SARS-CoV-2 infections in children and adults, respectively, during the study period. According to the final model, the Delta variant had slower growth and a lower maximum cumulative incidence. The number of workplace closures in the previous week and school holidays in the same week decreased, but the number of travel-related cases in the same week increased the incidence growth. No difference between children and adults was observed. The testing rate was lower during school holidays than during school terms (median (IQR) 1964 (1437–2970) vs. 3136 (2476–4417) vs. per 100,000; p < 0.001). In 40.3% of the weeks, travel-related cases were detected, accounting for (IQR) 2.1% (0.9–4.3%) of the incidence of nontravel-related infections.</p> Conclusion <p>Our study suggests that the spread of SARS-CoV-2 infection was similar in children and adults. Workplace closures reduced transmission, whereas during school holidays lower testing contributed to a lower reported incidence, and travel-related cases were possibly underreported.</p>",
+    "authors": [
+      "Hiie Soeorg",
+      "Taavi Päll",
+      "Aare Abroi",
+      "Radko Avi",
+      "Olga Sadikova",
+      "Mari-Anne Härma",
+      "Tuuli Reisberg",
+      "Irja Lutsar",
+      "Kristi Huik"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518479"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327718",
+    "journal": "PLoS_ONE",
+    "title": "Unveiling the immunomodulatory properties of starch microparticles on alveolar macrophages",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327718",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Alejandra Barrera-Rosales, Dulce Mata-Espinosa, Vanessa Villegas-Ruiz, Mayra Silva-Miranda, Edgar Zenteno, Sergio Sánchez, Rogelio Hernández-Pando, Romina Rodríguez-Sanoja, Silvia Moreno-Mendieta</p>\n\nPolysaccharides as immunomodulators are increasingly explored in preclinical studies, showing potential applications for preventing or treating different diseases. Among them is starch, an α-glucan formed by amylose and amylopectin chains. Given their abundance in nature, physicochemical characteristics, and applicability in pharmacy, they are versatile molecules that offer important biotechnological and biomedical advantages. Most studies about starch immunostimulant properties focus on modified-soluble and particulate α-glucans. However, little research has been done on the immunostimulant properties of starch in its natural particulate state. Previously, we have used starch microparticles (SMPs) as carriers for nasal administration of antigens in healthy mice and as a nasal boost and adjuvant of the Bacillus Calmette–Guérin (BCG) vaccine in a murine model of tuberculosis. This study aimed to analyze the effect of SMPs on the activation and polarization profile of murine alveolar macrophages of the MH-S cell line. We evaluated the effect of these SMPs on cell viability, phagocytosis, and expression of surface markers on M0 alveolar macrophages. We also explored the effect of SMPs on nitric oxide production, cytokine secretion, glucose consumption, and lactate release on M0 and previously M1 and M2-polarized alveolar macrophages. The results indicate that these SMPs are phagocytosed without cytotoxic effects for alveolar macrophages and have an immunomodulatory effect on previously polarized M1 macrophages. In M0 and M2 macrophages, the SMPs induced a mixed secretion of cytokines such as TNF-α, IL-10, and IL-12p40, and a significant decrease of TGF-β1. Recognizing the effects triggered by these SMPs on these cells of the innate immune system will allow us to propose rational uses for these SMPs in prophylactic and therapeutic vaccines intended to be used by the nasal/pulmonary route.",
+    "authors": [
+      "Alejandra Barrera-Rosales",
+      "Dulce Mata-Espinosa",
+      "Vanessa Villegas-Ruiz",
+      "Mayra Silva-Miranda",
+      "Edgar Zenteno",
+      "Sergio Sánchez",
+      "Rogelio Hernández-Pando",
+      "Romina Rodríguez-Sanoja",
+      "Silvia Moreno-Mendieta"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518484"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327626",
+    "journal": "PLoS_ONE",
+    "title": "Study on the synergies and trade-offs of sectoral water use and their relationship with economic development",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327626",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Jianqin Ma, Shuoguo Yang, Qing Wu, Xiuping Hao, Bifeng Cui, Zhihong Su</p>\n\nWater scarcity is dynamic and complex, beyond geophysical stressors and responses, it is critical to also consider how multi-sector, multiscale economic teleconnections mitigate or exacerbate water shortages. This study analyzes the spatial and temporal characteristics of Water Footprint (WF) in China from 2005 to 2022 and their relationship with economic development. The findings reveal an overall increase in China’s WF, with the fastest growth observed in the Northwest and Northeast regions. Notably, Heilongjiang, Inner Mongolia, and Xinjiang experienced significant increases, while Zhejiang, Beijing, and Chongqing saw declines. Agricultural water footprint (WF<sub>argi</sub>) account for the largest share, while industrial water footprint (WF<sub>indu</sub>) show a decreasing trend, indicating improved water-use efficiency in industry. However, the rise in contamination water footprint (WF<sub>cont</sub>) and significant spatial disparities in import water footprint (WF<sub>import</sub>) and export water footprint (WF<sub>export</sub>) highlight the challenges in water resources management. Across different regions, there is a strong synergy between agricultural and ecological water use, while a notable trade-offs exists between industrial and agricultural water use, particularly in the Northeast. The relationship between WF consumption and economic development in China exhibits a phased pattern. From 2011 to 2016, most regions achieved strong decoupling, but from 2017 to 2022, all regions reverted to weak decoupling. This study provides new insights into the relationship between sectoral water use and economic development at regional and provincial levels, contributing to efforts to alleviate water scarcity, enhance water resources management, and promote sustainable economic development.",
+    "authors": [
+      "Jianqin Ma",
+      "Shuoguo Yang",
+      "Qing Wu",
+      "Xiuping Hao",
+      "Bifeng Cui",
+      "Zhihong Su"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518497"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327622",
+    "journal": "PLoS_ONE",
+    "title": "A practical and safer model of nitrogen mustard injury in cornea",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327622",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Ana M. Sandoval-Castellanos, Yao Ke, Tiffany M. Dam, Emanual Michael Maverakis, Mark J. Mannis, Xiao-Jing Wang, Min Zhao</p>\nPurpose <p>Sulfur mustard (SM) is an alkylating agent used in warfare and terrorism that inflicts devastating ocular injuries. Although the clinical symptoms are well described, the underlying mechanisms are not fully understood, hindering the development of effective treatments. One major roadblock is the lack of a suitable model due to the extremely hazardous nature of SM, which requires strict safety measures. As a safer and practical alternative, we report a novel model that uses mechlorethamine (nitrogen mustard) gel, an FDA-approved topical chemotherapeutic administered by patients at home. Here we demonstrate its suitability to induce mustard corneal injury in any laboratory.</p> Methods <p><i>Ex vivo</i> porcine corneas were injured with mechlorethamine gel. Hematoxylin-eosin staining and immunohistochemistry were performed to evaluate histopathology of SM-like corneal injuries: epithelium thickness and stromal separation, keratocyte and inflammatory cell counts, and expression of inflammation and fibrosis markers.</p> Results <p>This model showed the characteristic histopathology and expression of cyclooxygenase-2 (inflammation) and fibronectin-1 (fibrosis), which were consistent with other well-established SM-like corneal injury models.</p> Conclusion <p>Given its ease of implementation and safety, this mechlorethamine model could be used to study the full course of mustard corneal injuries. This model is expected to facilitate the understanding of mustard ocular injuries and the development of novel therapeutics.</p> Translational relevance <p>This model will allow safe evaluation of SM-like corneal injuries within 24 hours, facilitating the identification of early/new molecules that might help to develop novel treatments.</p>",
+    "authors": [
+      "Ana M. Sandoval-Castellanos",
+      "Yao Ke",
+      "Tiffany M. Dam",
+      "Emanual Michael Maverakis",
+      "Mark J. Mannis",
+      "Xiao-Jing Wang",
+      "Min Zhao"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518502"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327619",
+    "journal": "PLoS_ONE",
+    "title": "Graph attention networks for predicting drug-gene association of glucocorticoid in oral squamous cell carcinoma: A comparison with GraphSAGE",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327619",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Monal Yuwanati, Santhanamari Thiyagarajan, Kranti Kiran Reddy Ealla, Yash Jain, Pradeep Kumar Yadalam, Senthil Murugan Mullainathan, Anima Nanda, Samir Sahoo, Daniel Ejim Uti</p>\nBackground <p>The present study evaluates the effectiveness of Graph Attention Networks (GAT) and GraphSAGE in predicting drug-gene interactions for glucocorticoids in oral squamous cell carcinoma, thereby aiding in developing better treatment strategies.</p> Materials and methods <p>We utilized a curated dataset containing known drug-gene interactions and corresponding molecular profiles. Both GAT and GraphSAGE were implemented to model the biological networks of drug-gene relationships. Experiments were conducted to evaluate each model’s performance using accuracy, precision, recall, and F1-score metrics.</p> Results <p>The network analysis details 174 nodes and 409 edges with a sparse structure, moderate connectivity, and low clustering, indicating a diverse node connection. The analysis confirms a fully connected network with efficient computation time. In comparing models, GraphSAGE outperforms GAT with higher accuracy (0.949 vs. 0.947), better macro-averaged F1 score (0.275 vs. 0.195), and higher AUC-ROC (0.780 vs. 0.514), suggesting stronger class-distinction capabilities. Both models achieve high accuracy, but GraphSAGE’s superior scores in F1 and AUC-ROC indicate a more effective balance in precision and recall. The results demonstrated that both GAT and GraphSAGE effectively predicted drug-gene associations. However, GAT outperformed GraphSAGE, achieving higher accuracy and F1 scores in identifying relevant glucocorticoid interactions in the context of OSCC.</p> Conclusion <p>Our findings highlight the efficacy of advanced graph-based methodologies in elucidating drug interactions in OSCC. GAT, in particular, shows promise for accurately predicting drug-gene associations, which may facilitate personalized therapeutic approaches. Future research will focus on enhancing these models and exploring additional drug compounds to understand their applicability in OSCC treatment.</p>",
+    "authors": [
+      "Monal Yuwanati",
+      "Santhanamari Thiyagarajan",
+      "Kranti Kiran Reddy Ealla",
+      "Yash Jain",
+      "Pradeep Kumar Yadalam",
+      "Senthil Murugan Mullainathan",
+      "Anima Nanda",
+      "Samir Sahoo",
+      "Daniel Ejim Uti"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518506"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327615",
+    "journal": "PLoS_ONE",
+    "title": "Word learning as category formation",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327615",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Spencer Caplan</p>\n\nA fundamental question in word learning is how, given only evidence about what objects a word has previously referred to, children are able to generalize to the correct class. How does a learner end up knowing that “poodle” only picks out a specific subset of dogs rather than the broader class and vice versa? Numerous phenomena have been identified in guiding learner behavior such as the “suspicious coincidence effect” (SCE)—that an increase in the sample size of training objects facilitates more narrow (subordinate) word meanings. While SCE seems to support a class of models based in statistical inference, such rational behavior is, in fact, consistent with a range of algorithmic processes. Notably, the broadness of semantic generalizations is further affected by the temporal manner in which objects are presented—either simultaneously or sequentially. First, I evaluate the experimental evidence on the factors influencing generalization in word learning. A reanalysis of existing data demonstrates that both the number of training objects and their presentation-timing independently affect learning. This independent effect has been obscured by prior literature’s focus on possible interactions between the two. Second, I present a computational model for learning that accounts for both sets of phenomena in a unified way. The Naïve Generalization Model (NGM) offers an explanation of word learning phenomena grounded in category formation. Under the NGM, learning is local and incremental, without the need to perform a global optimization over pre-specified hypotheses. This computational model is tested against human behavior on seven different experimental conditions for word learning, varying over presentation-timing, number, and hierarchical relation between training items. Looking both at qualitative parameter-independent behavior and quantitative parameter-tuned output, these results support the NGM and suggest that rational learning behavior may arise from local, mechanistic processes rather than global statistical inference.",
+    "authors": [
+      "Spencer Caplan"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518510"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327592",
+    "journal": "PLoS_ONE",
+    "title": "A generic method for PLC control system design based on Digital Twin",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327592",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Hao Shi, Qingliang Zhu, Jingde Bo, Jiayang Shi, Tao Zhao</p>\n\nThis study explores a design method for electrical control systems based on the Digital Twin (DT) from the perspective of control engineers. The proposed method enables engineers to systematically develop and validate such systems, thereby enhancing the quality and efficacy of industrial digitalization. By identifying critical challenges in DT-based control system design, we proposed a maturity evaluation framework to ensure that the DT’s fidelity aligns with the requirements of control system design application scenarios. Subsequently, a comparative analysis of virtual and physical commissioning was conducted, leading to the formulation of a structured implementation framework for DT-based control system design. A six-floor elevator DT was employed as the controlled object to demonstrate the proposed method. A virtual commissioning platform was constructed to validate the feasibility and reliability of the control system. This approach provides actionable insights for the corresponding physical entity to optimize construction schemes, commissioning workflows, and operation adjustments. The practical results demonstrate that the proposed DT-based design method of the electrical control system enables high-fidelity validation of production line design, reduces resource consumption during physical equipment commissioning, and significantly enhances development efficiency and quality while shortening construction and commissioning timelines.",
+    "authors": [
+      "Hao Shi",
+      "Qingliang Zhu",
+      "Jingde Bo",
+      "Jiayang Shi",
+      "Tao Zhao"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518517"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327558",
+    "journal": "PLoS_ONE",
+    "title": "A proactive approach to prevent non-communicable diseases through screening and educating emergency department attendees to adopt healthy lifestyles: Study protocol for a pragmatic, multicenter, randomized controlled trial",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327558",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by William Ho Cheung Li, Eliza Lai-Yi Wong, Wei Xia, Hong Chen, Sik-Hon Tsui, Yiu Cheung Chan, Kai Yeung Cheung, Yuen Fan Leung, Long Kwan Laurie Ho, Kai Chow Choi, Oi-kwan Joyce Chung</p>\n\nNoncommunicable diseases (NCDs) have become the leading contributors to morbidity and mortality worldwide, responsible for 74% of all deaths. The major risk factors that substantially contribute to and significantly increase the risk of dying from NCDs include tobacco and alcohol use, unhealthy diet, and physical inactivity. Proactive prevention strategies are vital in reducing the burden. Presenting at the emergency department (ED) can be an excellent “teachable moment” to intervene for unhealthy behaviors because people seeking medical treatment from doctors at EDs may be more motivated to adopt healthy lifestyles. We aim to examine the effectiveness of a general health promotion intervention based on self-determination theory in helping ED attendees adopt a healthy lifestyle. A randomized clinical trial will be conducted on Chinese adults aged ≥18 years attending the EDs of five major acute care hospitals in Hong Kong. Participants will be randomized 1:1 into intervention and control groups (n = 586 per group). Intervention group will receive a brief telephone intervention using the AWARD (Ask, Warn, Advise, Refer and Do-it-again) model, weekly personalized instant messages and four 1-minute videos focused on the desired behaviors via WeChat/WhatsApp, and follow-up assessments of behavior changes at 3, 6, and 12 months. While control group will receive similar brief intervention which only advises them to adopt a healthy lifestyle, similar number of SMS messages containing only general health advice, and follow-up assessments at same schedule with the intervention group. Outcome measures include the composite event rate of adopting at least one of the four healthy lifestyles at 6 (primary outcome) and 12 months measured by a behavioral risk-factor questionnaire and improvement in health-related quality of life at 6 and 12 months measured by the EuroQoL 5-Dimension 5-level (EQ-5D-5L) questionnaire. Ethical approval has been obtained. This trial is registered at ClinicalTrials.gov on March 17, 2025: NCT06889792.",
+    "authors": [
+      "William Ho Cheung Li",
+      "Eliza Lai-Yi Wong",
+      "Wei Xia",
+      "Hong Chen",
+      "Sik-Hon Tsui",
+      "Yiu Cheung Chan",
+      "Kai Yeung Cheung",
+      "Yuen Fan Leung",
+      "Long Kwan Laurie Ho",
+      "Kai Chow Choi",
+      "Oi-kwan Joyce Chung"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518532"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327549",
+    "journal": "PLoS_ONE",
+    "title": "Symptoms and objective signs of peripheral sensory neuropathy in POTS and correlations to gastrointestinal symptoms",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327549",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Linnéa Ekman, Hanna Tufvesson, Elisabet Englund, Lars B. Dahlin, Bodil Ohlsson</p>\nAim <p>Postural orthostatic tachycardia syndrome (POTS) is a disorder with cardiovascular autonomic dysfunction where multiple and variable symptoms are common, including those from the peripheral and enteric nervous systems. We aimed to investigate subjective and objective signs of small and large fiber neuropathy in a Swedish POTS cohort compared with healthy controls. Secondly, we wanted to examine potential associations between gastrointestinal symptoms and neuropathy signs in POTS.</p> Methods <p>Forty-three patients with POTS (93% female) and 54 healthy controls (76% female) were included in the study. All participants completed a questionnaire including modified neuropathy symptoms score (NSS) and irritable bowel syndrome severity scoring system (IBS-SSS) for gastrointestinal evaluation. Small nerve fibers were investigated by assessing the intraepidermal nerve fiber density (IENFD). Large nerve fiber function was examined through pinprick and vibration perception thresholds (VPTs), using neurothesiometry and multi-frequency vibrometry (MFV). The patients were classified as “High NSS” and “High IBS-SSS” if their total NSS vs. IBS-SSS were above median levels in POTS.</p> Results <p>Peripheral sensory and gastrointestinal symptoms were more prevalent and severe in POTS than in controls. Median VPTs were normal and IENFDs were comparable between POTS and controls (2.26 [1.62–3.08] vs. 1.63 [0.73–2.68] fibers/mm; p = 0.108). The patients with “high NSS” had slightly higher VPTs measured by MFV, although within normal ranges, compared to patients with “low NSS”. The patients within the “high IBS-SSS” group had higher NSS (18.0 [14.3–22.8] vs. 11.0 [4.0–15.0]; p = 0.002) compared to patients with low total IBS-SSS.</p> Conclusion <p>Symptoms of peripheral and enteric neuropathy are common in POTS but no solid evidence was found regarding functional or morphological signs of small or large fiber neuropathy. Neuropathic and gastrointestinal symptoms were closely associated within POTS.</p>",
+    "authors": [
+      "Linnéa Ekman",
+      "Hanna Tufvesson",
+      "Elisabet Englund",
+      "Lars B. Dahlin",
+      "Bodil Ohlsson"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518537"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327544",
+    "journal": "PLoS_ONE",
+    "title": "Effectiveness and safety of different electromagnetic stimulation therapies in treating post-stroke insomnia: A network meta-analysis of randomized controlled trials",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327544",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Shuan-Zhu Sun, Fan Yuan, Lie-Xi Song, Xiao-Zhong Liu, Tao Zhong, De-Liang Zhu, Ke-Yu Chen, Wei-Cheng Wang, Ruo-Yang Li</p>\nObjectives <p>To evaluate the efficacy and safety of different electromagnetic therapies for the treatment of post-stroke insomnia (PSI). Thus, we conducted a network meta-analysis to provide evidence-based insights for clinical practice.</p> Methods <p>Databases such as PubMed, Excerpt Medica Database (Embase), Cochrane Library Central Register of Controlled Trials, APA PsycInfo, China National Knowledge Infrastructure Database, Wanfang, and SinoMed were used to retrieve randomized controlled trials (RCTs) on electromagnetic therapy for PSI, with a search deadline of Sep 2024 for each database. The Cochrane bias risk assessment tool was used to evaluate the quality of the included RCTs. Stata was used for network meta-analysis.</p> Results <p>We included 28 RCTs involving 2353 patients across 12 different treatment regimens. The surface under the cumulative ranking results showed that the ranking of Pittsburgh sleep quality index decline was: cranial electrotherapy stimulation>low frequency repetitive transcranial magnetic stimulation (LF-rTMS)>infra-low frequency repetitive transcranial magnetic stimulation (ILF-rTMS)>fastigial nucleus stimulation (FNS)>transcranial direct current stimulation (tDCS)>low frequency electric stimulation (L-FES)>high frequency repetitive transcranial magnetic stimulation (HF-rTMS)>middle frequency repetitive transcranial magnetic stimulation (MF-rTMS)>sham stimulation (SS)>common treatment (CT); Ranking of Hamilton depression scale decline degree: HF-rTMS > LF-rTMS > tDCS > SS>continuous theta-burst stimulation (cTBS)>MF-rTMS > CT; national Institute of health stroke scale decline ranking: HF-rTMS > LF-rTMS > SS > L-FES>electroencephalographic biomimetic stimulation>CT > cTBS; Clinical total effective rate ranking: LF-rTMS > FNS > ILF-rTMS > L-FES > CT>repetitive transcranial acupuncture stimulation.</p>  Conclusions <p>Different electromagnetic therapies can effectively improve sleep quality in PSI patients, and the efficacy and safety of LF-rTMS are significant. However, owing to the limitations of this study, the efficacy ranking cannot fully explain the advantages and disadvantages of clinical efficacy. In the future, additional multicentre, large-sample, double-blind, clinical, and randomized controlled trials are required to supplement and demonstrate the results of this study.</p> Strengths and limitations of this study <p>This is the first study to conduct network meta-analysis on PSI treatment with different electromagnetic therapies. Simultaneously, we refined the classification based on different frequency patterns of the same therapy, and the results can serve as a reference for clinical workers. This study had some limitations: A large proportion of low-quality literature may lead to biased results; Lack of subgroup analysis, mainly because the number of studies included was not very high, and the quality of most studies was low. Basic information such as stroke site and onset time were not detailed, which may increase the possibility of inconsistency and clinical heterogeneity. After all, detailed subgroup analysis based on the stage or location of stroke can provide more meaningful clinical guidance.</p>",
+    "authors": [
+      "Shuan-Zhu Sun",
+      "Fan Yuan",
+      "Lie-Xi Song",
+      "Xiao-Zhong Liu",
+      "Tao Zhong",
+      "De-Liang Zhu",
+      "Ke-Yu Chen",
+      "Wei-Cheng Wang",
+      "Ruo-Yang Li"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518542"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327537",
+    "journal": "PLoS_ONE",
+    "title": "SpO<sub>2</sub>/FiO<sub>2</sub> ratio as a better metric for assessment of RBC transfusion effectiveness in non-traumatic critically ill patients with physiologic derangements",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327537",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Tilendra Choudhary, Geoffrey Smith, John D. Roback, Ravi M. Patel, Cassandra D. Josephson, Rishikesan Kamaleswaran</p>\n\nIdentifying critically ill patients who are likely to improve their respiratory physiology following RBC transfusion is dynamic and difficult. Current decision tools are over-reliant on hemoglobin transfusion thresholds, without considering respiratory measures that may reflect physiologic effects of anemia and functional responses to RBC transfusion. Further, routine clinical measures to determine transfusion efficacy beyond hemoglobin increment are lacking to identify patients as responders or non-responders. We present a two-center retrospective cohort study aiming to determine a potential biomarker to assess the physiologic response of RBC transfusion for non-traumatic ICU patients. The study was performed with 13,274 eligible patients at the first center. Another 3,757 from the second center were used as a validation population. We introduced a comparative analysis of two respiratory measures, SpO<sub>2</sub> and SpO<sub>2</sub>/FiO<sub>2</sub> (SF) ratio, in addition to hemoglobin, to assess individual patient responses to RBC transfusion. A statistical study was performed to compare these markers before and after the transfusion interval. Based on quantitative statistical analyses, we found SF ratio to be a more effective biomarker than hemoglobin alone for revealing RBC transfusion efficacy. There existed an inverse correlation between pre-transfusion SF and transfusion efficacy. The results were consistent across both centers, revealing generalizability. With the SF data from both the centers, we also developed a random forest-based regression model that significantly evaluated the level of transfusion effectiveness (<i>p</i> < 0.001).",
+    "authors": [
+      "Tilendra Choudhary",
+      "Geoffrey Smith",
+      "John D. Roback",
+      "Ravi M. Patel",
+      "Cassandra D. Josephson",
+      "Rishikesan Kamaleswaran"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518547"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327536",
+    "journal": "PLoS_ONE",
+    "title": "Determinants of physical activity participation among U.S. adolescents aged 12–17: A study of key factors",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327536",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by RuChen She, Dongmei Wang</p>\n\nThis study examines the influence of six key factors—family structure, poverty level, parental education, mental health, family resilience, and childhood adversity—on the participation of U.S. adolescents (ages 12–17) in moderate-to-vigorous physical activity (MVPA) for at least 60 minutes per day. Using data from the 2018–2023 health surveys across all 50 states and the District of Columbia, the study applies significance difference analysis, random forest regression, and cluster analysis to assess the impact and interaction effects of these factors on adolescent physical activity. The results indicate that mental health, family resilience, and poverty level have the most significant influence on adolescents’ physical activity participation, with strong interactions among the variables. Cluster analysis further reveals disparities in physical activity participation across states, with certain states showing significant imbalances due to factors such as poverty and family support. These findings underscore the importance for policymakers to consider the unique socioeconomic contexts and policy environments of different states when promoting youth physical activity, advocating for tailored approaches to enhance adolescent physical activity levels.",
+    "authors": [
+      "RuChen She",
+      "Dongmei Wang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518554"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327514",
+    "journal": "PLoS_ONE",
+    "title": "Effects of different clones and inducing time on agarwood quality in grafted Qi-Nan <i>Aquilaria sinensis</i> (Lour.) spreng",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327514",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Ming Li, Zinong Yang, Zhou Hong, Daping Xu, ZhiHui Li, Shengjie Wang</p>\n\nAgarwood is the resinous part of the injured tree of the <i>Aquilaria</i> species of the <i>Thymelaeceae</i> family, Qi-Nan is a type of agarwood that forms easily and benefits from a shortened inducing time, noted for features like its substantial resin, (2-phenylethyl) chromone and 2-[2-(4-methoxyphenyl) ethyl] chromone content. Although the content of agarotetrol in Qi-Nan is very low, it is still an important indicator for the agarwood quality. A validated method was developed to precisely quantify both agarotetrol and two aforementioned chromones, as well as ethanal extracts, within Qi-Nan to explore how the inducing time (half a year, one year, and two years) and different clones (YYZ, AS, RH, XGY) affect agarwood quality. Different clones and inducing time both have significant effects on agarwood quality. The agarwood quality of Qi-Nan does not necessarily improve with a longer inducing time. YYZ, AS, and RH clones reached to the best agarwood quality after two years of induction. The ethanol extracts content was among 46.82 ~ 48.59%, two chromones were among 10.57% ~ 14.05% after two years of induction. However, for XGY clone, the quality of agarwood after one year of induction was better than that after two years, which reached to the highest ethanol extracts (51.49%) and two chromones content reached to 12.43% and 12.91% after one year of induction. Therefore, for different clones of Qi-Nan, harvesting should be conducted at different time of induction for agarwood formations, which has theoretical implications for the cultivation and industrial development of cultivated Qi-Nan agarwood.",
+    "authors": [
+      "Ming Li",
+      "Zinong Yang",
+      "Zhou Hong",
+      "Daping Xu",
+      "ZhiHui Li",
+      "Shengjie Wang"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518563"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327488",
+    "journal": "PLoS_ONE",
+    "title": "Fixed point-based stability analysis of climate and Langevin models",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327488",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Syed Khayyam Shah, Waleed Eltayeb Ahmed, Ishraq Alabdi, Ayman Alahmade, Khaled Aldwoah, Eltigani I. Hassan</p>\n\nIn this manuscript, the existence and uniqueness of solutions to equations associated with climate change are discussed. For this purpose, we utilize some results from the existing literature to investigate the behavior of these equations. Additionally, the role of fixed point theory in emphasizing the importance of proving the stability and consistency of the models is explored. Several definitions and results, such as the <i>F</i>-contraction, α-<i>F</i>-contraction, rational type (ψ,ϕ)-contraction, and Geraghty type contraction, are recalled from the existing literature to illustrate their theoretical foundations and practical applications.",
+    "authors": [
+      "Syed Khayyam Shah",
+      "Waleed Eltayeb Ahmed",
+      "Ishraq Alabdi",
+      "Ayman Alahmade",
+      "Khaled Aldwoah",
+      "Eltigani I. Hassan"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518573"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327479",
+    "journal": "PLoS_ONE",
+    "title": "Stochastic parametric skeletal dosimetry model for humans: Pediatric and adult computational skeleton phantoms for internal bone marrow dosimetry",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327479",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Pavel A. Sharagin, Elena A. Shishkina, Evgenia I. Tolstykh, Michael A. Smith, Bruce A. Napier</p>\n\nCurrently, computational phantoms that simulate skeletal tissues are used in active red bone marrow (AM) internal dosimetry. Up-to-date reference computational phantoms recommended by the ICRP are based on the analysis of CT-images of cadavers. Such phantoms have significant disadvantages. One disadvantage is that the assessment of uncertainty due to the population variability of skeleton dimensions and microstructure results from the limited availability of autopsy material. Another disadvantage is the simplified modelling of cortical layer and bone microarchitecture. A method of stochastic parametric skeletal dosimetry modelling of the bone structures – SPSD modelling – has been developed as an alternative to the ICRP reference phantoms. In the framework of this approach, skeletal phantom parameters are evaluated based on extensively reviewed results of published measurements of real bones. The SPSD approach allows for the assessment of both population-average values and their variability. SPSD-phantoms of the skeleton are modelled in voxel representation. They consist of smaller phantoms of the bone sites – segments – described by simple geometric shapes with uniform microarchitecture parameters. Such segmentation makes it possible to account for non-homogeneous skeletal microarchitecture and to model the bone structure with the required voxel resolution to elaborate suitable skeletal phantoms. The current study presents the parameters of the SPSD skeletal phantoms for the following age-groups: newborn, 1-year-old, 5-year-old, 10-year-old, 15-year-old (male and female), and adult (male and female). This skeletal phantom can be used for dosimetry as an alternative to available reference phantoms for bone-seeking radionuclides. The above-mentioned age- and sex-specific skeletal phantoms are comprised of 289 unique segments. The characteristics of the SPSD phantoms do not contradict published data and are in good agreement with the measurement results of real bones.",
+    "authors": [
+      "Pavel A. Sharagin",
+      "Elena A. Shishkina",
+      "Evgenia I. Tolstykh",
+      "Michael A. Smith",
+      "Bruce A. Napier"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518578"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327438",
+    "journal": "PLoS_ONE",
+    "title": "Understanding the functional basis of moral conviction: Is moral conviction related to personal and social identity expression?",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327438",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Lindsay M. Novak, Linda J. Skitka</p>\n\nThe degree to which one experiences an attitude as a moral conviction is associated with a host of consequences, such as charitable giving, volunteerism, political engagement, resistance to compromise, intolerance of dissenting viewpoints, and acceptance of any means, including violence, to achieve morally preferred ends. Despite these profound ramifications, our understanding of the psychological functions of moral conviction remains limited. In three studies, we tested competing hypotheses about two possible functions of moral conviction: personal identity and social identity expression. Study 1 developed and validated personal and social identity function measures in a U.S. sample and provided an initial test of hypotheses (<i>N </i>= 320). Study 2 further validated these measures and tested whether cultural mindset moderated the relationship between identity functions and moral conviction in a U.S. sample (<i>N</i> = 364). Study 3 tested hypotheses cross-culturally (i.e., using U.S. and Indian samples, <i>N</i> = 300). The personal identity function uniquely predicted moral conviction in all three studies and across six issue domains, whereas the social identity function did not (Studies 1–3). Surprisingly, neither cultural mindset (i.e., an independent and interdependent self-construal or endorsement of the individualizing or binding moral foundations) nor culture moderated these results.",
+    "authors": [
+      "Lindsay M. Novak",
+      "Linda J. Skitka"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518590"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327436",
+    "journal": "PLoS_ONE",
+    "title": "Glucocorticoid use and perceptions of side effects among patients with rheumatic medical diseases: Insights from a developing country",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327436",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Fatima Alnaimat, Hamza Alduraidi, Ali Rezeq Ali Yaghi, Mohammad Mahmoud Tarbiah, Asim Khanfar, Moath Abusheikha, Ali M. Hamad</p>\n\nChronic glucocorticoid (GC) therapy is common in patients with rheumatic medical diseases (RMD). However, long-term use of GCs can be associated with significant adverse effects. This study aims to determine the prevalence of GC use among patients with RMD and understand their perceptions of GC use and safety. This cross-sectional survey was conducted at a tertiary academic university hospital in Amman, Jordan. RMD patients were anonymously approached while awaiting rheumatology clinic appointments. Convenience sampling was employed, with enrollment taking place between January and September 2021. Of 500 participants, 315 (63%) reported current (171/315, 54.3%) or past (144/315, 45.7%) use of GCs, primarily prescribed for RMD (267/315, 84.7%). Most (270/315, 85.7%) used GCs orally, with the majority taking them daily (266/315, 84.4%). A small percentage (33/315, 10.5%) used GCs only as needed. Long-term use was common, with 57.8% (182/315) reporting use for years and 84.1% (265/315) adhering to doctor recommendations. Perception-wise, 69.5% (219/315) of GC users believed in its efficacy, whereas 78.7% (248/315) considered it unsafe, compared to 51.9% (96/185) of non-users. Awareness of side effects was higher among GC users (219/315, 69.5%) than non-users (79/185, 42.7%), with weight gain being the most reported side effect. Media and personal research were the primary information sources for GC users (193/315, 61.3%). Side effects were reported by 110/315 (34.9%) GC users, with weight gain as the most common (47%). Both perceived efficacy and safety of GC were positively and significantly correlated with educational level (p = .005, p = .000, respectively) and monthly income (p = .044, p = .000, respectively). GC use is prevalent among Jordanian patients with RMDs, with perceptions of efficacy and safety strongly influenced by education and income. Enhanced patient education on the side effects of GC is crucial for improving treatment adherence and outcomes.",
+    "authors": [
+      "Fatima Alnaimat",
+      "Hamza Alduraidi",
+      "Ali Rezeq Ali Yaghi",
+      "Mohammad Mahmoud Tarbiah",
+      "Asim Khanfar",
+      "Moath Abusheikha",
+      "Ali M. Hamad"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518595"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327426",
+    "journal": "PLoS_ONE",
+    "title": "Hepatitis B (HBsAg) prevalence among obstetric patients in Caluquembe, Angola, 2023–2024",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327426",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Anna E. Eberwein, Priscila Ribeiro Cummings, Daniel Cummings, Julia Andre, Kathryn H. Jacobsen</p>\nObjectives <p>Newborns who contract hepatitis B virus (HBV) infections at birth often develop chronic infections that can cause cirrhosis, liver cancer, and death in middle adulthood. Birth doses of hepatitis B vaccine can be lifesaving for babies born to mothers with hepatitis B infections. We aimed to measure hepatitis B prevalence among maternity patients in Huíla, a rural province in southwestern Angola.</p> Methods <p>We conducted a prospective case series study among 317 peripartum women at the Hospital Evangélico de Caluquembe from November 2023 to February 2024. Each participant received a point-of-care hepatitis B surface antigen (HBsAg) test and was asked about HBV and vaccine knowledge. We also conducted qualitative interviews about HBV prevention with 26 healthcare workers.</p> Results <p>The HBsAg prevalence was 4.7%. None of the women who tested positive was previously aware of her status. Only about one-third of the women expressed familiarity with hepatitis B or HBV vaccines, and almost none reported that their older children had received HBV vaccines. Maternal health workers proposed hosting community meetings to provide education about HBV and birth-dose vaccination.</p> Conclusions <p>Only about half of Angolan babies are born at healthcare facilities, but more than 80% of women attend at least one antenatal care visit. Improved access to and uptake of hepatitis B screening at antenatal checkups is essential for ensuring that babies born to women with chronic hepatitis B infections are able to receive birth dose hepatitis B vaccines.</p>",
+    "authors": [
+      "Anna E. Eberwein",
+      "Priscila Ribeiro Cummings",
+      "Daniel Cummings",
+      "Julia Andre",
+      "Kathryn H. Jacobsen"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518601"
+  },
+  {
+    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327304",
+    "journal": "PLoS_ONE",
+    "title": "Bifurcation study of a tumor-immune system with chemotherapy",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327304",
+    "published": "2025-07-03T14:00:00Z",
+    "summary": "<p>by Abdelhamid Ajbar, Rubayyi T. Alqahtani, Khalid Alhumaizi</p>\n\nUnderstanding the dynamics of cancer cell growth, the interplay between tumor and immune cells, and the efficacy of chemotherapy are pivotal areas of focus in cancer research. In this regard, mathematical modeling can provide significant insights. This study re-examines a classical two-dimensional model of tumor-immune cell interactions where the tumor’s growth rate is assumed to adhere to von Bertalanffy’s model instead of the logistic model. We investigate the model both without chemotherapy and with treatment. The equilibrium points are identified, classified, and their stability analyzed. Our results reveal that the model can demonstrate a broad spectrum of behaviors, including bi-stability and multi-stability as well as regions of stable periodic behavior. We establish analytical conditions for the existence of Hopf points. Furthermore, we assess the impact of model parameters on the various behavior predicted by the model. This mathematical investigation can provide general guidance on treatment strategies.",
+    "authors": [
+      "Abdelhamid Ajbar",
+      "Rubayyi T. Alqahtani",
+      "Khalid Alhumaizi"
+    ],
+    "doi": "",
+    "parser_type": "plos",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518606"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41588-025-02217-y",
+    "journal": "Nature_SystemsBiology",
+    "title": "Detecting and quantifying clonal selection in somatic stem cells",
+    "link": "https://www.nature.com/articles/s41588-025-02217-y",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Verena Körber et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518624"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00223-1?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Toward building kidney organoids with plumbing: Fusion of nephron with ureteric bud",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00223-1?rss=yes",
+    "published": "",
+    "summary": "The fusion of distal nephron and ureteric bud represents a critical developmental milestone required for establishing a functional kidney plumbing system. In this issue of Cell Stem Cell, Shi et al. report a protocol for generating human kidney organoids with an integrated collecting system by recapitulating this key developmental fusion event.",
+    "authors": [
+      "Chao Zhang, Yun Xia"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518628"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00230-9?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "The future belongs to those who believe in multiplex CAR T engineering",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00230-9?rss=yes",
+    "published": "",
+    "summary": "Toxicity and immune evasion have hindered the success of CAR T cells in HER2-positive solid tumors. In this issue of Cell Stem Cell, Hosking et al. present an iPSC-derived CAR T cell product engineered for tumor-selective targeting, resistance to the immunosuppressive tumor microenvironment, enhanced persistence and trafficking, and mitigation of antigen escape.",
+    "authors": [
+      "Laura Volta, Chiara F. Magnani"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518632"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00227-9?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Beyond transplantation: Gene-edited pig liver supports function in a human host",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00227-9?rss=yes",
+    "published": "",
+    "summary": "A recent study in Nature demonstrates that a gene-edited pig liver can function in a brain-dead human for short-term support. This highlights the potential of xenogeneic liver transplantation as bridge therapy and opens new directions in regenerative medicine and cross-species organ engineering.",
+    "authors": [
+      "Hidetaka Hara, Yi Wang"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518636"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00225-5?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "From symbiote to bad neighbor: The intestinal microbiome as a driver of CHIP",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00225-5?rss=yes",
+    "published": "",
+    "summary": "Hematopoietic stem cells (HSCs) with mutations that can cause clonal hematopoiesis of indeterminate potential (CHIP) accumulate during aging. Agarwal et al. demonstrate in Nature that intestinal barrier permeability increases with age and enables the microbial metabolite ADP-Heptose to reach the bone marrow, thus driving the expansion of DNMT3A-mutant HSCs.",
+    "authors": [
+      "Courtney M. Cowan, Eric M. Pietras"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518640"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00226-7?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Hallmarks of stem cell aging",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00226-7?rss=yes",
+    "published": "",
+    "summary": "Aging disrupts core functions of somatic stem cells throughout the body, leading to impaired tissue maintenance and repair. We identify five key features of aged stem cells, highlighting how their dysfunction contributes to aging phenotypes and offering a framework for targeting stem cell decline to preserve tissue health.",
+    "authors": [
+      "Thomas A. Rando, Anne Brunet, Margaret A. Goodell"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518644"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00143-2?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Integrating collecting systems in human kidney organoids through fusion of distal nephron to ureteric bud",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00143-2?rss=yes",
+    "published": "",
+    "summary": "Shi, McCracken, and colleagues define methods to incorporate ureteric bud (UB)-derived collecting duct (CD) systems into hPSC-derived kidney organoids. The CDs integrate with nephrons through direct epithelial fusion to the distal nephron in a process emulating the developmental connection, which is regulated by key signaling and transcriptional mechanisms.",
+    "authors": [
+      "Min Shi, Brittney Crouse, Nambirajan Sundaram, Naomi Pode Shakked, Konrad Thorner, Nathaniel M. King, Parna Dutta, Lioba Ester, Weitao Zhang, Vinothini Govindarajah, Raphael Kopan, Cristina Cebrian, Christopher N. Mayhew, Michael A. Helmrath, Joseph V. Bonventre, Kyle W. McCracken"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518648"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00178-X?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Establishing dorsal-ventral patterning in human neural tube organoids with synthetic organizers",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00178-X?rss=yes",
+    "published": "",
+    "summary": "Luo et al. developed a method to generate dorsal-ventral (D-V) patterned neural tube organoids (NTOs) from both zebrafish and human pluripotent stem cells (hPSCs) by engineering opposing BMP and SHH signaling centers. The human NTOs recapitulate the full complement of 13 neural progenitor subtypes arranged along the D-V axis, with transcriptomic profiling revealing high similarity to the human embryonic spinal cord at Carnegie stage 12.",
+    "authors": [
+      "Tao Luo, Cong Liu, Tao Cheng, Guo-Qin Zhao, Ying Huang, Jing-Yun Luan, Junyu Guo, Xiang Liu, Yi-Fan Wang, Yang Dong, Yu Xiao, Enhui He, Rui-Zhen Sun, Xiuyu Chen, Jiekai Chen, Jun Ma, Sean Megason, Junfeng Ji, Peng-Fei Xu"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518652"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00187-0?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Preferential tumor targeting of HER2 by iPSC-derived CAR T cells engineered to overcome multiple barriers to solid tumor efficacy",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00187-0?rss=yes",
+    "published": "",
+    "summary": "Hosking and colleagues have generated and preclinically characterized an off-the-shelf, allogeneic CAR T cell, derived from an induced pluripotent stem cell, that is intended to target HER2 on cancer cells without harming HER2-expressing healthy cells. Additional genetic edits have been specifically introduced to improve and sustain activity within solid tumors.",
+    "authors": [
+      "Martin P. Hosking, Soheila Shirinbak, Kyla Omilusik, Shilpi Chandra, Mika K. Kaneko, Angela Gentile, Susumu Yamamoto, Bishwas Shrestha, Joy Grant, Megan Boyett, Demetrio Cardenas, Hannah Keegan, Samad Ibitokou, Carolina Pavon, Takahiro Mizoguchi, Tatsuya Ihara, Daisuke Nakayama, Ramzey Abujarour, Tom T. Lee, Raedun Clarke, Jode Goodridge, Eigen Peralta, Tatsuo Maeda, Junichi Takagi, Takao Arimori, Yukinari Kato, Bahram Valamehr"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518657"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00179-1?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Deconvoluting clonal and cellular architecture in IDH-mutant acute myeloid leukemia",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00179-1?rss=yes",
+    "published": "",
+    "summary": "Sirenko et al. profile IDH1/2-mutated AML patients across disease stages (diagnosis, remission, and relapse) and treatments (targeted IDH inhibitors, chemotherapy, and hypomethylating agents). They delineate transcriptional programs associated with co-mutations (NPM1, SRSF2, and NRAS), treatment response, and relapse. Single-cell mutation tracking reveals the selection of rare diagnosis clones at relapse.",
+    "authors": [
+      "Maria Sirenko, Soobeom Lee, Zhengxi Sun, Ronan Chaligne, Sanam Loghavi, Georgios Asimomitis, Charlotte K. Brierley, Elsa Bernard, Sheng F. Cai, Robert M. Myers, Bettina Nadorp, Junya Sango, Morgan Lallo, Max F. Levine, Dylan Domenico, Juan E. Arango Ossa, Juan S. Medina-Martinez, Kamal Menghrajani, Audrey Lasry, Alice S. Mims, Helee Desai, Andrea Laganson, Chris Famulare, Minal Patel, Gerard Lozanski, Kelly L. Bolton, Aaron D. Viny, Mikhail Roshal, Ross L. Levine, Eirini P. Papapetrou, Eytan M. Stein, Dan A. Landau, Ann-Kathrin Eisfeld, Iannis Aifantis, Elli Papaemmanuil"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518663"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00181-X?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "IGF2BP1 restricts the induction of human primordial germ cell fate in an m6A-dependent manner",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00181-X?rss=yes",
+    "published": "",
+    "summary": "Zhang, Gu, Tong, et al. use human primordial germ cell-like cells induced from ESCs to show that germline entry is restricted via epitranscriptomic regulation of OTX2 by the m6A reader IGF2BP1. They demonstrate that an m6A-IGF2BP1-OTX2-MacroH2A.1-TFAP2C axis is essential to regulate human germ cell fate.",
+    "authors": [
+      "Jin Zhang, Yashi Gu, Lingling Tong, Boshi Feng, Shenghua Dong, Qizhe Shao, Yanxi Chen, Huanchang Tu, Ziqi Wang, Yueqi Wang, Xiang Li, Honglin Yu, Ziying Lin, Xueting Wang, Zhenfu Li, Zhipeng Ai, Yangquan Xiang, Zhiwei Jiang, Zixin Jin, Zhengyi Li, Yuxin Chen, Zuolin Shen, Chenyang Huang, Jianzhao Liu, Jian Liu, Pengfei Xu, You Yu, Peng Xia, Hongqing Liang, Huilin Huang, Di Chen"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518668"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00192-4?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Multiomic profiling reveals that prostaglandin E2 reverses aged muscle stem cell dysfunction, leading to increased regeneration and strength",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00192-4?rss=yes",
+    "published": "",
+    "summary": "Wang et al. uncover that aged muscle stem cells have blunted PGE2-EP4 signaling that is critical for their regenerative function. Treatment with exogenous PGE2 reverses age-related defects in muscle stem cells and imparts an epigenetic response that enhances their capacity for repair after injury and transplantation.",
+    "authors": [
+      "Yu Xin Wang, Adelaida R. Palla, Andrew T.V. Ho, Daniel C.L. Robinson, Meenakshi Ravichandran, Glenn J. Markov, Thach Mai, Chris Still, Akshay Balsubramani, Surag Nair, Colin A. Holbrook, Ann V. Yang, Peggy E. Kraft, Shiqi Su, David M. Burns, Nora D. Yucel, Lei S. Qi, Anshul Kundaje, Helen M. Blau"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518676"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00229-2?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "To play Paneth or goblet: Shapeshifting secretory cells read the room",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00229-2?rss=yes",
+    "published": "",
+    "summary": "(Cell Stem Cell 32, 861–863; June 5, 2025)",
+    "authors": [
+      "Irene V. Choi, Rachel K. Zwick"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518684"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41592-025-02729-9",
+    "journal": "Nature_CompBio",
+    "title": "Interpretable representation learning for 3D multi-piece intracellular structures using point clouds",
+    "link": "https://www.nature.com/articles/s41592-025-02729-9",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Ritvik Vasan et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518689"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-60868-1",
+    "journal": "Nature_CompBio",
+    "title": "MR-link-2: pleiotropy robust cis Mendelian randomization validated in three independent reference datasets of causality",
+    "link": "https://www.nature.com/articles/s41467-025-60868-1",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Adriaan van der Graaf et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518693"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-01804-x",
+    "journal": "Nature_CompBio",
+    "title": "Computational strategic recruitment for representation and coverage studied in the All of Us Research Program",
+    "link": "https://www.nature.com/articles/s41746-025-01804-x",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Victor A. Borza et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518702"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41592-025-02752-w",
+    "journal": "Nature_CompBio",
+    "title": "Decoding 3D cell morphology with interpretable point cloud models",
+    "link": "https://www.nature.com/articles/s41592-025-02752-w",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Siewert Hugelier"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518715"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41597-025-05454-2",
+    "journal": "Nature_CompBio",
+    "title": "High-quality chromosome-level genome of three Meretrix species using Nanopore and Hi-C technologies",
+    "link": "https://www.nature.com/articles/s41597-025-05454-2",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Che-Chun Chen et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518719"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-04428-z",
+    "journal": "Nature_CompBio",
+    "title": "A Hypergraph powered approach to Phenotype-driven Gene Prioritization and Rare Disease Prediction",
+    "link": "https://www.nature.com/articles/s41598-025-04428-z",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Shrinithi Natarajan et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518723"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-07838-1",
+    "journal": "Nature_CompBio",
+    "title": "Semantic ECG hash similarity graph",
+    "link": "https://www.nature.com/articles/s41598-025-07838-1",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yixian Fang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518727"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-08107-x",
+    "journal": "Nature_CompBio",
+    "title": "Subtractive proteomics and molecular docking identify therapeutic targets and drug candidates in drug resistant Klebsiella Michiganensis THO-011",
+    "link": "https://www.nature.com/articles/s41598-025-08107-x",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Abdullah R. Alanzi et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518734"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-61400-1",
+    "journal": "Nature_CompBio",
+    "title": "Respiratory syncytial virus hospitalisation by chronological month of age and by birth month in infants",
+    "link": "https://www.nature.com/articles/s41467-025-61400-1",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Ling Guo et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518738"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-05191-x",
+    "journal": "Nature_CompBio",
+    "title": "Discovering molecular signatures in kidney transplant biopsies with borderline changes and isolated V-lesions: single-cell RNA-sequencing analysis of human blood and tissue Spatial transcriptomics",
+    "link": "https://www.nature.com/articles/s41598-025-05191-x",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Jeongin Song et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518757"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-06660-z",
+    "journal": "Nature_CompBio",
+    "title": "Deep learning-driven insights into the transmission dynamics of hepatitis B virus with treatment",
+    "link": "https://www.nature.com/articles/s41598-025-06660-z",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Muhammad Farhan et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518761"
+  },
+  {
+    "id": "https://www.nature.com/articles/s44271-025-00274-x",
+    "journal": "Nature_CompBio",
+    "title": "Large language models predict cognition and education close to or better than genomics or expert assessment",
+    "link": "https://www.nature.com/articles/s44271-025-00274-x",
+    "published": "2025-07-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Tobias Wolfram"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518765"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-04046-9",
+    "journal": "Nature_CompBio",
+    "title": "Jackalope Plus tool for post-coordination, ontology development, and precise mapping in observational health studies",
+    "link": "https://www.nature.com/articles/s41598-025-04046-9",
+    "published": "2025-07-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Maksym Trofymenko et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518770"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-08731-7",
+    "journal": "Nature_CompBio",
+    "title": "A comprehensive evaluation of life sciences data resources reveals significant accessibility barriers",
+    "link": "https://www.nature.com/articles/s41598-025-08731-7",
+    "published": "2025-07-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Sehi L’Yi et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518774"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1119627",
+    "journal": "MIT_TechReview",
+    "title": "Google’s electricity demand is skyrocketing",
+    "link": "https://www.technologyreview.com/2025/07/03/1119627/google-electricity-fusion-ai/",
+    "published": "Thu, 03 Jul 2025 10:00:00 +0000",
+    "summary": "We got two big pieces of energy news from Google this week. The company announced that it’s signed an agreement to purchase electricity from a fusion company’s forthcoming first power plant. Google also released its latest environmental report, which shows that its energy use from data centers has doubled since 2020. Taken together, these two&#8230;",
+    "authors": [
+      "Casey Crownhart"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518784"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/30/13476/",
+    "journal": "Nikkei_BioTech",
+    "title": "東大・iCONM、アンチセンス核酸をリンパ節に集積させてがんの転移を抑えるナノメディシンを開発",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/30/13476/",
+    "published": "",
+    "summary": "東京大学と川崎市産業振興財団ナノ医療イノベーションセンター（iCONM）の研究チームが、核酸医薬をリンパ節に効果的に集積させるナノメディシンを開発した。乳がんが転移する際に足がかりとするリンパ節の一種「センチネルリンパ節」に、免疫を活性化させる核酸医薬を集積させることで、リンパ節内の免疫応答を活性化させて転移を抑えるという。論文が2025年6月20日、Journal of the American Chemical Society誌に掲載された。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518793"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13483/",
+    "journal": "Nikkei_BioTech",
+    "title": "凜研究所の抗不溶性フィブリン抗体使ったADC、医師主導治験に向け製造法確立",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13483/",
+    "published": "",
+    "summary": "凜研究所（東京・中央、藤原正明代表取締役社長）は、2025年6月16日、同社が開発した技術に基づく独自のリンカー技術特許の利用に関して、台湾のMycenax Biotech（マイセナックス・バイオテック）社と基本合意書を締結したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518799"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/112800083/062500049/",
+    "journal": "Nikkei_BioTech",
+    "title": "Endpoints News、FDA、新薬の市場投入をわずか1カ月に短縮するパイロットプログラムを発表",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/112800083/062500049/",
+    "published": "",
+    "summary": "米食品医薬品局（FDA）は火曜日（2025年6月17日）、医薬品の審査時間を大幅に短縮するための新たなパイロットプログラムを発表した。FDAのMarty Makary長官が考える「国家の優先事項」を支えるプログラムだ。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518803"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13486/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Altimmune社、MASH対象pemvidutideの第2b相試験で好結果",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13486/",
+    "published": "",
+    "summary": "肝疾患及び心血管代謝疾患に対する新規ペプチド治療薬を開発している米Altimmune（アルティミューン）社は、2025年6月26日、代謝機能障害関連脂肪肝炎（MASH）患者を登録してpemvidutideを投与する第2b相IMPACT試験の24週時点の解析で得られた、良好なトップラインデータを発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518808"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/03/13489/",
+    "journal": "Nikkei_BioTech",
+    "title": "日米に拠点を持つVCの米AN Venture Partners社、第1号ファンドを2億ドルでクローズ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/03/13489/",
+    "published": "",
+    "summary": "日米に拠点を持つベンチャーキャピタル（VC）の米AN Venture Partners（ANV）社は2025年7月2日、第1号ファンドをクローズしたと発表した。同ファンドの総額は2億ドル（同日のレートで約290億円）となった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518813"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13488/",
+    "journal": "Nikkei_BioTech",
+    "title": "JBA、代表理事兼理事長に旭化成特別顧問の浅野敏雄氏が就任",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13488/",
+    "published": "",
+    "summary": "バイオインダストリー協会（JBA）は、2025年6月30日、臨時理事会を開催し、代表理事兼理事長に、旭化成特別顧問で公益財団法人がん研究会理事長を務める浅野敏雄氏を選出した。代表理事兼理事長を務めていた、中外製薬名誉会長の永山治氏は、名誉理事長・理事に就く",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518817"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/03/13491/",
+    "journal": "Nikkei_BioTech",
+    "title": "三菱ガス化学とVeritas In Silico、核酸医薬の創出と製造法確立を並行して進める共同研究契約を締結",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/03/13491/",
+    "published": "",
+    "summary": "三菱ガス化学とVeritas In Silico（VIS）は、2025年7月3日、核酸医薬の創出及び製造法の確立を目的とした共同研究の契約を締結したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-03T22:07:35.518821"
   }
 ]
