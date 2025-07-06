@@ -1,381 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-01939-7",
-    "journal": "Nature",
-    "title": "Turmoil at US science academy as Trump cuts force layoffs",
-    "link": "https://www.nature.com/articles/d41586-025-01939-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-01939-7\">doi:10.1038/d41586-025-01939-7</a></p>Efforts by leaders of the US national academies to adjust to the new political reality have spurred member concerns about capitulation and censorship.",
-    "authors": [
-      "Jeff Tollefson",
-      "Dan Garisto"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922359"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02090-z",
-    "journal": "Nature",
-    "title": "How to speed up peer review: make applicants mark one another",
-    "link": "https://www.nature.com/articles/d41586-025-02090-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02090-z\">doi:10.1038/d41586-025-02090-z</a></p>‘Distributed peer review’ of grants makes process more than twice as fast — and includes some cheat-prevention measures.",
-    "authors": [
-      "Helen Pearson"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922363"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02086-9",
-    "journal": "Nature",
-    "title": "How fast are you ageing? Ordinary brain scans reveal the pace",
-    "link": "https://www.nature.com/articles/d41586-025-02086-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02086-9\">doi:10.1038/d41586-025-02086-9</a></p>Images hold clues to risk of dementia and various age-related diseases.",
-    "authors": [
-      "Heidi Ledford"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922367"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01829-y",
-    "journal": "Nature",
-    "title": "Extend your reach by turning your lessons into podcasts",
-    "link": "https://www.nature.com/articles/d41586-025-01829-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-01829-y\">doi:10.1038/d41586-025-01829-y</a></p>By taking a few technical steps, I’ve made my teaching more accessible to my students — and to biologists around the world.",
-    "authors": [
-      "William Mills"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922371"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01716-6",
-    "journal": "Nature",
-    "title": "‘Place’ neurons recognize the same spot from close by and far away",
-    "link": "https://www.nature.com/articles/d41586-025-01716-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-01716-6\">doi:10.1038/d41586-025-01716-6</a></p>Place cells are neurons that encode spatial locations. Experiments in chickadees reveal that the cells activate even when those locations are viewed from a distance.",
-    "authors": [
-      "Uwe Mayer"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922376"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02030-x",
-    "journal": "Nature",
-    "title": "Transparent research: can big tech learn from big pharma?",
-    "link": "https://www.nature.com/articles/d41586-025-02030-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02030-x\">doi:10.1038/d41586-025-02030-x</a></p>The results of technology research and development must find their way into the published literature. New models of regulation could help.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922380"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02016-9",
-    "journal": "Nature",
-    "title": "Human embryo research: how to move towards a 28-day limit",
-    "link": "https://www.nature.com/articles/d41586-025-02016-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02016-9\">doi:10.1038/d41586-025-02016-9</a></p>The decades-old limit on how long human embryos can be grown in culture is under debate. A new road map outlines how to extend the length of culture responsibly.",
-    "authors": [
-      "Alejandro De Los Angeles",
-      "Nissim Benvenisty",
-      "Hongkui Deng",
-      "Jacob H. Hanna",
-      "Julian Koplin",
-      "Tianqing Li",
-      "Pentao Liu",
-      "Yuin-Han Loh",
-      "Duanqing Pei",
-      "Ryohichi Sugimura",
-      "Timothy Theodore Ka Ki Tam",
-      "Tan Tao",
-      "Alan Trounson",
-      "Shao Xu",
-      "Leqian Yu",
-      "Elias Zambidis",
-      "Magdalena Zernicka-Goetz",
-      "Robin Lovell-Badge"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922384"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01828-z",
-    "journal": "Nature",
-    "title": "Postdocs file for union recognition at University of Michigan",
-    "link": "https://www.nature.com/articles/d41586-025-01828-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-01828-z\">doi:10.1038/d41586-025-01828-z</a></p>International scholars targeted by Trump administration are among those seeking greater protection.",
-    "authors": [
-      "Laurie Udesky"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922388"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02031-w",
-    "journal": "Nature",
-    "title": "Why we need mandatory safeguards for emotionally responsive AI",
-    "link": "https://www.nature.com/articles/d41586-025-02031-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 01 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02031-w\">doi:10.1038/d41586-025-02031-w</a></p>Virtual chatbots that simulate conversations with famous actors or sci-fi characters can have real-world consequences.",
-    "authors": [
-      "Ziv Ben-Zion"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922391"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02088-7",
-    "journal": "Nature",
-    "title": "Daily briefing: NIH still uses directives deemed illegal to screen grants",
-    "link": "https://www.nature.com/articles/d41586-025-02088-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 30 June 2025; <a href=\"https://www.nature.com/articles/d41586-025-02088-7\">doi:10.1038/d41586-025-02088-7</a></p>The US National Institutes of Health is still screening grants in process a judge ruled illegal last week. Plus, one researcher’s 40-year project to communicate with dolphins and a wake-up call about computer-vision research.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922395"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z6jp22h",
-    "journal": "Science",
-    "title": "Devices that pull water out of thin air poised to take off",
-    "link": "https://www.science.org/content/article/devices-pull-water-out-thin-air-poised-take",
-    "published": "",
-    "summary": "Research “explosion” feeds tech that could cool data centers and slake the thirst of soldiers on the move",
-    "authors": [
-      "Robert F. Service"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922398"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zur7jm9",
-    "journal": "Science",
-    "title": "These tiny lasers are completely edible",
-    "link": "https://www.science.org/content/article/these-tiny-lasers-are-completely-edible",
-    "published": "",
-    "summary": "Edible sensors made of glowing droplets could improve food and drug monitoring",
-    "authors": [
-      "Zack Savitsky"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922403"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zrzefxl",
-    "journal": "Science",
-    "title": "EPA employees accuse Trump officials of undermining the agency’s mission",
-    "link": "https://www.science.org/content/article/epa-employees-accuse-trump-officials-undermining-agency-s-mission",
-    "published": "",
-    "summary": "“Declaration of Dissent” denounces partisan messaging, rollback of environmental regulations, and dismantling of science office, among other concerns",
-    "authors": [
-      "Phie Jacobs"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922408"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zh18vyx",
-    "journal": "Science",
-    "title": "Scientists identify culprit behind biggest-ever U.S. honey bee die-off",
-    "link": "https://www.science.org/content/article/scientists-identify-culprit-behind-biggest-ever-u-s-honeybee-die",
-    "published": "",
-    "summary": "USDA research points to viruses spread by pesticide-resistant mites, indicating a worrying trend",
-    "authors": [
-      "Joanna Thompson"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922412"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327632",
-    "journal": "PLoS_ONE",
-    "title": "<i>Chiliadenus iphionoides</i>: From chemical profiling to anticancer, antioxidant, <i>α</i>-amylase, and <i>α</i>-glycosidase activities",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327632",
-    "published": "2025-07-01T14:00:00Z",
-    "summary": "<p>by Odey Bsharat, Yousef Salama, Nisreen Al-Hajj, Nawaf Al-Maharik</p>\n\nRecently, essential oils (EOs) have garnered attention for their biological properties as a source of natural compounds with anticancer, antibacterial, and antioxidant effects. <i>Chiliadenus iphionoides</i> (Boiss.& Blanche) Brullo is a fragrant aromatic species indigenous to Palestine and the neighboring countries. It is utilized by the Bedouins for the treatment of many ailments. This study aimed to analyze the chemical composition of essential oil extracted from the desiccated leaves of <i>Chiliadenus iphionoides</i> (Boiss.& Blanche) Brullo and to assess its in vitro antioxidant, anticancer, and α-amylase and lipase inhibitory activities. The EO obtained during hydrodistillation was analyzed using gas chromatography-mass spectrometry to ascertain their chemical composition. GC-MS analysis of the EO from dried <i>Chiliadenus iphionoides</i> (Boiss.& Blanche) Brullo leaves identified 47 compounds, comprising 98.81% of the total oil. The predominant constituents included cresol methyl ether (52.93%), ethyl 2-octynoate (14.36%), epi-α-cadinol (6.56%), 1,8-cineole (4.25%), and 7-epi-α-eudesmol (3.66%). The EO exhibited significant antioxidant activity against 1,1-diphenyl-2-picrylhydrazyl (DPPH) with an IC<sub>50</sub> value of 19.83 ± 0.99 μg/mL. Nevertheless, it exhibited limited lipase activity and subpar α-amylase activity. <i>Chiliadenus iphionoides</i> (Boiss.& Blanche) Brullo EO exhibited significant cytotoxicity against B16F10 and MCF-7 cancer cell lines, with IC<sub>50</sub> values of 8.74 ± 0.11 and 13.68 ± 0.17 μg/mL, respectively. The combination of the anticancer medication Taxol (10 ng) with <i>Chiliadenus iphionoides</i> (Boiss.& Blanche) Brullo EO at concentrations of 25 μg/mL and 50 μg/mL significantly enhanced the inhibitory efficacy of Taxol against MCF-7 and B16F10 cells.",
-    "authors": [
-      "Odey Bsharat",
-      "Yousef Salama",
-      "Nisreen Al-Hajj",
-      "Nawaf Al-Maharik"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922418"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327590",
-    "journal": "PLoS_ONE",
-    "title": "Awareness campaigns and strengthened prevention as alternatives to banning: Preventing zoonotic diseases from wildlife in the Democratic Republic of Congo",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327590",
-    "published": "2025-07-01T14:00:00Z",
-    "summary": "<p>by Marc K. Yambayamba, Chloe Clifford Astbury, Hélène Carabin, Eduardo Gallo-Cajiao, Kirsten M. Lee, Désiré K. Mashinda, Justin M. Masumu, Simon R. Ruegg, Tarra L. Penney, Mala Ali Mapatano</p>\nBackground <p>The Democratic Republic of Congo (DRC) faces a rising frequency of emerging infectious diseases outbreaks such as Ebola and Mpox. Wild meat consumption is considered a risk factor due to increased contact with wild animals. This study aimed to identify sociodemographic characteristics associated with wild meat consumption, assess the perceived risk of infectious diseases among consumers, and investigate attitudes towards selective measures to control disease spillover from wildlife.</p> Methods <p>A cross-sectional survey was conducted from June to August 2022 in four major cities: Kinshasa (Kinshasa), Kindu (Maniema), Lodja (Sankuru), and Boende (Tshuapa). Adults aged 18 years or older participated through a pre-tested questionnaire. Data included demographic characteristics, wild meat consumption behaviors, zoonotic disease risk perception, and potential human-wildlife disease prevention measures. The latter included measures such as law enforcement, education, and awareness campaigns, investing in disease prevention, strengthening response, and banning wild meat. Multivariable logistic regression was used to analyze associations between demographics, consumption, and risk perception.</p> Findings <p>Of 2,163 respondents, 59% were male, and 38% were aged 26–35. Wild meat consumption was reported by 86%. The main reason for consumption across cities was the meat taste (76%). Overall, only 36% of wild meat consumers perceived themselves to be at risk of a zoonotic disease. The highest risk perception was reported to be as high as 92% in Boende. Residents of Lodja had higher odds of wild meat consumption (OR: 11.4, CI: 6.35–21.40) compared to Kinshasa followed by those living in Kindu (1.61, 1.09–2.37), this association was also statistically significant in Boende. Risk perception was higher in Boende (OR: 5.26, CI: 1.72–15.0) and lower in Lodja (OR: 0.25, CI: 0.09–0.60) compared to Kinshasa. Knowing a family member or a relative infected with zoonotic disease increased risk perception (OR: 5.55, CI: 2.29–13.40). More than 70% of respondents supported measures such as awareness campaigns, increased disease prevention budgets, and law enforcement. Banning wild meat consumption was least supported across cities.</p> Conclusion <p>The findings highlight that wild meat consumption is quite homogenous with regards to sociodemographic characteristics, only the city of residence emerged as a significant factor. However, the risk perception is very low. Increased awareness campaigns and biosafety measures along the value chain would contribute to the prevention of zoonotic diseases originating from wildlife.</p>",
-    "authors": [
-      "Marc K. Yambayamba",
-      "Chloe Clifford Astbury",
-      "Hélène Carabin",
-      "Eduardo Gallo-Cajiao",
-      "Kirsten M. Lee",
-      "Désiré K. Mashinda",
-      "Justin M. Masumu",
-      "Simon R. Ruegg",
-      "Tarra L. Penney",
-      "Mala Ali Mapatano"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922422"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327317",
-    "journal": "PLoS_ONE",
-    "title": "Identification of plasma proteins associated with seizures in epilepsy: A consensus machine learning approach",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327317",
-    "published": "2025-07-01T14:00:00Z",
-    "summary": "<p>by Saman Hosseini Ashtiani, Sarah Akel, Rakesh Kumar Banote, Fredrik Asztely, Johan Zelano</p>\n\nBlood-based biomarkers in epilepsy could constitute important research tools advancing neurobiological understanding and valuable clinical tools for better diagnosis and follow-up. An interesting question is whether biomarker patterns could contribute additional understanding compared to individual marker values. We analyzed OLINK proteomics data from a large epilepsy cohort in which we have previously found four differentially expressed proteins (CDH15, PAEP, LTBP3, PHOSPHO1). Using two machine-learning techniques, we identified ten consensus candidate protein biomarkers (CDH15, PAEP, LTBP3, PHOSPHO1, NEFL, SFRP1, TDGF1, DUSP3, WWP2 and DSG3) that contributed to the classification of patients as being seizure-free or not. Six out of the ten consensus proteins were identified as differentially expressed in our previous study (although NEFL and TDGF1 not significantly so after multiple testing correction). The remaining four consensus proteins were newly identified by machine learning and were chosen for detailed analysis. In comparison to the four significantly differentially expressed proteins (CDH15, PAEP, LTBP3, PHOSPHO1), the newly identified consensus proteins (SFRP1, DSG3, DUSP3, and WWP2) and in particular a combination of all eight proteins, outperformed individual proteins in identifying individuals with recent seizures, highlighting the potential of multi-protein profiles. These findings emphasize the need for integrative bioinformatic approaches in epilepsy research and underscore the role of neuroinflammation and immune pathways in epileptogenesis. Our results support the applicability of plasma protein profiling for developing future blood-based tests for epilepsy seizure prediction, diagnosis, and treatment. Further validations in independent cohorts are required to establish these candidate biomarkers in clinical practice.",
-    "authors": [
-      "Saman Hosseini Ashtiani",
-      "Sarah Akel",
-      "Rakesh Kumar Banote",
-      "Fredrik Asztely",
-      "Johan Zelano"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922489"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327231",
-    "journal": "PLoS_ONE",
-    "title": "Expression of Concern: Survivability and behavior of probiotic bacteria encapsulated by internal gelation in non-dairy matrix and <i>In Vitro</i> GIT conditions",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327231",
-    "published": "2025-07-01T14:00:00Z",
-    "summary": "<p>by The PLOS One Editors  </p>",
-    "authors": [
-      "The PLOS One Editors"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922507"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327225",
-    "journal": "PLoS_ONE",
-    "title": "Isolation, identification, and evaluation of the antioxidant properties of lactic acid bacteria strains isolated from meat environment",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327225",
-    "published": "2025-07-01T14:00:00Z",
-    "summary": "<p>by Anna Łepecka, Piotr Szymański, Anna Okoń</p>\n\nOxidative stress is a condition in which the body loses balance between the production of free radicals and the body’s ability to neutralize them. The role of antioxidants is to protect cells and tissues from the harmful effects of excessive amounts of free oxygen radicals. Lactic acid bacteria (LAB) can exhibit significant antioxidant properties which is the subject of research by many scientists. The aim of the work was isolation, phenotypic and genotypic identification, and evaluation of the antioxidant activity of twenty-one bacterial strains from raw fermented beef hams and the environment of a meat factory. The bacteria were screened <i>in vitro</i> by investigating their DPPH (1,1-diphenyl-2-picrylhydrazyl) and ABTS (2,2′-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)) free radical scavenging activity, superoxide anion tests, hydroxyl radical resistance, superoxide dismutase and catalase activity, and hydrogen peroxide resistance. As a result of the conducted research, 21 bacterial strains were isolated. They were assigned to <i>Lactiplantibacillus plantarum</i> (14), <i>Lactiplantibacillus pentosus</i> (3), <i>Lactiplantibacillus argentoratensis</i> (2), <i>Lacticaseibacillus paracasei</i> (1), and <i>Pediococcus pentosaceus</i> (1). The strains were compared with each other and some of them were able to scavenge free radicals DPPH (1.08–36.91%), ABTS (11.24–51.05%), and superoxide anions (3.04–96.70%). Furthermore, resistance to high concentrations of hydrogen peroxide (0.4–1.0 mM H<sub>2</sub>O<sub>2</sub>) and hydroxyl radicals (25.90–99.22%) has been demonstrated. Some strains produced superoxide dismutase, while none of them produced catalase. The findings indicated that some LAB strains could be promising starter candidates with antioxidant properties.",
-    "authors": [
-      "Anna Łepecka",
-      "Piotr Szymański",
-      "Anna Okoń"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922512"
-  },
-  {
-    "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327172",
-    "journal": "PLoS_ONE",
-    "title": "Calibrated muscle models improve tracking simulations without enhancing gait predictions",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327172",
-    "published": "2025-07-01T14:00:00Z",
-    "summary": "<p>by Filippo Maceratesi, Míriam Febrer-Nafría, Josep M. Font-Llagunes</p>\n\n<i>Objectives</i>: This study presents two main aims: (i) to assess functionally-calibrated musculoskeletal models (FCMs) in both tracking and predictive simulations of human motion, against non-linearly scaled models (NSMs), and (ii) to examine the effects of three different variations of our baseline functional calibration approach on the results of tracking and predictive simulations. <i>Methods</i>: Motion capture experiments of six functional activities were performed with three healthy subjects. The musculotendon (MT) parameters of 18 muscles per leg were estimated using an optimal control problem. A baseline problem formulation and three variations were developed to generate four different FCMs per subject. Then, the FCMs were compared against NSMs in tracking simulations of the motions excluded from the calibration and fully-predictive simulations of gait. <i>Results</i>: In the tracking simulations, the FCMs led to more accurate joint torques estimations. Including gait in the calibration problems improved the knee torques accuracy (normalised root mean square error: 0.31 ± 0.11), compared to the baseline calibration (normalised root mean square error: 0.70 ± 0.21). Regarding the gait predictive simulations, the NSMs consistently yielded more accurate subtalar inversion/eversion torques and knee flexion angles, compared to the FCMs. The accuracy of the predicted muscle excitations was generally consistent between NSMs and FCMs. <i>Conclusion</i>: The results suggest that, while the FCMs led to more accurate joint torques estimations in the tracking simulations, they did not outperform the NSMs in the fully-predictive gait simulations.",
-    "authors": [
-      "Filippo Maceratesi",
-      "Míriam Febrer-Nafría",
-      "Josep M. Font-Llagunes"
-    ],
-    "doi": "",
-    "parser_type": "plos",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-01T22:07:43.922544"
-  },
-  {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327159",
     "journal": "PLoS_ONE",
     "title": "Assessment of decadal changes in coastal nitrogen sources in NW Spain with stable isotopes in macroalgae and mussels",
@@ -3813,276 +3437,21 @@
     "added_at": "2025-07-05T22:06:57.289923"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00664-3?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "VISTA immune checkpoint blunts radiotherapy-induced antitumor immune response",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00664-3?rss=yes",
-    "published": "",
-    "summary": "Nambiar et al. showed that radiotherapy induces VISTA+ immunosuppressive myeloid cells, limiting antitumor immunity. Genetic deletion or antibody-mediated blockade of VISTA synergizes with radiotherapy to enhance T cell responses and myeloid repolarization, improving tumor control across models and supporting VISTA as a promising combination partner for radiotherapy treatment regimen.",
-    "authors": [
-      "Dhanya K. Nambiar, Sainiteesh Maddineni, Jimpi Langthasa, Hongbin Cao, Vignesh Viswanathan, Junyan Liu, Md Tauhidul Islam, Nishant Mehta, Jessica Frank, Alexander Real, Tia Cheunkarndee, Eyiwunmi Eghonghon Laseinde, Bhushan Dharmadhikari, Dipti Thakkar, Jerome D. Boyd-Kirkup, Andrey Finegersh, Vasu Divi, John B. Sunwoo, John Aleman, Xiao-Jing Wang, Christina Kong, Lei Xing, Jennifer R. Cochran, Quynh-Thu Le"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437051"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00701-6?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "A live-cell biosensor of in vivo receptor tyrosine kinase activity reveals feedback regulation of a developmental gradient",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00701-6?rss=yes",
-    "published": "",
-    "summary": "Ho et al. report in vivo biosensors of endogenous receptor tyrosine kinase activity in Drosophila called pYtags. Using pYtags to characterize Torso activity during embryonic terminal patterning, they find that a dynamic domain of Torso activity is tuned by negative feedback to produce a longer-range stable gradient of ERK.",
-    "authors": [
-      "Emily K. Ho, Rebecca P. Kim-Yip, Alison G. Simpkins, Payam E. Farahani, Harrison R. Oatman, Eszter Posfai, Stanislav Y. Shvartsman, Jared E. Toettcher"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437066"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00692-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Phenotypic screens for SIRPA expression reveal RAB21 as a general regulator of macrophage surface identity",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00692-8?rss=yes",
-    "published": "",
-    "summary": "Through CRISPR screening, Granda Farias et al. find results consistent with cis CD47-SIRPA interactions relying on QPCTL and that RAB21/Rab21 inactivation reduces macrophage model surface SIRPA/Sirpa expression. Through surface proteomics, they show that Rab21 inactivation modulates expression of macrophage receptors, e.g., Fc gamma receptors impacting phagocytosis of cells and particles.",
-    "authors": [
-      "Adrian Granda Farias, Brian Feng, Shahbaz Khan, Wayne Ngo, Jamie L.Y. Wu, Magali Aguilera-Uribe, Shan Grewal, Patricia Mero, Sheila K. Singh, Thomas Kislinger, Warren C.W. Chan, Jason Moffat"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437073"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00702-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "VCPIP1 potentiates innate immune responses by non-catalytically reducing the ubiquitination of IRAK1/2",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00702-8?rss=yes",
-    "published": "",
-    "summary": "Liyan Lou et al. identified the deubiquitinating enzyme VCPIP1 as a potential therapeutic target for sepsis. They found that VCPIP1 enhanced innate immune activity by stabilizing IRAK1/2. Ablation of VCPIP1 reduces IRAK1/2 levels and thereby impairs inflammatory responses, resulting in attenuated sepsis.",
-    "authors": [
-      "Liyan Lou, Jiangyun Shen, Jianzhao Zhang, Fuqi Mei, Deyu Deng, Deqi Wang, Yanqi Xu, Kangmin Chen, Baoli Cheng, Jinghua Liu, Xu Wang"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437079"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00679-5?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Lymph node fibroblast phenotypes and immune crosstalk regulated by podoplanin activity",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00679-5?rss=yes",
-    "published": "",
-    "summary": "Makris et al. show that podoplanin regulates the transcription profile of lymph node fibroblasts. Podoplanin deletion drives inflammation, disrupts lymph node architecture, and attenuates stromal/immune cell crosstalk. This study shows the significance of the podoplanin/CLEC-2 signaling axis beyond controlling cellular mechanics and actomyosin contractility.",
-    "authors": [
-      "Spyridon Makris, Yukti Hari-Gupta, Jesús A. Cantoral-Rebordinos, Victor G. Martinez, Harry L. Horsnell, Agnesska C. Benjamin, Isabella Cinti, Martina Jovancheva, Daniel Shewring, Nicola Nguyen, Charlotte M. de Winde, Alice E. Denton, Sophie E. Acton"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437084"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00681-3?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "SUV39H1-dependent methyl-degron is a critical regulator of skeletal homeostasis",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00681-3?rss=yes",
-    "published": "",
-    "summary": "Li et al. show that SUV39H1 inhibits female MSC osteogenesis and bone formation by activating the NF-κB cascade in an H3K9me3-independent manner. SUV39H1 deposits lysine methylation at the IκBα degron, which signals UACA binding and provokes IκBα destabilization. The SUV39H1-IκBα-UACA-NF-κB axis is a critical regulator of bone homeostasis.",
-    "authors": [
-      "Qian Li, Hongguang An, Rushui Bai, Qiannan Sun, Ruili Yang, Tianyi Xin, Zimeng Zhuang, Yuntao Lu, Yunyi Tang, Gengyao Chen, Weifang Zhang, Yu Zhang, Bing Han"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437088"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00768-5?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "TGF-β Determines the Pro-migratory Potential of bFGF Signaling in Medulloblastoma",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00768-5?rss=yes",
-    "published": "",
-    "summary": "(Cell Reports 23, 3798–3812.e1–e8; June 26, 2018)",
-    "authors": [
-      "Karthiga Santhana Kumar, Anuja Neve, Ana S. Guerreiro Stucklin, Claudia M. Kuzan-Fischer, Elisabeth J. Rushing, Michael D. Taylor, Dimitra Tripolitsioti, Lena Behrmann, Daniel Kirschenbaum, Michael A. Grotzer, Martin Baumgartner"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437098"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00767-3?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "TGF-β Determines the Pro-migratory Potential of bFGF Signaling in Medulloblastoma",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00767-3?rss=yes",
-    "published": "",
-    "summary": "(Cell Reports 23, 3798–3812.e1–e8; June 26, 2018)",
-    "authors": [
-      "Karthiga Santhana Kumar, Anuja Neve, Ana S. Guerreiro Stücklin, Claudia M. Kuzan-Fischer, Elisabeth J. Rushing, Michael D. Taylor, Dimitra Tripolitsioti, Lena Behrmann, Daniel Kirschenbaum, Michael A. Grotzer, Martin Baumgartner"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437103"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41531-025-01033-9",
+    "id": "https://www.nature.com/articles/s41698-025-01029-x",
     "journal": "Nature_CompBio",
-    "title": "Physical activity and network attack tolerance preserve motor function in Parkinson’s disease: A pilot study",
-    "link": "https://www.nature.com/articles/s41531-025-01033-9",
-    "published": "2025-06-28T00:00:00+00:00",
+    "title": "Pan-cancer, multi-omic correlates of survival transcending tumor lineage across 11,019 patients reveal targets and pathways",
+    "link": "https://www.nature.com/articles/s41698-025-01029-x",
+    "published": "2025-07-05T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Adrian L. Asendorf et al."
+      "Yiqun Zhang et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-28T22:07:02.437110"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/062500061/",
-    "journal": "Nikkei_BioTech",
-    "title": "キーパーソンインタビュー、米Moderna社チーフ・メディカル・オフィサーに聞く",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400018/062500061/",
-    "published": "",
-    "summary": "新型コロナウイルス感染症（COVID-19）に対するmRNAワクチンの開発で脚光を浴びた米Moderna社。米保健福祉省（HHS）の長官にワクチン反対派のRobert F. Kennedy Jr.氏が就任した影響はあるのか。来日したModerna社チーフ・メディカル・オフィサー（CMO）のJacqueline Miller氏にインタビューした。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-29T22:07:23.443255"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/062500373/",
-    "journal": "Nikkei_BioTech",
-    "title": "ベンチャー探訪、LYMPHOGENiX、リンパ管新生促進による不妊症治療薬開発を目指し英国で起業",
-    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/062500373/",
-    "published": "",
-    "summary": "英LYMPHOGENiX（リンフォジェニクス）社は、ウシやヒトを対象として、不妊症など線維化に関わる症状を改善する治療薬を開発するスタートアップだ。同社は現在、他家間葉系間質細胞（MSC）の培養上清液をゲル化した不妊症治療薬の開発に注力している。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-29T22:07:23.443268"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13469/",
-    "journal": "Nikkei_BioTech",
-    "title": "J＆J社、GPRC5DxCD3及びBCMAxCD3の二重特異性抗体併用が多発性骨髄腫の第2相で好結果",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/29/13469/",
-    "published": "",
-    "summary": "米Johnson＆Johnson社（ジョンソン・エンド・ジョンソン、J＆J）は2025年6月15日、いずれも多発性骨髄腫を適応として米食品医薬品局（FDA）の承認を得ている、GPRC5D（G蛋白質共役型受容体ファミリーCグループ5メンバーD）とCD3を標的とする二重特異性抗体「TALVEY」（talquetamab-tgvs）と、BCMA（B細胞成熟抗原）とCD3を標的とする二重特異性抗体「TECVAYLI」（teclistamab-cqyv）を併用した、第2相臨床試験（RedirecTT-1試験）の新たなデータが、イタリアMilanで開催された欧州血液学会 （EHA）2025年次総会のLate-Breaking演題として口頭発表されたことを明らかにした。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-29T22:07:23.443275"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/28/13468/",
-    "journal": "Nikkei_BioTech",
-    "title": "ミトコンドリア病の治療薬開発する米Tisento社、sGC活性化薬がFDAからファストトラック指定",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/06/28/13468/",
-    "published": "",
-    "summary": "ミトコンドリア病の治療薬開発を手掛けている米Tisento Therapeutics（ティセント・セラピューティクス）社は2025年6月17日、可溶性グアニル酸シクラーゼ（sGC）を活性化する1日1回の経口薬（一般名：zagociguat、開発番号：CY-6463）が、MELAS（Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes：ミトコンドリア脳筋症・乳酸アシドーシス・脳卒中様エピソード）の適応で米食品医薬品局（FDA）からファストトラックに指定されたと発表した。同社は現在、第2b相臨床試験（PRIZM試験）の患者登録を進めている。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-29T22:07:23.443281"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250630/",
-    "journal": "Nikkei_BioTech",
-    "title": "2025年6月30日号　目次",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250630/",
-    "published": "",
-    "summary": "",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-29T22:07:23.443286"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/062500401/",
-    "journal": "Nikkei_BioTech",
-    "title": "特集◎国内製薬企業のパイプライン分析2025【企業編】（その1）、国内製薬パイプラインは前年から8件増、減少企業が多い中で第一三共が20件超の増加",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/062500401/",
-    "published": "",
-    "summary": "国内の研究開発志向型の製薬企業のうち、売上収益上位の11社のパイプラインを調べると、総数は455件。11社中7社が前年よりもパイプラインの保有件数を減らしたものの、第一三共のプロジェクトが大幅に増えた結果、前年から8件の増加となった。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-29T22:07:23.443295"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/062400179/",
-    "journal": "Nikkei_BioTech",
-    "title": "オンライン閲覧TOP15、2025年6月7日から2025年6月20日まで",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/062400179/",
-    "published": "",
-    "summary": "2025年6月7日から2025年6月20日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-06-29T22:07:23.443300"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-06T22:07:28.402154"
   },
   {
     "id": "https://journals.plos.org/plosone/feed/10.1371/journal.pone.0327594",
@@ -7534,5 +6903,124 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-07-05T22:06:57.289953"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-09923-x",
+    "journal": "Nature_SystemsBiology",
+    "title": "Reidentification of hybridization events with transcriptomic data and phylogenomic study in Seabuckthorn",
+    "link": "https://www.nature.com/articles/s41598-025-09923-x",
+    "published": "2025-07-06T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Hui Zhang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-06T22:07:28.402136"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41526-025-00489-6",
+    "journal": "Nature_CompBio",
+    "title": "Phenotypic, transcriptomic and metabolomic changes in Klebsiella pneumoniae after long term exposure to simulated microgravity",
+    "link": "https://www.nature.com/articles/s41526-025-00489-6",
+    "published": "2025-07-05T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Xia Wang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-06T22:07:28.402148"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/091500081/063000030/",
+    "journal": "Nikkei_BioTech",
+    "title": "欧州の中心、ベルギーの起業家育成スクールから現地報告（24）、医薬品開発にアジャイルが持ち込まれるのはなぜか？",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/091500081/063000030/",
+    "published": "",
+    "summary": "2024年8月14日、オーストリア・ウィーン――。指揮者の指先のわずかな合図に、演奏者たちは一斉に構えをとる。モーツァルトの《アイネ・クライネ・ナハトムジーク》、バッハの《G線上のアリア》、ヴィヴァルディの《四季》。幾度となく耳にしてきた旋律がこの場所では不思議と新鮮に響く。弦楽四重奏の柔らかな音色が、バロック様式の古い教会内に優しく響きわたり、耳に、そして心に穏やかな余韻を残していく。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-06T22:07:28.402163"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/04/13493/",
+    "journal": "Nikkei_BioTech",
+    "title": "仏Enterome社、腸内細菌由来ペプチドワクチンが非ホジキンリンパ腫再発難治例で効果",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/04/13493/",
+    "published": "",
+    "summary": "フランスEnterome（エンテローム）社は2025年6月23日、腸内細菌に由来する、がん抗原ペプチドと類似性を持つ非自己蛋白質「OncoMimics」免疫療法薬（開発番号：EO2463）について、低悪性度非ホジキンリンパ腫（iNHL）患者に対する第1/2相試験（SIDNEY試験）の中間解析結果を発表した。今回発表したのは、再発/難治性の濾胞性リンパ腫/辺縁帯リンパ腫（R/R FL/MZL）患者を対象にレナリドミド＋リツキシマブ（R2）併用療法を行ったコホート1（C1）、コホート4（C4）のデータで、60％（12/20例）の完全奏効（CR）率が得られた。この解析結果は、6月17日～21日に開催された国際悪性リンパ腫学会（International Conference on Malignant Lymphoma：ICML）で報告された。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-06T22:07:28.402169"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/03/13492/",
+    "journal": "Nikkei_BioTech",
+    "title": "日本核酸医薬学会第10回年会、大阪大の位髙教授、「mRNAでしか実現しない薬効や安全性を達成できるかがmRNA医薬の未来に重要」",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/03/13492/",
+    "published": "",
+    "summary": "日本核酸医薬学会第10回年会のシンポジウムで、大阪大学感染症総合教育研究拠点（CiDER）臨床生命工学チームの位髙啓史教授が「mRNA創薬の将来を考える」というタイトルで講演した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-06T22:07:28.402174"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/04/13494/",
+    "journal": "Nikkei_BioTech",
+    "title": "富士フイルム富山化学、mRNA医薬などの治験薬向けにLNPなどの製剤化担う小規模施設整備",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/04/13494/",
+    "published": "",
+    "summary": "富士フイルム富山化学は、mRNA医薬の治験薬など、小規模な製造に対応するため、富山第一工場内の「富山研究開発センター」に、脂質ナノ粒子（LNP）などの製剤化を行う無菌製剤製造設備を導入する。治験薬などの受託製造サービスは、2026年2月から開始する見込み。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-06T22:07:28.402179"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13484/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Ionis社、ヌシネルセンの後継のアンチセンス核酸が脊髄性筋萎縮症の第1相中間解析で好結果",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/02/13484/",
+    "published": "",
+    "summary": "米Ionis Pharmaceuticals（アイオニス・ファーマシューティカルズ）社は2025年6月25日、米Biogen（バイオジェン）社に導出した脊髄性筋萎縮症（SMA）のアンチセンス核酸（ASO）（一般名：salanersen、開発番号：ION306/BIIB115）が、第1相臨床試験で1年にわたる良好な忍容性を示し、SMA患者の神経変性の進行を遅らせていることを確認したと発表した。salanersenは、両社が先に共同開発し承認を取得したSMA治療薬のASO製品「スピンラザ」（ヌシネルセン）の後継品として開発されている。Biogen社は、salanersenの次の臨床試験に向けて当局と協議中だ。この中間解析の詳しいデータは、6月25日～27日に開催されたSMA Research & Clinical Care Meetingで報告された。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-06T22:07:28.402186"
   }
 ]
