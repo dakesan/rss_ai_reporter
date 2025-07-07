@@ -57,7 +57,7 @@ jobs:
       run: |
         uv venv
         source .venv/bin/activate
-        uv pip sync
+        uv pip install -r requirements.txt
     
     - name: GitHub CLI セットアップ
       run: |
