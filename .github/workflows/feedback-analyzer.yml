@@ -46,12 +46,18 @@ jobs:
     - name: Pythonセットアップ
       uses: actions/setup-python@v4
       with:
-        python-version: '3.11'
+        python-version: '3.12'
+    
+    - name: uvのインストール
+      run: |
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        echo "$HOME/.cargo/bin" >> $GITHUB_PATH
     
     - name: 依存関係インストール
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        uv venv
+        source .venv/bin/activate
+        uv pip sync
     
     - name: GitHub CLI セットアップ
       run: |
@@ -83,6 +89,7 @@ jobs:
         
         # まずフィードバック分析を実行
         echo "📈 Running feedback analysis..."
+        source .venv/bin/activate
         python src/main.py --analyze-feedback --feedback-days $DAYS --feedback-min 3 --debug
         
         # analysis_onlyがtrueの場合は分析のみで終了
@@ -95,6 +102,7 @@ jobs:
         # 自動更新実行
         echo "🔄 Running auto filter update..."
         if [ "$DRY_RUN" = "true" ]; then
+          source .venv/bin/activate
           python src/main.py --auto-update \
             --feedback-days $DAYS \
             --auto-min-feedback $MIN_FEEDBACK \
@@ -102,6 +110,7 @@ jobs:
             --dry-run --debug
           echo "analysis_result=dry_run_completed" >> $GITHUB_OUTPUT
         else
+          source .venv/bin/activate
           python src/main.py --auto-update \
             --feedback-days $DAYS \
             --auto-min-feedback $MIN_FEEDBACK \

@@ -181,3 +181,104 @@ class QueueManager:
             "oldest_item": min((item.get('added_at', '') for item in queue), default=None),
             "newest_item": max((item.get('added_at', '') for item in queue), default=None)
         }
+
+    def refilter_queue(self, filter_config: Dict[str, Any]) -> Dict[str, int]:
+        """既存キューエントリーを現在のフィルター設定で再評価"""
+        queue = self.load_queue()
+        
+        include_keywords = [kw.lower() for kw in filter_config.get("include", [])]
+        exclude_keywords = [kw.lower() for kw in filter_config.get("exclude", [])]
+        research_only = filter_config.get("research_only", True)
+        article_types = filter_config.get("article_types", {})
+        
+        filtered_queue = []
+        stats = {
+            "total_before": len(queue),
+            "removed_research_filter": 0,
+            "removed_keyword_filter": 0,
+            "removed_article_type": 0,
+            "total_after": 0
+        }
+        
+        for article in queue:
+            # 論文フィルター
+            if research_only:
+                url = article.get('link', '')
+                if 'd41586' in url:  # Nature news
+                    stats["removed_research_filter"] += 1
+                    continue
+            
+            # 記事タイプフィルター
+            if article_types:
+                # URLパターンから記事タイプを推測
+                url = article.get('link', '')
+                is_news = any(pattern in url for pattern in ['d41586', 'news', 'opinion'])
+                is_editorial = 'editorial' in url.lower()
+                
+                if is_news and not article_types.get("news", False):
+                    stats["removed_article_type"] += 1
+                    continue
+                if is_editorial and not article_types.get("editorial", False):
+                    stats["removed_article_type"] += 1
+                    continue
+            
+            # 検索対象のテキストを結合
+            search_text = " ".join([
+                article.get('title', ''),
+                article.get('summary', ''),
+                article.get('abstract', ''),
+                " ".join(article.get('authors', []))
+            ]).lower()
+            
+            # 除外キーワードチェック
+            if any(keyword in search_text for keyword in exclude_keywords):
+                stats["removed_keyword_filter"] += 1
+                continue
+            
+            # 含有キーワードチェック
+            if include_keywords:
+                if not any(keyword in search_text for keyword in include_keywords):
+                    stats["removed_keyword_filter"] += 1
+                    continue
+            
+            # フィルターを通過
+            filtered_queue.append(article)
+        
+        stats["total_after"] = len(filtered_queue)
+        
+        # フィルター済みキューを保存
+        self.save_queue(filtered_queue)
+        
+        return stats
+
+    def remove_disabled_feeds(self, feeds_config: Dict[str, Any]) -> Dict[str, int]:
+        """無効化されたフィードのエントリーを削除"""
+        queue = self.load_queue()
+        
+        # 有効なフィード一覧を取得
+        enabled_feeds = set()
+        for feed_name, feed_config in feeds_config.get("feeds", {}).items():
+            if feed_config.get("enabled", True):
+                enabled_feeds.add(feed_name)
+        
+        filtered_queue = []
+        stats = {
+            "total_before": len(queue),
+            "removed_disabled_feeds": 0,
+            "total_after": 0
+        }
+        
+        for article in queue:
+            journal = article.get('journal', '')
+            if journal and journal not in enabled_feeds:
+                stats["removed_disabled_feeds"] += 1
+                continue
+            
+            filtered_queue.append(article)
+        
+        stats["total_after"] = len(filtered_queue)
+        
+        # フィルター済みキューを保存
+        self.save_queue(filtered_queue)
+        
+        return stats

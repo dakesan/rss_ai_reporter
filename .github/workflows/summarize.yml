@@ -19,23 +19,30 @@ jobs:
     - name: Pythonセットアップ
       uses: actions/setup-python@v4
       with:
-        python-version: '3.11'
+        python-version: '3.12'
+    
+    - name: uvのインストール
+      run: |
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        echo "$HOME/.cargo/bin" >> $GITHUB_PATH
     
     - name: 依存関係インストール
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        uv venv
+        source .venv/bin/activate
+        uv pip sync
     
     - name: 論文サマライズ実行
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       run: |
+        source .venv/bin/activate
         python src/main.py --debug
     
     - name: データファイルの変更をコミット
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add data/last_check.json data/queue.json
+        git add data/last_check.json data/queue.json data/last_refilter.json
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update checkpoint and queue data [skip ci]" && git push)

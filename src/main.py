@@ -475,9 +475,120 @@ class PaperSummarizerPipeline:
                 import traceback
                 traceback.print_exc()
 
+    def run_queue_refilter(self):
+        """既存キューの再フィルタリングを実行"""
+        try:
+            print("🔄 Starting queue refiltering...")
+            
+            # 現在の設定を読み込み
+            filter_config = self.load_filter_config()
+            feeds_config = self.load_feeds_config()
+            
+            print(f"📊 Loaded filter settings: {len(filter_config.get('include', []))} include, {len(filter_config.get('exclude', []))} exclude keywords")
+            
+            # 無効化されたフィードのエントリーを削除
+            print("\n1. Removing disabled feed entries...")
+            disabled_stats = self.queue_manager.remove_disabled_feeds(feeds_config)
+            
+            print(f"   Total entries before: {disabled_stats['total_before']}")
+            print(f"   Removed disabled feeds: {disabled_stats['removed_disabled_feeds']}")
+            print(f"   Total entries after: {disabled_stats['total_after']}")
+            
+            # フィルター再適用
+            print("\n2. Re-applying current filters...")
+            filter_stats = self.queue_manager.refilter_queue(filter_config)
+            
+            print(f"   Total entries before: {filter_stats['total_before']}")
+            print(f"   Removed by research filter: {filter_stats['removed_research_filter']}")
+            print(f"   Removed by keyword filter: {filter_stats['removed_keyword_filter']}")
+            print(f"   Removed by article type filter: {filter_stats['removed_article_type']}")
+            print(f"   Total entries after: {filter_stats['total_after']}")
+            
+            # 統計情報表示
+            print("\n3. Updated queue statistics:")
+            self.show_queue_stats()
+            
+            # 削除合計を計算
+            total_removed = disabled_stats['removed_disabled_feeds'] + (filter_stats['total_before'] - filter_stats['total_after'])
+            print(f"\n✅ Queue refiltering completed!")
+            print(f"   📊 Total entries removed: {total_removed}")
+            print(f"   🎯 Entries remaining: {filter_stats['total_after']}")
+            
+        except Exception as e:
+            print(f"❌ Error during queue refiltering: {e}")
+            if self.debug_mode:
+                import traceback
+                traceback.print_exc()
+
+    def load_feeds_config(self) -> Dict[str, Any]:
+        """フィード設定を読み込み"""
+        feeds_config_file = "data/feeds_config.json"
+        if os.path.exists(feeds_config_file):
+            with open(feeds_config_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return {"feeds": {}}
+
+    def should_run_refilter(self) -> bool:
+        """自動再フィルタリングを実行すべきかを判断"""
+        refilter_status_file = "data/last_refilter.json"
+        
+        try:
+            if os.path.exists(refilter_status_file):
+                with open(refilter_status_file, 'r', encoding='utf-8') as f:
+                    status = json.load(f)
+                    last_refilter = datetime.fromisoformat(status.get('last_refilter', ''))
+                    
+                    # 7日以上経過していたら再フィルタリング
+                    if datetime.now() - last_refilter > timedelta(days=7):
+                        return True
+            else:
+                # 初回実行時は再フィルタリングを実行
+                return True
+                
+        except (ValueError, KeyError, json.JSONDecodeError):
+            # エラーの場合は安全のため再フィルタリングを実行
+            return True
+            
+        return False
+
+    def run_light_queue_refilter(self):
+        """軽量版キュー再フィルタリング（通常実行時用）"""
+        try:
+            filter_config = self.load_filter_config()
+            feeds_config = self.load_feeds_config()
+            
+            # 無効化されたフィードのエントリーを削除のみ（軽量）
+            disabled_stats = self.queue_manager.remove_disabled_feeds(feeds_config)
+            
+            if disabled_stats['removed_disabled_feeds'] > 0:
+                print(f"   Removed {disabled_stats['removed_disabled_feeds']} disabled feed entries")
+            
+            # 再フィルタリング状況を記録
+            self.update_refilter_status()
+            
+        except Exception as e:
+            print(f"   Warning: Light refiltering failed: {e}")
+
+    def update_refilter_status(self):
+        """再フィルタリング状況を記録"""
+        refilter_status_file = "data/last_refilter.json"
+        status = {
+            'last_refilter': datetime.now().isoformat(),
+            'version': '1.0'
+        }
+        
+        os.makedirs(os.path.dirname(refilter_status_file), exist_ok=True)
+        with open(refilter_status_file, 'w', encoding='utf-8') as f:
+            json.dump(status, f, indent=2, ensure_ascii=False)
+
     def run(self, test_mode: bool = False):
         try:
             print("Starting RSS Paper Summarizer...")
+            
+            # 0. 軽量キュー再フィルタリング（週1回程度）
+            if self.should_run_refilter():
+                print("\n0. Running automatic queue refiltering...")
+                self.run_light_queue_refilter()
             
             # 1. RSS取得
             print("\n1. Fetching RSS feeds...")
@@ -586,12 +697,15 @@ def main():
     parser.add_argument('--auto-min-feedback', type=int, default=5, help='Minimum feedback count for auto-update (default: 5)')
     parser.add_argument('--auto-min-confidence', type=int, default=6, help='Minimum confidence score for auto-update (default: 6)')
     parser.add_argument('--dry-run', action='store_true', help='Dry run mode for auto-update (no actual changes)')
+    parser.add_argument('--refilter-queue', action='store_true', help='Re-filter existing queue entries with current settings')
     args = parser.parse_args()
     
     pipeline = PaperSummarizerPipeline(debug_mode=args.debug)
     
     if args.test_url:
         pipeline.test_single_url(args.test_url)
+    elif args.refilter_queue:
+        pipeline.run_queue_refilter()
     elif args.auto_update:
         pipeline.run_auto_filter_update(
             days=args.feedback_days, 
