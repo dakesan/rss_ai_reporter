@@ -4,7 +4,7 @@ import json
 import os
 import argparse
 from typing import List, Dict, Any
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # 環境変数を .env ファイルから読み込み
 try:
