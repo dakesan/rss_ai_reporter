@@ -1,344 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-02217-2",
-    "journal": "Nature",
-    "title": "Critical commentaries such as ‘Matters arising’ have flawed formats",
-    "link": "https://www.nature.com/articles/d41586-025-02217-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02217-2\">doi:10.1038/d41586-025-02217-2</a></p>Critical commentaries such as ‘Matters arising’ have flawed formats",
-    "authors": [
-      "Veli-Matti Karhulahti"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401360"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02227-0",
-    "journal": "Nature",
-    "title": "The mysterious missing ingredient in the highest-energy cosmic rays",
-    "link": "https://www.nature.com/articles/d41586-025-02227-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02227-0\">doi:10.1038/d41586-025-02227-0</a></p>Data from a South Pole observatory shows that the fraction of protons in ultrahigh-energy cosmic rays is lower than expected.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401364"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02241-2",
-    "journal": "Nature",
-    "title": "Low-quality papers based on public health data are flooding the scientific literature",
-    "link": "https://www.nature.com/articles/d41586-025-02241-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02241-2\">doi:10.1038/d41586-025-02241-2</a></p>The appearance of thousands of formulaic biomedical studies has been linked to the rise of text-generating AI tools.",
-    "authors": [
-      "Miryam Naddaf"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401369"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02237-y",
-    "journal": "Nature",
-    "title": "One potent gene raises risk of Alzheimer’s, Parkinson’s and other brain diseases",
-    "link": "https://www.nature.com/articles/d41586-025-02237-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02237-y\">doi:10.1038/d41586-025-02237-y</a></p>Massive proteomics database links gene variant APOE4 to chronic inflammation.",
-    "authors": [
-      "Smriti Mallapaty"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401374"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02220-7",
-    "journal": "Nature",
-    "title": "Without science, there can be no development",
-    "link": "https://www.nature.com/articles/d41586-025-02220-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02220-7\">doi:10.1038/d41586-025-02220-7</a></p>A United Nations conference on financing sustainable development was a missed opportunity to fund the science needed to create a better world.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401379"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02214-5",
-    "journal": "Nature",
-    "title": "Bring science into business schools to train the leaders of tomorrow",
-    "link": "https://www.nature.com/articles/d41586-025-02214-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02214-5\">doi:10.1038/d41586-025-02214-5</a></p>The next generation of managers must be fit for a net-zero, nature-positive economy.",
-    "authors": [
-      "Matthew  Agarwala"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401382"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02200-x",
-    "journal": "Nature",
-    "title": "Why the global economy is more uncertain than ever, and what to do about it",
-    "link": "https://www.nature.com/articles/d41586-025-02200-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02200-x\">doi:10.1038/d41586-025-02200-x</a></p>Unexpected events, such as pandemics and wars, are on the rise. Financial markets need tools to help them cope with unforeseen losses.",
-    "authors": [
-      "Brian M. Lucey",
-      "Andrew Urquhart",
-      "Samuel A. Vigne"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401386"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02212-7",
-    "journal": "Nature",
-    "title": "Monster black hole merger is biggest ever seen",
-    "link": "https://www.nature.com/articles/d41586-025-02212-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02212-7\">doi:10.1038/d41586-025-02212-7</a></p>Gravitational-wave detector LIGO spots fast-spinning ‘forbidden’ black holes that challenge physics models.",
-    "authors": [
-      "Jonathan O’Callaghan"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401390"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02196-4",
-    "journal": "Nature",
-    "title": "Smart brain-zapping implants could revolutionize Parkinson’s treatment",
-    "link": "https://www.nature.com/articles/d41586-025-02196-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02196-4\">doi:10.1038/d41586-025-02196-4</a></p>The next generation of deep-brain stimulation automatically corrects the precise brain waves that create symptoms of Parkinson’s disease. Can this approach target other conditions?",
-    "authors": [
-      "Sally Adee"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401395"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02236-z",
-    "journal": "Nature",
-    "title": "Embattled US scientific society names palaeontologist to top job",
-    "link": "https://www.nature.com/articles/d41586-025-02236-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 14 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02236-z\">doi:10.1038/d41586-025-02236-z</a></p>Neil Shubin, a University of Chicago researcher known for co-discovering a ′missing link’ fossil fish, will lead the National Academy of Sciences if ratified by members.",
-    "authors": [
-      "Dan Garisto",
-      "Jeff Tollefson"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401399"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02221-6",
-    "journal": "Nature",
-    "title": "Exclusive: NIH to dismiss dozens of grant reviewers to align with Trump priorities",
-    "link": "https://www.nature.com/articles/d41586-025-02221-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 14 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02221-6\">doi:10.1038/d41586-025-02221-6</a></p>The move would undo years of work, leaving advisory councils understaffed, and without the full expertise needed for reviews.",
-    "authors": [
-      "Max Kozlov"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401403"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02240-3",
-    "journal": "Nature",
-    "title": "Daily briefing: A new blood group has been discovered — and only one person has it",
-    "link": "https://www.nature.com/articles/d41586-025-02240-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 14 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02240-3\">doi:10.1038/d41586-025-02240-3</a></p>A woman in Guadeloupe has blood belonging to the newly-characterized group ‘Gwada-negative’. Plus, signs of a ‘forbidden’ black-hole collision and how researchers are trying to hoodwink peer-reviewers’ AI tools.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401408"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zguxvpr",
-    "journal": "Science",
-    "title": "Molecular fossils offer first glimpse of how life survived Snowball Earth",
-    "link": "https://www.science.org/content/article/molecular-fossils-offer-first-glimpse-how-life-survived-snowball-earth",
-    "published": "",
-    "summary": "Overlooked rock samples from 640 million years ago record microbes hanging on beneath frozen oceans",
-    "authors": [
-      "Elise Cutts"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401412"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zair600",
-    "journal": "Science",
-    "title": "Paleontologist to lead U.S. national academy",
-    "link": "https://www.science.org/content/article/paleontologist-lead-u-s-national-academy",
-    "published": "",
-    "summary": "The prestigious organization faces funding challenges and political controversies",
-    "authors": [
-      "Erik Stokstad"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401416"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z70h3uq",
-    "journal": "Science",
-    "title": "Majority of fruit fly immunity studies can be replicated, huge analysis finds",
-    "link": "https://www.science.org/content/article/majority-fruit-fly-immunity-studies-can-be-replicated-huge-analysis-finds",
-    "published": "",
-    "summary": "Verification of 50 years of data bolsters immunology research, but identifies “suspicious” papers that don’t hold up",
-    "authors": [
-      "Cathleen O’Grady"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401425"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zzo8xlw",
-    "journal": "Science",
-    "title": "Ancient human ancestor emerges from sunken Southeast Asian landmass",
-    "link": "https://www.science.org/content/article/ancient-human-ancestor-emerges-sunken-southeast-asian-landmass",
-    "published": "",
-    "summary": "Submerged fossils are revealing long-held secrets from a region known as Sundaland",
-    "authors": [
-      "Taylor Mitchell Brown"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401430"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zgde3nd",
-    "journal": "Science",
-    "title": "‘Something remarkable has happened’: Cancer treatments bolster evidence of a natural HIV cure",
-    "link": "https://www.science.org/content/article/something-remarkable-has-happened-cancer-treatments-bolster-evidence-natural-hiv-cure",
-    "published": "",
-    "summary": "In exclusive chat with <cite>Science</cite>, Loreen Willenberg describes remaining HIV-free even after immune-suppressing therapies for brain and lung tumors",
-    "authors": [
-      "Jon Cohen"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401436"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z0vwxct",
-    "journal": "Science",
-    "title": "Congressional spending panels continue to push back against proposed Trump research cuts",
-    "link": "https://www.science.org/content/article/congressional-spending-panels-continue-push-back-against-proposed-trump-research-cuts",
-    "published": "",
-    "summary": "House committees give a real boost to DOE science and shrink size of cuts to NSF and NASA science",
-    "authors": [
-      "Science News Staff"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401440"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-08945-9",
-    "journal": "Nature_CompBio",
-    "title": "Developing angiogenesis-related prognostic biomarkers and therapeutic strategies in bladder cancer using deep learning and machine learning",
-    "link": "https://www.nature.com/articles/s41598-025-08945-9",
-    "published": "2025-07-15T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Yutong Li et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401460"
-  },
-  {
-    "id": "https://www.nature.com/articles/s42256-025-01068-w",
-    "journal": "Nature_CompBio",
-    "title": "Machine learning modelling for multi-order human visual motion processing",
-    "link": "https://www.nature.com/articles/s42256-025-01068-w",
-    "published": "2025-07-15T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Zitang Sun et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-15T22:07:55.401473"
-  },
-  {
     "id": "https://www.nature.com/articles/s42003-025-08457-2",
     "journal": "Nature_CompBio",
     "title": "Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB",
@@ -4071,157 +3732,89 @@
     "added_at": "2025-07-19T22:07:27.792435"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-09879-y",
-    "journal": "Nature_SystemsBiology",
-    "title": "Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant",
-    "link": "https://www.nature.com/articles/s41598-025-09879-y",
-    "published": "2025-07-13T00:00:00+00:00",
-    "summary": "",
+    "id": "https://www.nature.com/articles/d41586-025-02007-w",
+    "journal": "Nature",
+    "title": "How your research can survive a US federal grant termination",
+    "link": "https://www.nature.com/articles/d41586-025-02007-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 20 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02007-w\">doi:10.1038/d41586-025-02007-w</a></p>Researchers in the United States are filing appeals, seeking court remedies, turning to philanthropy and starting GoFundMe campaigns.",
     "authors": [
-      "Zahra Janbazi et al."
+      "Virginia Gewin"
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871421"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-20T22:07:32.863750"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-09924-w",
+    "id": "https://www.nature.com/articles/s41598-025-11957-0",
     "journal": "Nature_CompBio",
-    "title": "A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma",
-    "link": "https://www.nature.com/articles/s41598-025-09924-w",
-    "published": "2025-07-13T00:00:00+00:00",
+    "title": "Identification of clinical diagnostic and immune cell infiltration characteristics of acute myocardial infarction with machine learning approach",
+    "link": "https://www.nature.com/articles/s41598-025-11957-0",
+    "published": "2025-07-20T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Qiao Li et al."
+      "Huali Jiang et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871462"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-20T22:07:32.863785"
   },
   {
-    "id": "https://www.nature.com/articles/s41746-025-01849-y",
+    "id": "https://www.nature.com/articles/s41598-025-04704-y",
     "journal": "Nature_CompBio",
-    "title": "Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning",
-    "link": "https://www.nature.com/articles/s41746-025-01849-y",
-    "published": "2025-07-13T00:00:00+00:00",
+    "title": "Application of machine learning algorithms and SHAP explanations to predict fertility preference among reproductive women in Somalia",
+    "link": "https://www.nature.com/articles/s41598-025-04704-y",
+    "published": "2025-07-20T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Yang Liu et al."
+      "Jamilu Sani et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871475"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-20T22:07:32.863790"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/10/13518/",
-    "journal": "Nikkei_BioTech",
-    "title": "日本核酸医薬学会第10回年会、神戸大松尾名誉教授が語る、エキソンスキッピング提唱からミオスタチン阻害薬創製の経緯",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/10/13518/",
-    "published": "",
-    "summary": "2025年6月30日から7月3日まで神戸市で開催された日本核酸医薬学会第10回年会の特別シンポジウム「Duchenne型筋ジストロフィーに対するエキソンスキッピング治療の提唱から30年─スプライシングを制御するアンチセンス核酸薬を展望する─」に、神戸大学科学技術イノベーション研究科の松尾雅文名誉教授が登壇した。松尾名誉教授がアンチセンス核酸（ASO）を用いたデュシェンヌ型筋ジストロフィー（DMD）のエキソンスキッピング治療を提唱してから30年が経過した今、エキソンスキッピング治療が誕生するまでの経緯からDMD治療の効果の底上げが期待されるミオスタチン阻害薬創製の研究結果について講演した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871484"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250714/",
-    "journal": "Nikkei_BioTech",
-    "title": "2025年7月14日号　目次",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250714/",
-    "published": "",
+    "id": "https://www.nature.com/articles/s41598-025-11599-2",
+    "journal": "Nature_CompBio",
+    "title": "Statine-based peptidomimetics as SARS-CoV-2 Papain-like protease inhibitors: in Silico and in vitro studies",
+    "link": "https://www.nature.com/articles/s41598-025-11599-2",
+    "published": "2025-07-20T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "BTO"
+      "Raiane Dandara Pereira Pimentel et al."
     ],
     "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871493"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-20T22:07:32.863794"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/070900374/",
-    "journal": "Nikkei_BioTech",
-    "title": "ベンチャー探訪、Atransen Pharma、LAT1をロッキング阻害する低分子薬とBNCTでがん治療",
-    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/070900374/",
-    "published": "",
-    "summary": "Atransen Pharma（アトランセンファーマ、大阪市、浅野智之代表取締役社長CEO）は、アミノ酸トランスポーターであるL-type amino acid transporter（LAT）1の阻害薬を抗がん薬として開発している。トランスポーターを強固に阻害する「ロッキング阻害」のメカニズムで高い治療効果を出せるという。",
+    "id": "https://www.nature.com/articles/s41746-025-01808-7",
+    "journal": "Nature_CompBio",
+    "title": "An end-to-end multifunctional AI platform for intraoperative diagnosis",
+    "link": "https://www.nature.com/articles/s41746-025-01808-7",
+    "published": "2025-07-20T00:00:00+00:00",
+    "summary": "",
     "authors": [
-      "BTO"
+      "Xueyi Zheng et al."
     ],
     "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871498"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/071000404/",
-    "journal": "Nikkei_BioTech",
-    "title": "特集◎創薬スタートアップの臨床開発パイプライン2025、スタートアップの臨床開発パイプライン約270品目を分析、目立つのは再生医療関連",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/071000404/",
-    "published": "",
-    "summary": "本誌が国内の上場・未上場スタートアップの臨床開発パイプラインを調査した結果、少なくとも101社のパイプライン約270品目が臨床開発段階にあることが分かった。承認取得済みの品目や、臨床研究を実施中の品目などは対象外とした。同じパイプラインでも、対象疾患などが異なる場合は別々の品目としてカウントしている。調査では、国内スタートアップの臨床開発パイプラインには再生医療関連が多い傾向が明らかとなった。本特集では、ユニークなパイプラインを中心に取り上げ、疾患領域やモダリティなどの傾向を紹介する（調査の概要は末尾参照）。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871503"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/070700202/",
-    "journal": "Nikkei_BioTech",
-    "title": "パイプライン研究◎片頭痛治療薬【開発動向（その1）】、片頭痛治療薬、抗体医薬3剤は数年のドラッグラグが発生",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/070700202/",
-    "published": "",
-    "summary": "片頭痛の潜在患者は世界で5億人を超え、国内も840万人超と推定される。ここ数年で新しい作用機序を持つ新薬が相次いで登場し、その1つがカルシトニン遺伝子関連ペプチド（CalcitoninGene-Related Peptide：CGRP）を標的とする薬剤だ。欧米では抗体医薬4剤が上市されており、日本では3剤が数年のドラッグ・ラグを経て2021年に発売された。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871508"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/070800180/",
-    "journal": "Nikkei_BioTech",
-    "title": "オンライン閲覧TOP15、2025年6月21日から2025年7月4日まで",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/070800180/",
-    "published": "",
-    "summary": "2025年6月21日から2025年7月4日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-13T22:07:18.871512"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-20T22:07:32.863797"
   },
   {
     "id": "https://www.nature.com/articles/s41568-025-00852-5",
@@ -6294,5 +5887,56 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-07-19T22:07:27.792439"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42003-025-08495-w",
+    "journal": "Nature_SystemsBiology",
+    "title": "Construction and phenotypic classification of synthetic dual-pole Escherichia coli cells",
+    "link": "https://www.nature.com/articles/s42003-025-08495-w",
+    "published": "2025-07-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Tsung-Wei Chou et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-20T22:07:32.863763"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00802-2?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "PPM1M, an LRRK2-counteracting, phosphoRab12-preferring phosphatase with a potential link to Parkinson’s disease",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00802-2?rss=yes",
+    "published": "",
+    "summary": "Leucine-rich repeat kinase 2 (LRRK2) phosphorylates a subset of Rab GTPases that regulate receptor trafficking; LRRK2-activating mutations are linked to Parkinson’s disease. Chiang et al. reveal that PPM1M reverses Rab phosphorylation in vitro and in vivo, and a rare inactivating mutation is ∼6-fold enriched in people with Parkinson’s disease.",
+    "authors": [
+      "Claire Y. Chiang, Neringa Pratuseviciute, Yu-En Lin, Ayan Adhikari, Wondwossen M. Yeshaw, Chloe Flitton, Pemba L. Sherpa, Francesca Tonelli, Irena Rektorova, Timothy Lynch, Joanna Siuda, Monika Rudzińska-Bar, Oleksandr Pulyk, Peter Bauer, Christian Beetz, Dennis W. Dickson, Owen A. Ross, Zbigniew K. Wszolek, Global Parkinson’s Genetics Program (GP2), Zih-Hua Fang, Christine Klein, Alexander Zimprich, Dario R. Alessi, Esther M. Sammler, Suzanne R. Pfeffer"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-20T22:07:32.863773"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-12363-2",
+    "journal": "Nature_CompBio",
+    "title": "Identification and expression analysis of LRR-RLK genes reveal their roles in plant development and stress responses in Kiwifruit (Actinidia chinensis)",
+    "link": "https://www.nature.com/articles/s41598-025-12363-2",
+    "published": "2025-07-20T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Caili Wang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-20T22:07:32.863780"
   }
 ]
