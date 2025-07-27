@@ -1,343 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-02258-7",
-    "journal": "Nature",
-    "title": "Fund scholars who tackle urgent issues — from misinformation to error spotting",
-    "link": "https://www.nature.com/articles/d41586-025-02258-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02258-7\">doi:10.1038/d41586-025-02258-7</a></p>Scientists who are not tied down by fixed research agendas can pivot nimbly to work where they are most needed. It’s time to build career paths with these researchers in mind.",
-    "authors": [
-      "James Smoliga"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248108"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02312-4",
-    "journal": "Nature",
-    "title": "Researchers value null results, but struggle to publish them",
-    "link": "https://www.nature.com/articles/d41586-025-02312-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02312-4\">doi:10.1038/d41586-025-02312-4</a></p>Survey finds that fear of reputational harm and a lack of support and publication platforms are among respondents’ key concerns.",
-    "authors": [
-      "Laurie Udesky"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248112"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02265-8",
-    "journal": "Nature",
-    "title": "China’s fossil-fuel challenge — how to build a bridge to renewables",
-    "link": "https://www.nature.com/articles/d41586-025-02265-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02265-8\">doi:10.1038/d41586-025-02265-8</a></p>The world’s largest emitter of carbon dioxide relies on coal, oil and gas for its economic growth. But all is not lost if China can lead on cleaning up through carbon capture, utilization and storage.",
-    "authors": [
-      "Yihe Xu"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248118"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02157-x",
-    "journal": "Nature",
-    "title": "China is boosting its Antarctic research. What does that mean for the world?",
-    "link": "https://www.nature.com/articles/d41586-025-02157-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02157-x\">doi:10.1038/d41586-025-02157-x</a></p>With US investment in polar science under threat, scientists hope that China’s interest in the region will benefit research.",
-    "authors": [
-      "Xiaoying You"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248122"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02270-x",
-    "journal": "Nature",
-    "title": "Help save 2 million lives: close the vaccine funding gap",
-    "link": "https://www.nature.com/articles/d41586-025-02270-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02270-x\">doi:10.1038/d41586-025-02270-x</a></p>Gavi, the vaccine provider for the world’s poorest people, needs an extra US$3 billion to protect infants and other vulnerable groups. More donors must step up.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248126"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-01999-9",
-    "journal": "Nature",
-    "title": "How I’m advocating in Congress for the next generation of US scientists",
-    "link": "https://www.nature.com/articles/d41586-025-01999-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-01999-9\">doi:10.1038/d41586-025-01999-9</a></p>Adriana Bankston’s year-long policy fellowship allows her to fight for science and scientists at a crucial time.",
-    "authors": [
-      "Adriana  Bankston"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248131"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02261-y",
-    "journal": "Nature",
-    "title": "Made-to-order DNA goes big: new tech doubles size of custom genetic sequences",
-    "link": "https://www.nature.com/articles/d41586-025-02261-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02261-y\">doi:10.1038/d41586-025-02261-y</a></p>Enzyme-based techniques and refinements in organic chemistry ease the generation of extended DNA sequences.",
-    "authors": [
-      "Caroline Seydel"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248139"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02320-4",
-    "journal": "Nature",
-    "title": "Do academics publish less after getting tenured? Depends on your field",
-    "link": "https://www.nature.com/articles/d41586-025-02320-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02320-4\">doi:10.1038/d41586-025-02320-4</a></p>Paper output varies between disciplines, as does the trend after tenure is achieved.",
-    "authors": [
-      "Max Kozlov"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248143"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02322-2",
-    "journal": "Nature",
-    "title": "Daily briefing: NASA staff speak out against Trump cuts",
-    "link": "https://www.nature.com/articles/d41586-025-02322-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02322-2\">doi:10.1038/d41586-025-02322-2</a></p>More than 280 NASA employees have signed a declaration to oppose unprecedented budget cuts proposed by the administration of US President Donald Trump. Plus, how Canada became the hotbed of measles in North America and the biotech-company founders driven by their child’s rare disease.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248146"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zoiakb7",
-    "journal": "Science",
-    "title": "‘We’re in uncharted waters.’ Hacking swamps could curb methane emissions—but side effects are unclear",
-    "link": "https://www.science.org/content/article/we-re-uncharted-waters-hacking-swamps-could-curb-methane-emissions-side-effects-are",
-    "published": "",
-    "summary": "Rising levels of the potent greenhouse gas prompt “delicate” steps into new kind of geoengineering",
-    "authors": [
-      "Paul Voosen"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248153"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z5bpu9g",
-    "journal": "Science",
-    "title": "In ‘blow to the environment,’ EPA begins to dismantle its research office",
-    "link": "https://www.science.org/content/article/blow-environment-epa-begins-dismantle-its-research-office",
-    "published": "",
-    "summary": "Extensive layoffs could have wide-ranging impacts on conservation and human health",
-    "authors": [
-      "Erik Stokstad"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248158"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zkazwu8",
-    "journal": "Science",
-    "title": "Can portable headsets peer into the minds of hunter-gatherers and other understudied populations?",
-    "link": "https://www.science.org/content/article/can-portable-headsets-peer-minds-hunter-gatherers-and-other-understudied-populations",
-    "published": "",
-    "summary": "<cite>Science</cite> chats with health economist Shailender Swaminathan about how compact EEGs could reveal the impact of culture and environment on the brain",
-    "authors": [
-      "Siddhant Pusdekar"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248163"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z21mapm",
-    "journal": "Science",
-    "title": "Employees’ protests against Trump science policies spread to NSF",
-    "link": "https://www.science.org/content/article/employees-protests-against-trump-science-policies-spread-nsf",
-    "published": "",
-    "summary": "Letter to key House Democrat follows declarations by scientists at NIH, EPA, and NASA",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248167"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zt83qxx",
-    "journal": "Science",
-    "title": "Watch an earthquake split a hillside in two",
-    "link": "https://www.science.org/content/article/watch-earthquake-split-hillside-two",
-    "published": "",
-    "summary": "Footage of massive Myanmar temblor provides the first video evidence of earthquake ruptures",
-    "authors": [
-      "Hannah Richter"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248171"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zf8cmra",
-    "journal": "Science",
-    "title": "Engineers transform dental floss into needle-free vaccine",
-    "link": "https://www.science.org/content/article/engineers-transform-dental-floss-needle-free-vaccine",
-    "published": "",
-    "summary": "New method places inactivated viruses directly into mice’s gums",
-    "authors": [
-      "Annika Inampudi"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248175"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41540-025-00559-1",
-    "journal": "Nature_SystemsBiology",
-    "title": "Complex-mediated evasion: modeling defense against antimicrobial peptides with application to human-pathogenic fungus Candida albicans",
-    "link": "https://www.nature.com/articles/s41540-025-00559-1",
-    "published": "2025-07-22T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Yann Bachelot et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248191"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00843-5?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "The void and the brain",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00843-5?rss=yes",
-    "published": "",
-    "summary": "Blackburne et al. track the electroencephalogram activity of volunteers inhaling a high dose of the powerful psychedelic 5-methoxy-N,N-dimethyltryptamine, revealing profoundly slowed-down brain activity but no significant reduction of alpha band power that is typical of other psychedelics.",
-    "authors": [
-      "Christof Koch"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248198"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00805-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Ancient genomes from the Yellow River Bend reveal long-distance population interactions between the Central Plains, Steppe, and southern China",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00805-8?rss=yes",
-    "published": "",
-    "summary": "Zou et al. report genome-wide data of 23 individuals dating to the 4th–2nd millennia BP in the Yellow River Bend. We find a significant prevalence of Yangshao-related genetic ancestry in this region and reveal an unexpected long-distance contact with the Mongolian Steppe and southern China, highlighting significant prehistoric population dynamics.",
-    "authors": [
-      "Yetao Zou, Jingze Tan, Juanjuan Zhou, Zishuai Huang, Xueer Yu, Kangxin Han, Li Jin, Hui Li, Ke Wang"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248210"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00809-5?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Dual targeting of transferrin receptor and CD98hc enhances brain exposure of large molecules",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00809-5?rss=yes",
-    "published": "",
-    "summary": "Wells et al. developed a dual-targeting transport vehicle binding both transferrin receptor and CD98hc, two proteins highly expressed at the blood-brain barrier. Through affinity tuning, the authors demonstrated that brain concentration, kinetics, and cellular distribution can be modulated, offering a versatile platform for CNS delivery of biotherapeutics.",
-    "authors": [
-      "Robert C. Wells, Padma Akkapeddi, Darren Chan, David Joy, Arash Moshkforoush, Roni Chau, Johann Chow, Gerald Maxwell Cherf, Ellen Y.T. Chien, Allisa Clemens, Michelle E. Pizzo, Ahlam N. Qerqez, Tiffany Tran, Isabel Becerra, Jason C. Dugas, Joseph Duque, Timothy K. Earr, David Huynh, Do Jin Kim, Amy Wing-Sze Leung, Eric Liang, Hoang N. Nguyen, Yaneth Robles-Colmenares, Holly Kane, Elysia Roche, Patricia Sacayon, Kaitlin Xa, Hilda Solanoy, Mark S. Dennis, Joseph W. Lewcock, Ryan J. Watts, Mihalis S. Kariolis, Robert G. Thorne, Christopher M. Koth, Meredith E.K. Calvert, Y. Joy Yu Zuchero, Kylie S. Chew"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248218"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00811-3?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Complex slow waves in the human brain under 5-MeO-DMT",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00811-3?rss=yes",
-    "published": "",
-    "summary": "Blackburne et al. show how the psychedelic drug 5-MeO-DMT affects the human brain. The authors report changes in the spatiotemporal organization of slow waves and find that 5-MeO-DMT pushes human brain dynamics toward a low-dimensional steady state on a steepened energy landscape.",
-    "authors": [
-      "George Blackburne, Rosalind G. McAlpine, Marco Fabus, Alberto Liardi, Sunjeev K. Kamboj, Pedro A.M. Mediano, Jeremy I. Skipper"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-22T22:07:46.248230"
-  },
-  {
     "id": "https://www.nature.com/articles/s41598-025-11519-4",
     "journal": "Nature_CompBio",
     "title": "A real-time virtual liver simulator using position based dynamics with compliant constraints for medical applications",
@@ -3312,6 +2974,23 @@
     "added_at": "2025-07-26T22:07:28.436940"
   },
   {
+    "id": "https://www.nature.com/articles/s41598-025-06122-6",
+    "journal": "Nature_CompBio",
+    "title": "Investigation of key ferroptosis-associated genes and potential therapeutic drugs for asthma based on machine learning and regression models",
+    "link": "https://www.nature.com/articles/s41598-025-06122-6",
+    "published": "2025-07-27T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yuhang Chen et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-07-27T22:07:28.074536"
+  },
+  {
     "id": "https://www.nature.com/articles/s42003-025-08495-w",
     "journal": "Nature_SystemsBiology",
     "title": "Construction and phenotypic classification of synthetic dual-pole Escherichia coli cells",
@@ -5756,5 +5435,175 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-07-26T22:07:28.436936"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-12629-9",
+    "journal": "Nature_SystemsBiology",
+    "title": "The effect of electronic prescription systems on pharmacy performance through evaluation of existing infrastructure in Kerman Iran",
+    "link": "https://www.nature.com/articles/s41598-025-12629-9",
+    "published": "2025-07-27T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Shokoufeh Karimi et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074515"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-12285-z",
+    "journal": "Nature_CompBio",
+    "title": "Biomechanical effects of medial osteoarthritis progression and UKA on knee lateral compartment using fibril-reinforced biphasic material in finite element study",
+    "link": "https://www.nature.com/articles/s41598-025-12285-z",
+    "published": "2025-07-27T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Jing Zhang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074529"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/20/13552/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Nanoscope社、網膜色素変性症に対する疾患関連遺伝子横断的な遺伝子治療をローリング申請",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/20/13552/",
+    "published": "",
+    "summary": "米Nanoscope Therapeutics（ナノスコープ・セラピューティクス）社は2025年7月14日、網膜色素変性症患者の重度の視力低下に対する遺伝子治療薬候補（開発番号：MCO-010）について、第2b相臨床試験（RESTORE試験）で得られた好結果に基づいて、米食品医薬品局（FDA）に対する生物学的製剤承認（BLA）のローリング申請を開始したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074544"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/25/13565/",
+    "journal": "Nikkei_BioTech",
+    "title": "シンガポールMiRXES社、日本で1万人対象に胃がんリスク調べるプロジェクト立ち上げ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/25/13565/",
+    "published": "",
+    "summary": "シンガポールMiRXES（ミレックサス）社は2025年7月23日、日本で1万人を対象に無償で胃がんのリスクを判定するプロジェクトを開始すると発表した。同社は血液中のmiRNAを活用したがんの検査キットや体外診断用医薬品を開発するスタートアップ。同プロジェクトは国内で後発医薬品の製造などを手掛けるナガワ薬品（東京・台東、長和誠代表取締役）と共同で実施する。同日、MiRXES社とナガワ薬品は戦略的パートナーシップを締結した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074550"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/24/13558/",
+    "journal": "Nikkei_BioTech",
+    "title": "VCのENRISSION INDIA CAPITAL、国内事業会社とインドスタートアップをマッチングするサービスを開始",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/24/13558/",
+    "published": "",
+    "summary": "インドのスタートアップに特化して投資するベンチャーキャピタル（VC）のENRISSION INDIA CAPITAL（京都市、柿本優祐代表取締役）は2025年7月24日、日本の事業会社やコーポレートベンチャーキャピタル（CVC）向けに、事業連携や投資、M＆Aの対象となるインドのスタートアップを紹介するサービス「CVC as a Service」を開始したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074556"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/041100102/072700003/",
+    "journal": "Nikkei_BioTech",
+    "title": "製薬・バイオ企業の森、国内創薬スタートアップの主な導出契約：毎年更新",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/041100102/072700003/",
+    "published": "",
+    "summary": "国内の上場・未上場創薬スタートアップが、2025年7月時点で締結しているパイプラインの導出契約を独自調査し、一覧表にまとめました。下記の「こちら」をクリックいただくとご覧いただけますので、ご利用ください。なお、一覧表はパソコンで閲覧しやすいよう最適化しています。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074561"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250728/",
+    "journal": "Nikkei_BioTech",
+    "title": "2025年7月28日号　目次",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250728/",
+    "published": "",
+    "summary": "",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074566"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/071800205/",
+    "journal": "Nikkei_BioTech",
+    "title": "パイプライン研究◎乳がん治療薬【開発動向（その1）】、乳がん治療薬、第一三共のエンハーツが好結果を連発",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/071800205/",
+    "published": "",
+    "summary": "日本における女性のがん罹患者の21.6％を占める乳がんについては、新薬および治療薬候補が数多く創製されている。2023年11月に中外製薬がペルツズマブとトラスツズマブの配合剤「フェスゴ」を国内で発売。第一三共が創製した抗体薬物複合体（ADC）「エンハーツ」は臨床試験で好結果を連発し、欧米ではHER2低・超低発現乳がんに適応拡大した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074571"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/072300406/",
+    "journal": "Nikkei_BioTech",
+    "title": "特集◎バイオスタートアップの導出契約2025、スタートアップの新規導出契約は12件、減少続くが返還された品目の再導出図る動きも",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/072300406/",
+    "published": "",
+    "summary": "本誌は毎年、日本のバイオスタートアップのパイプライン導出に関する契約を調査している。上場・未上場バイオスタートアップが保有する開発品の導出契約またはオプション契約を対象に調査を実施したところ、2024年7月～2025年6月の期間で新たに契約締結に至ったのは12件だった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074576"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/072200181/",
+    "journal": "Nikkei_BioTech",
+    "title": "オンライン閲覧TOP15、2025年7月5日から2025年7月17日まで",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/072200181/",
+    "published": "",
+    "summary": "2025年7月5日から2025年7月17日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-07-27T22:07:28.074580"
   }
 ]
