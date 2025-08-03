@@ -1,370 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-02292-5",
-    "journal": "Nature",
-    "title": "AI models are neglecting African languages — scientists want to change that",
-    "link": "https://www.nature.com/articles/d41586-025-02292-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 29 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02292-5\">doi:10.1038/d41586-025-02292-5</a></p>Scientists record 9,000 hours of languages spoken in Kenya, Nigeria and South Africa as free-access training data for AI models.",
-    "authors": [
-      "Sarah Wild"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802482"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02349-5",
-    "journal": "Nature",
-    "title": "The quest to detect consciousness — in all its possible forms",
-    "link": "https://www.nature.com/articles/d41586-025-02349-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 29 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02349-5\">doi:10.1038/d41586-025-02349-5</a></p>Insights from human brains might inform how scientists search for awareness in other animals and AI.",
-    "authors": [
-      "Mariana Lenharo"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802487"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02403-2",
-    "journal": "Nature",
-    "title": "Columbia researchers eager to restart science after university’s deal with Trump",
-    "link": "https://www.nature.com/articles/d41586-025-02403-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 29 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02403-2\">doi:10.1038/d41586-025-02403-2</a></p>The institution agreed to increased federal oversight in exchange for restored grants and an end to government investigations.",
-    "authors": [
-      "Jenna  Ahart",
-      "Alexandra Witze"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802493"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02351-x",
-    "journal": "Nature",
-    "title": "Could bridging science and the arts be the key to better policies?",
-    "link": "https://www.nature.com/articles/d41586-025-02351-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 29 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02351-x\">doi:10.1038/d41586-025-02351-x</a></p>To be successful, policymakers need to consider diverse perspectives. Here’s how we’re reimagining policy process.",
-    "authors": [
-      "Caterina Benincasa",
-      "Adriaan Eeckels"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802497"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02414-z",
-    "journal": "Nature",
-    "title": "Daily briefing: Ageing accelerates after 50 — but not all organs age at the same rate",
-    "link": "https://www.nature.com/articles/d41586-025-02414-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 28 July 2025; <a href=\"https://www.nature.com/articles/d41586-025-02414-z\">doi:10.1038/d41586-025-02414-z</a></p>The aorta and other blood vessels seem to age more quickly than other organs. Plus, an unexpected ingredient in a Neanderthal’s diet and how developing food systems for space missions could benefit people on Earth.",
-    "authors": [
-      "Jacob Smith"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802502"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zkd6aas",
-    "journal": "Science",
-    "title": "Early universe’s ‘little red dots’ may be black hole stars",
-    "link": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
-    "published": "",
-    "summary": "Puzzling objects spotted by NASA’s JWST telescope may be entirely new class of celestial entity",
-    "authors": [
-      "Daniel Clery"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802508"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z58il7y",
-    "journal": "Science",
-    "title": "Giant virus with record-long tail discovered in Pacific Ocean",
-    "link": "https://www.science.org/content/article/giant-virus-record-long-tail-discovered-pacific-ocean",
-    "published": "",
-    "summary": "Infecting marine plankton, the pathogen may use its extreme appendage to enter host cells",
-    "authors": [
-      "Nazeefa Ahmed"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802511"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z5jfeyi",
-    "journal": "Science",
-    "title": "Odds of winning NIH grants plummet as new funding policy and spending delays bite",
-    "link": "https://www.science.org/content/article/odds-winning-nih-grants-plummet-new-funding-policy-and-spending-delays-bite",
-    "published": "",
-    "summary": "Funding multiyear grants up front will sharply cut number of investigators receiving awards",
-    "authors": [
-      "Jocelyn Kaiser"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802515"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-08778-6",
-    "journal": "Nature_CompBio",
-    "title": "Comparing non-machine learning vs. machine learning methods for Ki67 scoring in gastrointestinal neuroendocrine tumors",
-    "link": "https://www.nature.com/articles/s41598-025-08778-6",
-    "published": "2025-07-29T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Nazanin Mola et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802527"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41746-025-01890-x",
-    "journal": "Nature_CompBio",
-    "title": "Physics-informed machine learning digital twin for reconstructing prostate cancer tumor growth via PSA tests",
-    "link": "https://www.nature.com/articles/s41746-025-01890-x",
-    "published": "2025-07-29T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Daniel Camacho-Gomez et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802536"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-13337-0",
-    "journal": "Nature_CompBio",
-    "title": "Interpretable graph Kolmogorov–Arnold networks for multi-cancer classification and biomarker identification using multi-omics data",
-    "link": "https://www.nature.com/articles/s41598-025-13337-0",
-    "published": "2025-07-29T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Fadi Alharbi et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802547"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-12264-4",
-    "journal": "Nature_CompBio",
-    "title": "Developing and validating machine learning models to predict next-day extubation",
-    "link": "https://www.nature.com/articles/s41598-025-12264-4",
-    "published": "2025-07-29T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Samuel W. Fenske et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802551"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41597-025-05666-6",
-    "journal": "Nature_CompBio",
-    "title": "AI generated annotations for Breast, Brain, Liver, Lungs, and Prostate cancer collections in the National Cancer Institute Imaging Data Commons",
-    "link": "https://www.nature.com/articles/s41597-025-05666-6",
-    "published": "2025-07-29T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Gowtham Krishnan Murugesan et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802560"
-  },
-  {
-    "id": "https://www.nature.com/articles/s42003-025-08529-3",
-    "journal": "Nature_CompBio",
-    "title": "CG>TG mutation frequency as negative predictor of homologous recombination deficiency in ovarian and breast cancer",
-    "link": "https://www.nature.com/articles/s42003-025-08529-3",
-    "published": "2025-07-29T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Eva Romanovsky et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802578"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-05532-w",
-    "journal": "Nature_CompBio",
-    "title": "Transfer learning prediction of type 2 diabetes with unpaired clinical and genetic data",
-    "link": "https://www.nature.com/articles/s41598-025-05532-w",
-    "published": "2025-07-29T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "YounSung Jung et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802591"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1120801",
-    "journal": "MIT_TechReview",
-    "title": "OpenAI is launching a version of ChatGPT for college students",
-    "link": "https://www.technologyreview.com/2025/07/29/1120801/openai-is-launching-a-version-of-chatgpt-for-college-students/",
-    "published": "Tue, 29 Jul 2025 17:18:45 +0000",
-    "summary": "OpenAI is launching Study Mode, a version of ChatGPT for college students that it promises will act less like a lookup tool and more like a friendly, always-available tutor. It’s part of a wider push by the company to get AI more embedded into classrooms when the new academic year starts in September. A demonstration&#8230;",
-    "authors": [
-      "James O'Donnell"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802628"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1120771",
-    "journal": "MIT_TechReview",
-    "title": "The Download: how to store energy underground, and what you may not know about Trump’s AI Action Plan",
-    "link": "https://www.technologyreview.com/2025/07/29/1120771/the-download-how-to-store-energy-underground-and-what-you-may-not-know-about-trumps-ai-action-plan/",
-    "published": "Tue, 29 Jul 2025 12:10:00 +0000",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This startup wants to use the Earth as a massive battery Texas-based startup Quidnet Energy just completed a test showing it can store energy for up to six months by pumping water underground.&#8230;",
-    "authors": [
-      "Rhiannon Williams"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802633"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1120760",
-    "journal": "MIT_TechReview",
-    "title": "What you may have missed about Trump’s AI Action Plan",
-    "link": "https://www.technologyreview.com/2025/07/29/1120760/what-you-may-have-missed-about-trumps-ai-action-plan/",
-    "published": "Tue, 29 Jul 2025 09:00:00 +0000",
-    "summary": "A number of the executive orders and announcements coming from the White House since Donald Trump returned to office have painted an ambitious vision for America’s AI future—crushing competition with China, abolishing “woke” AI models that suppress conservative speech, jump-starting power-hungry AI data centers. But the details have been sparse.&#160; The White House’s AI Action&#8230;",
-    "authors": [
-      "James O'Donnell"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-29T22:08:02.802637"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09346-8",
-    "journal": "Nature",
-    "title": "Retraction Note: Parkin and PINK1 mitigate STING-induced inflammation",
-    "link": "https://www.nature.com/articles/s41586-025-09346-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 30 July 2025; <a href=\"https://www.nature.com/articles/s41586-025-09346-8\">doi:10.1038/s41586-025-09346-8</a></p>Retraction Note: Parkin and PINK1 mitigate STING-induced inflammation",
-    "authors": [
-      "Danielle A. Sliter",
-      "Jennifer Martinez",
-      "Ling Hao",
-      "Xi Chen",
-      "Nuo Sun",
-      "Tara D. Fischer",
-      "Jonathon L. Burman",
-      "Yan Li",
-      "Zhe Zhang",
-      "Derek P. Narendra",
-      "Huaibin Cai",
-      "Max Borsche",
-      "Christine Klein",
-      "Richard J. Youle"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-30T22:08:01.730520"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09295-2",
-    "journal": "Nature",
-    "title": "Author Correction: Dendritic, delayed, stochastic CaMKII activation in behavioural time scale plasticity",
-    "link": "https://www.nature.com/articles/s41586-025-09295-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 30 July 2025; <a href=\"https://www.nature.com/articles/s41586-025-09295-2\">doi:10.1038/s41586-025-09295-2</a></p>Author Correction: Dendritic, delayed, stochastic CaMKII activation in behavioural time scale plasticity",
-    "authors": [
-      "Anant Jain",
-      "Yoshihisa Nakahata",
-      "Tristano Pancani",
-      "Tetsuya Watabe",
-      "Polina Rusina",
-      "Kelly South",
-      "Kengo Adachi",
-      "Long Yan",
-      "Noriko Simorowski",
-      "Hiro Furukawa",
-      "Ryohei Yasuda"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-07-30T22:08:01.730533"
-  },
-  {
     "id": "https://www.nature.com/articles/s41586-025-09443-8",
     "journal": "Nature",
     "title": "Author Correction: Dual interfacial H-bonding-enhanced deep-blue hybrid copper–iodide LEDs",
@@ -2818,174 +2453,38 @@
     "added_at": "2025-08-02T22:07:31.456752"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-12629-9",
-    "journal": "Nature_SystemsBiology",
-    "title": "The effect of electronic prescription systems on pharmacy performance through evaluation of existing infrastructure in Kerman Iran",
-    "link": "https://www.nature.com/articles/s41598-025-12629-9",
-    "published": "2025-07-27T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Shokoufeh Karimi et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074515"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-12285-z",
-    "journal": "Nature_CompBio",
-    "title": "Biomechanical effects of medial osteoarthritis progression and UKA on knee lateral compartment using fibril-reinforced biphasic material in finite element study",
-    "link": "https://www.nature.com/articles/s41598-025-12285-z",
-    "published": "2025-07-27T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Jing Zhang et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074529"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/20/13552/",
-    "journal": "Nikkei_BioTech",
-    "title": "米Nanoscope社、網膜色素変性症に対する疾患関連遺伝子横断的な遺伝子治療をローリング申請",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/20/13552/",
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00222-X?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "An organ-chip model of sporadic ALS using iPSC-derived spinal cord motor neurons and an integrated blood-brain-like barrier",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00222-X?rss=yes",
     "published": "",
-    "summary": "米Nanoscope Therapeutics（ナノスコープ・セラピューティクス）社は2025年7月14日、網膜色素変性症患者の重度の視力低下に対する遺伝子治療薬候補（開発番号：MCO-010）について、第2b相臨床試験（RESTORE試験）で得られた好結果に基づいて、米食品医薬品局（FDA）に対する生物学的製剤承認（BLA）のローリング申請を開始したと発表した。",
+    "summary": "Lall et al. differentiate iPSCs from young-onset, sporadic ALS patients into spinal cord motor neurons and co-culture them with brain microvascular endothelial-like cells in a microfluidic organ-chip system. Transcriptomics, proteomics, and single-nuclei RNA sequencing identify distinct motor neuron subpopulations with ALS-specific dysregulation in neurofilaments, glutamatergic, and synaptic signaling.",
     "authors": [
-      "BTO"
+      "Deepti Lall, Michael J. Workman, Samuel Sances, Briana N. Ondatje, Shaughn Bell, George Lawless, Amanda Woodbury, Dylan West, Amanda Meyer, Andrea Matlock, Vineet Vaibhav, Jennifer E. Van Eyk, Clive N. Svendsen"
     ],
     "doi": "",
-    "parser_type": "generic",
+    "parser_type": "cell",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074544"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-08-03T22:07:34.229658"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/25/13565/",
-    "journal": "Nikkei_BioTech",
-    "title": "シンガポールMiRXES社、日本で1万人対象に胃がんリスク調べるプロジェクト立ち上げ",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/25/13565/",
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00193-6?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Human airway submucosal gland organoids to study respiratory inflammation and infection",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00193-6?rss=yes",
     "published": "",
-    "summary": "シンガポールMiRXES（ミレックサス）社は2025年7月23日、日本で1万人を対象に無償で胃がんのリスクを判定するプロジェクトを開始すると発表した。同社は血液中のmiRNAを活用したがんの検査キットや体外診断用医薬品を開発するスタートアップ。同プロジェクトは国内で後発医薬品の製造などを手掛けるナガワ薬品（東京・台東、長和誠代表取締役）と共同で実施する。同日、MiRXES社とナガワ薬品は戦略的パートナーシップを締結した。",
+    "summary": "Lin and Pou Casellas et al. established human airway submucosal gland (SMG) organoid cultures that capture region-specific mucous cells and viral infection responses. These SMG organoids provide a new platform to investigate airway regeneration, inflammation, and viral infections, offering insights into respiratory (patho-)physiology beyond the surface epithelium.",
     "authors": [
-      "BTO"
+      "Lin Lin, Carla Pou Casellas, Antonella F.M. Dost, Harry Begthel, Jeroen Korving, Stieneke van den Brink, Talya Dayton, Matthijs F.M. van Oosterhout, Niels Smakman, Lisa Thomann, Volker Thiel, Johan H. van Es, Hans Clevers"
     ],
     "doi": "",
-    "parser_type": "generic",
+    "parser_type": "cell",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074550"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/24/13558/",
-    "journal": "Nikkei_BioTech",
-    "title": "VCのENRISSION INDIA CAPITAL、国内事業会社とインドスタートアップをマッチングするサービスを開始",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/24/13558/",
-    "published": "",
-    "summary": "インドのスタートアップに特化して投資するベンチャーキャピタル（VC）のENRISSION INDIA CAPITAL（京都市、柿本優祐代表取締役）は2025年7月24日、日本の事業会社やコーポレートベンチャーキャピタル（CVC）向けに、事業連携や投資、M＆Aの対象となるインドのスタートアップを紹介するサービス「CVC as a Service」を開始したと発表した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074556"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/041100102/072700003/",
-    "journal": "Nikkei_BioTech",
-    "title": "製薬・バイオ企業の森、国内創薬スタートアップの主な導出契約：毎年更新",
-    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/041100102/072700003/",
-    "published": "",
-    "summary": "国内の上場・未上場創薬スタートアップが、2025年7月時点で締結しているパイプラインの導出契約を独自調査し、一覧表にまとめました。下記の「こちら」をクリックいただくとご覧いただけますので、ご利用ください。なお、一覧表はパソコンで閲覧しやすいよう最適化しています。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074561"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250728/",
-    "journal": "Nikkei_BioTech",
-    "title": "2025年7月28日号　目次",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250728/",
-    "published": "",
-    "summary": "",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074566"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/071800205/",
-    "journal": "Nikkei_BioTech",
-    "title": "パイプライン研究◎乳がん治療薬【開発動向（その1）】、乳がん治療薬、第一三共のエンハーツが好結果を連発",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/071800205/",
-    "published": "",
-    "summary": "日本における女性のがん罹患者の21.6％を占める乳がんについては、新薬および治療薬候補が数多く創製されている。2023年11月に中外製薬がペルツズマブとトラスツズマブの配合剤「フェスゴ」を国内で発売。第一三共が創製した抗体薬物複合体（ADC）「エンハーツ」は臨床試験で好結果を連発し、欧米ではHER2低・超低発現乳がんに適応拡大した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074571"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/072300406/",
-    "journal": "Nikkei_BioTech",
-    "title": "特集◎バイオスタートアップの導出契約2025、スタートアップの新規導出契約は12件、減少続くが返還された品目の再導出図る動きも",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/072300406/",
-    "published": "",
-    "summary": "本誌は毎年、日本のバイオスタートアップのパイプライン導出に関する契約を調査している。上場・未上場バイオスタートアップが保有する開発品の導出契約またはオプション契約を対象に調査を実施したところ、2024年7月～2025年6月の期間で新たに契約締結に至ったのは12件だった。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074576"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/072200181/",
-    "journal": "Nikkei_BioTech",
-    "title": "オンライン閲覧TOP15、2025年7月5日から2025年7月17日まで",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/072200181/",
-    "published": "",
-    "summary": "2025年7月5日から2025年7月17日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-07-27T22:07:28.074580"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-08-03T22:07:34.229667"
   },
   {
     "id": "https://www.nature.com/articles/s41564-025-02072-x",
@@ -5279,5 +4778,396 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-08-02T22:07:31.456770"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00864-2?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Stress-induced glucocorticoids enhance acute inflammation by promoting the differentiation of Th17 cells",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00864-2?rss=yes",
+    "published": "",
+    "summary": "The precise mechanism by which stress augments inflammation via Th17 cells remains unclear. Shimba et al. show that stress-associated hormone glucocorticoids enhance the glycolysis, proliferation, and differentiation of Th17 cells. Acute stress-induced glucocorticoids expand TCF1low Th17 cells, which promotes IL-17 production and neutrophil infiltration, thereby exacerbating intestinal inflammation.",
+    "authors": [
+      "Akihiro Shimba, Guangwei Cui, Shinya Abe, Keiji Hirota, Eiji Miyauchi, Daichi Takami, Shizue Tani-ichi, Ryoma Kato, Masaki Tajima, Toru Kanahashi, Masaki Miyazaki, Hans-Reimer Rodewald, Hiroyuki Yoshitomi, Hideki Ueno, Hiroshi Ohno, Koichi Ikuta"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229599"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00223-1?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Toward building kidney organoids with plumbing: Fusion of nephron with ureteric bud",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00223-1?rss=yes",
+    "published": "",
+    "summary": "The fusion of distal nephron and ureteric bud represents a critical developmental milestone required for establishing a functional kidney plumbing system. In this issue of Cell Stem Cell, Shi et al. report a protocol for generating human kidney organoids with an integrated collecting system by recapitulating this key developmental fusion event.",
+    "authors": [
+      "Chao Zhang, Yun Xia"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229611"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00230-9?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "The future belongs to those who believe in multiplex CAR T engineering",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00230-9?rss=yes",
+    "published": "",
+    "summary": "Toxicity and immune evasion have hindered the success of CAR T cells in HER2-positive solid tumors. In this issue of Cell Stem Cell, Hosking et al. present an iPSC-derived CAR T cell product engineered for tumor-selective targeting, resistance to the immunosuppressive tumor microenvironment, enhanced persistence and trafficking, and mitigation of antigen escape.",
+    "authors": [
+      "Laura Volta, Chiara F. Magnani"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229617"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00227-9?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Beyond transplantation: Gene-edited pig liver supports function in a human host",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00227-9?rss=yes",
+    "published": "",
+    "summary": "A recent study in Nature demonstrates that a gene-edited pig liver can function in a brain-dead human for short-term support. This highlights the potential of xenogeneic liver transplantation as bridge therapy and opens new directions in regenerative medicine and cross-species organ engineering.",
+    "authors": [
+      "Hidetaka Hara, Yi Wang"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229622"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00225-5?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "From symbiote to bad neighbor: The intestinal microbiome as a driver of CHIP",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00225-5?rss=yes",
+    "published": "",
+    "summary": "Hematopoietic stem cells (HSCs) with mutations that can cause clonal hematopoiesis of indeterminate potential (CHIP) accumulate during aging. Agarwal et al. demonstrate in Nature that intestinal barrier permeability increases with age and enables the microbial metabolite ADP-Heptose to reach the bone marrow, thus driving the expansion of DNMT3A-mutant HSCs.",
+    "authors": [
+      "Courtney M. Cowan, Eric M. Pietras"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229627"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00226-7?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Hallmarks of stem cell aging",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00226-7?rss=yes",
+    "published": "",
+    "summary": "Aging disrupts core functions of somatic stem cells throughout the body, leading to impaired tissue maintenance and repair. We identify five key features of aged stem cells, highlighting how their dysfunction contributes to aging phenotypes and offering a framework for targeting stem cell decline to preserve tissue health.",
+    "authors": [
+      "Thomas A. Rando, Anne Brunet, Margaret A. Goodell"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229631"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00143-2?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Integrating collecting systems in human kidney organoids through fusion of distal nephron to ureteric bud",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00143-2?rss=yes",
+    "published": "",
+    "summary": "Shi, McCracken, and colleagues define methods to incorporate ureteric bud (UB)-derived collecting duct (CD) systems into hPSC-derived kidney organoids. The CDs integrate with nephrons through direct epithelial fusion to the distal nephron in a process emulating the developmental connection, which is regulated by key signaling and transcriptional mechanisms.",
+    "authors": [
+      "Min Shi, Brittney Crouse, Nambirajan Sundaram, Naomi Pode Shakked, Konrad Thorner, Nathaniel M. King, Parna Dutta, Lioba Ester, Weitao Zhang, Vinothini Govindarajah, Raphael Kopan, Cristina Cebrian, Christopher N. Mayhew, Michael A. Helmrath, Joseph V. Bonventre, Kyle W. McCracken"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229636"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00178-X?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Establishing dorsal-ventral patterning in human neural tube organoids with synthetic organizers",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00178-X?rss=yes",
+    "published": "",
+    "summary": "Luo et al. developed a method to generate dorsal-ventral (D-V) patterned neural tube organoids (NTOs) from both zebrafish and human pluripotent stem cells (hPSCs) by engineering opposing BMP and SHH signaling centers. The human NTOs recapitulate the full complement of 13 neural progenitor subtypes arranged along the D-V axis, with transcriptomic profiling revealing high similarity to the human embryonic spinal cord at Carnegie stage 12.",
+    "authors": [
+      "Tao Luo, Cong Liu, Tao Cheng, Guo-Qin Zhao, Ying Huang, Jing-Yun Luan, Junyu Guo, Xiang Liu, Yi-Fan Wang, Yang Dong, Yu Xiao, Enhui He, Rui-Zhen Sun, Xiuyu Chen, Jiekai Chen, Jun Ma, Sean Megason, Junfeng Ji, Peng-Fei Xu"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229641"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00187-0?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Preferential tumor targeting of HER2 by iPSC-derived CAR T cells engineered to overcome multiple barriers to solid tumor efficacy",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00187-0?rss=yes",
+    "published": "",
+    "summary": "Hosking and colleagues have generated and preclinically characterized an off-the-shelf, allogeneic CAR T cell, derived from an induced pluripotent stem cell, that is intended to target HER2 on cancer cells without harming HER2-expressing healthy cells. Additional genetic edits have been specifically introduced to improve and sustain activity within solid tumors.",
+    "authors": [
+      "Martin P. Hosking, Soheila Shirinbak, Kyla Omilusik, Shilpi Chandra, Mika K. Kaneko, Angela Gentile, Susumu Yamamoto, Bishwas Shrestha, Joy Grant, Megan Boyett, Demetrio Cardenas, Hannah Keegan, Samad Ibitokou, Carolina Pavon, Takahiro Mizoguchi, Tatsuya Ihara, Daisuke Nakayama, Ramzey Abujarour, Tom T. Lee, Raedun Clarke, Jode Goodridge, Eigen Peralta, Tatsuo Maeda, Junichi Takagi, Takao Arimori, Yukinari Kato, Bahram Valamehr"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229646"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00179-1?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Deconvoluting clonal and cellular architecture in IDH-mutant acute myeloid leukemia",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00179-1?rss=yes",
+    "published": "",
+    "summary": "Sirenko et al. profile IDH1/2-mutated AML patients across disease stages (diagnosis, remission, and relapse) and treatments (targeted IDH inhibitors, chemotherapy, and hypomethylating agents). They delineate transcriptional programs associated with co-mutations (NPM1, SRSF2, and NRAS), treatment response, and relapse. Single-cell mutation tracking reveals the selection of rare diagnosis clones at relapse.",
+    "authors": [
+      "Maria Sirenko, Soobeom Lee, Zhengxi Sun, Ronan Chaligne, Sanam Loghavi, Georgios Asimomitis, Charlotte K. Brierley, Elsa Bernard, Sheng F. Cai, Robert M. Myers, Bettina Nadorp, Junya Sango, Morgan Lallo, Max F. Levine, Dylan Domenico, Juan E. Arango Ossa, Juan S. Medina-Martinez, Kamal Menghrajani, Audrey Lasry, Alice S. Mims, Helee Desai, Andrea Laganson, Chris Famulare, Minal Patel, Gerard Lozanski, Kelly L. Bolton, Aaron D. Viny, Mikhail Roshal, Ross L. Levine, Eirini P. Papapetrou, Eytan M. Stein, Dan A. Landau, Ann-Kathrin Eisfeld, Iannis Aifantis, Elli Papaemmanuil"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229650"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00181-X?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "IGF2BP1 restricts the induction of human primordial germ cell fate in an m6A-dependent manner",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00181-X?rss=yes",
+    "published": "",
+    "summary": "Zhang, Gu, Tong, et al. use human primordial germ cell-like cells induced from ESCs to show that germline entry is restricted via epitranscriptomic regulation of OTX2 by the m6A reader IGF2BP1. They demonstrate that an m6A-IGF2BP1-OTX2-MacroH2A.1-TFAP2C axis is essential to regulate human germ cell fate.",
+    "authors": [
+      "Jin Zhang, Yashi Gu, Lingling Tong, Boshi Feng, Shenghua Dong, Qizhe Shao, Yanxi Chen, Huanchang Tu, Ziqi Wang, Yueqi Wang, Xiang Li, Honglin Yu, Ziying Lin, Xueting Wang, Zhenfu Li, Zhipeng Ai, Yangquan Xiang, Zhiwei Jiang, Zixin Jin, Zhengyi Li, Yuxin Chen, Zuolin Shen, Chenyang Huang, Jianzhao Liu, Jian Liu, Pengfei Xu, You Yu, Peng Xia, Hongqing Liang, Huilin Huang, Di Chen"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229654"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00192-4?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "Multiomic profiling reveals that prostaglandin E2 reverses aged muscle stem cell dysfunction, leading to increased regeneration and strength",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00192-4?rss=yes",
+    "published": "",
+    "summary": "Wang et al. uncover that aged muscle stem cells have blunted PGE2-EP4 signaling that is critical for their regenerative function. Treatment with exogenous PGE2 reverses age-related defects in muscle stem cells and imparts an epigenetic response that enhances their capacity for repair after injury and transplantation.",
+    "authors": [
+      "Yu Xin Wang, Adelaida R. Palla, Andrew T.V. Ho, Daniel C.L. Robinson, Meenakshi Ravichandran, Glenn J. Markov, Thach Mai, Chris Still, Akshay Balsubramani, Surag Nair, Colin A. Holbrook, Ann V. Yang, Peggy E. Kraft, Shiqi Su, David M. Burns, Nora D. Yucel, Lei S. Qi, Anshul Kundaje, Helen M. Blau"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229663"
+  },
+  {
+    "id": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00229-2?rss=yes",
+    "journal": "Cell_StemCell",
+    "title": "To play Paneth or goblet: Shapeshifting secretory cells read the room",
+    "link": "https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00229-2?rss=yes",
+    "published": "",
+    "summary": "(Cell Stem Cell 32, 861–863; June 5, 2025)",
+    "authors": [
+      "Irene V. Choi, Rachel K. Zwick"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229672"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-13728-3",
+    "journal": "Nature_CompBio",
+    "title": "Evaluation of university student education management effect based on data augmentation and transfer learning for remote sensing applications",
+    "link": "https://www.nature.com/articles/s41598-025-13728-3",
+    "published": "2025-08-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Chen Jie et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229677"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-10073-3",
+    "journal": "Nature_CompBio",
+    "title": "The transcriptome of the olm provides insights into its evolution and gene expression",
+    "link": "https://www.nature.com/articles/s41598-025-10073-3",
+    "published": "2025-08-03T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Susanne Holtze et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229681"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13594/",
+    "journal": "Nikkei_BioTech",
+    "title": "医薬品第一部会、抗Aβ抗体ケサンラの副作用軽減を目的とした新用量の追加など了承",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13594/",
+    "published": "",
+    "summary": "厚生労働省は2025年7月31日、薬事審議会医薬品第一部会を開催した。大正製薬の不眠症治療薬「ボルズィ錠」（ボルノレキサント水和物）などの新規承認などを了承した。同部会における新規承認品目は4品目だった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229689"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13593/",
+    "journal": "Nikkei_BioTech",
+    "title": "大塚HDは2025年度上半期に新規2品目が承認申請済み、4品目が第3相入り",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13593/",
+    "published": "",
+    "summary": "大塚ホールディングス（HD）は2025年7月31日、2025年12月期第2四半期（2025年1～6月）の決算説明会を開催した。連結業績（IFRS）は、売上収益が1兆1807億6600万円（前年同期比6.5%増）、事業利益は2392億2100万円（同12.0%増）、営業利益が2421億1800万円（同91.7%増）、親会社の所有者に帰属する中間利益は1735億2900万円（同61.0%増）だった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229694"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13588/",
+    "journal": "Nikkei_BioTech",
+    "title": "東大医科研・信州大、G47ΔにIL-12加えたウイルス療法の悪性黒色腫に対する一定の有効性を確認",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13588/",
+    "published": "",
+    "summary": "東京大学医科学研究所附属病院脳腫瘍外科の藤堂具紀（ともき）教授、信州大学医学部附属病院皮膚科の奥山隆平教授らの研究チームが、2025年7月31日、開発中のウイルス療法について医師主導治験の中間解析結果を公表した。遺伝子組換え単純ヘルペスウイルス1型（HSV-1）を用いたがん治療用ウイルスであるG47Δの基本骨格にヒトインターロイキン（IL）-12遺伝子を付加した、新規のウイルス療法であるT-hIL12（開発番号）について、悪性黒色腫に対する第1/2相の医師主導治験で、一定の安全性と有効性を確認したという。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229699"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/29/13576/",
+    "journal": "Nikkei_BioTech",
+    "title": "カナダRapid Novor社、宿主と微生物叢の相互関係を分析するメタプロテオミクスの新たなワークフロー開発",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/29/13576/",
+    "published": "",
+    "summary": "カナダRapid Novor（ラピッド・ノボール）社は2025年7月21日、オーストリアUniversity of Vienna/Bruker Center of Excellence for MetaproteomicsのDavid Gomez-Varela氏の研究チームとの共同研究により、メタプロテオミクスの新たな超高感度ワークフロー「uMetaP」を開発したと発表した。同社が微生物叢の未知の蛋白質配列を決定する新規ペプチドシーケンシングのソフトウェア「novoMP」を開発し、ドイツBruker Daltonics社の包括的なプロテオミクスプラットフォーム「ProteoScape」に直接導入した。同研究成果は、2025年7月18日のNature Communications誌に掲載された。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229705"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/29/13574/",
+    "journal": "Nikkei_BioTech",
+    "title": "MGHなど、脳の微細な神経構造を解析できる高性能MRIスキャナーを開発",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/29/13574/",
+    "published": "",
+    "summary": "米国立衛生研究所（NIH）の支援を受けた米Massachusetts General Hospital（MGH）などの研究チームは、神経疾患や神経精神疾患の患者の脳において破壊されている微細な神経構造を分析し再構成できる、超高解像度の脳イメージングシステムを新たに開発したことを明らかにした。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229709"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13587/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Epirium Bio社、サルコペニア治療薬候補のPGE2標的MF-300の第1相で健常人への投与を完了",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/07/31/13587/",
+    "published": "",
+    "summary": "神経筋疾患と線維性疾患に対する治療薬を開発しているバイオ医薬品企業の米Epirium Bio（エピリウム・バイオ）社は、2025年7月21日、経口投与型の15-ヒドロキシプロスタグランジン脱水素酵素（15-PGDH）阻害薬であるMF-300に関する二重盲検のプラセボ対照の単回/複数回漸増投与第1相試験で投与を完了したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229714"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/01/13595/",
+    "journal": "Nikkei_BioTech",
+    "title": "順天堂大の南野教授、老化細胞除去治療開発でスタートアップのSenotyxを設立",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/01/13595/",
+    "published": "",
+    "summary": "順天堂大学大学院医学研究科循環器内科の南野徹教授が老化細胞除去治療を開発するバイオスタートアップであるSenotyx（セノティクス、東京・中央区）を、2025年7月18日に設立した。南野教授が代表取締役CEOを務める。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229718"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/02/13596/",
+    "journal": "Nikkei_BioTech",
+    "title": "協和キリンの2025年12月期第2四半期は減収減益、特別希望退職には432人が応募",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/02/13596/",
+    "published": "",
+    "summary": "協和キリンは2025年8月1日、2025年12月期第2四半期（2025年1月～6月）の決算説明会を開催した。同社の2025年12月期第2四半期の連結業績（IFRS）は、売上収益が2306億5400万円（前年同期比1.0％減）、コア営業利益が350億800万円（同20.7％減）、親会社の所有者に帰属する中間利益が163億2000万円（同56.8％減）で、減収減益だった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-03T22:07:34.229722"
   }
 ]
