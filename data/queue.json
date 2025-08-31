@@ -1,366 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-02638-z",
-    "journal": "Nature",
-    "title": "Einstein hated entanglement — and five other quantum myths",
-    "link": "https://www.nature.com/articles/d41586-025-02638-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 26 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02638-z\">doi:10.1038/d41586-025-02638-z</a></p>There’s nothing intuitive about quantum theory — six physicists debunk some of the most common misconceptions.",
-    "authors": [
-      "Maria Violaris",
-      "Estelle Inack",
-      "Sabine Hossenfelder",
-      "Norma G. Sanchez",
-      "Shweta Agrawal",
-      "Emily Adlam"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538359"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02636-1",
-    "journal": "Nature",
-    "title": "Autism is on the rise: what’s really behind the increase?",
-    "link": "https://www.nature.com/articles/d41586-025-02636-1",
-    "published": "",
-    "summary": "<p>Nature, Published online: 26 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02636-1\">doi:10.1038/d41586-025-02636-1</a></p>RFK Jr has vowed to find out what’s responsible, but scientists say he is ignoring answers from decades of research.",
-    "authors": [
-      "Helen Pearson"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538364"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02729-x",
-    "journal": "Nature",
-    "title": "Repeated heatwaves can age you as much as smoking or drinking",
-    "link": "https://www.nature.com/articles/d41586-025-02729-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 26 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02729-x\">doi:10.1038/d41586-025-02729-x</a></p>Long-term study suggests that the more heatwaves people are exposed to, the more it accelerates body ageing.",
-    "authors": [
-      "Freda Kreier"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538368"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02711-7",
-    "journal": "Nature",
-    "title": "Daily briefing: Tiny marsupial bounces back from near-extinction",
-    "link": "https://www.nature.com/articles/d41586-025-02711-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02711-7\">doi:10.1038/d41586-025-02711-7</a></p>The comeback of an Australian animal, a new moon of Uranus and how a scientist invented a life-saving frog sauna.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538371"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zuph6d4",
-    "journal": "Science",
-    "title": "Deep-sea worms fight poison with poison to survive in hydrothermal vents",
-    "link": "https://www.science.org/content/article/deep-sea-worms-fight-poison-poison-survive-hydrothermal-vents",
-    "published": "",
-    "summary": "Combining arsenic and sulfide in skin cells forms a less toxic mineral—and turns the animals bright yellow",
-    "authors": [
-      "Phie Jacobs"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538376"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zbkq4m7",
-    "journal": "Science",
-    "title": "Bats may mistake wind turbines for open sky, causing deadly collisions",
-    "link": "https://www.science.org/content/article/bats-may-mistake-wind-turbines-open-sky-causing-deadly-collisions",
-    "published": "",
-    "summary": "Study may help explain why giant blades kill millions of the animals every year",
-    "authors": [
-      "Sachin Rawat"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538380"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zkkokxn",
-    "journal": "Science",
-    "title": "Pushed out by Trump, New Jersey ecologist launches bid for Congress",
-    "link": "https://www.science.org/content/article/pushed-out-trump-new-jersey-ecologist-launches-bid-congress",
-    "published": "",
-    "summary": "Megan O’Rourke hopes to be a voice for science, also touts her blue-collar roots",
-    "authors": [
-      "Dan Charles"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538384"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00939-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Quantitative profiling of human brain organoid cell diversity across four protocols and multiple cell lines",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00939-8?rss=yes",
-    "published": "",
-    "summary": "Naas et al. analyzed brain organoids from multiple cell lines in four regional protocols using scRNA-seq and time-resolved RNA-seq. They apply a computational tool, the “NEST-Score”, to identify cell-line- and protocol-driven cells in organoids and compare to in vivo references. Analyses and visualizations are provided via a web explorer.",
-    "authors": [
-      "Julia Naas, Meritxell Balmaña, Laurenz Holcik, Maria Novatchkova, Lina Dobnikar, Thomas Krausgruber, Sabrina Ladstätter, Christoph Bock, Arndt von Haeseler, Christopher Esk, Jürgen A. Knoblich"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538407"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-16144-9",
-    "journal": "Nature_CompBio",
-    "title": "High-content confocal analysis of tumorigenesis, cancer stem cells, and drug response in 3D cholangiocarcinoma cultures",
-    "link": "https://www.nature.com/articles/s41598-025-16144-9",
-    "published": "2025-08-26T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Krittiyabhorn Kongtanawanich et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538412"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41592-025-02797-x",
-    "journal": "Nature_CompBio",
-    "title": "DeepMVP: deep learning models trained on high-quality data accurately predict PTM sites and variant-induced alterations",
-    "link": "https://www.nature.com/articles/s41592-025-02797-x",
-    "published": "2025-08-26T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Bo Wen et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538425"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-15765-4",
-    "journal": "Nature_CompBio",
-    "title": "Environmental exposure to perfluorooctane sulfonate and its role in esophageal cancer progression: a comprehensive bioinformatics and experimental study",
-    "link": "https://www.nature.com/articles/s41598-025-15765-4",
-    "published": "2025-08-26T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Fangyi Liu et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538477"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41592-025-02784-2",
-    "journal": "Nature_CompBio",
-    "title": "Reconstruction of a connectome of single neurons in mouse brains by cross-validating multi-scale multi-modality data",
-    "link": "https://www.nature.com/articles/s41592-025-02784-2",
-    "published": "2025-08-26T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Feng Xiong et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538514"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1121006",
-    "journal": "MIT_TechReview",
-    "title": "Fix damaged art in hours with AI",
-    "link": "https://www.technologyreview.com/2025/08/26/1121006/fix-damaged-art-in-hours-with-ai/",
-    "published": "Tue, 26 Aug 2025 21:00:00 +0000",
-    "summary": "Art restoration takes steady hands and a discerning eye. For centuries, conservators have identified areas needing repair and then mixed the exact shades needed to fill in one area at a time. Restoring a single painting can take anywhere from a few weeks to over a decade. Now an MIT graduate student in mechanical engineering&#8230;",
-    "authors": [
-      "Jennifer Chu"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538538"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1121010",
-    "journal": "MIT_TechReview",
-    "title": "‘Bubbles’ turn air into drinkable water",
-    "link": "https://www.technologyreview.com/2025/08/26/1121010/bubbles-turn-air-into-drinkable-water/",
-    "published": "Tue, 26 Aug 2025 21:00:00 +0000",
-    "summary": "Today, 2.2 billion people in the world lack access to safe drinking water. But the atmosphere contains millions of billions of gallons of water in the form of vapor, and researchers have tried various strategies to capture and condense it in places where traditional sources are inaccessible. Now MIT engineers have improved on that approach&#8230;",
-    "authors": [
-      "Jennifer Chu"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-26T22:07:06.538542"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09538-2",
-    "journal": "Nature",
-    "title": "Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB<sub>1</sub>",
-    "link": "https://www.nature.com/articles/s41586-025-09538-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 August 2025; <a href=\"https://www.nature.com/articles/s41586-025-09538-2\">doi:10.1038/s41586-025-09538-2</a></p>Retraction Note: Crystal structures of agonist-bound human cannabinoid receptor CB<sub>1</sub>",
-    "authors": [
-      "Tian Hua",
-      "Kiran Vemuri",
-      "Spyros P. Nikas",
-      "Robert B. Laprairie",
-      "Yiran Wu",
-      "Lu Qu",
-      "Mengchen Pu",
-      "Anisha Korde",
-      "Shan Jiang",
-      "Jo-Hao Ho",
-      "Gye Won Han",
-      "Kang Ding",
-      "Xuanxuan Li",
-      "Haiguang Liu",
-      "Michael A. Hanson",
-      "Suwen Zhao",
-      "Laura M. Bohn",
-      "Alexandros Makriyannis",
-      "Raymond C. Stevens",
-      "Zhi-Jie Liu"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-27T22:07:27.434501"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02645-0",
-    "journal": "Nature",
-    "title": "Skin: preserving the health of a multi-talented organ",
-    "link": "https://www.nature.com/articles/d41586-025-02645-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02645-0\">doi:10.1038/d41586-025-02645-0</a></p>Longer-lasting treatments and smarter care practices can protect and repair the most visible part of the body.",
-    "authors": [
-      "Herb Brody"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-27T22:07:27.434513"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02749-7",
-    "journal": "Nature",
-    "title": "Viral spread: how rumours surged in revolutionary France",
-    "link": "https://www.nature.com/articles/d41586-025-02749-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02749-7\">doi:10.1038/d41586-025-02749-7</a></p>Modern epidemiological models shed light on the causes of the ‘Great Fear’ — plus, Nature’s big quantum interpretation quiz.",
-    "authors": [
-      "Benjamin Thompson",
-      "Nick Petrić Howe"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-27T22:07:27.434519"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02707-3",
-    "journal": "Nature",
-    "title": "Five single-celled species that dabble in multicellularity",
-    "link": "https://www.nature.com/articles/d41586-025-02707-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02707-3\">doi:10.1038/d41586-025-02707-3</a></p>Animals’ closest cousins provide insight into how we became multicellular creatures.",
-    "authors": [
-      "Shamini Bundell"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-27T22:07:27.434524"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02726-0",
-    "journal": "Nature",
-    "title": "Bright city lights make birds around the world sing longer",
-    "link": "https://www.nature.com/articles/d41586-025-02726-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02726-0\">doi:10.1038/d41586-025-02726-0</a></p>Big-eyed species are especially vulnerable to the effects of light pollution, a citizen-science effort shows.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-27T22:07:27.434529"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02738-w",
-    "journal": "Nature",
-    "title": "AI versus skin cancer: the future of dermatology diagnosis",
-    "link": "https://www.nature.com/articles/d41586-025-02738-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 27 August 2025; <a href=\"https://www.nature.com/articles/d41586-025-02738-w\">doi:10.1038/d41586-025-02738-w</a></p>England’s health service is trialling an artificial-intelligence tool that can identify skin cancer as accurately as a physician.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-08-27T22:07:27.434532"
-  },
-  {
     "id": "https://www.nature.com/articles/s41586-025-09451-8",
     "journal": "Nature",
     "title": "Ultrabroadband on-chip photonics for full-spectrum wireless communications",
@@ -2538,72 +2177,21 @@
     "added_at": "2025-08-30T22:06:21.677722"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00952-0?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Spatial regulation of CD8+ T cells at the HLA-E-NKG2A axis drives HIV persistence in lymph node B cell follicles",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00952-0?rss=yes",
-    "published": "",
-    "summary": "Papadopoulos et al. explored spatial compartmentalization of the immune response to HIV in human lymph nodes, where the virus is known to evade treatment. Novel imaging and spatial omics uncovered mechanisms of how HIV hides in B cell follicles, shielded from CD8+ T cells by a tightly regulated immune environment.",
-    "authors": [
-      "Andrea O. Papadopoulos, Leonard Mvaya, Trevor Khaba, Namani Ngema, Werner Smidt, Sibongiseni Msipa, Bongiwe Mahlobo, Thandekile Ngubane, Krista Dong, Ismail Jajbhay, Johan Pansegrouw, Kondwani Jambo, Zaza Ndhlovu"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-23T22:06:41.132453"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-63017-w",
+    "id": "https://www.nature.com/articles/s44184-025-00146-6",
     "journal": "Nature_CompBio",
-    "title": "Modeling integration site data for safety assessment with MELISSA",
-    "link": "https://www.nature.com/articles/s41467-025-63017-w",
-    "published": "2025-08-23T00:00:00+00:00",
+    "title": "The joint estimation of uncertainty and its relationship with psychotic-like traits and psychometric schizotypy",
+    "link": "https://www.nature.com/articles/s44184-025-00146-6",
+    "published": "2025-08-31T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Tsai-Yu Lin et al."
+      "Toni Gibbs-Dean et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-23T22:06:41.132465"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-16291-z",
-    "journal": "Nature_CompBio",
-    "title": "Single-cell RNA transcriptome analysis reveals regulatory programs of RNA binding proteins in diabetic foot ulcers",
-    "link": "https://www.nature.com/articles/s41598-025-16291-z",
-    "published": "2025-08-23T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Qiong Hu et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-23T22:06:41.132479"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-16817-5",
-    "journal": "Nature_CompBio",
-    "title": "Obesity impact on leukocyte telomere shortening and immune aging assessed by Mendelian randomization and transcriptomics analysis",
-    "link": "https://www.nature.com/articles/s41598-025-16817-5",
-    "published": "2025-08-23T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Zhijun Feng et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-23T22:06:41.132485"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-08-31T22:06:42.496431"
   },
   {
     "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00959-3?rss=yes",
@@ -4931,5 +4519,209 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-08-30T22:06:21.677727"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-15539-y",
+    "journal": "Nature_CompBio",
+    "title": "Major pathophysiological changes in pulmonary disease provided a molecular insight based on deep learning approach",
+    "link": "https://www.nature.com/articles/s41598-025-15539-y",
+    "published": "2025-08-31T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Swaraj Mohanty et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496447"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-17513-0",
+    "journal": "Nature_CompBio",
+    "title": "Combining knowledge distillation and neural networks to predict protein secondary structure",
+    "link": "https://www.nature.com/articles/s41598-025-17513-0",
+    "published": "2025-08-31T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Lufei Zhao et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496454"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-16669-z",
+    "journal": "Nature_CompBio",
+    "title": "CXR-MultiTaskNet a unified deep learning framework for joint disease localization and classification in chest radiographs",
+    "link": "https://www.nature.com/articles/s41598-025-16669-z",
+    "published": "2025-08-31T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "K. Divya Reddy et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496460"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13678/",
+    "journal": "Nikkei_BioTech",
+    "title": "GNIグループ決算、調達した125億円で2027年12月までにM＆Aを検討",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13678/",
+    "published": "",
+    "summary": "ジーエヌアイグループは、2025年8月29日、2025年12月期第2四半期（2025年1月～6月）の決算説明会を開催。2025年7月に「上場来、最大規模の資金調達」と同社Ying Luo代表執行役社長兼CEOが紹介する125.9億円の新規株式発行による資金調達を実施したことを紹介した。資金は、子会社である米Gyre Pharmaceuticals社の株式の直接取得、グループ内企業、特に医療機器事業を強化していくための投融資に加え、国内外企業を買収して日本における事業展開及び収益基盤の拡充を図るという。M&amp;Aに割り当てるのは調達額の半分に当たる60.7億円を計画している。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496468"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13680/",
+    "journal": "Nikkei_BioTech",
+    "title": "自由診療の自己脂肪由来MSC投与で患者が死亡、厚労省が診療所とコージンバイオ運営のCPCに治療停止命令",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13680/",
+    "published": "",
+    "summary": "厚生労働省医政局研究開発政策課再生医療等研究推進室は2025年8月29日、再生医療等安全性確保法（安確法）に基づいて自由診療の枠組みで再生医療を提供していた東京都内の診療所に対して、当該再生医療の提供を停止するよう緊急命令を出した。同診療所で自己脂肪由来間葉系幹細胞（MSC）投与を受けた慢性疼痛の患者が投与中に急変し、死亡したことが理由だ。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496474"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13681/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Nucleus社、放射性医薬投与用の専用デバイス開発しCDMOとして事業拡大",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13681/",
+    "published": "",
+    "summary": "放射性医薬品に特化した医薬品開発製造受託機関（CDMO）である米Nucleus RadioPharma（ニュークレアス・ラジオファーマ）社は2025年8月20日、標的放射性医薬への患者のアクセスを拡大するために、2019～2021年に米食品医薬品局（FDA）の長官を務めていたStephen Hahn氏を最高経営責任者（CEO）に任命したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496479"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13674/",
+    "journal": "Nikkei_BioTech",
+    "title": "NANO MRNAとカイオム、治療用抗体をコードしたmRNA医薬の創製へ共同研究",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13674/",
+    "published": "",
+    "summary": "NANO MRNAとカイオム・バイオサイエンスは2025年8月27日、mRNAエンコード抗体の創出に向けて共同研究契約を締結したと発表した。mRNAエンコード抗体とは、治療用抗体の配列をコードするmRNAを投与することで、その抗体を体内の細胞で産生させるmRNA医薬。両社は1年以内をめどに開発候補品を選定する。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496484"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13677/",
+    "journal": "Nikkei_BioTech",
+    "title": "田辺三菱製薬の新代表取締役CEOに原田明久氏が就任、代表取締役2人体制に",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13677/",
+    "published": "",
+    "summary": "田辺三菱製薬は2025年8月29日、役員・経営執行体制の変更を発表し、同年9月1日付で、田辺三菱製薬の新代表取締役 執行役員 Chief Executive Officer（CEO）に、米Pfizer（ファイザー）社日本法人であるファイザーの代表取締役社長などを務めた原田明久氏が就任することを明らかにした。これまで田辺三菱製薬の代表取締役社長執行役員兼ファイナンス本部長を務めていた辻村明広氏は、代表取締役社長執行役員Chief Operating Officer（COO）に就任する。田辺三菱製薬は今回の体制変更で、代表取締役2人の体制となる。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496488"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250901/",
+    "journal": "Nikkei_BioTech",
+    "title": "2025年9月1日号　目次",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250901/",
+    "published": "",
+    "summary": "",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496492"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/082700376/",
+    "journal": "Nikkei_BioTech",
+    "title": "ベンチャー探訪、QueeenB、実験自動化機器をユーザーのニーズに合わせてオーダーメード開発",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/082700376/",
+    "published": "",
+    "summary": "QueeenB（クイーンビー、仙台市、根本一希代表取締役）は、アカデミアの研究室や製薬企業などにおける実験を自動化する仕組みを受託開発している、東北大学発スタートアップだ。顧客のニーズに合わせて自動化機器を開発したり組み合わせたりすることで、既製品を導入するよりも安価でニーズに合った実験自動化を支援する。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496497"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/082800409/",
+    "journal": "Nikkei_BioTech",
+    "title": "特集◎バイオ業界の年収全調査―2025年【総論・VIP編】、製薬とスタートアップの差は約90万円、役員報酬1億円超は計50人に",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/082800409/",
+    "published": "",
+    "summary": "上場製薬企業28社と上場バイオスタートアップ59社を対象に2024年度の報酬を調査した。従業員の平均年間給与は、製薬企業で882.2万円、スタートアップで785.3万円といずれも増加。1億円超の報酬を得た役員は50人に上り、前年度から差し引き6人増加した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496503"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/082600183/",
+    "journal": "Nikkei_BioTech",
+    "title": "オンライン閲覧TOP15、2025年7月31日から2025年8月22日まで",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/082600183/",
+    "published": "",
+    "summary": "2025年7月31日から2025年8月22日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-08-31T22:06:42.496507"
   }
 ]
