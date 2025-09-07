@@ -1,345 +1,5 @@
 [
   {
-    "id": "https://www.science.org/doi/10.1126/science.z7thud7",
-    "journal": "Science",
-    "title": "Vote by Dutch lawmakers threatens major primate research center",
-    "link": "https://www.science.org/content/article/vote-dutch-lawmakers-threatens-major-primate-research-center",
-    "published": "",
-    "summary": "In victory for animal rights activists, research on monkeys would end in 2030",
-    "authors": [
-      "Martin Enserink"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089461"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zvlgk3m",
-    "journal": "Science",
-    "title": "House Republicans add to support for maintaining NIH budget in 2026",
-    "link": "https://www.science.org/content/article/house-republicans-add-support-maintaining-nih-budget-2026",
-    "published": "",
-    "summary": "Both chambers of Congress have now rejected Trump’s proposed 40% cut",
-    "authors": [
-      "Jocelyn Kaiser"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089465"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zwd77o8",
-    "journal": "Science",
-    "title": "NSF could be moving down the street",
-    "link": "https://www.science.org/content/article/nsf-could-be-moving-down-street",
-    "published": "",
-    "summary": "Government sets requirements for new space that sound like nearby patent office campus",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089469"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00910-6?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "SLC6A8-mediated creatine uptake suppresses ERK2-FSP1 signaling and induces ferroptosis in colorectal cancer",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00910-6?rss=yes",
-    "published": "",
-    "summary": "Zhou et al. show that creatine sensitizes cancer cells to ferroptosis by impairing ERK2 activation, thereby inhibiting ERK2-mediated stabilization of FSP1. Combining creatine supplementation with targeting PD-1 synergistically enhances anti-tumor immunity in mice. These results suggest that creatine activates ferroptosis, induces tumor suppression, and enhances ferroptosis-based treatments for CRC.",
-    "authors": [
-      "Xiaojun Zhou, Genxin Wang, Yuhang Wu, Mingzhi Wu, Xiang Zhai, Chenhui Tian, Edward V. Prochownik, Congqing Jiang, Youjun Li"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089500"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00922-2?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Cancer cell and microenvironmental rewiring by ADAR1 loss impairs glioblastoma tumor growth and extends survival",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00922-2?rss=yes",
-    "published": "",
-    "summary": "Álvarez-Prado et al. report that targeting ADAR1 triggers cancer-cell-intrinsic anti-proliferative mechanisms and fosters anti-tumoral immune responses, blocking tumor growth and extending survival in preclinical mouse models of glioblastoma.",
-    "authors": [
-      "Ángel F. Álvarez-Prado, Alberto Hernández-Barranco, Livia Rentsch, Catia F. Costa, Johanna A. Joyce"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089509"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-17158-z",
-    "journal": "Nature_CompBio",
-    "title": "MAFNet: A novel adaptive multi-scale model for fine-grained grading of diabetic retinopathy",
-    "link": "https://www.nature.com/articles/s41598-025-17158-z",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Lei Sun et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089531"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-63204-9",
-    "journal": "Nature_CompBio",
-    "title": "Connectome-constrained ligand-receptor interaction analysis for understanding brain network communication",
-    "link": "https://www.nature.com/articles/s41467-025-63204-9",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Zongchang Du et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089535"
-  },
-  {
-    "id": "https://www.nature.com/articles/s43018-025-01034-w",
-    "journal": "Nature_CompBio",
-    "title": "Artificial intelligence for prostate cancer diagnostics",
-    "link": "https://www.nature.com/articles/s43018-025-01034-w",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Antti S. Rannikko"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089539"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41392-025-02389-3",
-    "journal": "Nature_CompBio",
-    "title": "Correction: Cancer cell employs a microenvironmental neural signal trans-activating nucleus-mitochondria coordination to acquire stemness",
-    "link": "https://www.nature.com/articles/s41392-025-02389-3",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Bin He et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089543"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-09106-8",
-    "journal": "Nature_CompBio",
-    "title": "Deep computer vision with artificial intelligence based sign language recognition to assist hearing and speech-impaired individuals",
-    "link": "https://www.nature.com/articles/s41598-025-09106-8",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Abrar Almjally et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089547"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-01319-1",
-    "journal": "Nature_CompBio",
-    "title": "A dual-stream deep learning framework for skin cancer classification using histopathological-inherited and vision-based feature extraction",
-    "link": "https://www.nature.com/articles/s41598-025-01319-1",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Saleh Ateeq Almutairi"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089558"
-  },
-  {
-    "id": "https://www.nature.com/articles/s43018-025-01041-x",
-    "journal": "Nature_CompBio",
-    "title": "An MRI–pathology foundation model for noninvasive diagnosis and grading of prostate cancer",
-    "link": "https://www.nature.com/articles/s43018-025-01041-x",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Lizhi Shao et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089564"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-17823-3",
-    "journal": "Nature_CompBio",
-    "title": "Use of proper orthogonal decomposition and machine learning for efficient blood flow prediction in cerebral saccular aneurysms",
-    "link": "https://www.nature.com/articles/s41598-025-17823-3",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Wajdi Rajhi et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089568"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41698-025-00952-3",
-    "journal": "Nature_CompBio",
-    "title": "Integrating single-cell RNA sequencing and artificial intelligence for multitargeted drug design for combating resistance in liver cancer",
-    "link": "https://www.nature.com/articles/s41698-025-00952-3",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Houhong Wang et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089573"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-17755-y",
-    "journal": "Nature_CompBio",
-    "title": "MAIA platform for routine clinical testing: an artificial intelligence embryo selection tool developed to assist embryologists",
-    "link": "https://www.nature.com/articles/s41598-025-17755-y",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Mariana Nicolielo et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089576"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-63629-2",
-    "journal": "Nature_CompBio",
-    "title": "Mepolizumab alters gene regulatory networks of nasal airway type-2 and epithelial inflammation in urban children with asthma",
-    "link": "https://www.nature.com/articles/s41467-025-63629-2",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Courtney L. Gaberino et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089585"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-92892-y",
-    "journal": "Nature_CompBio",
-    "title": "BamClassifier: a machine learning method for assessing iron deficiency",
-    "link": "https://www.nature.com/articles/s41598-025-92892-y",
-    "published": "2025-09-02T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Emmanuel S. Adabor et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089611"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1122877",
-    "journal": "MIT_TechReview",
-    "title": "The Download: therapists secretly using AI, and Apple AirPods’ hearing aid potential",
-    "link": "https://www.technologyreview.com/2025/09/02/1122877/the-download-therapists-secretly-using-ai-and-apple-airpods-hearing-aid-potential/",
-    "published": "Tue, 02 Sep 2025 12:10:00 +0000",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Therapists are secretly using ChatGPT. Clients are triggered. Declan would never have found out his therapist was using ChatGPT had it not been for a technical mishap. The connection was patchy during one&#8230;",
-    "authors": [
-      "Rhiannon Williams"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089621"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1122688",
-    "journal": "MIT_TechReview",
-    "title": "What health care providers actually want from AI",
-    "link": "https://www.technologyreview.com/2025/09/02/1122688/what-health-care-providers-actually-want-from-ai/",
-    "published": "Tue, 02 Sep 2025 12:00:00 +0000",
-    "summary": "In a market flooded with AI promises, health care decision-makers are no longer dazzled by flashy demos or abstract potential. Today, they want pragmatic and pressure-tested products. They want solutions that work for their clinicians, staff, patients, and their bottom line. To gain traction in 2025 and beyond, health care providers are looking for real-world solutions&#8230;",
-    "authors": [
-      "Mayo Clinic Platform Staff"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089624"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1122856",
-    "journal": "MIT_TechReview",
-    "title": "Can an AI doppelgänger help me do my job?",
-    "link": "https://www.technologyreview.com/2025/09/02/1122856/can-an-ai-doppelganger-help-me-do-my-job/",
-    "published": "Tue, 02 Sep 2025 09:00:00 +0000",
-    "summary": "Everywhere I look, I see AI clones. On X and LinkedIn, “thought leaders” and influencers offer their followers a chance to ask questions of their digital replicas. OnlyFans creators are having AI models of themselves chat, for a price, with followers. “Virtual human” salespeople in China are reportedly outselling real humans.&#160; Digital clones—AI models that&#8230;",
-    "authors": [
-      "James O'Donnell"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-02T22:07:12.089632"
-  },
-  {
     "id": "https://www.nature.com/articles/s41586-025-09577-9",
     "journal": "Nature",
     "title": "Cas9 senses CRISPR RNA abundance to regulate CRISPR spacer acquisition",
@@ -2910,210 +2570,6 @@
     "added_at": "2025-09-06T22:06:56.179883"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-15539-y",
-    "journal": "Nature_CompBio",
-    "title": "Major pathophysiological changes in pulmonary disease provided a molecular insight based on deep learning approach",
-    "link": "https://www.nature.com/articles/s41598-025-15539-y",
-    "published": "2025-08-31T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Swaraj Mohanty et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496447"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-17513-0",
-    "journal": "Nature_CompBio",
-    "title": "Combining knowledge distillation and neural networks to predict protein secondary structure",
-    "link": "https://www.nature.com/articles/s41598-025-17513-0",
-    "published": "2025-08-31T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Lufei Zhao et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496454"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-16669-z",
-    "journal": "Nature_CompBio",
-    "title": "CXR-MultiTaskNet a unified deep learning framework for joint disease localization and classification in chest radiographs",
-    "link": "https://www.nature.com/articles/s41598-025-16669-z",
-    "published": "2025-08-31T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "K. Divya Reddy et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496460"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13678/",
-    "journal": "Nikkei_BioTech",
-    "title": "GNIグループ決算、調達した125億円で2027年12月までにM＆Aを検討",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13678/",
-    "published": "",
-    "summary": "ジーエヌアイグループは、2025年8月29日、2025年12月期第2四半期（2025年1月～6月）の決算説明会を開催。2025年7月に「上場来、最大規模の資金調達」と同社Ying Luo代表執行役社長兼CEOが紹介する125.9億円の新規株式発行による資金調達を実施したことを紹介した。資金は、子会社である米Gyre Pharmaceuticals社の株式の直接取得、グループ内企業、特に医療機器事業を強化していくための投融資に加え、国内外企業を買収して日本における事業展開及び収益基盤の拡充を図るという。M&amp;Aに割り当てるのは調達額の半分に当たる60.7億円を計画している。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496468"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13680/",
-    "journal": "Nikkei_BioTech",
-    "title": "自由診療の自己脂肪由来MSC投与で患者が死亡、厚労省が診療所とコージンバイオ運営のCPCに治療停止命令",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13680/",
-    "published": "",
-    "summary": "厚生労働省医政局研究開発政策課再生医療等研究推進室は2025年8月29日、再生医療等安全性確保法（安確法）に基づいて自由診療の枠組みで再生医療を提供していた東京都内の診療所に対して、当該再生医療の提供を停止するよう緊急命令を出した。同診療所で自己脂肪由来間葉系幹細胞（MSC）投与を受けた慢性疼痛の患者が投与中に急変し、死亡したことが理由だ。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496474"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13681/",
-    "journal": "Nikkei_BioTech",
-    "title": "米Nucleus社、放射性医薬投与用の専用デバイス開発しCDMOとして事業拡大",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/30/13681/",
-    "published": "",
-    "summary": "放射性医薬品に特化した医薬品開発製造受託機関（CDMO）である米Nucleus RadioPharma（ニュークレアス・ラジオファーマ）社は2025年8月20日、標的放射性医薬への患者のアクセスを拡大するために、2019～2021年に米食品医薬品局（FDA）の長官を務めていたStephen Hahn氏を最高経営責任者（CEO）に任命したと発表した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496479"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13674/",
-    "journal": "Nikkei_BioTech",
-    "title": "NANO MRNAとカイオム、治療用抗体をコードしたmRNA医薬の創製へ共同研究",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13674/",
-    "published": "",
-    "summary": "NANO MRNAとカイオム・バイオサイエンスは2025年8月27日、mRNAエンコード抗体の創出に向けて共同研究契約を締結したと発表した。mRNAエンコード抗体とは、治療用抗体の配列をコードするmRNAを投与することで、その抗体を体内の細胞で産生させるmRNA医薬。両社は1年以内をめどに開発候補品を選定する。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496484"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13677/",
-    "journal": "Nikkei_BioTech",
-    "title": "田辺三菱製薬の新代表取締役CEOに原田明久氏が就任、代表取締役2人体制に",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/08/29/13677/",
-    "published": "",
-    "summary": "田辺三菱製薬は2025年8月29日、役員・経営執行体制の変更を発表し、同年9月1日付で、田辺三菱製薬の新代表取締役 執行役員 Chief Executive Officer（CEO）に、米Pfizer（ファイザー）社日本法人であるファイザーの代表取締役社長などを務めた原田明久氏が就任することを明らかにした。これまで田辺三菱製薬の代表取締役社長執行役員兼ファイナンス本部長を務めていた辻村明広氏は、代表取締役社長執行役員Chief Operating Officer（COO）に就任する。田辺三菱製薬は今回の体制変更で、代表取締役2人の体制となる。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496488"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250901/",
-    "journal": "Nikkei_BioTech",
-    "title": "2025年9月1日号　目次",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250901/",
-    "published": "",
-    "summary": "",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496492"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/082700376/",
-    "journal": "Nikkei_BioTech",
-    "title": "ベンチャー探訪、QueeenB、実験自動化機器をユーザーのニーズに合わせてオーダーメード開発",
-    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/021500017/082700376/",
-    "published": "",
-    "summary": "QueeenB（クイーンビー、仙台市、根本一希代表取締役）は、アカデミアの研究室や製薬企業などにおける実験を自動化する仕組みを受託開発している、東北大学発スタートアップだ。顧客のニーズに合わせて自動化機器を開発したり組み合わせたりすることで、既製品を導入するよりも安価でニーズに合った実験自動化を支援する。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496497"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/082800409/",
-    "journal": "Nikkei_BioTech",
-    "title": "特集◎バイオ業界の年収全調査―2025年【総論・VIP編】、製薬とスタートアップの差は約90万円、役員報酬1億円超は計50人に",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/082800409/",
-    "published": "",
-    "summary": "上場製薬企業28社と上場バイオスタートアップ59社を対象に2024年度の報酬を調査した。従業員の平均年間給与は、製薬企業で882.2万円、スタートアップで785.3万円といずれも増加。1億円超の報酬を得た役員は50人に上り、前年度から差し引き6人増加した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496503"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/082600183/",
-    "journal": "Nikkei_BioTech",
-    "title": "オンライン閲覧TOP15、2025年7月31日から2025年8月22日まで",
-    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/082600183/",
-    "published": "",
-    "summary": "2025年7月31日から2025年8月22日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-08-31T22:06:42.496507"
-  },
-  {
     "id": "https://www.nature.com/articles/s41540-025-00585-z",
     "journal": "Nature_SystemsBiology",
     "title": "Leveraging quantitative systems pharmacology modeling for elranatamab regimen optimization in relapsed or refractory multiple myeloma",
@@ -4757,5 +4213,90 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-09-05T22:07:05.668273"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/05/13702/",
+    "journal": "Nikkei_BioTech",
+    "title": "塩野義製薬とFRONTEOが「あたまの健康度」を判定するwebアプリを販売へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/05/13702/",
+    "published": "",
+    "summary": "塩野義製薬とFRONTEOは、2025年9月3日、FRONTEOの自然言語処理人工知能（AI）である「KIBIT」を活用して、会話型の「あたまの健康度」を判定するオンラインアプリケーションサービス「トークラボKIBIT」を共同開発し、提供を開始すると発表した。両社は2024年2月に、認知症及びうつ病の診断支援用のAIプログラムの開発に向けた戦略的業務提携契約を結んでいる。この提携の一環として、非医療機器として開発した。2025年10月から日本生命の認知症保障保険の付帯サービスとして提供を開始する予定だ。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-07T22:06:52.995930"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082200006/090500244/",
+    "journal": "Nikkei_BioTech",
+    "title": "編集長の目、カルタヘナ法違反が発覚、自由診療の「がんの遺伝子治療」の中身は一体･･････",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082200006/090500244/",
+    "published": "",
+    "summary": "本当なら怖い──。先日都内の診療所が、遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律（カルタヘナ法）の手続きをせず、自由診療でがんの遺伝子治療を実施していたことが明らかになりました。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-07T22:06:52.995943"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/04/13700/",
+    "journal": "Nikkei_BioTech",
+    "title": "三井化学が細胞培養分野で事業展開、第1号製品は酸素透過性を高めた細胞培養ウェルプレート",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/04/13700/",
+    "published": "",
+    "summary": "三井化学は、細胞培養製品・サービスのブランド「InnoCell」の第1号製品として、酸素透過性が高い細胞培養ウェルプレートを2025年7月に発売した。同製品は、三井化学独自の樹脂である特殊ポリオレフィンを膜状に加工し、底面に貼合した細胞培養ウェルプレート。（1）酸素透過性が高い、（2）薬剤がプレートに吸着しにくい、（3）透明で高倍率でも顕微鏡観察しやすい──といった特徴があるという。非接着表面（Nタイプ）と、コラーゲンコート（Cタイプ）の2種類がある。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-07T22:06:52.995950"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/05/13703/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Ionis社、apoC-IIIに対するアンチセンス薬が高トリグリセリド血症の第3相で主要評価項目達成し承認申請へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/05/13703/",
+    "published": "",
+    "summary": "米Ionis Pharmaceuticals（アイオニス・ファーマシューティカルズ）社は2025年9月2日、家族性カイロミクロン血症症候群（FCS）の適応で承認されているアンチセンス薬「TRYNGOLZA」（olezarsen）が、重度高トリグリセリド血症（sHTG）患者を対象とする2本の第3相臨床試験（CORE試験、CORE2試験）で、空腹時の血漿中トリグリセリド（TG）をプラセボより有意に減少させ、主要評価項目を達成したと発表した。同社は、olezarsenの適応にsHTGを追加する医薬品承認事項変更申請（sNDA）を2025年末に予定していることを明らかにした。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-07T22:06:52.995956"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/02/13693/",
+    "journal": "Nikkei_BioTech",
+    "title": "スウェーデンBioArctic社、Novartis社との神経変性疾患治療薬の共同開発に脳内送達技術を提供",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/02/13693/",
+    "published": "",
+    "summary": "スウェーデンBioArctic（バイオアークティック）社は2025年8月26日、保有する薬物送達技術「BrainTransporter：BT」をスイスNovartis（ノバルティス）社との共同開発で活用する契約を締結したと発表した。神経変性疾患を適応とする治療薬の開発協力において、ライセンスやオプション権に関する取り決めと経済取引に合意した。具体的な標的分子は明らかにしていない。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-07T22:06:52.995962"
   }
 ]
