@@ -1,348 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-02599-3",
-    "journal": "Nature",
-    "title": "Bug bites convince UK doctor to support mosquito research centre",
-    "link": "https://www.nature.com/articles/d41586-025-02599-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02599-3\">doi:10.1038/d41586-025-02599-3</a></p>An encounter with blood-suckers persuades a researcher to back a new scientific institute, and an effort to standardize the printing of mathematical formulae, in our weekly dip into Nature’s archive.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.294992"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02891-2",
-    "journal": "Nature",
-    "title": "Strengthen the science behind the Agreement on Fisheries Subsidies",
-    "link": "https://www.nature.com/articles/d41586-025-02891-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02891-2\">doi:10.1038/d41586-025-02891-2</a></p>Strengthen the science behind the Agreement on Fisheries Subsidies",
-    "authors": [
-      "Shu Su",
-      "Yi Tang",
-      "Yong Chen"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.294997"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02814-1",
-    "journal": "Nature",
-    "title": "Global geopolitics should not stall science — 5 ways to push back",
-    "link": "https://www.nature.com/articles/d41586-025-02814-1",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02814-1\">doi:10.1038/d41586-025-02814-1</a></p>Researchers, funders, universities and governments must work together to build scientific collaborations that are resilient to rapidly evolving international sanctions.",
-    "authors": [
-      "James Oliver Scott Hammond",
-      "Jean-Christophe Mauduit"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295004"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02416-x",
-    "journal": "Nature",
-    "title": "These nations are wooing PhD students amid US funding uncertainties",
-    "link": "https://www.nature.com/articles/d41586-025-02416-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02416-x\">doi:10.1038/d41586-025-02416-x</a></p>Pauses to some US graduate programmes have led universities in several countries to launch initiatives to entice would-be PhD students.",
-    "authors": [
-      "Rachel Fieldhouse"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295008"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02812-3",
-    "journal": "Nature",
-    "title": "A revolution is sweeping Europe’s farms: can it save agriculture?",
-    "link": "https://www.nature.com/articles/d41586-025-02812-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02812-3\">doi:10.1038/d41586-025-02812-3</a></p>Momentum is building for regenerative agriculture, a set of approaches that could help farms to weather the changing climate and make them more profitable.",
-    "authors": [
-      "April Reese"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295014"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02810-5",
-    "journal": "Nature",
-    "title": "AI chatbots are already biasing research — we must establish guidelines for their use now",
-    "link": "https://www.nature.com/articles/d41586-025-02810-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02810-5\">doi:10.1038/d41586-025-02810-5</a></p>The academic community has looked at how artificial-intelligence tools help researchers to write papers, but not how they distort the literature scientists choose to cite.",
-    "authors": [
-      "Zhicheng Lin"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295019"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02818-x",
-    "journal": "Nature",
-    "title": "Head start: fossil clues about how bodies evolved from two-fold to five-fold symmetry",
-    "link": "https://www.nature.com/articles/d41586-025-02818-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02818-x\">doi:10.1038/d41586-025-02818-x</a></p>How the five-fold symmetrical bodies of starfish and other echinoderms evolved is a mystery. New evidence fills in a key piece of the puzzle.",
-    "authors": [
-      "Gregory A. Wray"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295023"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02526-6",
-    "journal": "Nature",
-    "title": "Protests are infectious: mapping rural unrest in Revolutionary France",
-    "link": "https://www.nature.com/articles/d41586-025-02526-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 09 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02526-6\">doi:10.1038/d41586-025-02526-6</a></p>Researchers have used epidemiological models to determine whether the wave of riots in 1789 known as the Great Fear spread through irrational panic or rational protest.",
-    "authors": [
-      "Jack A. Goldstone"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295028"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02908-w",
-    "journal": "Nature",
-    "title": "Daily briefing: A polo-team’s worth of cloned CRISPR horses",
-    "link": "https://www.nature.com/articles/d41586-025-02908-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 08 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02908-w\">doi:10.1038/d41586-025-02908-w</a></p>Horses created with the help of the CRISPR–Cas9 gene-editing technique have sparked controversy in the world of polo. Plus, air pollution is linked to a form of dementia and a newfound immune cell in mice that could explain why inflammation spikes with old age.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295033"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02840-z",
-    "journal": "Nature",
-    "title": "How to make a ‘laser’ of neutrinos",
-    "link": "https://www.nature.com/articles/d41586-025-02840-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 05 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02840-z\">doi:10.1038/d41586-025-02840-z</a></p>Rubidium atoms that are chilled to extremely low temperatures could emit bursts of particles called neutrinos.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295038"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z78r0mr",
-    "journal": "Science",
-    "title": "Remembering David Baltimore, a titan who transformed biology and spoke bluntly",
-    "link": "https://www.science.org/content/article/remembering-david-baltimore-titan-who-transformed-biology-and-spoke-bluntly",
-    "published": "",
-    "summary": "The influential Nobel laureate ran institutions, trained future scientific leaders, survived a scandal, and shaped policy",
-    "authors": [
-      "Jon Cohen"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295043"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zajtm3k",
-    "journal": "Science",
-    "title": "Microscopic robots navigate ‘artificial spacetimes’",
-    "link": "https://www.science.org/content/article/microscopic-robots-navigate-artificial-spacetimes",
-    "published": "",
-    "summary": "Light-guided bots are steered through mazes like spacecraft tugged by gravity",
-    "authors": [
-      "Rachel Berkowitz"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295048"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41698-025-01104-3",
-    "journal": "Nature_CompBio",
-    "title": "Computational pathology annotation enhances the resolution and interpretation of breast cancer spatial transcriptomics data",
-    "link": "https://www.nature.com/articles/s41698-025-01104-3",
-    "published": "2025-09-09T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Tianyi Li et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295078"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-63120-y",
-    "journal": "Nature_CompBio",
-    "title": "DelGrad: exact event-based gradients for training delays and weights on spiking neuromorphic hardware",
-    "link": "https://www.nature.com/articles/s41467-025-63120-y",
-    "published": "2025-09-09T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Julian Göltz et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295082"
-  },
-  {
-    "id": "https://www.nature.com/articles/s44222-025-00349-8",
-    "journal": "Nature_CompBio",
-    "title": "AI-driven protein design",
-    "link": "https://www.nature.com/articles/s44222-025-00349-8",
-    "published": "2025-09-08T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Huan Yee Koh et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295089"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1123447",
-    "journal": "MIT_TechReview",
-    "title": "The Download: meet our AI innovators, and what happens when therapists use AI covertly",
-    "link": "https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/",
-    "published": "Tue, 09 Sep 2025 12:10:00 +0000",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the AI honorees on our 35 Innovators Under 35 list for 2025 Each year, we select 35 outstanding individuals under the age of 35 who are using technology to tackle tough problems&#8230;",
-    "authors": [
-      "Rhiannon Williams"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295098"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1123404",
-    "journal": "MIT_TechReview",
-    "title": "AI is changing the grid. Could it help more than it harms?",
-    "link": "https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/",
-    "published": "Tue, 09 Sep 2025 09:00:00 +0000",
-    "summary": "The rising popularity of AI is driving an increase in electricity demand so significant it has the potential to reshape our grid. Energy consumption by data centers has gone up by 80% from 2020 to 2025 and is likely to keep growing. Electricity prices are already rising, especially in places where data centers are most&#8230;",
-    "authors": [
-      "Casey Crownhart"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295106"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1123408",
-    "journal": "MIT_TechReview",
-    "title": "Three big things we still don’t know about AI’s energy burden",
-    "link": "https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/",
-    "published": "Tue, 09 Sep 2025 09:00:00 +0000",
-    "summary": "Earlier this year, when my colleague Casey Crownhart and I spent six months researching the climate and energy burden of AI, we came to see one number in particular as our white whale: how much energy the leading AI models, like ChatGPT or Gemini, use up when generating a single response.&#160; This fundamental number remained&#8230;",
-    "authors": [
-      "James O'Donnell"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295110"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/06/13708/",
-    "journal": "Nikkei_BioTech",
-    "title": "Genentech社と米Alnylam社、コントロール不良高血圧に対するRNAi医薬が第3相試験へ",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/06/13708/",
-    "published": "",
-    "summary": "米Genentech（ジェネンテック）社と米Alnylam Pharmaceuticals（アルナイラム・ファーマシューティカルズ）社は、2025年8月30日、両社で共同開発中のRNAi医薬であるzilebesiranの臨床開発を第3相試験段階まで進めると発表した。zilebesiranは、アンジオテンシノーゲンを標的に年2回皮下投与するRNAi医薬。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-09T22:06:45.295135"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09590-y",
-    "journal": "Nature",
-    "title": "Editorial Expression of Concern: Recovery of learning and memory is associated with chromatin remodelling",
-    "link": "https://www.nature.com/articles/s41586-025-09590-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 10 September 2025; <a href=\"https://www.nature.com/articles/s41586-025-09590-y\">doi:10.1038/s41586-025-09590-y</a></p>Editorial Expression of Concern: Recovery of learning and memory is associated with chromatin remodelling",
-    "authors": [
-      "Andre Fischer",
-      "Farahnaz Sananbenesi",
-      "Xinyu Wang",
-      "Matthew Dobbin",
-      "Li-Huei Tsai"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-10T22:06:52.723410"
-  },
-  {
     "id": "https://www.nature.com/articles/d41586-025-02938-4",
     "journal": "Nature",
     "title": "Feeling the heat: fossil-fuel producers linked to dozens of heatwaves",
@@ -4073,5 +3730,39 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-09-13T22:06:27.119230"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01054-X?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Beta-cell adaptation unveiled: The role of myokines in insulin-resistant mice",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01054-X?rss=yes",
+    "published": "",
+    "summary": "Pancreatic adaptation through increased beta-cell mass occurs when an increased insulin production is required. Liboz, Beaupere, et al. decipher the mechanisms and signals that regulate such adaptation in mice and identify three myokines inducing beta-cell differentiation in vitro.",
+    "authors": [
+      "Alexandrine Liboz, Carine Beaupère, Natacha Roblot, Emma Rousseau, Jean-Yves Tinevez, Sandra Guilmeau, Anne-Françoise Burnol, Dalale Gueddouri, Xavier Prieur, Jean-Sébastien Annicotte, Tara L. MacDonald, Bruno Fève, Ghislaine Guillemain, Bertrand Blondeau"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-14T22:06:36.281723"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01046-0?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "The generation and consequences of N-terminal proteoform diversity",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01046-0?rss=yes",
+    "published": "",
+    "summary": "Thousands of N-terminal protein isoforms are encoded in the human genome. In this review, Morrison and Rissland examine how RNA- and protein-level mechanisms drive their expression and regulation and explore the biological consequences of proteoform usage. By synthesizing this crosstalk, they highlight emerging concepts and underexplored areas in N-terminal proteoform biology.",
+    "authors": [
+      "Evan J. Morrison, Olivia S. Rissland"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-14T22:06:36.281735"
   }
 ]
