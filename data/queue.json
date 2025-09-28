@@ -1,409 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-03046-z",
-    "journal": "Nature",
-    "title": "Journals infiltrated with ‘copycat’ papers that can be written by AI",
-    "link": "https://www.nature.com/articles/d41586-025-03046-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 23 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03046-z\">doi:10.1038/d41586-025-03046-z</a></p>Tools such as ChatGPT can be used to generate almost-identical research papers that pass standard plagiarism checks. Hundreds are thought to have been published.",
-    "authors": [
-      "Miryam Naddaf"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427598"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03070-z",
-    "journal": "Nature",
-    "title": "How can universities train the skilled workers of tomorrow?",
-    "link": "https://www.nature.com/articles/d41586-025-03070-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 23 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03070-z\">doi:10.1038/d41586-025-03070-z</a></p>The high cost of running educational laboratories is hindering industrial progress. An innovative path forwards must be charted.",
-    "authors": [
-      "Roseanne Warren"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427602"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02653-0",
-    "journal": "Nature",
-    "title": "Nerdy and easy to pronounce: why we chose Apheros as the name for our technology start-up firm",
-    "link": "https://www.nature.com/articles/d41586-025-02653-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 23 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02653-0\">doi:10.1038/d41586-025-02653-0</a></p>With a grant deadline looming, and inspired by the classics, Julia Carpenter, the company’s chief executive and co-founder, put pen to paper to capture ideas.",
-    "authors": [
-      "Jacqui Thornton"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427607"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02719-z",
-    "journal": "Nature",
-    "title": "It’s a new term: here are 99 lab hacks",
-    "link": "https://www.nature.com/articles/d41586-025-02719-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 23 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-02719-z\">doi:10.1038/d41586-025-02719-z</a></p>Nature asked contributors, editors and working researchers to share their best advice for scientists.",
-    "authors": [
-      "Jack Leeming"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427612"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03029-0",
-    "journal": "Nature",
-    "title": "The mini placentas and ovaries revealing the basics of women’s health",
-    "link": "https://www.nature.com/articles/d41586-025-03029-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 23 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03029-0\">doi:10.1038/d41586-025-03029-0</a></p>Lab-made organoids that mimic reproductive tissues could point to treatments for common conditions such as pre-eclampsia and endometriosis.",
-    "authors": [
-      "Cassandra Willyard"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427617"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03106-4",
-    "journal": "Nature",
-    "title": "Daily briefing: World’s first AI-designed viruses attack antibiotic-resistant bacteria",
-    "link": "https://www.nature.com/articles/d41586-025-03106-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 22 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03106-4\">doi:10.1038/d41586-025-03106-4</a></p>Scientists have used Evo1 and Evo2 to design novel genomes for viruses capable of killing E. coli. Plus, a federal research funding is trickling back into Harvard and what drove the rise of complex societies.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427622"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z8f72jr",
-    "journal": "Science",
-    "title": "Trump’s autism initiative embraces little-tested vitamin as a treatment",
-    "link": "https://www.science.org/content/article/trump-s-autism-initiative-embraces-little-tested-vitamin-treatment",
-    "published": "",
-    "summary": "FDA to approve leucovorin despite questions about whom it might help",
-    "authors": [
-      "Gretchen Vogel"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427628"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z865d09",
-    "journal": "Science",
-    "title": "Ethicists flirt with AI to review human research",
-    "link": "https://www.science.org/content/article/ethicists-flirt-ai-review-human-research",
-    "published": "",
-    "summary": "Large language models could help reduce backlog of study proposals, but critics are wary of entrusting ethics to machines",
-    "authors": [
-      "Celina Zhao"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427631"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z2fo5d5",
-    "journal": "Science",
-    "title": "U.S. court orders NIH to restore killed grants to California researchers",
-    "link": "https://www.science.org/content/article/u-s-court-orders-nih-restore-killed-grants-california-researchers",
-    "published": "",
-    "summary": "Judge says district court is proper forum to protest mass grant terminations",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427635"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zl2kbdh",
-    "journal": "Science",
-    "title": "Whose papers have an edge at <em>Science</em>? In unusual study, journal looks in the mirror",
-    "link": "https://www.science.org/content/article/whose-papers-have-edge-em-science-em-unusual-study-journal-looks-mirror",
-    "published": "",
-    "summary": "Confidential data show being in the U.S., at a prestigious institution, and in a large team all may help",
-    "authors": [
-      "Jeffrey Brainard"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427640"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zdhojr1",
-    "journal": "Science",
-    "title": "Trump visa policy requires universities to pay huge fee to hire foreign scholars",
-    "link": "https://www.science.org/content/article/trump-visa-policy-requires-universities-pay-huge-fee-hire-foreign-scholars",
-    "published": "",
-    "summary": "U.S. employers to pay $100,000 for every new H-1B visa",
-    "authors": [
-      "Jeffrey Mervis"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427644"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01103-9?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "E. coli-activated cellular circuit restrains intestinal inflammatory microbiota-specific T cells and protects against colitis",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01103-9?rss=yes",
-    "published": "",
-    "summary": "Kim et al. show that colonization with a single E. coli strain limits microbiota-directed T cell inflammation. Colonization promotes CX3CR1+ APC IL-10 production, restricting colitogenic Th1 cell responses. This microbiota-driven circuit modulates intestinal T cell immunity to protect against colitis.",
-    "authors": [
-      "Dasom V. Kim, Amanda Chen, Charles Ng, Lisette Peres-Tintin, Seung-Eun Park, Monica Acosta, Ryann Callaghan, Nikketa Stanford, Miozzottys Perez-Rosario, Dean B. Matthews, Daniel Zegarra-Ruiz, Gretchen E. Diehl"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427655"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1123921",
-    "journal": "MIT_TechReview",
-    "title": "The Download: AI’s retracted papers problem",
-    "link": "https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/",
-    "published": "Tue, 23 Sep 2025 12:10:00 +0000",
-    "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models are using material from retracted scientific papers The news:&#160;Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. In one such study, researchers&#8230;",
-    "authors": [
-      "Charlotte Jee"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427711"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1123897",
-    "journal": "MIT_TechReview",
-    "title": "AI models are using material from retracted scientific papers",
-    "link": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
-    "published": "Tue, 23 Sep 2025 09:00:00 +0000",
-    "summary": "Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by MIT Technology Review, raise questions about how reliable AI tools are at evaluating scientific research and could complicate efforts by countries and industries seeking to invest in AI tools for scientists. AI search&#8230;",
-    "authors": [
-      "Ananya"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-23T22:07:15.427715"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09641-4",
-    "journal": "Nature",
-    "title": "A tweezer array with 6100 highly coherent atomic qubits",
-    "link": "https://www.nature.com/articles/s41586-025-09641-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 24 September 2025; <a href=\"https://www.nature.com/articles/s41586-025-09641-4\">doi:10.1038/s41586-025-09641-4</a></p>A tweezer array with 6100 highly coherent atomic qubits",
-    "authors": [
-      "Hannah J. Manetsch",
-      "Gyohei Nomura",
-      "Elie Bataille",
-      "Xudong Lv",
-      "Kon H. Leung",
-      "Manuel Endres"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-24T22:07:08.067850"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03124-2",
-    "journal": "Nature",
-    "title": "How a dangerous tick-borne virus sneaks into the brain",
-    "link": "https://www.nature.com/articles/d41586-025-03124-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 24 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03124-2\">doi:10.1038/d41586-025-03124-2</a></p>Protein on the surface of brain cells appears to play a key role in disease progression — plus, a bot explores what might have happened to research if the Trump’s teams funding cuts had happened 10 years ago.",
-    "authors": [
-      "Benjamin Thompson",
-      "Nick Petrić Howe"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-24T22:07:08.067863"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09416-x",
-    "journal": "Nature",
-    "title": "The geoeconomic turn in decarbonization",
-    "link": "https://www.nature.com/articles/s41586-025-09416-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 24 September 2025; <a href=\"https://www.nature.com/articles/s41586-025-09416-x\">doi:10.1038/s41586-025-09416-x</a></p>The rise of green industrial policy is transforming decarbonization efforts; the implications for policymaking and global spillovers are discussed, as well as research needs.",
-    "authors": [
-      "Jonas Meckling"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-24T22:07:08.067869"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09531-9",
-    "journal": "Nature",
-    "title": "Industry-compatible silicon spin-qubit unit cells exceeding 99% fidelity",
-    "link": "https://www.nature.com/articles/s41586-025-09531-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 24 September 2025; <a href=\"https://www.nature.com/articles/s41586-025-09531-9\">doi:10.1038/s41586-025-09531-9</a></p>Two-qubit operations exceeding 99% fidelity have been demonstrated by silicon devices made with standard semiconductor tooling in a 300-mm foundry environment.",
-    "authors": [
-      "Paul Steinacker",
-      "Nard Dumoulin Stuyck",
-      "Wee Han Lim",
-      "Tuomo Tanttu",
-      "MengKe Feng",
-      "Santiago Serrano",
-      "Andreas Nickl",
-      "Marco Candido",
-      "Jesus D. Cifuentes",
-      "Ensar Vahapoglu",
-      "Samuel K. Bartee",
-      "Fay E. Hudson",
-      "Kok Wai Chan",
-      "Stefan Kubicek",
-      "Julien Jussot",
-      "Yann Canvel",
-      "Sofie Beyne",
-      "Yosuke Shimura",
-      "Roger Loo",
-      "Clement Godfrin",
-      "Bart Raes",
-      "Sylvain Baudot",
-      "Danny Wan",
-      "Arne Laucht",
-      "Chih Hwan Yang",
-      "Andre Saraiva",
-      "Christopher C. Escott",
-      "Kristiaan De Greve",
-      "Andrew S. Dzurak"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-24T22:07:08.067874"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09574-y",
-    "journal": "Nature",
-    "title": "SPP1 is required for maintaining mesenchymal cell fate in pancreatic cancer",
-    "link": "https://www.nature.com/articles/s41586-025-09574-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 24 September 2025; <a href=\"https://www.nature.com/articles/s41586-025-09574-y\">doi:10.1038/s41586-025-09574-y</a></p>Mutual paracrine regulation of the cytokines GREM1 and SPP1 mediate mesenchymal and epithelial cell fate in pancreatic cancer.",
-    "authors": [
-      "Huafu Li",
-      "Linxiang Lan",
-      "Hengxing Chen",
-      "May Zaw Thin",
-      "Hari Ps",
-      "Jessica K. Nelson",
-      "Ian M. Evans",
-      "E. Josue Ruiz",
-      "Rongjie Cheng",
-      "Li Tran",
-      "Mark Allen",
-      "Jian Ma",
-      "Tingzhuang Yi",
-      "Chunming Wang",
-      "Yulong He",
-      "Naomi Guppy",
-      "Anguraj Sadanandam",
-      "Shao-Zhen Lin",
-      "Changhua Zhang",
-      "Axel Behrens"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-24T22:07:08.067879"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09572-0",
-    "journal": "Nature",
-    "title": "Convergent evolution of diverse jaw joints in mammaliamorphs",
-    "link": "https://www.nature.com/articles/s41586-025-09572-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 24 September 2025; <a href=\"https://www.nature.com/articles/s41586-025-09572-0\">doi:10.1038/s41586-025-09572-0</a></p>High-resolution computed tomography is used to reconstruct and analyse fossils of the herbivorous tritylodontid Polistodon and a newly named morganucodontid species called Camurocondylus, providing key insights into the evolution of the mammalian jaw joint.",
-    "authors": [
-      "Fangyuan Mao",
-      "Shan Jiang",
-      "Jun Liu",
-      "Jicheng Ren",
-      "Yong Ye",
-      "Yu Liu",
-      "Xin Shen",
-      "Tao Wang",
-      "Guofu Wang",
-      "Ping Wang",
-      "Juan Chen",
-      "Jin Meng"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-24T22:07:08.067884"
-  },
-  {
     "id": "https://www.nature.com/articles/s41586-025-09541-7",
     "journal": "Nature",
     "title": "Ribonucleotide incorporation into mitochondrial DNA drives inflammation",
@@ -2671,91 +2267,6 @@
     "added_at": "2025-09-27T22:06:36.760593"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/031700078/090500042/",
-    "journal": "Nikkei_BioTech",
-    "title": "ズームアップ◎プレ・プロバイオティクス（第2回）、プレ・プロバイオティクス、脳腸相関や抗肥満への作用について研究が進む",
-    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/031700078/090500042/",
-    "published": "",
-    "summary": "プレ・プロバイオティクスや関連分野の市場と研究開発の動向についてまとめた全4回の連載。第2回の今回は、プレ・プロバイオティクスと脳腸相関、抗肥満作用の関係といった新たな研究分野における発見を紹介する。より多種類の細菌を制御し、プレ・プロバイオティクスの効果を底上げしようとする基礎研究も進んでいる。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-09-21T22:06:48.381572"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/19/13751/",
-    "journal": "Nikkei_BioTech",
-    "title": "特集連動◎じわり広がるクロスアポイントメント制度、千葉大学村田教授「クロアポで企業ニーズに応じた研究成果の活用が可能に」",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/19/13751/",
-    "published": "",
-    "summary": "近年、オープンイノベーションの形の1つとしてクロスアポイントメント制度を活用した取り組みが広がりつつある。これまで広く手掛けられてきた共同研究やアドバイザー契約とは異なるメリットがあると期待されている。アカデミア間のクロスアポイントメントは数多く見られていたが、最近、製薬企業がクロスアポイントメントによってアカデミア研究者を受け入れる事例が登場してきた。千葉大学大学院理学研究院化学研究部門の村田武士教授は、2024年11月から、クロスアポイントメント制度を活用し、アステラス製薬のPrincipal Investigator（PI）として研究開発に携わっている。千葉大にとっては、クロスアポイントメント制度で研究者を企業に派遣する初めてのケースとなった。村田教授に、共同研究とクロスアポイントメントの違いや、クロスアポイントメントによってアカデミアが得られるものについて聞いた。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-09-21T22:06:48.381586"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/18/13749/",
-    "journal": "Nikkei_BioTech",
-    "title": "2026年度バイオ関連予算の概算要求、厚労省、バイオ後続品の国内製造やドラッグラグ/ロス解消で新規事業",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/18/13749/",
-    "published": "",
-    "summary": "厚生労働省は2026年度のバイオ関連予算として、2025年度当初予算比で19.0％増の636億8100万円を要求した。その多くを占める日本医療研究開発機構（AMED）対象経費（下記関連記事参照）以外で注目されるのは、重点項目の1つとして掲げた「医薬品等の安定供給の推進、後発医薬品業界の再編推進」で、2025年度予算（2億円）の10倍を超える23億円を要求した。また、重点項目の１つである「研究開発環境の整備、創薬シーズ・医療機器の実用化支援」でも2025年度当初予算比49.2%増の97億円を要求。国際競争力のある治験・臨床試験環境の整備、ドラッグラグ/ロスの解消に向けた新規施策を掲げた。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-09-21T22:06:48.381599"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/18/13748/",
-    "journal": "Nikkei_BioTech",
-    "title": "iPS軟骨のArktus Therapeutics、シリーズAで6.6億円を調達し非臨床試験開始へ",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/18/13748/",
-    "published": "",
-    "summary": "他家iPS細胞由来の軟骨を使った再生医療等製品を開発しているArktus Therapeutics（アルクタスセラピューティクス、京都市、大岩智大代表取締役）は2025年9月22日までに、シリーズAラウンドのファーストクロージングにおいて、優先株式の発行によって6億6000万円を調達した。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-09-21T22:06:48.381605"
-  },
-  {
-    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/16/13738/",
-    "journal": "Nikkei_BioTech",
-    "title": "米Rapport社、焦点発作対象RAP-219第2a相で得られた良好なトップラインデータを公表",
-    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/16/13738/",
-    "published": "",
-    "summary": "米Rapport Therapeutics（ラポート・セラピューティクス）社は2025年9月8日、RAP-219を薬剤抵抗性焦点発作患者に適用した第2a相試験（RAP-219-FOS-201）で、主要評価項目が達成されたことを明らかにした。",
-    "authors": [
-      "BTO"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-09-21T22:06:48.381610"
-  },
-  {
     "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01091-5?rss=yes",
     "journal": "Cell_Reports",
     "title": "Seipin Governs caveolin-1 trafficking through modulating sphingolipid-glycerolipid balance",
@@ -4811,5 +4322,124 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-09-27T22:06:36.760606"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/24/13765/",
+    "journal": "Nikkei_BioTech",
+    "title": "第77回日本生物工学会大会、大阪大の北野准教授、「不安定な化学物質を使った殺菌剤」で高い殺菌力と安全性を実現",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/24/13765/",
+    "published": "",
+    "summary": "2025年9月10～12日に開催された第77回日本生物工学会大会で、シンポジウム「メディカル＋バイオエンジニアリングの新潮流」が開催された。国内におけるメディカル・バイオエンジニアリングの先端研究を紹介するこのセッションでは、大阪大学大学院工学研究科環境エネルギー工学専攻プラズマバイオ医工学グループの北野勝久准教授が過硝酸（HOONO2）の高い殺菌効果と実用化の展望を示す一方で、北陸先端科学技術大学院大学物質化学フロンティア研究領域（JAIST）の都英次郎教授は細菌をがん治療に活用する新治療法を紹介した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-28T22:06:49.303024"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/22/13756/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Galimedix社、アルツハイマー病に対する経口アミロイドβ凝集調節薬の健常人での第1相完了",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/22/13756/",
+    "published": "",
+    "summary": "重篤な脳の疾患や網膜疾患の治療を根本から変える可能性のある、経口投与型かつ局所投与型の新たな神経保護薬を開発している米Galimedix Therapeutics（ガリメディクス・セラピューティクス）社は、2025年9月12日、折り畳み異常となったアミロイドβ（Aβ）モノマーを標的として設計された低分子化合物（開発番号：GAL-101）を健常人に経口投与する第1相試験を完了したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-28T22:06:49.303040"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/23/13762/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Monte Rosa社、免疫介在性疾患に対する標的蛋白質分解誘導薬の開発へNovartis社と2度目の協力",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/23/13762/",
+    "published": "",
+    "summary": "選択性の高い、分子のり型蛋白質分解誘導薬（molecular glue degrader：MGD）の開発に取り組む米Monte Rosa Therapeutics（モンテローザ・セラピューティクス）社は、2025年9月15日、免疫介在性疾患に対する新規MGDの開発を目指して､スイスNovartis（ノバルティス）社と提携する契約を締結したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-28T22:06:49.303047"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250929/",
+    "journal": "Nikkei_BioTech",
+    "title": "2025年9月29日号　目次",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/mokuji/20250929/",
+    "published": "",
+    "summary": "",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-28T22:06:49.303052"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/091600214/",
+    "journal": "Nikkei_BioTech",
+    "title": "パイプライン研究◎抗体薬物複合体（開発動向、承認されている主な製品〔その1〕）、抗体薬物複合体（ADC）、中国単独で開発される品目の多さ目立つ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082300008/091600214/",
+    "published": "",
+    "summary": "武装抗体（armed antibody）として知られる抗体薬物複合体（ADC）の開発動向を検証した。調査対象となった685プログラムの治療疾患領域のほとんどはがん領域だった。初承認は米国で2000年5月に迅速承認されたされた急性骨髄性白血病治療薬「マイロターグ」で、現在まで20品目が承認されている。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-28T22:06:49.303062"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/092400413/",
+    "journal": "Nikkei_BioTech",
+    "title": "特集、2026年度バイオ関連予算の概算要求",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082400016/092400413/",
+    "published": "",
+    "summary": "2026年度予算に向けて、2025年8月末、各省庁の概算要求が出そろった。財務省によれば、政府全体の一般会計の2026年度概算要求額は122兆4454億円（うち要望額が2兆7413億円）で、過去最大規模となった。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-28T22:06:49.303067"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/092400185/",
+    "journal": "Nikkei_BioTech",
+    "title": "オンライン閲覧TOP15、2025年9月4日から2025年9月16日まで",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/060600024/092400185/",
+    "published": "",
+    "summary": "2025年9月4日から2025年9月16日までの閲覧数に基づき作成した（本誌に掲載しているオンライン閲覧TOP15を掲載しました）。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-09-28T22:06:49.303072"
   }
 ]
