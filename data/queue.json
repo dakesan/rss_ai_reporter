@@ -1,346 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-03148-8",
-    "journal": "Nature",
-    "title": "How to get the best night’s sleep: what the science says",
-    "link": "https://www.nature.com/articles/d41586-025-03148-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 30 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03148-8\">doi:10.1038/d41586-025-03148-8</a></p>Chuck the gadgets, the fads and the alarm. Circadian research reveals how important your body’s internal clock is to blissful slumber.",
-    "authors": [
-      "Lynne Peeples"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906296"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03172-8",
-    "journal": "Nature",
-    "title": "See space fireworks and lightning spaghetti — September’s best science images",
-    "link": "https://www.nature.com/articles/d41586-025-03172-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 30 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03172-8\">doi:10.1038/d41586-025-03172-8</a></p>The month’s sharpest science shots, selected by Nature’s photo team.",
-    "authors": [
-      "Fred Schwaller",
-      "Katie Kavanagh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906302"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03190-6",
-    "journal": "Nature",
-    "title": "Daily briefing: Rookie researchers boost disruptive science",
-    "link": "https://www.nature.com/articles/d41586-025-03190-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 29 September 2025; <a href=\"https://www.nature.com/articles/d41586-025-03190-6\">doi:10.1038/d41586-025-03190-6</a></p>Having a newbie in your lab might boost innovation. Plus, the global impact of China’s pledge to cut greenhouse-gas emissions and engineering education reimagined.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906306"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z232cbo",
-    "journal": "Science",
-    "title": "AI-generated ‘participants’ can lead social science experiments astray, study finds",
-    "link": "https://www.science.org/content/article/ai-generated-participants-can-lead-social-science-experiments-astray-study-finds",
-    "published": "",
-    "summary": "Data produced by “silicon samples” depends on researchers’ exact choice of models, prompts, and settings",
-    "authors": [
-      "Cathleen O’Grady"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906311"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zk4keun",
-    "journal": "Science",
-    "title": "‘Thrilled’ Indonesian scientists celebrate return of fossil trove from the Netherlands",
-    "link": "https://www.science.org/content/article/thrilled-indonesian-scientists-celebrate-return-fossil-trove-netherlands",
-    "published": "",
-    "summary": "The items to be returned, which include Java Man, were collected during the colonial era",
-    "authors": [
-      "Martin Enserink"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906317"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zgkqljy",
-    "journal": "Science",
-    "title": "China bolsters controversial claim to Pacific languages with new museum",
-    "link": "https://www.science.org/content/article/china-bolsters-controversial-claim-pacific-languages-new-museum",
-    "published": "",
-    "summary": "Nationalist narrative holds that Austronesian language and culture originated in China, not Taiwan",
-    "authors": [
-      "Marcel Hobma"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906321"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z8yw3kj",
-    "journal": "Science",
-    "title": "U.S. scientists gird for yet another government shutdown",
-    "link": "https://www.science.org/content/article/u-s-scientists-gird-yet-another-government-shutdown",
-    "published": "",
-    "summary": "Political impasse to hobble research agencies—and perhaps enable layoffs",
-    "authors": [
-      "Science News Staff"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906325"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zcg5lur",
-    "journal": "Science",
-    "title": "Insects aren’t ‘little robots’—so scientists are rethinking their welfare",
-    "link": "https://www.science.org/content/article/insects-aren-t-little-robots-so-scientists-are-rethinking-their-welfare",
-    "published": "",
-    "summary": "<cite>Science</cite> chats with an entomologist and an expert in animal ethics who are monitoring how researchers report on the ethical treatment of insects",
-    "authors": [
-      "Phie Jacobs"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906330"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zzwcsrv",
-    "journal": "Science",
-    "title": "Prehistoric camel art pointed to precious water sources in the Arabian Desert",
-    "link": "https://www.science.org/content/article/prehistoric-camel-art-pointed-precious-water-sources-arabian-desert",
-    "published": "",
-    "summary": "Hunter-gatherers may have used the engravings to find water 12,000 years ago",
-    "authors": [
-      "Taylor Mitchell Brown"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906334"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zjgb6l9",
-    "journal": "Science",
-    "title": "Canada’s Supreme Court will decide fate of ostrich flock hit by bird flu",
-    "link": "https://www.science.org/content/article/canada-s-supreme-court-will-decide-fate-ostrich-flock-hit-bird-flu",
-    "published": "",
-    "summary": "Farmers and supporters—including RFK Jr. and Dr. Oz—urge government to spare birds that survived H5N1 outbreak",
-    "authors": [
-      "Jon Cohen"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906339"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01123-4?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Single-cell analysis uncovers preserved prostate cancer lineages and universally altered pathways in Matrigel-free patient-derived organoids",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01123-4?rss=yes",
-    "published": "",
-    "summary": "Using phenotypic and scRNA-seq comparative analyses, Dolgos et al. show that prostate cancer patient-derived organoids (PDOs) cultured in a Matrigel-free culture system exhibit cellular heterogeneity and preserve PCa patient-specific cell populations. An integrated prostate PDO single-cell atlas (PPScA) captures a spectrum of cellular identities and reveals pathways altered in vitro.",
-    "authors": [
-      "Robin Dolgos, Romuald Parmentier, Jing Wang, Raphaëlle Servant, Arnoud J. Templeton, Tobias Zellweger, Alastair D. Lamb, Kirsten D. Mertz, Svetozar Subotic, Tatjana Vlajnic, Helge Seifert, Ashkan Mortezavi, Cyrill A. Rentsch, Lukas Bubendorf, Clémentine Le Magnen"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906369"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01136-2?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "DUSP14 suppresses ferroptosis and promotes tumor progression of triple-negative breast cancer",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01136-2?rss=yes",
-    "published": "",
-    "summary": "Cao et al. identify DUSP14 as a molecule that influences tumor progression in triple-negative breast cancer in vitro and in vivo. Mechanistically, the DUSP14-PTPN12-PPARα/SCD axis modulates ferroptosis in these cancer cells. The study suggests small-molecule inhibitors of DUSP14 as treatment options for patients with triple-negative breast cancer.",
-    "authors": [
-      "Yueyue Cao, Yitian Zheng, Ruiqi Niu, Tingting Wang, Haiyang Yu, Yicheng Tong, Yi-Da Tang, Yueyin Pan"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906373"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01129-5?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "A single-dose nanoparticle vaccine protects against mpox in preclinical models",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01129-5?rss=yes",
-    "published": "",
-    "summary": "Yuan et al. engineer a protein-based nanoparticle vaccine displaying MPXV A35 and M1 antigens. This “two-in-one” DAM-NP vaccine elicits robust immune responses in preclinical models and remains effective in pre-immune hosts, and a single dose confers complete protection from a lethal MPXV challenge.",
-    "authors": [
-      "Run-Yu Yuan, Meng-Jun Li, Xiao-Bing Lin, Xin Zhang, Fei Yu, Xiao Zhang, Qi Qian, Yun Peng, De-Lin Li, Qin-Jian Zhao, Hui Zhang, Yang Yang, Chen-Guang Shen, Bai-Sheng Li, Yin-Feng Kang"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906396"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-14488-w",
-    "journal": "Nature_CompBio",
-    "title": "A Fuzzy-Expert enhanced NSGA-II approach for sustainable agricultural systems",
-    "link": "https://www.nature.com/articles/s41598-025-14488-w",
-    "published": "2025-09-30T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Zhonglin Huang et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906441"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41746-025-01971-x",
-    "journal": "Nature_CompBio",
-    "title": "Generative AI costs in large healthcare systems, an example in revenue cycle",
-    "link": "https://www.nature.com/articles/s41746-025-01971-x",
-    "published": "2025-09-30T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Michael L. Burns et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906445"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-63757-9",
-    "journal": "Nature_CompBio",
-    "title": "SARST2 high-throughput and resource-efficient protein structure alignment against massive databases",
-    "link": "https://www.nature.com/articles/s41467-025-63757-9",
-    "published": "2025-09-30T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Wei-Cheng Lo et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906449"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-09684-7",
-    "journal": "Nature_CompBio",
-    "title": "Designing of guava quality classification model based on ANOVA and machine learning",
-    "link": "https://www.nature.com/articles/s41598-025-09684-7",
-    "published": "2025-09-30T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Abiban Kumari et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906457"
-  },
-  {
-    "id": "https://www.nature.com/articles/s42003-025-08783-5",
-    "journal": "Nature_CompBio",
-    "title": "Distance-AF improves predicted protein structure models by AlphaFold2 with user-specified distance constraints",
-    "link": "https://www.nature.com/articles/s42003-025-08783-5",
-    "published": "2025-09-30T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Yuanyuan Zhang et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906499"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-03221-2",
-    "journal": "Nature_CompBio",
-    "title": "Lactoferrin based copper nanoparticles: a promising anti-cancer strategy against malignant melanoma",
-    "link": "https://www.nature.com/articles/s41598-025-03221-2",
-    "published": "2025-09-30T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Deepinder Sharda et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906507"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-09443-8",
-    "journal": "Nature_CompBio",
-    "title": "Computational repurposing of drugs against dengue virus targeting NS5 and methyltransferase proteins",
-    "link": "https://www.nature.com/articles/s41598-025-09443-8",
-    "published": "2025-09-30T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Murthaeti Yaswanth et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-09-30T22:07:26.906515"
-  },
-  {
     "id": "https://www.nature.com/articles/s41598-025-09373-5",
     "journal": "Nature_CompBio",
     "title": "Enhanced image registration based brain tumour segmentation using optical particle swarm intelligence technique with Resnet Inceptionv2 HCNN",
@@ -3482,38 +3141,21 @@
     "added_at": "2025-10-04T22:06:27.078123"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01124-6?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "The kinesin Kip2 promotes microtubule growth using a bipartite polymerase module to deliver tubulin to microtubule plus ends",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01124-6?rss=yes",
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/29/13782/",
+    "journal": "Nikkei_BioTech",
+    "title": "実験自動化のカンファレンスが開催、実験機器の制御にAIを活用する手法の開発が活発化",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/29/13782/",
     "published": "",
-    "summary": "Microtubules act as highways in cells, with kinesins transporting cargo and maintaining their length for cell survival. Nadalis et al. show that the yeast kinesin Kip2 promotes microtubule growth by delivering tubulin units to the microtubule ends, revealing a mechanism that might be used by other kinesins to drive microtubule elongation.",
+    "summary": "バイオ実験を自動化する装置の利用者・開発者や企業が情報交換するためのカンファレンス「Laboratory Automation Developers Conference（LADEC、ラデック）」が2025年9月25～26日、東京都内の日本科学未来館で開かれた。自動化の研究者や、自動化機器のメーカー、自動化を活用する製薬企業などの研究者ら400名以上が参加した。",
     "authors": [
-      "Simos Nadalis, Aymeric Neyret, Ioanna Xanthou, Ronald Siaden-Ortega, Julien Marcoux, Ariane Abrieu, Hauke Drechsler, Dimitris Liakopoulos, Didier Portran"
+      "BTO"
     ],
     "doi": "",
-    "parser_type": "cell",
+    "parser_type": "generic",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-09-27T22:06:36.760601"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01131-3?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Unsilenced inhibitory cortical ensemble gates remote memory retrieval",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01131-3?rss=yes",
-    "published": "",
-    "summary": "Wang et al. use longitudinal two-photon imaging and holographic optogenetics in the anterior cingulate cortex to identify a subset of GABAergic neurons with sustained elevated activity and synchronized dynamics. Selective activation or inactivation experiments demonstrate their causal role in gating remote memory retrieval.",
-    "authors": [
-      "Shaoli Wang, Tao Sheng, Feng Su, He Yang, Rui Cao, Qiao Wang, Wei-Qun Fang, Chen Zhang, Wei Lu"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-09-27T22:06:36.760606"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-05T22:06:42.463782"
   },
   {
     "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/24/13765/",
@@ -6642,5 +6284,107 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-10-04T22:06:27.078128"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-20879-w",
+    "journal": "Nature_CompBio",
+    "title": "Vamp8 modulates cerebral ischemia-reperfusion injury via the autophagy-lysosome pathway",
+    "link": "https://www.nature.com/articles/s41598-025-20879-w",
+    "published": "2025-10-05T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yu-xin Fu et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-05T22:06:42.463767"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/28/13779/",
+    "journal": "Nikkei_BioTech",
+    "title": "英NovalGen社、ROR1標的の自己制御型T細胞エンゲージャーが臨床試験開始へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/28/13779/",
+    "published": "",
+    "summary": "自己制御（AR）機能を持つがん免疫療法を開発している英NovalGen（ノバルジェン）社は2025年9月17日、がんに発現する受容体チロシンキナーゼ様オーファン受容体1（ROR1）とT細胞に発現するCD3を標的とする二重特異性のT細胞エンゲージャー（TCE）候補（開発番号：NVG-222）について、臨床試験を開始すると発表した。英医薬品医療製品規制庁（MHRA）により臨床試験の実施が了承され、アダプティブ・バスケット方式の第1/2相試験を2025年末までに開始する。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-05T22:06:42.463789"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/02/13801/",
+    "journal": "Nikkei_BioTech",
+    "title": "花王、化合物に対するヒト嗅覚受容体の応答を網羅的に解析する技術を開発",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/02/13801/",
+    "published": "",
+    "summary": "花王は2025年9月24日、化粧品などの候補化合物となるにおい物質（嗅覚受容体を刺激する化学物質）に対するヒトの嗅覚受容体の応答を網羅的に解析できる技術を開発したと発表した。約400種類あるヒトの嗅覚受容体を培養細胞に発現させたin vitroモデルを作り、それらのにおい物質への応答を解析することで、ヒトの嗅覚を再現できるという。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-05T22:06:42.463795"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/01/13794/",
+    "journal": "Nikkei_BioTech",
+    "title": "NPT、樹状細胞ワクチン療法の治験用製造設備を変更し同等性の検証へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/01/13794/",
+    "published": "",
+    "summary": "TOKYO PRO Marketに上場し、がんを対象にネオ抗原ペプチドで刺激した抗原提示細胞（樹状細胞）によるワクチン開発を手掛けるNPTは、2025年9月30日、事業説明会を開催した。国内2施設で開始予定だった、食道がんを対象としたPAPCワクチン（Personalized Antigen Presenting Cell Vaccine、ネオ抗原提示細胞ワクチン）の第1/2相臨床試験について、2025年4月、患者登録を延期すると発表していたが、新規の機器を導入してこれまでの機器で製造していたPAPCワクチンとの品質の同等性を確認するためアカデミアと共同研究契約を同年9月に締結したことなどを紹介した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-05T22:06:42.463799"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/30/13785/",
+    "journal": "Nikkei_BioTech",
+    "title": "Bayer社、パーキンソン病に対するES細胞由来細胞医薬とAAV用いた遺伝子治療の臨床開発が前進",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/09/30/13785/",
+    "published": "",
+    "summary": "ドイツBayer（バイエル）社は2025年9月22日、パーキンソン病（PD）に対する2品目のパイプラインの開発の進捗状況を公表した。ヒト胚性幹（ES）細胞由来の細胞療法（一般名：bemdaneprocel）については、第3相臨床試験（exPDite-2試験）で、登録された被験者に対する投与が始まり、遺伝子治療（開発番号：AB-1005）については、第2相臨床試験（REGENERATE-PD試験）において、米国に続いて、英国とポーランドでも登録された被験者の無作為化が行われ、ドイツでもまもなく開始される予定だという。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-05T22:06:42.463804"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/free/25/10/05/00168/",
+    "journal": "Nikkei_BioTech",
+    "title": "Endpoints News主催、希少疾患のドラッグラグ・ロス解消を目指すオンラインイベント",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/free/25/10/05/00168/",
+    "published": "",
+    "summary": "日経バイオテクでは、日本のドラッグラグ、ドラッグロスの解消を目指し、米国のメディアEndpoints Newsとの協力の下、英語の無料オンラインイベント「Unlocking Japan’s potential in rare disease drug development」を開催します。今回のテーマは、日本における希少疾患の治療薬開発です。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-05T22:06:42.463810"
   }
 ]
