@@ -1,361 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/d41586-025-03276-1",
-    "journal": "Nature",
-    "title": "Incentives accelerate progress on open access in Spain",
-    "link": "https://www.nature.com/articles/d41586-025-03276-1",
-    "published": "",
-    "summary": "<p>Nature, Published online: 07 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03276-1\">doi:10.1038/d41586-025-03276-1</a></p>Incentives accelerate progress on open access in Spain",
-    "authors": [
-      "Wenceslao Arroyo-Machado",
-      "Daniel Torres-Salinas"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706089"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03218-x",
-    "journal": "Nature",
-    "title": "The rise of ‘nightmare bacteria’: antimicrobial resistance in five charts",
-    "link": "https://www.nature.com/articles/d41586-025-03218-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 07 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03218-x\">doi:10.1038/d41586-025-03218-x</a></p>Data reveal how the global challenge to reduce deaths and infections from drug-resistant bacteria is not going according to plan.",
-    "authors": [
-      "Katie Kavanagh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706099"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03228-9",
-    "journal": "Nature",
-    "title": "Customizable AI systems that anyone can adapt bring big opportunities — and even bigger risks",
-    "link": "https://www.nature.com/articles/d41586-025-03228-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 07 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03228-9\">doi:10.1038/d41586-025-03228-9</a></p>Open and adaptable artificial-intelligence models are crucial for scientific progress, but robust safeguards against their misuse are still nascent.",
-    "authors": [
-      "Yarin Gal",
-      "Stephen Casper"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706105"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03221-2",
-    "journal": "Nature",
-    "title": "The EU’s Horizon research fund needs to stay a defence-free zone",
-    "link": "https://www.nature.com/articles/d41586-025-03221-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 07 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03221-2\">doi:10.1038/d41586-025-03221-2</a></p>It is time to sound the alarm as the EU’s research priorities face an unprecedented degree of political interference.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706110"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03196-0",
-    "journal": "Nature",
-    "title": "Stop treating code like an afterthought: record, share and value it",
-    "link": "https://www.nature.com/articles/d41586-025-03196-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 07 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03196-0\">doi:10.1038/d41586-025-03196-0</a></p>Scientists, research institutions, funders, libraries and publishers must all improve software practices.",
-    "authors": [
-      "Roberto Di Cosmo",
-      "Sabrina Granger",
-      "Konrad Hinsen",
-      "Nicolas Jullien",
-      "Daniel Le Berre",
-      "Violaine Louvet",
-      "Camille Maumet",
-      "Clémentine Maurice",
-      "Raphaël Monat",
-      "Nicolas P. Rougier"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706115"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03217-y",
-    "journal": "Nature",
-    "title": "Prizes must recognize machine contributions to discovery",
-    "link": "https://www.nature.com/articles/d41586-025-03217-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 07 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03217-y\">doi:10.1038/d41586-025-03217-y</a></p>The future of science will be written by humans and machines together. Awards should reflect that reality.",
-    "authors": [
-      "Dashun Wang"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706119"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zs3fycp",
-    "journal": "Science",
-    "title": "Missing wind from Milky Way’s giant black hole finally found",
-    "link": "https://www.science.org/content/article/missing-wind-milky-way-s-giant-black-hole-finally-found",
-    "published": "",
-    "summary": "Astronomers may have glimpsed a long-predicted wind of gas blowing out from Sagittarius A*",
-    "authors": [
-      "Hannah Richter"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706124"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z1parb4",
-    "journal": "Science",
-    "title": "Well-exercised male mice appear to pass fitness to their male offspring",
-    "link": "https://www.science.org/content/article/well-exercised-male-mice-appear-pass-fitness-their-male-offspring",
-    "published": "",
-    "summary": "Surprising epigenetic effect relies on snippets of RNA packaged within sperm",
-    "authors": [
-      "Zunnash Khan"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706128"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zjs5tut",
-    "journal": "Science",
-    "title": "Big U.S. West Coast earthquakes could come as a one-two punch",
-    "link": "https://www.science.org/content/article/big-u-s-west-coast-earthquakes-could-come-one-two-punch",
-    "published": "",
-    "summary": "Cascadia and San Andreas fault zones appear to generate synchronized earthquakes",
-    "authors": [
-      "James Dinneen"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706134"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01171-4?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "YEATS4 reads histone crotonylation to promote fatty acid metabolism and cancer cell stemness",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01171-4?rss=yes",
-    "published": "",
-    "summary": "Peng et al. identify YEATS4 as a reader of H3K14cr, by which it activates genes in fatty acid metabolism and enhances the self-renewal of breast cancer stem cells, highlighting the role of YEATS4 as an amplifier in the circuit of histone crotonylation and fatty acid metabolism in breast cancer.",
-    "authors": [
-      "Zijun Peng, Huajing Yu, Yizhou Wang, Dan Zhao, Hangwei Fa, Leyi Qin, Yilei Ma, Mengyang Geng, Yuqing Wu, Ge Wu, Xin Wu, Chengying Zhang, Yue Wang, Jianying Liu, Haitao Li, Zhimin Lu, Yongfeng Shang, Jing Liang"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706149"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01179-9?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "A cancer-specific antigen drives histone acetylation by stabilizing the acetyltransferases",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01179-9?rss=yes",
-    "published": "",
-    "summary": "Fu et al. show that MAGE-A10 drives tumorigenesis by blocking autophagic degradation of KAT2A/KAT2B and enhancing histone acetylation.",
-    "authors": [
-      "Xuekun Fu, Xu Yang, Jie Huang, Yuhong Huang, Patrick Ryan Potts, Chao Liang"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706153"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-63955-5",
-    "journal": "Nature_CompBio",
-    "title": "HCS-3DX, a next-generation AI-driven automated 3D-oid high-content screening system",
-    "link": "https://www.nature.com/articles/s41467-025-63955-5",
-    "published": "2025-10-07T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Akos Diosdi et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706174"
-  },
-  {
-    "id": "https://www.nature.com/articles/s42003-025-08727-z",
-    "journal": "Nature_CompBio",
-    "title": "OncoMark: a high-throughput neural multi-task learning framework for comprehensive cancer hallmark quantification",
-    "link": "https://www.nature.com/articles/s42003-025-08727-z",
-    "published": "2025-10-07T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Shreyansh Priyadarshi et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706187"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-21221-0",
-    "journal": "Nature_CompBio",
-    "title": "Age estimation of children and adolescents from mandibles using machine learning",
-    "link": "https://www.nature.com/articles/s41598-025-21221-0",
-    "published": "2025-10-07T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Erika Calvano Küchler et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706191"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-64259-4",
-    "journal": "Nature_CompBio",
-    "title": "Data-driven fine-grained region discovery in the mouse brain with transformers",
-    "link": "https://www.nature.com/articles/s41467-025-64259-4",
-    "published": "2025-10-07T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Alex J. Lee et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706200"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-20255-8",
-    "journal": "Nature_CompBio",
-    "title": "Assessing the effect of social contact structure on the impact of pneumococcal conjugate vaccines",
-    "link": "https://www.nature.com/articles/s41598-025-20255-8",
-    "published": "2025-10-07T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Anabelle Wong et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706209"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-19529-y",
-    "journal": "Nature_CompBio",
-    "title": "Punica granatum extract demonstrates antiparasitic effects against Caligus clemensi through in silico and in vitro studies",
-    "link": "https://www.nature.com/articles/s41598-025-19529-y",
-    "published": "2025-10-07T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Marwa M. Attia et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706213"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1125207",
-    "journal": "MIT_TechReview",
-    "title": "The US is set to cancel funding for two major direct-air-capture plants",
-    "link": "https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/",
-    "published": "Tue, 07 Oct 2025 18:29:20 +0000",
-    "summary": "The US Department of Energy appears poised to terminate funding for a pair of large carbon-sucking factories that were originally set to receive more than $1 billion in government grants, according to a department-issued list of projects obtained by MIT Technology Review and circulating among federal agencies. One of the projects is the South Texas&#8230;",
-    "authors": [
-      "James Temple"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706225"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1125191",
-    "journal": "MIT_TechReview",
-    "title": "AI toys are all the rage in China—and now they’re appearing on shelves in the US too",
-    "link": "https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/",
-    "published": "Tue, 07 Oct 2025 16:51:02 +0000",
-    "summary": "Kids have always played with and talked to stuffed animals. But now their toys can talk back, thanks to a wave of companies that are fitting children’s playthings with chatbots and voice assistants.&#160; It’s a trend that has particularly taken off in China: A recent report by the Shenzhen Toy Industry Association and JD.com predicts&#8230;",
-    "authors": [
-      "Caiwei Chen"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-07T22:07:15.706229"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09697-2",
-    "journal": "Nature",
-    "title": "Enzyme specificity prediction using cross attention graph neural networks",
-    "link": "https://www.nature.com/articles/s41586-025-09697-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 08 October 2025; <a href=\"https://www.nature.com/articles/s41586-025-09697-2\">doi:10.1038/s41586-025-09697-2</a></p>Enzyme specificity prediction using cross attention graph neural networks",
-    "authors": [
-      "Haiyang Cui",
-      "Yufeng Su",
-      "Tanner J. Dean",
-      "Tianhao Yu",
-      "Zhengyi Zhang",
-      "Jian Peng",
-      "Diwakar Shukla",
-      "Huimin Zhao"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-08T22:07:34.005309"
-  },
-  {
     "id": "https://www.nature.com/articles/d41586-025-03298-9",
     "journal": "Nature",
     "title": "How stereotypes shape AI – and what that means for the future of hiring",
@@ -1826,72 +1470,38 @@
     "added_at": "2025-10-10T22:07:07.277621"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01082-4?rss=yes",
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01186-6?rss=yes",
     "journal": "Cell_Reports",
-    "title": "Arsenic regulates ALKBH1 abundance and substrate specificity to promote translation and tumorigenicity",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01082-4?rss=yes",
+    "title": "Molecular mechanisms governing the formation of distinct Upf1-containing complexes in yeast",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01186-6?rss=yes",
     "published": "",
-    "summary": "Wilkinson and Cui et al. show that the protein ALKBH1 binds to arsenic and is up-regulated by arsenic, leading to increased m6A RNA demethylase activity of ALKBH1, and thus acts as a critical factor in promoting arsenic-induced tumorigenicity.",
+    "summary": "Iermak et al. show that the conformational state of yeast Upf1 regulates its constitutive association in an endogenous multimeric complex containing the 5′-3′ mRNA exoribonuclease Xrn1. Structural rearrangement of Upf1 facilitates transition to the Upf1-2-3 complex involved in the activation of nonsense-mediated mRNA decay.",
     "authors": [
-      "Emma Wilkinson, Yan-Hong Cui, Zizhao Yang, Michelle Verghese, Seungwon Yang, Ming Sun, Houxiang Zhu, Jack Peterson, Jiangbo Wei, Yingming Zhao, Mengjie Chen, Chuan He, Yu-Ying He"
+      "Iuliia Iermak, Nicole R. Wilson Eisele, Katharina Kurscheidt, Matina-Jasemi Loukeri, Jérôme Basquin, Fabien Bonneau, Lukas M. Langer, Achim Keidel, Elena Conti"
     ],
     "doi": "",
     "parser_type": "cell",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-04T22:06:27.078097"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-11T22:06:39.782780"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01128-3?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "P-Rex1 limits glucose clearance and suppresses hepatocyte glucose uptake and mitochondrial metabolism independently of its Rac-GEF activity",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01128-3?rss=yes",
-    "published": "",
-    "summary": "Chu and Tsonou et al. report that P-Rex1 controls fasting blood glucose and insulin sensitivity through its Rac-GEF activity and regulates glucose clearance independently of this activity. P-Rex1 controls glucose uptake, Glut2 surface levels, and mitochondrial function in hepatocytes. P-Rex1 suppresses hepatic glucose uptake and mitochondrial ATP production through Gpr21.",
-    "authors": [
-      "Julia Y. Chu, Elpida Tsonou, Polly A. Machin, Kirsty MacLellan-Gibson, Anna G. Roberts, Stephen A. Chetwynd, Adam T. McCormack, John C. Stephens, Elisa Benetti, Gemma K. Kinsella, David Baker, David C. Hornigold, Heidi C.E. Welch"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-04T22:06:27.078111"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01142-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "PNPLA3-I148M is a neomorph that interferes with two primary hepatic triglyceride clearance pathways",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01142-8?rss=yes",
-    "published": "",
-    "summary": "Sherman et al. show that the common fatty liver disease risk factor PNPLA3-I148M impairs hepatic lipoprotein secretion by altering cellular membrane dynamics. This effect is mediated by a protein that regulates triglyceride lipolysis, placing PNPLA3-I148M at the nexus of two key pathways for hepatic triglyceride clearance: lipolysis and lipoprotein secretion.",
-    "authors": [
-      "David J. Sherman, Lei Liu, Edward L. LaGory, Preston Fordstrom, Danielle Pruitt, Jose Barreda, Joy G. Cagmat, Jiansong Xie, John Ferbas, Ingrid C. Rulifson, Raymond J. Deshaies"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-04T22:06:27.078118"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-14583-y",
+    "id": "https://www.nature.com/articles/s43588-025-00882-x",
     "journal": "Nature_CompBio",
-    "title": "Inhibition of monkeypox polymerase holoenzyme and methyltransferase using bioactive compounds of black tea: a computational approach",
-    "link": "https://www.nature.com/articles/s41598-025-14583-y",
-    "published": "2025-10-03T00:00:00+00:00",
+    "title": "Developing mental health AI tools that improve care across different groups and contexts",
+    "link": "https://www.nature.com/articles/s43588-025-00882-x",
+    "published": "2025-10-10T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Maimoona Mumtaz et al."
+      "Nicole Martinez-Martin"
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-04T22:06:27.078128"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-11T22:06:39.782791"
   },
   {
     "id": "https://www.nature.com/articles/s41598-025-20879-w",
@@ -4470,5 +4080,39 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-10-10T22:07:07.277642"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01206-9?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Functional dissection of the CRP-family transcription factor DevH and its interplay with NtcA in a cyanobacterium",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01206-9?rss=yes",
+    "published": "",
+    "summary": "Xu et al. uncovered how duplicated transcription factors DevH and NtcA achieve functional specialization in Anabaena. Unlike NtcA, DevH operates at higher cellular levels with broader regulatory capacity. Their work demonstrates how gene duplication diversifies transcriptional networks to optimize cyanobacterial adaptation.",
+    "authors": [
+      "Xiaomei Xu, Ling-Han Meng, Emmanuel Talla, Min Huang, Xiaoli Zeng, Cheng-Cai Zhang"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-11T22:06:39.782768"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41588-025-02399-5",
+    "journal": "Nature_CompBio",
+    "title": "Author Correction: Robust and accurate Bayesian inference of genome-wide genealogies for hundreds of genomes",
+    "link": "https://www.nature.com/articles/s41588-025-02399-5",
+    "published": "2025-10-10T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yun Deng et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-11T22:06:39.782787"
   }
 ]
