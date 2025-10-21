@@ -1,328 +1,5 @@
 [
   {
-    "id": "https://www.technologyreview.com/?p=1125116",
-    "journal": "MIT_TechReview",
-    "title": "AI is changing how we quantify pain",
-    "link": "https://www.technologyreview.com/2025/10/15/1125116/ai-is-changing-how-we-quantify-pain/",
-    "published": "Wed, 15 Oct 2025 10:00:00 +0000",
-    "summary": "For years at Orchard Care Homes, a 23‑facility dementia-care chain in northern England, Cheryl Baird watched nurses fill out the Abbey Pain Scale, an observational methodology used to evaluate pain in those who can’t communicate verbally. Baird, a former nurse who was then the facility’s director of quality, describes it as “a tick‑box exercise where&#8230;",
-    "authors": [
-      "Deena Mousa"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-15T22:06:34.345034"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03387-9",
-    "journal": "Nature",
-    "title": "This gene causes obesity — and shields against heart disease",
-    "link": "https://www.nature.com/articles/d41586-025-03387-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 16 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03387-9\">doi:10.1038/d41586-025-03387-9</a></p>People with certain forms of the MC4R gene have lower cholesterol levels than do other individuals with a high body-mass index.",
-    "authors": [
-      "Heidi Ledford"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116049"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02913-z",
-    "journal": "Nature",
-    "title": "Parenting, illnesses and medical commitments: the private details grant reviewers shouldn’t need to know",
-    "link": "https://www.nature.com/articles/d41586-025-02913-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 16 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-02913-z\">doi:10.1038/d41586-025-02913-z</a></p>Is it fair for grant reviewers — who are often our colleagues — to judge the legitimacy of career breaks due to personal circumstances?",
-    "authors": [
-      "Nathalie Bock"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116064"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02900-4",
-    "journal": "Nature",
-    "title": "The problem with career planning in science",
-    "link": "https://www.nature.com/articles/d41586-025-02900-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 16 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-02900-4\">doi:10.1038/d41586-025-02900-4</a></p>Having too rigid a plan could result in exciting opportunities passing you by, warns Ottoline Leyser.",
-    "authors": [
-      "Julie Gould"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116072"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03384-y",
-    "journal": "Nature",
-    "title": "The US and Europe have cut billions in health aid — can anyone fill the gap?",
-    "link": "https://www.nature.com/articles/d41586-025-03384-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 16 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03384-y\">doi:10.1038/d41586-025-03384-y</a></p>It's time to radically reimagine global health, leaders tell World Health Summit in Berlin.",
-    "authors": [
-      "Fred Schwaller"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116077"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03391-z",
-    "journal": "Nature",
-    "title": "Daily briefing: Making babies with lab-grown eggs and sperm",
-    "link": "https://www.nature.com/articles/d41586-025-03391-z",
-    "published": "",
-    "summary": "<p>Nature, Published online: 15 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03391-z\">doi:10.1038/d41586-025-03391-z</a></p>Sex cells made from scratch could revolutionize human reproduction. Plus, a conference in which all the authors and reviewers are AI systems and the impact of the government shutdown on US science.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116082"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zlhmcem",
-    "journal": "Science",
-    "title": "These stinkbugs coat their eggs in fungi to protect them from parasitic wasps",
-    "link": "https://www.science.org/content/article/these-stinkbugs-coat-their-eggs-fungi-protect-them-parasitic-wasps",
-    "published": "",
-    "summary": "An unusual relationship could shed light on how insects choose their partners",
-    "authors": [
-      "Erik Stokstad"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116087"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zmlrdum",
-    "journal": "Science",
-    "title": "On an Arctic archipelago, frozen soil may preserve a hidden history of viruses",
-    "link": "https://www.science.org/content/article/arctic-archipelago-frozen-soil-may-preserve-hidden-history-viruses",
-    "published": "",
-    "summary": "Scientists are hunting for ancient RNA in Svalbard’s permafrost, hoping to shed light on the evolution of viral diseases",
-    "authors": [
-      "Kai Kupferschmidt"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116091"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zkrnbw1",
-    "journal": "Science",
-    "title": "As his fraud trial looms, Alzheimer’s scientist is exonerated by his university—sort of",
-    "link": "https://www.science.org/content/article/his-fraud-trial-looms-alzheimer-s-scientist-exonerated-his-university-sort",
-    "published": "",
-    "summary": "Excusing record-keeping “misconduct” flagged in earlier investigative report, City University of New York concluded in letter that image doctoring by Hoau-Yan Wang was not proved",
-    "authors": [
-      "Charles Piller"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116098"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z8ziq6q",
-    "journal": "Science",
-    "title": "Ancient sea turtle discovered in Lebanon reveals a surprising evolutionary history",
-    "link": "https://www.science.org/content/article/ancient-sea-turtle-discovered-lebanon-reveals-surprising-evolutionary-history",
-    "published": "",
-    "summary": "Oldest known sea turtle soft tissues could help reveal how a variety of vertebrates adapted to ocean living",
-    "authors": [
-      "Jake Buehler"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116102"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zho9dtb",
-    "journal": "Science",
-    "title": "Famed Japanese primatologist settles lawsuits over mishandled contracts",
-    "link": "https://www.science.org/content/article/famed-japanese-primatologist-settles-lawsuits-over-mishandled-contracts",
-    "published": "",
-    "summary": "Tetsuro Matsuzawa agreed to pay Kyoto University $219,000 to end legal dispute",
-    "authors": [
-      "Dennis Normile"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116106"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)01078-5?rss=yes",
-    "journal": "Cell",
-    "title": "CRISPR meets AI-based robotics: Advancing sustainable agriculture",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)01078-5?rss=yes",
-    "published": "",
-    "summary": "Advances in genome editing, artificial intelligence, and robotics are transforming approaches to crop improvement by linking genetic design with cultivation practices. In this issue of Cell, Xu and colleagues develop a genome editing-artificial intelligence-robotics (GEAIR) system in tomato, using CRISPR-based multiplexing to convert recessed stigmas into exserted, male-sterile floral morphologies that enable efficient robotic pollination and accelerated hybrid seed production. Combined with speed breeding and de novo domestication, GEAIR generates parental lines with improved stress tolerance, flavor, and yield, and its transferability to soybean demonstrates applicability across plant families. By demonstrating how targeted editing can reconfigure reproductive traits for compatibility with automation, GEAIR establishes a platform that integrates genome editing with artificial intelligence and robotics. Such strategies should enable systems-level crop design that can expand agricultural diversity, enhance resilience, and contribute to sustainable food production.",
-    "authors": [
-      "Fabienne Gehrke, Holger Puchta"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116110"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)01039-6?rss=yes",
-    "journal": "Cell",
-    "title": "Don’t forget to floss! An innovative approach for vaccine delivery",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)01039-6?rss=yes",
-    "published": "",
-    "summary": "In a recent issue of Nature Biomedical Engineering, Ingrole et al. explore a new approach for needle-free vaccine delivery through the mouth. They devise and test a dental-floss-based flu vaccine as an alternative mode of mucosal vaccination.",
-    "authors": [
-      "Heather D. Hickman, Niki M. Moutsopoulos"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116115"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)01081-5?rss=yes",
-    "journal": "Cell",
-    "title": "Exploring Latin America one cell at a time",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)01081-5?rss=yes",
-    "published": "",
-    "summary": "Single-cell and spatial transcriptomics are revolutionizing science. Latin America’s unique genetic diversity, environment, and endemic infectious diseases offer exceptional opportunities to deploy these technologies for societal and scientific impact. We highlight regional challenges and opportunities, offering recommendations to boost capacity, foster collaboration, and promote research equity.",
-    "authors": [
-      "Patricia A. Possik, David J. Adams, Flavia C. Aguiar, Tamires Caixeta Alves, Fabíola S. Alves-Hanna, Carlos Mario Restrepo Arboleda, Erick Armingol, Liã Bárbara Arruda, Yesid Cuesta Astroz, Jacqueline M. Boccacino, Danielle C. Bonfim, Juan F. Calderon, Alexis Germán Murillo Carrasco, Danielle G. Carvalho, Benilton S. Carvalho, Paulo Vinícius Sanches Daltro de Carvalho, Alex Castro, Lia Chappell, Ricardo Chinchilla-Monge, Daniela Di Bella, Sandra Martha Gomes Dias, Rafaela Fagundes, Marina L. Fernández, Bianca Braga Frade, Federico J. Garde, Hugo Gonzalez, Gabriela Rapozo Guimarães, Lucas Inchausti, Edith Kordon, Laura Leaden, Rafael S. Lima, Alvaro Lladser, Julieth López-Castiblanco, Isabela Malta, Vinicius Maracaja-Coutinho, Domenica Marchese, Alice Matimba, Andres Moreno-Estrada, Marcelo A. Mori, Helder Nakaya, Silvana Pereyra, Yulye Jessica Romo Ramos, Natalia Rego, Carla Daniela Robles-Espinoza, Adolfo Rojas-Hidalgo, Maria Natalia Rubinsztain, Leandro Santos, Anita Scoones, Patricia Severino, Annie Cristhine M. Sousa-Squiavinato, Lucia Spangenberg, Ana Victoria Suescún, Nayara Gusmão Tessarollo, Martha Estefania Vázquez-Cruz, Ma’n H. Zawati, Joao P.B. Viola, Mariana Boroni"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116119"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00801-3?rss=yes",
-    "journal": "Cell",
-    "title": "A mechano-resistance mechanism in skin adapts to terrestrial locomotion",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00801-3?rss=yes",
-    "published": "",
-    "summary": "An evolutionarily emerged ER-based mechano-resistance mechanism supports epidermal function under mechanical pressure. SLURP1, an ER membrane protein, preserves SERCA2b activity and calcium homeostasis, preventing pPERK-NRF2 activation to maintain epidermal homeostasis.",
-    "authors": [
-      "Ruonan Di, Qianqian Du, Yuhua Xie, Yanhua Lu, Wenxuan Gao, Lei Zhang, Xiaoli Qi, Yanyan Fan, Jiao Li, Fengchao Wang, She Chen, Ting Chen"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116128"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00840-2?rss=yes",
-    "journal": "Cell",
-    "title": "Engineering crop flower morphology facilitates robotization of cross-pollination and speed breeding",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00840-2?rss=yes",
-    "published": "",
-    "summary": "A genome editing and AI-driven robotic system that overcomes floral barriers to facilitate automated hybrid breeding in tomato and soybean.",
-    "authors": [
-      "Yue Xie, Tinghao Zhang, Minghao Yang, Hongchang Lyu, Yupan Zou, Yangchang Sun, Jun Xiao, Wenzhao Lian, Jianhua Tao, Hua Han, Cao Xu"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116133"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00799-8?rss=yes",
-    "journal": "Cell",
-    "title": "AI-generated MLH1 small binder improves prime editing efficiency",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00799-8?rss=yes",
-    "published": "",
-    "summary": "A compact, AI-generated suppressor of DNA mismatch repair can enhance prime editing in vivo and in vitro and can be integrated into a variety of prime editing architectures.",
-    "authors": [
-      "Ju-Chan Park, Heesoo Uhm, Yong-Woo Kim, Ye Eun Oh, Jang Hyeon Lee, Jiyun Yang, Kyoungmi Kim, Sangsu Bae"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116137"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00854-2?rss=yes",
-    "journal": "Cell",
-    "title": "Conversion of IscB and Cas9 into RNA-guided RNA editors",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00854-2?rss=yes",
-    "published": "",
-    "summary": "An engineered RNA-guided editing platform for efficient gene knockdown and sequence correction at the mRNA level.",
-    "authors": [
-      "Chengtao Xu, Xiaolin Niu, Haifeng Sun, Hao Yan, Weixin Tang, Ailong Ke"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116141"
-  },
-  {
-    "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00791-3?rss=yes",
-    "journal": "Cell",
-    "title": "Kiwa is a membrane-embedded defense supercomplex activated at phage attachment sites",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00791-3?rss=yes",
-    "published": "",
-    "summary": "Zhang, Todeschini, and Wu et al. show that the bacterial defense system Kiwa senses phage attachment at the membrane and assembles a transmembrane complex that halts infection by blocking phage DNA replication and late transcription. The activity of Kiwa is safeguarded against phage-encoded inhibitors by cooperation with the RecBCD system.",
-    "authors": [
-      "Zhiying Zhang, Thomas C. Todeschini, Yi Wu, Roman Kogay, Ameena Naji, Joaquin Cardenas Rodriguez, Rupavidhya Mondi, Daniel Kaganovich, David W. Taylor, Jack P.K. Bravo, Marianna Teplova, Triana Amen, Eugene V. Koonin, Dinshaw J. Patel, Franklin L. Nobrega"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-16T22:06:34.116145"
-  },
-  {
     "id": "https://www.cell.com/cell/fulltext/S0092-8674(25)00803-7?rss=yes",
     "journal": "Cell",
     "title": "Composite transposons with bivalent histone marks function as RNA-dependent enhancers in cell fate regulation",
@@ -1700,6 +1377,312 @@
     "priority": 2,
     "priority_name": "HIGH",
     "added_at": "2025-10-20T22:07:35.944733"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03330-y",
+    "journal": "Nature",
+    "title": "Hopes of realizing a dream ‘city of health’",
+    "link": "https://www.nature.com/articles/d41586-025-03330-y",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03330-y\">doi:10.1038/d41586-025-03330-y</a></p>Musings on manifesting a world of sanitary homes and hospitals, and thoughts on an essay that defines rhythm, in this week’s pick from the Nature archive.",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257289"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03369-x",
+    "journal": "Nature",
+    "title": "‘Gland-in-a-dish’ secretes stress hormone like the real thing",
+    "link": "https://www.nature.com/articles/d41586-025-03369-x",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03369-x\">doi:10.1038/d41586-025-03369-x</a></p>Lab-grown structure mimics the adrenal cortex, which produces the critical hormone called cortisol.",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257305"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03428-3",
+    "journal": "Nature",
+    "title": "Brazil must beef up its COP30 scheme to preserve tropical forests",
+    "link": "https://www.nature.com/articles/d41586-025-03428-3",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03428-3\">doi:10.1038/d41586-025-03428-3</a></p>Brazil must beef up its COP30 scheme to preserve tropical forests",
+    "authors": [
+      "James D. Langston",
+      "Daniel S. Mendham",
+      "Ali Yansyah Abdurrahim",
+      "Jatna Supriatna"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257311"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03430-9",
+    "journal": "Nature",
+    "title": "Take the time to ensure that AI is safe",
+    "link": "https://www.nature.com/articles/d41586-025-03430-9",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03430-9\">doi:10.1038/d41586-025-03430-9</a></p>Take the time to ensure that AI is safe",
+    "authors": [
+      "Sam Illingworth"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257315"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03429-2",
+    "journal": "Nature",
+    "title": "The race for deep-sea minerals could cause geopolitical and ecological harm",
+    "link": "https://www.nature.com/articles/d41586-025-03429-2",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03429-2\">doi:10.1038/d41586-025-03429-2</a></p>The race for deep-sea minerals could cause geopolitical and ecological harm",
+    "authors": [
+      "Milad Haghani",
+      "Abbas Rajabifard",
+      "Thomas Wiedmann",
+      "David A. Hensher"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257320"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03431-8",
+    "journal": "Nature",
+    "title": "Genetics can give evolving societies a leg up",
+    "link": "https://www.nature.com/articles/d41586-025-03431-8",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03431-8\">doi:10.1038/d41586-025-03431-8</a></p>Genetics can give evolving societies a leg up",
+    "authors": [
+      "Andrew J. Doig"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257324"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03370-4",
+    "journal": "Nature",
+    "title": "Stinkbug ‘ear’ actually hosts parasite-fighting fungi",
+    "link": "https://www.nature.com/articles/d41586-025-03370-4",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03370-4\">doi:10.1038/d41586-025-03370-4</a></p>Fungal armour keeps stinkbug eggs safe from hungry young wasps.",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257329"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03340-w",
+    "journal": "Nature",
+    "title": "Universities are embracing AI: will students get smarter or stop thinking?",
+    "link": "https://www.nature.com/articles/d41586-025-03340-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03340-w\">doi:10.1038/d41586-025-03340-w</a></p>Millions of students arriving at campuses are now using artificial intelligence. Worries abound.",
+    "authors": [
+      "Helen Pearson"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257333"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03397-7",
+    "journal": "Nature",
+    "title": "The TrumpRx website won’t slash drug prices — but this will",
+    "link": "https://www.nature.com/articles/d41586-025-03397-7",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03397-7\">doi:10.1038/d41586-025-03397-7</a></p>Tighter price regulation would deliver fewer new drugs but improve global health.",
+    "authors": [
+      "Beth Woods"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257338"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03417-6",
+    "journal": "Nature",
+    "title": "US PhD admissions shrink as fears over Trump’s cuts take hold",
+    "link": "https://www.nature.com/articles/d41586-025-03417-6",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03417-6\">doi:10.1038/d41586-025-03417-6</a></p>Some doctoral programmes are admitting no students at all amid uncertainty about federal science funding.",
+    "authors": [
+      "Alexandra Witze"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257343"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-02948-2",
+    "journal": "Nature",
+    "title": "Cake to the rescue: how these PhD students are cooking up a sense of community",
+    "link": "https://www.nature.com/articles/d41586-025-02948-2",
+    "published": "",
+    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-02948-2\">doi:10.1038/d41586-025-02948-2</a></p>One treat at a time, these graduate students are helping to raise funds for charitable organizations.",
+    "authors": [
+      "Sarah Wells"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257347"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03435-4",
+    "journal": "Nature",
+    "title": "Daily briefing: Time to retire the Turing test?",
+    "link": "https://www.nature.com/articles/d41586-025-03435-4",
+    "published": "",
+    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03435-4\">doi:10.1038/d41586-025-03435-4</a></p>Some researchers want an upgraded version of Alan Turing’s AI thought experiment; others want it scrapped entirely. Plus, why the rate of peanut allergies might have dropped in the United States and a blood test for Alzheimer’s disease.",
+    "authors": [
+      "Flora Graham"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257351"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zf8stsp",
+    "journal": "Science",
+    "title": "‘I fear we are sitting on a time bomb.’ Scientists debate mass distribution of antibiotics in Africa",
+    "link": "https://www.science.org/content/article/i-fear-we-are-sitting-time-bomb-scientists-debate-mass-distribution-antibiotics-africa",
+    "published": "",
+    "summary": "Prophylactic use of azithromycin saves vulnerable children’s lives, but could trigger antibiotic resistance",
+    "authors": [
+      "Gretchen Vogel"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257356"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.z261u85",
+    "journal": "Science",
+    "title": "‘It’s like a horror movie pregnancy.’ Researcher studies maggots—by letting them eat him",
+    "link": "https://www.science.org/content/article/it-s-horror-movie-pregnancy-researcher-studies-maggots-letting-them-eat-him",
+    "published": "",
+    "summary": "<cite>Science</cite> chats with wildlife epidemiologist Tony Goldberg about what he’s learned from becoming a meal for parasites",
+    "authors": [
+      "Rachel Nuwer"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257362"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.z8m0n9k",
+    "journal": "Science",
+    "title": "Stranded coral boulders point to a medieval tsunami in the Caribbean",
+    "link": "https://www.science.org/content/article/stranded-coral-boulders-point-medieval-tsunami-caribbean",
+    "published": "",
+    "summary": "Study pinpoints likely date for a massive earthquake on the Puerto Rico Trench—and highlights an underappreciated regional hazard",
+    "authors": [
+      "Katherine Kornei"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257369"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.zjns275",
+    "journal": "Science",
+    "title": "JD Vance officiated the wedding of new head of NIH environmental institute",
+    "link": "https://www.science.org/content/article/jd-vance-officiated-wedding-new-head-nih-environmental-institute",
+    "published": "",
+    "summary": "Unusual hiring process raises fears of political favoritism",
+    "authors": [
+      "Jocelyn Kaiser"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257373"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124731",
+    "journal": "MIT_TechReview",
+    "title": "How Millie Dresselhaus paid it forward",
+    "link": "https://www.technologyreview.com/2025/10/21/1124731/how-millie-dresselhaus-paid-it-forward/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "Institute Professor Mildred “Millie” Dresselhaus forever altered our understanding of matter—the physical stuff of the universe that has mass and takes up space. Over 57 years at MIT, Dresselhaus also played a significant role in inspiring people to use this new knowledge to tackle some of the world’s greatest challenges, from producing clean energy to&#8230;",
+    "authors": [
+      "Maia Weinstock"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257396"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/16/13852/",
+    "journal": "Nikkei_BioTech",
+    "title": "米Arrowhead社、二重機能性RNAi治療薬候補ARO-DIMER-PAの治験申請をニュージーランドで提出",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/16/13852/",
+    "published": "",
+    "summary": "米Arrowhead Pharmaceuticals（アローヘッド・ファーマシューティカルズ）社は2025年10月7日、混合型脂質異常症患者のアテローム性動脈硬化性心血管疾患（ASCVD）に対する治療薬候補として開発中の、二重機能性RNAi治療薬ARO-DIMER-PAの第1/2a相試験の開始許可を求める承認申請を、ニュージーランド医薬品医療機器安全承認局に提出したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-21T22:07:50.257433"
   },
   {
     "id": "https://www.nature.com/articles/s41598-025-16701-2",
@@ -4518,5 +4501,260 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-10-20T22:07:35.944771"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41540-025-00590-2",
+    "journal": "Nature_SystemsBiology",
+    "title": "JNK activation dynamics drive distinct gene expression patterns over time mediated by mRNA stability",
+    "link": "https://www.nature.com/articles/s41540-025-00590-2",
+    "published": "2025-10-21T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Abbas Jedariforoughi et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257379"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124712",
+    "journal": "MIT_TechReview",
+    "title": "Engineering better care",
+    "link": "https://www.technologyreview.com/2025/10/21/1124712/engineering-better-care/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "Every Monday, more than a hundred members of Giovanni Traverso’s Laboratory for Translational Engineering (L4TE) fill a large classroom at Brigham and Women’s Hospital for their weekly lab meeting. With a social hour, food for everyone, and updates across disciplines from mechanical engineering to veterinary science, it’s a place where a stem cell biologist might&#8230;",
+    "authors": [
+      "Mackenzie White, SM ’25"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257385"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124723",
+    "journal": "MIT_TechReview",
+    "title": "Infinite folds",
+    "link": "https://www.technologyreview.com/2025/10/21/1124723/infinite-folds/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "When Madonna Yoder ’17 was eight years old, she learned how to fold a square piece of paper over and over and over again. After about 16 folds, she held a bird in her hands. The first time she pulled the tail of a flapping crane, she says, she realized: Oh, I folded this, and&#8230;",
+    "authors": [
+      "Georgina Gustin"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257389"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124727",
+    "journal": "MIT_TechReview",
+    "title": "25 years of research in space",
+    "link": "https://www.technologyreview.com/2025/10/21/1124727/25-years-of-research-in-space/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "On November 2, 2000, NASA astronaut Bill Shepherd, OCE ’78, SM ’78, and Russian cosmonauts Sergei Krikalev and Yuri Gidzenko made history as their Soyuz spacecraft docked with the International Space Station.&#160; The event marked the start of 25 years of continuous human presence in space aboard the ISS—a prolific period for space research. MIT-trained&#8230;",
+    "authors": [
+      "John Tylko ’79, PhD ’23"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257393"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124743",
+    "journal": "MIT_TechReview",
+    "title": "Navigating MIT",
+    "link": "https://www.technologyreview.com/2025/10/21/1124743/navigating-mit/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "Take a stroll along the Infinite Corridor these days and you’ll encounter a striking new space, in a prominent location on the first floor of Building 11. With bright blue seating modules, orange accents, and an eye-catching design, it looks like a futuristic space station, sleek and ultramodern—but also welcoming and fun.  This is the&#8230;",
+    "authors": [
+      "Sally Kornbluth"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257400"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124746",
+    "journal": "MIT_TechReview",
+    "title": "Biodiversity: A missing link in combating climate change",
+    "link": "https://www.technologyreview.com/2025/10/21/1124746/biodiversity-a-missing-link-in-combating-climate-change/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "A lot of attention has been paid to how climate change can reduce biodiversity. Now MIT researchers have shown that the reverse is also true: Loss of biodiversity can jeopardize regrowth of tropical forests, one of Earth’s most powerful tools for mitigating climate change. Combining data from thousands of previous studies and using new tools&#8230;",
+    "authors": [
+      "Zach Winn"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257405"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124749",
+    "journal": "MIT_TechReview",
+    "title": "A bionic knee restores natural movement",
+    "link": "https://www.technologyreview.com/2025/10/21/1124749/a-bionic-knee-restores-natural-movement/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "MIT researchers have developed a new bionic knee that is integrated directly with the user’s muscle and bone tissue. It can help people with above-the-knee amputations walk faster, climb stairs, and avoid obstacles more easily than they could with a traditional prosthesis, which is attached to the residual limb by means of a socket and&#8230;",
+    "authors": [
+      "Anne Trafton"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257409"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124752",
+    "journal": "MIT_TechReview",
+    "title": "Walking faster, hanging out less",
+    "link": "https://www.technologyreview.com/2025/10/21/1124752/walking-faster-hanging-out-less/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "City life is often described as “fast-paced.” A study coauthored by MIT scholars suggests that’s more true than ever: The average walking speed in three northeastern US cities increased 15% from 1980 to 2010, while the number of people lingering in public spaces declined by 14%. The researchers used machine-learning tools to assess 1980s-era video&#8230;",
+    "authors": [
+      "Peter Dizikes"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257413"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124755",
+    "journal": "MIT_TechReview",
+    "title": "A I-designed compounds can kill drug-resistant bacteria",
+    "link": "https://www.technologyreview.com/2025/10/21/1124755/a-i-designed-compounds-can-kill-drug-resistant-bacteria/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "With help from artificial intelligence, MIT researchers have designed novel antibiotics that can combat two hard-to-treat bacteria: multi-drug-­resistant Neisseria gonorrhoeae and Staphylococcus aureus (MRSA). The team used two approaches. First, they directed generative AI to design molecules based on a chemical fragment their model had predicted would show antimicrobial activity, and second, they let the&#8230;",
+    "authors": [
+      "Anne Trafton"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257418"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1124758",
+    "journal": "MIT_TechReview",
+    "title": "Estrada signs with the Dodgers",
+    "link": "https://www.technologyreview.com/2025/10/21/1124758/estrada-signs-with-the-dodgers/",
+    "published": "Tue, 21 Oct 2025 21:00:00 +0000",
+    "summary": "Like almost any MIT student, Mason Estrada wants to take what he learned on campus and apply it to the working world. Unlike any other current MIT student, Estrada’s&#160;primary workplace is&#160;a pitcher’s mound. Estrada, the star pitcher for MIT’s baseball team, has signed a contract with the Los Angeles Dodgers, who selected him in the&#8230;",
+    "authors": [
+      "Peter Dizikes"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257422"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13868/",
+    "journal": "Nikkei_BioTech",
+    "title": "中外製薬、米Rani社と抗体医薬を経口投与可能にする技術のライセンス契約締結",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13868/",
+    "published": "",
+    "summary": "中外製薬は2025年10月20日、米Rani Therapeutics（ラニ・セラピューティクス）社と、抗体医薬を経口投与可能にするための技術の開発及び商業化に関するライセンス契約を締結したと発表した。中外製薬が希少疾患向けの抗体医薬候補品に対し、Rani社が有する経口バイオ医薬プラットフォーム「RaniPillカプセル」技術を適用するもので、従来の注射投与に代わり、患者の負担を軽減する製剤の開発を目指すという。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257428"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13867/",
+    "journal": "Nikkei_BioTech",
+    "title": "持田製薬が整形外科領域の医療機器手掛けるAUSPICIOUSと業務提携基本契約、第三者割当増資も引き受け",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13867/",
+    "published": "",
+    "summary": "持田製薬は、2025年10月21日、骨端プレートや骨補填材の開発販売を手掛けるAUSPICIOUS（東京・千代田区、浦田光也代表取締役）と整形外科領域における医療機器製品に関する業務提携基本契約を締結したと発表した。持田製薬は2025年7月に、吸収性軟骨再生用材料として国内で初の承認を取得した医療機器である軟骨修復材「モチジェル」の製造販売承認を取得しており、同社のバイオマテリアル事業として国内初の製品として販売準備中だ。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257438"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/report/16/082200006/102100247/",
+    "journal": "Nikkei_BioTech",
+    "title": "編集長の目、ノーベル賞受賞する坂口特任教授が語った、がん免疫療法と自己免疫疾患治療の未来",
+    "link": "https://bio.nikkeibp.co.jp/atcl/report/16/082200006/102100247/",
+    "published": "",
+    "summary": "2025年のノーベル生理学・医学賞は、大阪大学免疫学フロンティア研究センターの坂口志文特任教授ら、制御性T細胞を見いだした3人の研究者が受賞することが決まりました。決定を受け、2025年10月9日、BioJapan2025で坂口特任教授が講演し、過剰な免疫を抑える「制御性T（Treg）細胞」とウイルス感染細胞やがん細胞を攻撃する「エフェクターT細胞」のバランスを調整することで、がんや自己免疫疾患を治療できる可能性を展望しました。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257442"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13866/",
+    "journal": "Nikkei_BioTech",
+    "title": "アステラス製薬と安川電機、「まほろ」を使った細胞医薬の製造に向け合弁会社が始動",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13866/",
+    "published": "",
+    "summary": "アステラス製薬と安川電機は2025年10月21日、汎用ヒト型ロボット「まほろ」を活用して細胞医薬の製造プラットフォームの開発を行うために両社が設立した合弁会社「セラファ・バイオサイエンス（以下、セラファ）」の、今後の事業方針などについて説明会を開いた。2026年1月ごろから、まほろを使った細胞医薬のプロセス開発などを受託する。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257446"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13865/",
+    "journal": "Nikkei_BioTech",
+    "title": "東京大学が高輪ゲートウェイに新キャンパス、バイオ関連シーズの社会実装向けの研究を推進",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/21/13865/",
+    "published": "",
+    "summary": "東京大学は2025年10月21日、東日本旅客鉄道（JR東日本）と連携し、JR山手線の高輪ゲートウェイ駅周辺の複合施設「TAKANAWA GATEWAY CITY」に新キャンパスの「東京大学GATEWAY Campus」を開設した。創薬・食品などバイオ分野の研究者が、シーズの社会実装に向けた研究や実証実験などを行う。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-21T22:07:50.257450"
   }
 ]
