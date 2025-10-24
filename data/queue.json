@@ -1,552 +1,5 @@
 [
   {
-    "id": "https://www.nature.com/articles/s41559-025-02873-7",
-    "journal": "Nature_CompBio",
-    "title": "Loss of macroevolutionary species fitness explains the rise and fall of clades",
-    "link": "https://www.nature.com/articles/s41559-025-02873-7",
-    "published": "2025-10-17T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Ignacio Quintero et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-17T22:07:20.923062"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1125895",
-    "journal": "MIT_TechReview",
-    "title": "The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance",
-    "link": "https://www.technologyreview.com/2025/10/17/1125895/the-download-the-rehabilitation-of-ai-art-and-the-scary-truth-about-antimicrobial-resistance/",
-    "published": "Fri, 17 Oct 2025 12:10:00 +0000",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. From slop to Sotheby’s? AI art enters a new phase In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can&#8230;",
-    "authors": [
-      "Rhiannon Williams"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-17T22:07:20.923065"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1125193",
-    "journal": "MIT_TechReview",
-    "title": "From slop to Sotheby’s? AI art enters a new phase",
-    "link": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
-    "published": "Fri, 17 Oct 2025 10:00:00 +0000",
-    "summary": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp Jesus and Ballerina Cappuccina? But amid all the muck, there are people using AI tools with&#8230;",
-    "authors": [
-      "Grace Huckins"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-17T22:07:20.923069"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zmw7ail",
-    "journal": "Science",
-    "title": "How poop-eating beetles evolved to eat rotting flesh",
-    "link": "https://www.science.org/content/article/how-poop-eating-beetles-evolved-eat-rotting-flesh",
-    "published": "",
-    "summary": "Analysis of thousands of fossils pushes back change in beetles’ diets by more than 37 million years",
-    "authors": [
-      "Taylor Mitchell Brown"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-18T22:06:31.503866"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09742-0",
-    "journal": "Nature",
-    "title": "Selective Methylene Oxidation in α,β-Unsaturated Carbonyl Natural Products",
-    "link": "https://www.nature.com/articles/s41586-025-09742-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/s41586-025-09742-0\">doi:10.1038/s41586-025-09742-0</a></p>Selective Methylene Oxidation in α,β-Unsaturated Carbonyl Natural Products",
-    "authors": [
-      "Chiyoung Ahn",
-      "Alexander Gomez",
-      "Marc A. Hartmann",
-      "M. Christina White"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944555"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09713-5",
-    "journal": "Nature",
-    "title": "Parity and lactation induce T cell mediated breast cancer protection",
-    "link": "https://www.nature.com/articles/s41586-025-09713-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/s41586-025-09713-5\">doi:10.1038/s41586-025-09713-5</a></p>Parity and lactation induce T cell mediated breast cancer protection",
-    "authors": [
-      "Balaji Virassamy",
-      "Franco Caramia",
-      "Peter Savas",
-      "Michael A. Harris",
-      "Jia-Wern Pan",
-      "Jianan Wang",
-      "Emmaline Brown",
-      "Megan M. R. O’Malley",
-      "Courtney T. van Geelen",
-      "Michael Hun",
-      "Thomas N. Burn",
-      "Sneha Sant",
-      "Jamieson D. Ballan",
-      "Jasmine Kay",
-      "Luis E. Lara Gonzalez",
-      "Kylie Clarke",
-      "Han Xian Aw Yeang",
-      "Rejhan Idrizi",
-      "Metta Jana",
-      "Damon J. Challice",
-      "Roberto Salgado",
-      "Heather Thorne",
-      "David Amor",
-      "Lesley Andrews",
-      "Yoland Antill",
-      "Rosemary Balleine",
-      "Jonathan Beesley",
-      "Ian Bennett",
-      "Michael Bogwitz",
-      "Simon Bodek",
-      "Leon Botes",
-      "Meagan Brennan",
-      "Melissa Brown",
-      "Michael Buckley",
-      "Jo Burke",
-      "Phyllis Butow",
-      "Liz Caldon",
-      "Ian Campbell",
-      "Michelle Cao",
-      "Anannya Chakrabarti",
-      "Deepa Chauhan",
-      "Manisha Chauhan",
-      "Georgia Chenevix-Trench",
-      "Alice Christian",
-      "Paul Cohen",
-      "Alison Colley",
-      "Ashley Crook",
-      "James Cui",
-      "Eliza Courtney",
-      "Margaret Cummings",
-      "Sarah-Jane Dawson",
-      "Anna deFazio",
-      "Martin Delatycki",
-      "Rebecca Dickson",
-      "Joanne Dixon",
-      "Stacey Edwards",
-      "Gelareh Farshid",
-      "Andrew Fellows",
-      "Georgina Fenton",
-      "Michael Field",
-      "James Flanagan",
-      "Peter Fong",
-      "Laura Forrest",
-      "Stephen Fox",
-      "Juliet French",
-      "Michael Friedlander",
-      "Clara Gaff",
-      "Mike Gattas",
-      "Peter George",
-      "Sian Greening",
-      "Marion Harris",
-      "Stewart Hart",
-      "Philip Harraka",
-      "Nick Hayward",
-      "John Hopper",
-      "Cass Hoskins",
-      "Clare Hunt",
-      "Paul James",
-      "Mark Jenkins",
-      "Alexa Kidd",
-      "Judy Kirk",
-      "Jessica Koehler",
-      "James Kollias",
-      "Sunil Lakhani",
-      "Mitchell Lawrence",
-      "Jason Lee",
-      "Shuai Li",
-      "Geoff Lindeman",
-      "Jocelyn Lippey",
-      "Lara Lipton",
-      "Liz Lobb",
-      "Sherene Loi",
-      "Graham Mann",
-      "Deborah Marsh",
-      "Sue-Anne McLachlan",
-      "Bettina Meiser",
-      "Roger Milne",
-      "Shona O’Connell",
-      "Sarah O’Sullivan",
-      "David Gallego-Ortega",
-      "Nick Pachter",
-      "Jia-Min Pang",
-      "Gargi Pathak",
-      "Briony Patterson",
-      "Amy Pearn",
-      "Kelly Phillips",
-      "Ellen Pieper",
-      "Susan Ramus",
-      "Edwina Rickard",
-      "Abi Ragunathan",
-      "Bridget Robinson",
-      "Mona Saleh",
-      "Anita Skandarajah",
-      "Elizabeth Salisbury",
-      "Christobel Saunders",
-      "Jodi Saunus",
-      "Peter Savas",
-      "Rodney Scott",
-      "Clare Scott",
-      "Adrienne Sexton",
-      "Joanne Shaw",
-      "Andrew Shelling",
-      "Shweta Srinivasa",
-      "Peter Simpson",
-      "Melissa Southey",
-      "Amanda Spurdle",
-      "Jessica Taylor",
-      "Renea Taylor",
-      "Heather Thorne",
-      "Alison Trainer",
-      "Kathy Tucker",
-      "Jane Visvader",
-      "Logan Walker",
-      "Rachael Williams",
-      "Ingrid Winship",
-      "Mary-Ann Young",
-      "Milita Zaheed",
-      "Cathie Poliness",
-      "Sophie Nightingale",
-      "Soo-Hwang Teo",
-      "Terence P. Speed",
-      "Jane Visvader",
-      "Paul J. Neeson",
-      "Phillip K. Darcy",
-      "Laura K. Mackay",
-      "Sherene Loi"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944569"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41586-025-09679-4",
-    "journal": "Nature",
-    "title": "Neoadjuvant immunotherapy in mismatch-repair-proficient colon cancers",
-    "link": "https://www.nature.com/articles/s41586-025-09679-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/s41586-025-09679-4\">doi:10.1038/s41586-025-09679-4</a></p>Neoadjuvant immunotherapy in mismatch-repair-proficient colon cancers",
-    "authors": [
-      "Pedro B. Tan",
-      "Yara L. Verschoor",
-      "José G. van den Berg",
-      "Sara Balduzzi",
-      "Niels F. M. Kok",
-      "Marieke E. Ijsselsteijn",
-      "Kat Moore",
-      "Adham Jurdi",
-      "Antony Tin",
-      "Paulien Kaptein",
-      "Monique E. van Leerdam",
-      "John B. A. G. Haanen",
-      "Emile E. Voest",
-      "Noel F. C. C. de Miranda",
-      "Ton N. Schumacher",
-      "Lodewyk F. A. Wessels",
-      "Myriam Chalabi"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944575"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03347-3",
-    "journal": "Nature",
-    "title": "Cold plunge: how I gained hands-on experience in marine biology",
-    "link": "https://www.nature.com/articles/d41586-025-03347-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03347-3\">doi:10.1038/d41586-025-03347-3</a></p>Matthew Kim learnt how to conduct research while studying in a small Canadian town for a semester.",
-    "authors": [
-      "Nikki Forrester"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944579"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03389-7",
-    "journal": "Nature",
-    "title": "What’s the cap on human energy expenditure? Elite athletes reveal ‘metabolic ceiling’",
-    "link": "https://www.nature.com/articles/d41586-025-03389-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03389-7\">doi:10.1038/d41586-025-03389-7</a></p>When athletes devote large amounts of energy to running or cycling, they unconsciously cut back on energy output elsewhere.",
-    "authors": [
-      "Mohana Basu"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944586"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03418-5",
-    "journal": "Nature",
-    "title": "John Gurdon obituary: Biologist who made cloning possible",
-    "link": "https://www.nature.com/articles/d41586-025-03418-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03418-5\">doi:10.1038/d41586-025-03418-5</a></p>He showed that specialized cells retain the genes to form an organism.",
-    "authors": [
-      "Ron Laskey"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944591"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03420-x",
-    "journal": "Nature",
-    "title": "People with blindness can read again after retinal implant",
-    "link": "https://www.nature.com/articles/d41586-025-03420-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03420-x\">doi:10.1038/d41586-025-03420-x</a></p>An electronic eye implant has restored vision in people with blindness caused by age-related macular degeneration.",
-    "authors": [
-      "Liam Drew"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944594"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03345-5",
-    "journal": "Nature",
-    "title": "Why simply ending animal testing isn’t the answer in biomedical research",
-    "link": "https://www.nature.com/articles/d41586-025-03345-5",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03345-5\">doi:10.1038/d41586-025-03345-5</a></p>Animal models provide insights that alternative approaches can’t. A heated debate about which method is better is distracting researchers from doing good science.",
-    "authors": [
-      "K. C. Kent  Lloyd"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944600"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03388-8",
-    "journal": "Nature",
-    "title": "Disconnecting part of the brain sends it into a deep sleep",
-    "link": "https://www.nature.com/articles/d41586-025-03388-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03388-8\">doi:10.1038/d41586-025-03388-8</a></p>Study on the effects of surgical epilepsy treatment adds to researchers’ understanding of unconsciousness.",
-    "authors": [
-      "Rachel Fieldhouse"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944604"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03343-7",
-    "journal": "Nature",
-    "title": "Why we still don’t understand the Universe — even after a century of dispute",
-    "link": "https://www.nature.com/articles/d41586-025-03343-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03343-7\">doi:10.1038/d41586-025-03343-7</a></p>Despite huge breakthroughs, astronomers still can’t agree on what the cosmos is made of, much less how it came to be. A fresh account delves into the reasons.",
-    "authors": [
-      "Helge Kragh"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944610"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03419-4",
-    "journal": "Nature",
-    "title": "Breastfeeding boosts immune cells that protect against breast cancer",
-    "link": "https://www.nature.com/articles/d41586-025-03419-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03419-4\">doi:10.1038/d41586-025-03419-4</a></p>The protective, long-lived T cells can persist for decades after a woman gives birth.",
-    "authors": [
-      "Starre Vartan"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944613"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03386-w",
-    "journal": "Nature",
-    "title": "AI language models killed the Turing test: do we even need a replacement?",
-    "link": "https://www.nature.com/articles/d41586-025-03386-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03386-w\">doi:10.1038/d41586-025-03386-w</a></p>Chatbots now ace the mathematician's famous imitation game, but imitation never equalled intelligence.",
-    "authors": [
-      "Elizabeth Gibney"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944617"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03346-4",
-    "journal": "Nature",
-    "title": "Are these the happiest PhD students in the world?",
-    "link": "https://www.nature.com/articles/d41586-025-03346-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03346-4\">doi:10.1038/d41586-025-03346-4</a></p>Brazil, Australia and Italy have the highest satisfaction scores in Nature’s global 2025 PhD survey — but are these nations really the best places to do a doctorate?",
-    "authors": [
-      "Linda Nordling"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944621"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03344-6",
-    "journal": "Nature",
-    "title": "Alternatives to animal testing are the future — it’s time that journals, funders and scientists embrace them",
-    "link": "https://www.nature.com/articles/d41586-025-03344-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03344-6\">doi:10.1038/d41586-025-03344-6</a></p>Biomedical research techniques that don’t involve the use of animals are gaining momentum, but those using innovative approaches still face resistance from some quarters.",
-    "authors": [
-      "Todd J.   Herron",
-      "Anke  Brüning-Richardson",
-      "Julie E.  Gough",
-      "Aline F.  Miller",
-      "Geoffrey J.  Pilkington",
-      "John  Greenman",
-      "Valerie  Speirs",
-      "Joseph C.  Wu"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944626"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03427-4",
-    "journal": "Nature",
-    "title": "How scientists are pushing back against Trump’s funding ‘deal’ for universities",
-    "link": "https://www.nature.com/articles/d41586-025-03427-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03427-4\">doi:10.1038/d41586-025-03427-4</a></p>Six institutions have so far rejected the administration’s list of demands over academic freedom concerns.",
-    "authors": [
-      "Dan Garisto",
-      "Alexandra Witze",
-      "Jenna  Ahart"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944631"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03422-9",
-    "journal": "Nature",
-    "title": "Daily briefing: Gene that causes obesity also shields against heart disease",
-    "link": "https://www.nature.com/articles/d41586-025-03422-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 17 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03422-9\">doi:10.1038/d41586-025-03422-9</a></p>Rare forms of the MC4R gene could explain why some people with obesity maintain good heart health. Plus, grant success is getting tougher in Europe and the solution to an iconic CIA cryptographic puzzle.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944634"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03401-0",
-    "journal": "Nature",
-    "title": "Daily briefing: How the brain locks in long-term memories",
-    "link": "https://www.nature.com/articles/d41586-025-03401-0",
-    "published": "",
-    "summary": "<p>Nature, Published online: 16 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03401-0\">doi:10.1038/d41586-025-03401-0</a></p>Astrocyte ‘support’ cells help engrave emotional memories on the brain in mice. Plus, what’s causing mysterious dots in images of the early universe and how making poison helped toads conquer the world.",
-    "authors": [
-      "Jacob Smith"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944638"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zsmt1y4",
-    "journal": "Science",
-    "title": "Lab mice can now have periods like humans",
-    "link": "https://www.science.org/content/article/lab-mice-can-now-have-periods-humans",
-    "published": "",
-    "summary": "Studies of rodents with a menstrual on/off switch could help people with endometriosis and other disorders",
-    "authors": [
-      "Holly Barker"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944642"
-  },
-  {
     "id": "https://www.science.org/doi/10.1126/science.z9p6m25",
     "journal": "Science",
     "title": "Beetle compound is so valuable insects eat bird poop to get it",
@@ -3528,531 +2981,358 @@
     "added_at": "2025-10-23T22:07:16.480366"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-20407-w",
-    "journal": "Nature_SystemsBiology",
-    "title": "Physicochemical profiling of Bambara groundnut (Vigna subterranea L.) reveals variation in cooking quality relevant to breeding programs",
-    "link": "https://www.nature.com/articles/s41598-025-20407-w",
-    "published": "2025-10-17T00:00:00+00:00",
-    "summary": "",
+    "id": "https://www.nature.com/articles/d41586-025-03415-8",
+    "journal": "Nature",
+    "title": "How to grow crystals when and where you want them",
+    "link": "https://www.nature.com/articles/d41586-025-03415-8",
+    "published": "",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03415-8\">doi:10.1038/d41586-025-03415-8</a></p>Scientists ‘draw’ crystal patterns using laser light.",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528633"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03421-w",
+    "journal": "Nature",
+    "title": "Audio long read: How to get the best night’s sleep — what the science says",
+    "link": "https://www.nature.com/articles/d41586-025-03421-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03421-w\">doi:10.1038/d41586-025-03421-w</a></p>Lessons learnt from research into the body’s internal clock could be key to unlocking blissful slumber.",
     "authors": [
-      "Amanda Ruzive et al."
+      "Lynne Peeples",
+      "Benjamin Thompson"
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922884"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528649"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01085-X?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "ZBP1 pathway promotes tumor immunogenicity in the combination of anti-HER2 therapy and epigenetic therapy",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01085-X?rss=yes",
+    "id": "https://www.nature.com/articles/d41586-025-03368-y",
+    "journal": "Nature",
+    "title": "Sugarcane genomes offer sweet surprise: mystery ancestor",
+    "link": "https://www.nature.com/articles/d41586-025-03368-y",
     "published": "",
-    "summary": "Wang et al. demonstrate that 5AZA combined with anti-HER2 therapy enhances tumor immunogenicity via ZBP1 activation. Increased accumulation of Z-RNA during senescence promotes ZBP1 activation. Epigenetic modulation represents a promising therapeutic strategy to sensitize anti-HER2 immunotherapy.",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03368-y\">doi:10.1038/d41586-025-03368-y</a></p>A previously unknown strain left a stamp on modern varieties of the world’s most popular sugar source.",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528655"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03507-5",
+    "journal": "Nature",
+    "title": "Ancient graffiti and brain complexities: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-025-03507-5",
+    "published": "",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03507-5\">doi:10.1038/d41586-025-03507-5</a></p>Andrew Robinson reviews five of the best science picks.",
     "authors": [
-      "Qishan Wang, Zhihao Wu, Yuanqin Yang, Chao Yang, Haoran Deng, Xingyue Zhou, Shuting Xu, Lingling Wu, Xiaochuan Hong, Xueni Yu, Lu Lu, Liufu Deng"
+      "Andrew Robinson"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922895"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528659"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01061-7?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Activity-dependent localization and dynamics of STIM1 and STIM2 at ER-PM contacts in hippocampal neurons",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01061-7?rss=yes",
+    "id": "https://www.nature.com/articles/d41586-025-03508-4",
+    "journal": "Nature",
+    "title": "Chen-Ning Yang obituary: intuitive physicist whose theories on broken symmetries were proved right",
+    "link": "https://www.nature.com/articles/d41586-025-03508-4",
     "published": "",
-    "summary": "Chhikara et al. show that neuronal STIM proteins are highly dynamic in the ER-plasma membrane but avoid synapses. While STIM2 clusters are modulated by basal NMDAR activity, stimulation of NMDAR triggers co-clustering of STIM1 and STIM2. The clustering of STIM proteins is independent from the activity of CaV1.2 channels.",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03508-4\">doi:10.1038/d41586-025-03508-4</a></p>Nobel prizewinner who helped to improve scientific relations between China and the United States.",
     "authors": [
-      "Arun Chhikara, Filip Maciąg, Nasrin Sorusch, Martin Heine"
+      "Christine Sutton"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922899"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528664"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01072-1?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Dynamic recruitment of Munc13 primes docked secretory granules for exocytosis",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01072-1?rss=yes",
+    "id": "https://www.nature.com/articles/d41586-025-03390-0",
+    "journal": "Nature",
+    "title": "AI chatbots are sycophants — researchers say it’s harming science",
+    "link": "https://www.nature.com/articles/d41586-025-03390-0",
     "published": "",
-    "summary": "Echeverry et al. show that Munc13-1 regulates insulin granule release via two C2B-domain dependent mechanisms: promoting Munc13-1 recruitment to granules and subsequent activation by Ca2+. The findings identify two separate Munc13-regulated mechanisms that act during granule priming and facilitation.",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03390-0\">doi:10.1038/d41586-025-03390-0</a></p>Nature asked researchers who use artificial intelligence how its propensity for people-pleasing affects their work — and what they are doing to mitigate it.",
     "authors": [
-      "Santiago Echeverry, Jan Saras, Per-Eric Lund, Johan Dunevall, Nikhil R. Gandasi, Sebastian Barg"
+      "Miryam Naddaf"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922904"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528670"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01069-1?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "p53-mediated regulation of epiblast cell numbers predicts reactivation during mouse embryonic diapause",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01069-1?rss=yes",
+    "id": "https://www.nature.com/articles/d41586-025-03487-6",
+    "journal": "Nature",
+    "title": "How Napoleon’s army met its doom: DNA reveals surprise illnesses had a role",
+    "link": "https://www.nature.com/articles/d41586-025-03487-6",
     "published": "",
-    "summary": "Murata et al. show that in mouse diapause embryos, ∼5% of cells remain proliferative beyond D10, overturning the view that all embryonic cells uniformly enter G0. The p53-Bax pathway regulates epiblast cell numbers via apoptosis, and epiblast cell counts predict reactivation, a defining trait of diapause.",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03487-6\">doi:10.1038/d41586-025-03487-6</a></p>Remains of some of the 300,000 soldiers who died on the retreat from Moscow reveal two bacterial diseases that probably added to the death count.",
     "authors": [
-      "Megumi Murata, Akihito Harada, Haruka Hirose, Hinako Maeda, Teppei Shimamura, Yasuyuki Ohkawa, Tatsuya Takemoto, Katsuyoshi Takaoka"
+      "Jenna Ahart"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922908"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528675"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01067-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Mitochondrial-activity-driven hematopoietic stem cell fate and lineage choice is first established in the aorta-gonad-mesonephros",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01067-8?rss=yes",
+    "id": "https://www.nature.com/articles/d41586-025-03259-2",
+    "journal": "Nature",
+    "title": "Paper or plastic?",
+    "link": "https://www.nature.com/articles/d41586-025-03259-2",
     "published": "",
-    "summary": "Prakash and Inamdar show that mitochondrial remodeling during the endothelial-to-hematopoietic transition (EHT) drives hematopoietic stem and progenitor cell (HSPC) formation. Differential mitochondrial membrane potential governs HSPC heterogeneity, impacting their fate and lineage choice. Mitochondrial activity during EHT shapes postnatal hematopoietic homeostasis and reveals a developmental origin of HSPC heterogeneity.",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03259-2\">doi:10.1038/d41586-025-03259-2</a></p>The real thing.",
     "authors": [
-      "Aishwarya Prakash, Maneesha S. Inamdar"
+      "K. J. Zimring"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922913"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528679"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01081-2?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Tumor suppressor protein p53 governs human trophoblast lineage development",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01081-2?rss=yes",
+    "id": "https://www.nature.com/articles/d41586-025-03440-7",
+    "journal": "Nature",
+    "title": "The sci-fi films that physicists love to watch — from <i>Interstellar</i> to <i>Spider-Man</i>",
+    "link": "https://www.nature.com/articles/d41586-025-03440-7",
     "published": "",
-    "summary": "Huang et al. identify novel functions of the tumor suppressor protein p53 in trophoblast development from hPSCs and uncover that p53 could act in trophoblast cell fate propensity and lineage development into STBs and EVTs by mediating the cell cycle state.",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03440-7\">doi:10.1038/d41586-025-03440-7</a></p>Nature surveyed scientists about their favourite cinematic moments to celebrate the International Year of Quantum Science and Technology.",
     "authors": [
-      "Yunying Huang, Ling Xu, Haifeng Fu, Wei Zhang, Ming Zeng, Sojung Lee, Shilong Li, Guocheng Lan, Yingzhang Huang, Degong Ruan, Qingqing Zhang, Chunyan Wang, Weiyu Zhang, Andy Chun Hang Chen, Sze Wan Fong, Yin Lau Lee, William Shu Biu Yeung, Jason Wing Hon Wong, Gordon Dougan, Lei Li, Jianqiao Liu, Asif Javed, Pentao Liu"
+      "Jen A. Miller"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922917"
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528685"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01078-2?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Inflammatory modalities shape the IgA repertoire via stochastic processes",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01078-2?rss=yes",
+    "id": "https://www.science.org/doi/10.1126/science.zo9tyr1",
+    "journal": "Science",
+    "title": "Rats filmed snatching bats from air for first time",
+    "link": "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time",
     "published": "",
-    "summary": "The nature of intestinal mucosal B cell responses induced during inflammatory disease is largely unresolved. Melcher et al. report on the origin and properties of inflammation-induced IgA antibodies and their functional relationship to commensal microbiota. Stochastic selection of divergent intestinal IgA repertoires during colitis implies unforeseeable pathophysiological outcomes.",
+    "summary": "Stunning hunting behaviour captured in German cave",
     "authors": [
-      "Christian Melcher, Chaim A. Schramm, Laura Kampe, Yushu Zhang, Katrin Westphal, Martina Krautkrämer, Xiameng Shen, Korbinian Brand, Peter Franz, Marius Vital, Daniel C. Douek, Niko Föger, Kyeong-Hee Lee"
+      "Chris Baraniuk"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922930"
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528692"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01083-6?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Innate immune molecular landscape following controlled human influenza virus infection",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01083-6?rss=yes",
+    "id": "https://www.science.org/doi/10.1126/science.z5vgjj5",
+    "journal": "Science",
+    "title": "Ambient noise can track dangerous ocean acidification",
+    "link": "https://www.science.org/content/article/ambient-noise-can-track-dangerous-ocean-acidification",
     "published": "",
-    "summary": "Thistlethwaite et al. use blood samples from a human influenza H3N2 challenge study to perform comprehensive multi-omics analyses, finding that circulating innate immune cells show persistent remodeling after resolution of infection, including suppressed inflammation. These results reveal a coordinated rewiring of the innate immune molecular landscape from mild influenza infection.",
+    "summary": "Acoustic technique could make it easier to monitor threat to marine life stemming from rising carbon emissions",
     "authors": [
-      "William Thistlethwaite, Sindhu Vangeti, Wan-Sze Cheng, Pankaj Agarwal, Antonio Cappuccio, Wenliang Wang, Bei Wei, Rachel Myers, Aliza B. Rubenstein, Daniel Chawla, Manoj Hariharan, Micah T. McClain, Thomas W. Burke, Steven H. Kleinstein, Joseph R. Ecker, Christopher W. Woods, William J. Greenleaf, Xi Chen, Irene Ramos, Elena Zaslavsky, Thomas G. Evans, Olga G. Troyanskaya, Stuart C. Sealfon"
+      "Paul Voosen"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922934"
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528697"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01064-2?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Infectious bacteria, but not the microbiota, induce a NOX-ATM-cytokine pathway that controls epithelial turnover",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01064-2?rss=yes",
+    "id": "https://www.science.org/doi/10.1126/science.zy39blv",
+    "journal": "Science",
+    "title": "How NSF hopes to keep Antarctic scientists afloat without an icebreaker",
+    "link": "https://www.science.org/content/article/how-nsf-hopes-keep-antarctic-scientists-afloat-without-icebreaker",
     "published": "",
-    "summary": "Nagy et al. identify a NOX-ATM-cytokine signaling axis in the Drosophila gut that is activated by infection independently of DNA damage. This pathway promotes enterocyte loss, cytokine production, and stem-cell-driven repair, defining a conserved epithelial stress response essential for tissue homeostasis and survival during enteric infection.",
+    "summary": "Ending <em>Palmer</em> lease is one of many belt-tightening moves amid budget uncertainty",
     "authors": [
-      "Peter Nagy, Nicolas Buchon"
+      "Jeffrey Mervis"
     ],
     "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922947"
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528701"
   },
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01077-0?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Multilevel regulation of c-di-GMP biosynthesis by cAMP signaling increases Shigella sonnei fitness and pathogenicity in response to bile salts",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01077-0?rss=yes",
-    "published": "",
-    "summary": "Intestinal pathogens employ different mechanisms to facilitate their infection and colonization in the intestines. Wang et al. demonstrate that Shigella sonnei elevates intracellular levels of cAMP by responding to bile salts. The cAMP signaling system then modulates c-di-GMP biosynthesis to promote fitness and pathogenicity of S. sonnei.",
-    "authors": [
-      "Mingfang Wang, Jia Zeng, Binbin Cui, Guangliang Wu, Xiayu Chen, Yikai Fu, Bing Gu, Yinyue Deng"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922952"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01222-7?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Enhancing pre-sexual and sexual differentiation of Toxoplasma gondii using retinal epithelial cells and intestinal organoids",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01222-7?rss=yes",
-    "published": "",
-    "summary": "Cancela, S. and Sena, F. et al. establish a non-feline in vitro model that enhances pre-sexual and sexual development of T. gondii. By integrating environmental conditions with genetic manipulation, they achieve synergistic stage conversion, providing an optimized platform to study the parasite’s sexual cycle without relying on feline hosts.",
-    "authors": [
-      "Saira Cancela, Florencia Sena, Romina Pagotto, Martina Crispo, Maria E. Francia, Mariela Bollati-Fogolín"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922957"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01062-9?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Clearing truncated tau protein restores neuronal function and prevents microglia activation in tauopathy mice",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01062-9?rss=yes",
-    "published": "",
-    "summary": "Certain tau protein fragments are a characteristic feature of Alzheimer’s disease and other tauopathies and are likely to have a role in disease progression. Antibody-mediated clearance of these fragments via intraneuronal lysosomes prevents tau toxicity, improves neuronal function, and reduces inflammation in culture and animal models.",
-    "authors": [
-      "Alejandro Martín-Ávila, Swananda R. Modak, Hameetha B. Rajamohamedsait, Andie Dodge, Dov B. Shamir, Senthilkumar Krishnaswamy, Leslie A. Sandusky-Beltran, Marilyn Walker, Yan Lin, Erin E. Congdon, Einar M. Sigurdsson"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922962"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01055-1?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Neural dynamics in superior colliculus of freely moving mice",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01055-1?rss=yes",
-    "published": "",
-    "summary": "The superior colliculus supports both visual processing and motor output, but has not been well-studied during free movement. Sharp, Shin et al. recorded neural activity with head and eye movements in freely moving mice, demonstrating the role of superficial and deep layers in visual and motor functions during active vision.",
-    "authors": [
-      "Shelby L. Sharp, Jhoseph Shin, Dylan M. Martins, Keaton Jones, Cristopher M. Niell"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922970"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01071-X?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Dysregulation of astrocyte-secreted pleiotrophin contributes to neuronal structural and functional deficits in Down syndrome",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01071-X?rss=yes",
-    "published": "",
-    "summary": "Brandebura et al. demonstrate that aberrant downregulation of the secreted molecule pleiotrophin contributes to neuronal phenotypes in a Down syndrome mouse model. Targeting overexpression of pleiotrophin to astrocytes improves neuronal morphological and functional synaptic phenotypes.",
-    "authors": [
-      "Ashley N. Brandebura, Adrien Paumier, Quinn N. Asbell, Tao Tao, Mariel Kristine B. Micael, Sherlyn Sanchez, Nicola J. Allen"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922976"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01070-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "GABAergic circuits reflect different requirements for sensory integration in postnatal mouse neocortex",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01070-8?rss=yes",
-    "published": "",
-    "summary": "Ghezzi et al. find that GABAergic interneurons differentially contribute to sensory-evoked responses in postnatal somatosensory and visual cortices. This developmental divergence is underpinned by differences in the composition of somatostatin interneuron subtype and the transient circuits formed by these cells across these sensory areas.",
-    "authors": [
-      "Filippo Ghezzi, Liad J. Baruchin, Ngoc T. Ha, Mark J. Shah-Ostrowski, Alessandra G. Ciancone Chama, Jacqueline A. Stacey, Simon J.B. Butt"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922983"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01093-9?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Nos1+ neurons are critical for motor learning and post-stroke motor recovery",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01093-9?rss=yes",
-    "published": "",
-    "summary": "Motor learning has strong significance for stroke recovery. Lin et al. show that M1 Nos1+ neurons are corticospinal neurons, selectively activated by and critical for motor learning. Their activation enhances structural plasticity, oscillations, and regional CBF. Importantly, activating M1 Nos1+ neurons or using NO donors promotes stroke recovery.",
-    "authors": [
-      "Yu-Hui Lin, Xiu-Mei Xu, Long Lin, Xian-Hui Deng, Wei Chen, Ming-Yu Chen, Ya-Lan Hou, Fan Gao, Chang-Jing Zhang, Hai-Yin Wu, Lei Chang, Chun-Xia Luo, Dong-Ya Zhu"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922988"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01219-7?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Med20 regulates myelination in the peripheral nervous system by modulating ferroptosis of Schwann cells",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01219-7?rss=yes",
-    "published": "",
-    "summary": "Med20 safeguards peripheral myelination by suppressing Schwann cell ferroptosis. Loss of Med20 in Schwann cells triggers ferroptosis via the DDB1-UHRF1-BACH1-Hmox1 axis, disrupting myelin sheath formation. Pharmacological inhibition of HO-1 (ZnPP) or ferroptosis (Fer-1) rescues myelination defects, revealing a therapeutic strategy for PNS disorders linked to Med20 dysfunction.",
-    "authors": [
-      "Wenyi Yang, Xiang Chen, Chunyan Yang, Yanqing Mao, Wei Zhuang, Yunshan Xiao, Xueqin Zhang, Zhimin Ou, Ying Chen"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922992"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01225-2?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Sound preferences in mice are sex dependent",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01225-2?rss=yes",
-    "published": "",
-    "summary": "Sehrawat et al. find that sound preferences, brain responses, and the relationships between them in adulthood in mice are shaped by experience during infancy. These effects were sex dependent.",
-    "authors": [
-      "Kamini Sehrawat, Israel Nelken"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.922996"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41551-025-01546-x",
+    "id": "https://www.nature.com/articles/s43856-025-01097-x",
     "journal": "Nature_CompBio",
-    "title": "Autonomous ultrasound with UltraBot",
-    "link": "https://www.nature.com/articles/s41551-025-01546-x",
-    "published": "2025-10-17T00:00:00+00:00",
+    "title": "Author Correction: Synergistic H&E and IHC image analysis by AI predicts cancer biomarkers and survival outcomes in colorectal and breast cancer",
+    "link": "https://www.nature.com/articles/s43856-025-01097-x",
+    "published": "2025-10-24T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Rita Strack"
+      "Yating Cheng et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923004"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528742"
   },
   {
-    "id": "https://www.nature.com/articles/s41588-025-02346-4",
+    "id": "https://www.nature.com/articles/s41598-025-21015-4",
     "journal": "Nature_CompBio",
-    "title": "Genotyping sequence-resolved copy number variation using pangenomes reveals paralog-specific global diversity and expression divergence of duplicated genes",
-    "link": "https://www.nature.com/articles/s41588-025-02346-4",
-    "published": "2025-10-17T00:00:00+00:00",
+    "title": "Longitudinal parametric response mapping on CT in assessing functional small airway disease and emphysema in COPD",
+    "link": "https://www.nature.com/articles/s41598-025-21015-4",
+    "published": "2025-10-24T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Walfred Ma et al."
+      "Taeyun Kim et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923009"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528755"
   },
   {
-    "id": "https://www.nature.com/articles/s41467-025-65072-9",
+    "id": "https://www.nature.com/articles/s41598-025-21119-x",
     "journal": "Nature_CompBio",
-    "title": "Author Correction: Cross-species comparison reveals therapeutic vulnerabilities halting glioblastoma progression",
-    "link": "https://www.nature.com/articles/s41467-025-65072-9",
-    "published": "2025-10-17T00:00:00+00:00",
+    "title": "Cervical cancer prediction using deformable kernel darknet-53 and depth wise separable convolutional neural networks",
+    "link": "https://www.nature.com/articles/s41598-025-21119-x",
+    "published": "2025-10-24T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Leo Carl Foerster et al."
+      "Gaurav Kumar Ameta et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923013"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528769"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-20496-7",
+    "id": "https://www.nature.com/articles/s41587-025-02859-7",
     "journal": "Nature_CompBio",
-    "title": "Reasoning-based LLMs surpass average human performance on medical social skills",
-    "link": "https://www.nature.com/articles/s41598-025-20496-7",
-    "published": "2025-10-17T00:00:00+00:00",
+    "title": "Democratizing protein language model training, sharing and collaboration",
+    "link": "https://www.nature.com/articles/s41587-025-02859-7",
+    "published": "2025-10-24T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Khalid Ibraheem Alohali et al."
+      "Jin Su et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923017"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528787"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-19801-1",
+    "id": "https://www.nature.com/articles/s41598-025-21096-1",
     "journal": "Nature_CompBio",
-    "title": "Comparative transcriptome profiling reveals molecular mechanisms of freezing stress responses in cultivated and wild Cicer species",
-    "link": "https://www.nature.com/articles/s41598-025-19801-1",
-    "published": "2025-10-17T00:00:00+00:00",
+    "title": "Multi-institutional validation of AI models for classifying urothelial neoplasms in digital pathology",
+    "link": "https://www.nature.com/articles/s41598-025-21096-1",
+    "published": "2025-10-24T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Melike Bakır et al."
+      "Jun Young Park et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923026"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528791"
   },
   {
-    "id": "https://www.nature.com/articles/s41598-025-21923-5",
+    "id": "https://www.nature.com/articles/s41598-025-21032-3",
     "journal": "Nature_CompBio",
-    "title": "Bio-inspired neutrosophic-enzyme intelligence framework for pediatric dental disease detection using multi-modal clinical data",
-    "link": "https://www.nature.com/articles/s41598-025-21923-5",
-    "published": "2025-10-17T00:00:00+00:00",
+    "title": "Smart defense based on explainable stacked machine learning architecture for securing internet of health things with K-means clustering",
+    "link": "https://www.nature.com/articles/s41598-025-21032-3",
+    "published": "2025-10-24T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Hanaa Salem Marie et al."
+      "Tanzila Saba et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923035"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528795"
   },
   {
-    "id": "https://www.nature.com/articles/s41588-025-02362-4",
+    "id": "https://www.nature.com/articles/s41598-025-21200-5",
     "journal": "Nature_CompBio",
-    "title": "Locityper enables targeted genotyping of complex polymorphic genes",
-    "link": "https://www.nature.com/articles/s41588-025-02362-4",
-    "published": "2025-10-17T00:00:00+00:00",
+    "title": "Dissecting lncRNA-mRNA regulatory network in type 2 diabetes as the risk factor of pancreatic cancer",
+    "link": "https://www.nature.com/articles/s41598-025-21200-5",
+    "published": "2025-10-24T00:00:00+00:00",
     "summary": "",
     "authors": [
-      "Timofey Prodanov et al."
+      "Amirhossein Naghsh Nilchi et al."
     ],
     "doi": "",
     "parser_type": "nature",
     "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923039"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528837"
   },
   {
-    "id": "https://www.nature.com/articles/s41467-025-64487-8",
-    "journal": "Nature_CompBio",
-    "title": "Investigating the population structure of Moraxella catarrhalis using a cgMLST scheme and LIN code system",
-    "link": "https://www.nature.com/articles/s41467-025-64487-8",
-    "published": "2025-10-17T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Iman Yassine et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923043"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-20191-7",
-    "journal": "Nature_CompBio",
-    "title": "Analysis of fractional-order model for the transmission dynamics of malaria via Caputo–Fabrizio and Atangana–Baleanu operators",
-    "link": "https://www.nature.com/articles/s41598-025-20191-7",
-    "published": "2025-10-17T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Benedict Celestine Agbata et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923050"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-20187-3",
-    "journal": "Nature_CompBio",
-    "title": "Comprehensive analysis of LncRNA-miRNA-mRNA CeRNA network associated with umbilical cord blood PBMC in down syndrome",
-    "link": "https://www.nature.com/articles/s41598-025-20187-3",
-    "published": "2025-10-17T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Zhipeng Zeng et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923058"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1125223",
+    "id": "https://www.technologyreview.com/?p=1126569",
     "journal": "MIT_TechReview",
-    "title": "This startup thinks slime mold can help us design better cities",
-    "link": "https://www.technologyreview.com/2025/10/17/1125223/slime-design-better-cities-mireta/",
-    "published": "Fri, 17 Oct 2025 10:00:00 +0000",
-    "summary": "It is a yellow blob with no brain, yet some researchers believe a curious organism known as slime mold could help us build more resilient cities. Humans have been building cities for 6,000 years, but slime mold has been around for 600 million. The team behind a new startup called Mireta wants to translate the&#8230;",
+    "title": "The Download: carbon removal’s future, and measuring pain using an app",
+    "link": "https://www.technologyreview.com/2025/10/24/1126569/the-download-carbon-removals-future-and-measuring-pain-using-an-app/",
+    "published": "Fri, 24 Oct 2025 12:10:00 +0000",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s next for carbon removal? After years of growth that spawned hundreds of startups, the nascent carbon removal sector appears to be facing a reckoning. Running Tide, a promising aquaculture company, shut down&#8230;",
     "authors": [
-      "Elissaveta M. Brandon"
+      "Rhiannon Williams"
     ],
     "doi": "",
     "parser_type": "generic",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923073"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528849"
   },
   {
-    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/040700054/101700262/",
-    "journal": "Nikkei_BioTech",
-    "title": "バイオベンチャー株価週報、フェニックスバイオ、Heartseed、GEIが上昇、サンバイオ、ステラファーマ、レナサイエンスが下落",
-    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/040700054/101700262/",
-    "published": "",
-    "summary": "",
+    "id": "https://www.technologyreview.com/?p=1126451",
+    "journal": "MIT_TechReview",
+    "title": "An AI app to measure pain is here",
+    "link": "https://www.technologyreview.com/2025/10/24/1126451/an-ai-app-to-measure-pain-is-here/",
+    "published": "Fri, 24 Oct 2025 09:00:00 +0000",
+    "summary": "How are you feeling? I’m genuinely interested in the well-being of all my treasured Checkup readers, of course. But this week I’ve also been wondering how science and technology can help answer that question—especially when it comes to pain. In the latest issue of MIT Technology Review magazine, Deena Mousa describes how an AI-powered smartphone app&#8230;",
     "authors": [
-      "BTO"
+      "Jessica Hamzelou"
     ],
     "doi": "",
     "parser_type": "generic",
     "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-10-17T22:07:20.923079"
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-24T22:07:41.528852"
   },
   {
     "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01087-3?rss=yes",
@@ -6059,5 +5339,460 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-10-23T22:07:16.480415"
+  },
+  {
+    "id": "https://www.nature.com/articles/d44224-025-00032-8",
+    "journal": "Nature_SystemsBiology",
+    "title": "How to break a fundamental limit in fluorescence microscopy",
+    "link": "https://www.nature.com/articles/d44224-025-00032-8",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528706"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-64457-0",
+    "journal": "Nature_SystemsBiology",
+    "title": "Engineering wetware and software for the predictive design of compressed genetic circuits for higher-state decision-making",
+    "link": "https://www.nature.com/articles/s41467-025-64457-0",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Brian D. Huang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528711"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01231-8?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Identification of molecular markers and exploration of the oncogenic role of exomeres in hepatocellular carcinoma",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01231-8?rss=yes",
+    "published": "",
+    "summary": "This study isolates extracellular vesicles and particles (EVPs) from hepatocellular carcinoma (HCC) cells. Biophysical and proteomic analyses demonstrate that sEVs and exomeres are distinctive entities. GALNS and MAN2B1 are identified as potential EM markers. HCC-derived EMs promote oncogenesis via several mechanisms, including PI3K/AKT/mTOR activation, cell cycle progression, and lipidomic dysregulation.",
+    "authors": [
+      "Cherlie Lot Sum Yeung, Charlotte Jiaqi Lai, Le Cui, Lavisha Korani, Tung Him Ng, Xiaoxin Zhang, Zhixian Chen, Ricky Ruiqi Ma, Kwan Ming Ng, Judy Wai Ping Yam"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528716"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01194-5?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Chromatin remodeling activity of EP400 safeguards chromosomal stability by preventing CENP-A mislocalization",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01194-5?rss=yes",
+    "published": "",
+    "summary": "Sethi et al. define a molecular role for the ATP-dependent chromatin remodeler EP400, a core subunit of the NuA4 HAT complex, in preventing CENP-A mislocalization for chromosomal stability. Cells defective for EP400 function cause mislocalization of CENP-A to non-centromeric regions in a DAXX-dependent manner, leading to CIN phenotypes.",
+    "authors": [
+      "Subhash Chandra Sethi, Roshan L. Shrestha, Vinutha Balachandra, Tetsuya Hori, Luca Corda, Shinjen Lin, Laurent Ozbun, Tatiana S. Karpova, Katherine McKinnon, Raj Chari, Gianluca Pegoraro, Ken Chih-Chien Cheng, Simona Giunta, Natasha J. Caplen, Tatsuo Fukagawa, Munira A. Basrai"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528721"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01252-5?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Siderophore-mediated iron enrichment in the biofilm matrix enhances plant iron nutrition",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01252-5?rss=yes",
+    "published": "",
+    "summary": "Tan et al. reveal that Bacillus velezensis biofilms accumulate Fe on roots, serving as Fe reservoirs to make Fe more accessible to the host plant. The bacterial siderophore bacillibactin plays a dual role by promoting Fe accumulation in the biofilms and activating plant Fe-deficiency responses.",
+    "authors": [
+      "Taimeng Tan, Zhihui Xu, Lili Tao, Xinli Sun, Jiyu Xie, Youzhi Miao, Nan Zhang, Weibing Xun, Pascale B. Beauregard, Ákos T. Kovács, Yifa Yu, Yuan Luo, Wei Ran, Ruifu Zhang, Qirong Shen"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528725"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-63418-x",
+    "journal": "Nature_CompBio",
+    "title": "MultiGATE: integrative analysis and regulatory inference in spatial multi-omics data via graph representation learning",
+    "link": "https://www.nature.com/articles/s41467-025-63418-x",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Jishuai Miao et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528730"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41587-025-02806-6",
+    "journal": "Nature_CompBio",
+    "title": "Deep learning speeds the search for new antibiotic scaffolds",
+    "link": "https://www.nature.com/articles/s41587-025-02806-6",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yumeng Zhang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528734"
+  },
+  {
+    "id": "https://www.nature.com/articles/d44224-025-00033-7",
+    "journal": "Nature_CompBio",
+    "title": "Empowering researchers with open access genomic platforms",
+    "link": "https://www.nature.com/articles/d44224-025-00033-7",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528738"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41587-025-02814-6",
+    "journal": "Nature_CompBio",
+    "title": "Deep-learning-based virtual screening of antibacterial compounds",
+    "link": "https://www.nature.com/articles/s41587-025-02814-6",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Gabriele Scalia et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528746"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41551-025-01537-y",
+    "journal": "Nature_CompBio",
+    "title": "Implanted microelectrode arrays in reinnervated muscles allow separation of neural drives from transferred polyfunctional nerves",
+    "link": "https://www.nature.com/articles/s41551-025-01537-y",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Laura Ferrante et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528751"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-02015-0",
+    "journal": "Nature_CompBio",
+    "title": "Artificial intelligence for autoimmune diseases",
+    "link": "https://www.nature.com/articles/s41746-025-02015-0",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Arjun Mahajan et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528759"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-02055-6",
+    "journal": "Nature_CompBio",
+    "title": "Evaluating human-in-the-loop strategies for artificial intelligence-enabled translation of patient discharge instructions: a multidisciplinary analysis",
+    "link": "https://www.nature.com/articles/s41746-025-02055-6",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Ryan CL Brewster et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528764"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-21352-4",
+    "journal": "Nature_CompBio",
+    "title": "Artificial intelligence strategies based on random forests for detecting ischemia–reperfusion injury changes in kidney tissue during intravital imaging",
+    "link": "https://www.nature.com/articles/s41598-025-21352-4",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Igor Pantic et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528775"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-21357-z",
+    "journal": "Nature_CompBio",
+    "title": "Cell type- and species-specific regulation of hepatic lncRNAs by TCDD-activated aryl hydrocarbon receptor",
+    "link": "https://www.nature.com/articles/s41598-025-21357-z",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Gavin A. Post et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528779"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-64116-4",
+    "journal": "Nature_CompBio",
+    "title": "Global comparative structural analysis of responses to protein phosphorylation",
+    "link": "https://www.nature.com/articles/s41467-025-64116-4",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Miguel Correa Marrero et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528784"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-21301-1",
+    "journal": "Nature_CompBio",
+    "title": "Artificial intelligence for predicting depression anxiety and stress using psychometric data",
+    "link": "https://www.nature.com/articles/s41598-025-21301-1",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Tamer ShamsEldin et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528800"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-21254-5",
+    "journal": "Nature_CompBio",
+    "title": "Transcriptomic profiling reveals neural–immune–stromal dysregulation and risk-associated gene signatures in advanced keratoconus",
+    "link": "https://www.nature.com/articles/s41598-025-21254-5",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Kaiyue Du et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528806"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-20997-5",
+    "journal": "Nature_CompBio",
+    "title": "The impact of PANoptosis-related genes on immune profiles and subtype classification in ischemic stroke",
+    "link": "https://www.nature.com/articles/s41598-025-20997-5",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Xinrui Cai et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528815"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-19578-3",
+    "journal": "Nature_CompBio",
+    "title": "Combining antigenic data from public sources gives an early indication of the immune escape of emerging virus variants",
+    "link": "https://www.nature.com/articles/s41598-025-19578-3",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Antonia Netzl et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528820"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-14261-z",
+    "journal": "Nature_CompBio",
+    "title": "Comprehensive evaluation of optimization algorithms for medical image segmentation",
+    "link": "https://www.nature.com/articles/s41598-025-14261-z",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Nijad A. Al-Najdawi et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528824"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-14690-w",
+    "journal": "Nature_CompBio",
+    "title": "PS3N: leveraging protein sequence-structure similarity for novel drug-drug interaction discovery",
+    "link": "https://www.nature.com/articles/s41598-025-14690-w",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Saminur Islam et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528828"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-64459-y",
+    "journal": "Nature_CompBio",
+    "title": "Addressing data heterogeneity in distributed medical imaging with heterosync learning",
+    "link": "https://www.nature.com/articles/s41467-025-64459-y",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Hang-Tong Hu et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528833"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-64916-8",
+    "journal": "Nature_CompBio",
+    "title": "LorBin: efficient binning of long-read metagenomes by multiscale adaptive clustering and evaluation",
+    "link": "https://www.nature.com/articles/s41467-025-64916-8",
+    "published": "2025-10-24T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Wei Xue et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528841"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1126584",
+    "journal": "MIT_TechReview",
+    "title": "Stand Up for Research, Innovation, and Education",
+    "link": "https://www.technologyreview.com/2025/10/24/1126584/stand-up-for-research-innovation-and-education-2/",
+    "published": "Fri, 24 Oct 2025 14:24:23 +0000",
+    "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and the world. And we need you to join us at this&#8230;",
+    "authors": [
+      "the MIT Alumni Association"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528845"
+  },
+  {
+    "id": "https://www.technologyreview.com/?p=1126478",
+    "journal": "MIT_TechReview",
+    "title": "What’s next for carbon removal?",
+    "link": "https://www.technologyreview.com/2025/10/24/1126478/whats-next-for-carbon-removal/",
+    "published": "Fri, 24 Oct 2025 09:00:00 +0000",
+    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. In the early 2020s, a little-known aquaculture company in Portland, Maine, snagged more than $50 million by pitching a plan to harness nature to fight back&#8230;",
+    "authors": [
+      "James Temple"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528857"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/040700054/102400263/",
+    "journal": "Nikkei_BioTech",
+    "title": "バイオベンチャー株価週報、GEI、OTS、3Dマトリックスが上昇、フェニックスバイオ、NANO MRNA、ティムスが下落",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/040700054/102400263/",
+    "published": "",
+    "summary": "",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528862"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/24/13892/",
+    "journal": "Nikkei_BioTech",
+    "title": "《日経メディカルより》新たに厚生労働大臣に就任した上野賢一郎氏が閣議後記者会見で発言、新厚労相の上野氏「処遇改善や経営改善支援のための施策を経済対策や補正予算に盛り込む」",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/10/24/13892/",
+    "published": "",
+    "summary": "厚生労働大臣に就任した上野賢一郎氏は2025年10月24日の閣議後記者会見で、医療機関・介護施設の経営や職員の処遇改善を支援するために必要な施策を、今後の経済対策や補正予算に盛り込む考えを強調した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-24T22:07:41.528868"
   }
 ]
