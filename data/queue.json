@@ -1,345 +1,5 @@
 [
   {
-    "id": "https://www.science.org/doi/10.1126/science.z9p6m25",
-    "journal": "Science",
-    "title": "Beetle compound is so valuable insects eat bird poop to get it",
-    "link": "https://www.science.org/content/article/beetle-compound-so-valuable-insects-eat-bird-poop-get-it",
-    "published": "",
-    "summary": "To obtain the toxic chemical cantharidin, insects suck beetles’ blood—and even munch on their digested remains",
-    "authors": [
-      "Richard Pallardy"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944647"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-24189-z",
-    "journal": "Nature_CompBio",
-    "title": "Cardiovascular risk assessment enhanced by automated machine learning in a multi-phase study",
-    "link": "https://www.nature.com/articles/s41598-025-24189-z",
-    "published": "2025-10-20T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Igor Bibi et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944676"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41597-025-05939-0",
-    "journal": "Nature_CompBio",
-    "title": "Long-read RNA sequencing dataset of human pancreatic cancer cell lines",
-    "link": "https://www.nature.com/articles/s41597-025-05939-0",
-    "published": "2025-10-20T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Shengnan Luo et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944680"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41746-025-01992-6",
-    "journal": "Nature_CompBio",
-    "title": "Unlocking the potential: multimodal AI in biotechnology and digital medicine—economic impact and ethical challenges",
-    "link": "https://www.nature.com/articles/s41746-025-01992-6",
-    "published": "2025-10-20T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Arya Bhushan et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944696"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41467-025-64304-2",
-    "journal": "Nature_CompBio",
-    "title": "Artificial intelligence coupled to pharmacometrics modelling to tailor malaria and tuberculosis treatment in Africa",
-    "link": "https://www.nature.com/articles/s41467-025-64304-2",
-    "published": "2025-10-20T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Gemma Turon et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944719"
-  },
-  {
-    "id": "https://www.technologyreview.com/?p=1125336",
-    "journal": "MIT_TechReview",
-    "title": "AI could predict who will have a heart attack",
-    "link": "https://www.technologyreview.com/2025/10/20/1125336/ai-heart-attack-prediction/",
-    "published": "Mon, 20 Oct 2025 10:00:00 +0000",
-    "summary": "For all the modern marvels of cardiology, we struggle to predict who will have a heart attack. Many people never get screened at all. Now, startups like Bunkerhill Health, Nanox.AI, and HeartLung Technologies are applying AI algorithms to screen millions of CT scans for early signs of heart disease. This technology could be a breakthrough&#8230;",
-    "authors": [
-      "Vishal Khetpal"
-    ],
-    "doi": "",
-    "parser_type": "generic",
-    "feed_priority": "medium",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-20T22:07:35.944733"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03330-y",
-    "journal": "Nature",
-    "title": "Hopes of realizing a dream ‘city of health’",
-    "link": "https://www.nature.com/articles/d41586-025-03330-y",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03330-y\">doi:10.1038/d41586-025-03330-y</a></p>Musings on manifesting a world of sanitary homes and hospitals, and thoughts on an essay that defines rhythm, in this week’s pick from the Nature archive.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257289"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03369-x",
-    "journal": "Nature",
-    "title": "‘Gland-in-a-dish’ secretes stress hormone like the real thing",
-    "link": "https://www.nature.com/articles/d41586-025-03369-x",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03369-x\">doi:10.1038/d41586-025-03369-x</a></p>Lab-grown structure mimics the adrenal cortex, which produces the critical hormone called cortisol.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257305"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03428-3",
-    "journal": "Nature",
-    "title": "Brazil must beef up its COP30 scheme to preserve tropical forests",
-    "link": "https://www.nature.com/articles/d41586-025-03428-3",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03428-3\">doi:10.1038/d41586-025-03428-3</a></p>Brazil must beef up its COP30 scheme to preserve tropical forests",
-    "authors": [
-      "James D. Langston",
-      "Daniel S. Mendham",
-      "Ali Yansyah Abdurrahim",
-      "Jatna Supriatna"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257311"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03430-9",
-    "journal": "Nature",
-    "title": "Take the time to ensure that AI is safe",
-    "link": "https://www.nature.com/articles/d41586-025-03430-9",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03430-9\">doi:10.1038/d41586-025-03430-9</a></p>Take the time to ensure that AI is safe",
-    "authors": [
-      "Sam Illingworth"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257315"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03429-2",
-    "journal": "Nature",
-    "title": "The race for deep-sea minerals could cause geopolitical and ecological harm",
-    "link": "https://www.nature.com/articles/d41586-025-03429-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03429-2\">doi:10.1038/d41586-025-03429-2</a></p>The race for deep-sea minerals could cause geopolitical and ecological harm",
-    "authors": [
-      "Milad Haghani",
-      "Abbas Rajabifard",
-      "Thomas Wiedmann",
-      "David A. Hensher"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257320"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03431-8",
-    "journal": "Nature",
-    "title": "Genetics can give evolving societies a leg up",
-    "link": "https://www.nature.com/articles/d41586-025-03431-8",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03431-8\">doi:10.1038/d41586-025-03431-8</a></p>Genetics can give evolving societies a leg up",
-    "authors": [
-      "Andrew J. Doig"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257324"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03370-4",
-    "journal": "Nature",
-    "title": "Stinkbug ‘ear’ actually hosts parasite-fighting fungi",
-    "link": "https://www.nature.com/articles/d41586-025-03370-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03370-4\">doi:10.1038/d41586-025-03370-4</a></p>Fungal armour keeps stinkbug eggs safe from hungry young wasps.",
-    "authors": [],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257329"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03340-w",
-    "journal": "Nature",
-    "title": "Universities are embracing AI: will students get smarter or stop thinking?",
-    "link": "https://www.nature.com/articles/d41586-025-03340-w",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03340-w\">doi:10.1038/d41586-025-03340-w</a></p>Millions of students arriving at campuses are now using artificial intelligence. Worries abound.",
-    "authors": [
-      "Helen Pearson"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257333"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03397-7",
-    "journal": "Nature",
-    "title": "The TrumpRx website won’t slash drug prices — but this will",
-    "link": "https://www.nature.com/articles/d41586-025-03397-7",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03397-7\">doi:10.1038/d41586-025-03397-7</a></p>Tighter price regulation would deliver fewer new drugs but improve global health.",
-    "authors": [
-      "Beth Woods"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257338"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03417-6",
-    "journal": "Nature",
-    "title": "US PhD admissions shrink as fears over Trump’s cuts take hold",
-    "link": "https://www.nature.com/articles/d41586-025-03417-6",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03417-6\">doi:10.1038/d41586-025-03417-6</a></p>Some doctoral programmes are admitting no students at all amid uncertainty about federal science funding.",
-    "authors": [
-      "Alexandra Witze"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257343"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-02948-2",
-    "journal": "Nature",
-    "title": "Cake to the rescue: how these PhD students are cooking up a sense of community",
-    "link": "https://www.nature.com/articles/d41586-025-02948-2",
-    "published": "",
-    "summary": "<p>Nature, Published online: 21 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-02948-2\">doi:10.1038/d41586-025-02948-2</a></p>One treat at a time, these graduate students are helping to raise funds for charitable organizations.",
-    "authors": [
-      "Sarah Wells"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257347"
-  },
-  {
-    "id": "https://www.nature.com/articles/d41586-025-03435-4",
-    "journal": "Nature",
-    "title": "Daily briefing: Time to retire the Turing test?",
-    "link": "https://www.nature.com/articles/d41586-025-03435-4",
-    "published": "",
-    "summary": "<p>Nature, Published online: 20 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03435-4\">doi:10.1038/d41586-025-03435-4</a></p>Some researchers want an upgraded version of Alan Turing’s AI thought experiment; others want it scrapped entirely. Plus, why the rate of peanut allergies might have dropped in the United States and a blood test for Alzheimer’s disease.",
-    "authors": [
-      "Flora Graham"
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257351"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.zf8stsp",
-    "journal": "Science",
-    "title": "‘I fear we are sitting on a time bomb.’ Scientists debate mass distribution of antibiotics in Africa",
-    "link": "https://www.science.org/content/article/i-fear-we-are-sitting-time-bomb-scientists-debate-mass-distribution-antibiotics-africa",
-    "published": "",
-    "summary": "Prophylactic use of azithromycin saves vulnerable children’s lives, but could trigger antibiotic resistance",
-    "authors": [
-      "Gretchen Vogel"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257356"
-  },
-  {
-    "id": "https://www.science.org/doi/10.1126/science.z261u85",
-    "journal": "Science",
-    "title": "‘It’s like a horror movie pregnancy.’ Researcher studies maggots—by letting them eat him",
-    "link": "https://www.science.org/content/article/it-s-horror-movie-pregnancy-researcher-studies-maggots-letting-them-eat-him",
-    "published": "",
-    "summary": "<cite>Science</cite> chats with wildlife epidemiologist Tony Goldberg about what he’s learned from becoming a meal for parasites",
-    "authors": [
-      "Rachel Nuwer"
-    ],
-    "doi": "",
-    "parser_type": "science",
-    "feed_priority": "high",
-    "priority": 2,
-    "priority_name": "HIGH",
-    "added_at": "2025-10-21T22:07:50.257362"
-  },
-  {
     "id": "https://www.science.org/doi/10.1126/science.z8m0n9k",
     "journal": "Science",
     "title": "Stranded coral boulders point to a medieval tsunami in the Caribbean",
@@ -3335,6 +2995,74 @@
     "added_at": "2025-10-24T22:07:41.528852"
   },
   {
+    "id": "https://www.nature.com/articles/d41586-025-03491-w",
+    "journal": "Nature",
+    "title": "China seeks self-reliance in science in next five-year plan",
+    "link": "https://www.nature.com/articles/d41586-025-03491-w",
+    "published": "",
+    "summary": "<p>Nature, Published online: 24 October 2025; <a href=\"https://www.nature.com/articles/d41586-025-03491-w\">doi:10.1038/d41586-025-03491-w</a></p>Beijing wants to double down on advanced semiconductor technologies, artificial intelligence and basic research.",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-25T22:06:37.166061"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/science.z1kxm7w",
+    "journal": "Science",
+    "title": "Justice Department unexpectedly drops fraud case against Alzheimer’s scientist",
+    "link": "https://www.science.org/content/article/justice-department-unexpectedly-drops-fraud-case-against-alzheimer-s-scientist",
+    "published": "",
+    "summary": "Decision comes after disclosure of university letter concluding Hoau-Yan Wang did not engage in misconduct",
+    "authors": [
+      "John Travis"
+    ],
+    "doi": "",
+    "parser_type": "science",
+    "feed_priority": "high",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-25T22:06:37.166077"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01247-1?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "IGF2BP2 stabilized by USP7 promotes cancer-associated fibroblast activation and attenuates gemcitabine sensitivity in PDAC",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01247-1?rss=yes",
+    "published": "",
+    "summary": "Ge et al. show that deubiquitinase USP7 stabilizes IGF2BP2 by removing K33-linked ubiquitination, driving PDGFA-dependent activation of stromal fibroblasts and gemcitabine resistance. Pharmacological inhibition of the USP7/IGF2BP2/PDGFA pathway enhances PDAC sensitivity to gemcitabine.",
+    "authors": [
+      "Fujing Ge, Hongdao Zhu, Xiangning Liu, Yuekang Li, Runqiu Guo, Chenming Zeng, Tao Yuan, Liu Yang, Xin Dong, Yulian Wu, Renhua Gai, Ronggui Hu, Tianhua Zhou, Qiaojun He, Hong Zhu, Bo Yang"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-25T22:06:37.166084"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01250-1?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Cell-type-specific defense priming and NHP-dependent systemic immunity against Pectobacterium in Chinese cabbage",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01250-1?rss=yes",
+    "published": "",
+    "summary": "Liu et al. present an NHP-dependent pathway driving Pectobacterium carotovorum-primed in Chinese cabbage against P. carotovorum at single-cell resolution. Priming activates BrWRKY18-1, regulating BrWRKY33-1 in epidermis. Crucially, universal expression of PR genes contributes to host immune responses against P. carotovorum infection. This NHP-transcription factor-PR axis bridges mobile signaling to systemic immunity.",
+    "authors": [
+      "Mengyang Liu, Qing Liu, Yunjia Ge, Xujiao Luo, Lisong Ma, Huixin Wei, Yaqi Chen, Yingjuan Cheng, Shangli Zhu, Jiao Yu, Xiaomeng Zhang, Yin Lu, Yiguo Hong, Jingmin Kang, Wei Ma, Tianqi Zhang, Jianjun Zhao"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 2,
+    "priority_name": "HIGH",
+    "added_at": "2025-10-25T22:06:37.166101"
+  },
+  {
     "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01087-3?rss=yes",
     "journal": "Cell_Reports",
     "title": "CD7 regulates the persistence of terminally exhausted CD8+ T cells during chronic infection",
@@ -5794,5 +5522,39 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-10-24T22:07:41.528868"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01243-4?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "Poly-ubiquitylated transmembrane proteins outcompete other cargo for limited space inside clathrin-coated vesicles",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01243-4?rss=yes",
+    "published": "",
+    "summary": "Liu et al. show that poly-ubiquitylation increases the internalization efficiency of transmembrane proteins by clathrin-coated vesicles. Highly ubiquitylated proteins outcompete non-ubiquitylated ones for vesicle incorporation, revealing a competitive sorting mechanism that may help cells selectively remove damaged surface receptors.",
+    "authors": [
+      "Hao-Yang Liu, Susovan Sarkar, Feng Yuan, Grant Ashby, Carl C. Hayden, Jon M. Huibregtse, Jeanne C. Stachowiak"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-25T22:06:37.166091"
+  },
+  {
+    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01246-X?rss=yes",
+    "journal": "Cell_Reports",
+    "title": "The Myo2 adaptor Ldm1 and its receptor Ldo16 mediate actin-dependent lipid droplet motility",
+    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01246-X?rss=yes",
+    "published": "",
+    "summary": "Zhao et al. identify the molecular machinery for lipid droplet motility, consisting of the type V myosin Myo2, the Myo2 adaptor protein Ldm1, and its surface receptor Ldo16. They uncover a molecular link between lipid droplet motility and retention via contact-site formation and an unexpected connection to mitochondrial motility.",
+    "authors": [
+      "Xue-Tong Zhao, Duy Trong Vien Diep, Louis Percifull, Rebecca Martina Fausten, Marie Hugenroth, Pascal Höhne, Beatriz Leite, Bianca Marie Esch, Javier Collado, Jenny Keller, Stephan Wilmes, Meryem Aysenur Turhan, Mike Wälte, Thomas Becker, Daniel Kümmel, Christian Schuberth, Rubén Fernández-Busnadiego, Florian Fröhlich, Roland Wedlich-Söldner, Maria Bohnert"
+    ],
+    "doi": "",
+    "parser_type": "cell",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-10-25T22:06:37.166096"
   }
 ]
