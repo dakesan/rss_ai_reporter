@@ -33,6 +33,7 @@ class PaperSummarizerPipeline:
         self.queue_manager = QueueManager()
         self.archive_manager = ArchiveManager()
         self.filter_config_file = "data/filter_config.json"
+        self.daily_report_limit = 30
         
     def debug_print(self, message: str, data: Any = None):
         """デバッグモード時のみ詳細情報を出力"""
@@ -603,7 +604,7 @@ class PaperSummarizerPipeline:
             self.show_queue_stats()
             
             # 処理対象記事を取得
-            articles_to_process = self.queue_manager.get_batch(batch_size=20)
+            articles_to_process = self.queue_manager.get_batch(batch_size=self.daily_report_limit)
             total_articles = articles_to_process
             
             if not total_articles:
@@ -634,7 +635,10 @@ class PaperSummarizerPipeline:
             # 6. サマライズ
             print("\n4. Summarizing articles...")
             self.debug_print("Articles before summarization:", [a.get('title') for a in articles_to_process])
-            summarized_articles = self.summarizer.batch_summarize(articles_to_process)
+            summarized_articles = self.summarizer.batch_summarize(
+                articles_to_process,
+                max_articles=self.daily_report_limit
+            )
             
             # サマライズ後の検証とフォールバック
             for article in summarized_articles:
