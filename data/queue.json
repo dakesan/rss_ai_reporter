@@ -1,158 +1,5 @@
 [
   {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01402-0?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Actin cage for the synaptic vesicle liquid phase",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01402-0?rss=yes",
-    "published": "",
-    "summary": "Brodin and Shupliakov demonstrate that synaptic activity triggers the formation of an actin cage that encapsulates the synaptic vesicle cluster. Disruption of this cage leads to the detachment of the cluster from the release site. These findings explain how the synaptic vesicle liquid phase can remain in place during activity.",
-    "authors": [
-      "Lennart Brodin, Oleg Shupliakov"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074356"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01407-X?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Convergent functional evolution of mRNA-binding proteins fuels allotetraploid adaptation in cyprinids",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01407-X?rss=yes",
-    "published": "",
-    "summary": "Liu et al. report a phased genome assembly for Spinibarbus caldwelli, which is revealed to be of recent allotetraploid origin. The study identifies extensive segmental homoeologous exchanges and ongoing genic diploidization. Genome-scale convergent evolutionary analysis further implicates adaptive changes in RNA-binding proteins (e.g., Tia1) in polyploid adaptation within cyprinids.",
-    "authors": [
-      "Fujiang Liu, Jiahong Wu, Yichen Dong, Yue Song, Baichuan Tong, Yicheng Peng, Liyan He, Luohao Xu, Guangyi Fan, Feixiang Wu, Bo Wang, Qingming Qu"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074361"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01373-7?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Noradrenergic tuning of arousal is coupled to movement transitions",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01373-7?rss=yes",
-    "published": "",
-    "summary": "Li et al. characterize the locus coeruleus (LC)-norepinephrine system in movement-arousal coupling during anesthetic emergence and awake-movement transitions. They find that LC activity correlates with, but is not causal to, movement transitions and that the LC more robustly activates sympathetic than behavioral arousal, suggesting that noradrenergic coupling to movement is indirect.",
-    "authors": [
-      "Li Li, Akshay N. Rana, Esther M. Li, Bailey A. Wells, Sayaka J. Kenmochi, Myesa O. Travis, Michael R. Bruchas"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074366"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01423-8?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Membrane dome-based regulation mechanism of the mechanosensitive PIEZO channel",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01423-8?rss=yes",
-    "published": "",
-    "summary": "Liu et al. combined electrophysiological measurements, cryo-EM structural analysis, and in vivo investigations of C. elegans PEZO-1 isoforms to propose a distinct PIEZO-regulatory mechanism that modulates mechanosensitivity by adjusting the dome area via alternative splicing.",
-    "authors": [
-      "Yushuang Liu, Bowen Liu, Weiran Zhan, Lun Zhang, Anbing Shi, Long Lin, Man Jiang, Yusong R. Guo"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074370"
-  },
-  {
-    "id": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01487-1?rss=yes",
-    "journal": "Cell_Reports",
-    "title": "Antibody evasion and receptor binding of SARS-CoV-2 LP.8.1.1, NB.1.8.1, XFG, and related subvariants",
-    "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01487-1?rss=yes",
-    "published": "",
-    "summary": "(Cell Reports 44, 116440; October 28, 2025)",
-    "authors": [
-      "Ian A. Mellis, Madeline Wu, Hsiang Hong, Chih-Chen Tzang, Anthony Bowen, Qian Wang, Carmen Gherasim, Virginia M. Pierce, Jayesh G. Shah, Lawrence J. Purpura, Michael T. Yin, Aubree Gordon, Yicheng Guo, David D. Ho"
-    ],
-    "doi": "",
-    "parser_type": "cell",
-    "feed_priority": "medium",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074374"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-25853-0",
-    "journal": "Nature_CompBio",
-    "title": "Integrative genomics characterizes HCC eRNAs for prognosis and targeted therapy",
-    "link": "https://www.nature.com/articles/s41598-025-25853-0",
-    "published": "2025-11-25T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Zhengxin Chen et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074379"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-29089-w",
-    "journal": "Nature_CompBio",
-    "title": "Age-related evolution of human gingiva towards a fibrotic-like connective phenotype",
-    "link": "https://www.nature.com/articles/s41598-025-29089-w",
-    "published": "2025-11-25T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Chiara Cecchin-Albertoni et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074383"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-25727-5",
-    "journal": "Nature_CompBio",
-    "title": "A computational model of the cerebellar granular layer calibrated to experimental data for studying inhibition and sensory encoding",
-    "link": "https://www.nature.com/articles/s41598-025-25727-5",
-    "published": "2025-11-25T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "María P. Tirado et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074388"
-  },
-  {
-    "id": "https://www.nature.com/articles/s41598-025-29130-y",
-    "journal": "Nature_CompBio",
-    "title": "Automated segmentation of the fibula from CT imaging using two-stepped deep learning in 3D U-Net architectures",
-    "link": "https://www.nature.com/articles/s41598-025-29130-y",
-    "published": "2025-11-25T00:00:00+00:00",
-    "summary": "",
-    "authors": [
-      "Jônatas de Souza Nascimento et al."
-    ],
-    "doi": "",
-    "parser_type": "nature",
-    "feed_priority": "high",
-    "priority": 3,
-    "priority_name": "NORMAL",
-    "added_at": "2025-11-25T22:08:02.074396"
-  },
-  {
     "id": "https://www.nature.com/articles/s41598-025-28204-1",
     "journal": "Nature_CompBio",
     "title": "Unveiling the multitarget mechanism of Liuwei Dihuang decoction in autism spectrum disorder via network pharmacology and molecular docking",
@@ -2871,5 +2718,532 @@
     "priority": 3,
     "priority_name": "NORMAL",
     "added_at": "2025-12-01T22:07:14.622251"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66915-1",
+    "journal": "Nature_CompBio",
+    "title": "TAPB: an interventional debiasing framework for alleviating target prior bias in drug-target interaction prediction",
+    "link": "https://www.nature.com/articles/s41467-025-66915-1",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Gaoming Lin et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064397"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30431-5",
+    "journal": "Nature_CompBio",
+    "title": "Establishment and validation of a diagnostic model for cholangiocarcinoma based on LightGBM machine-learning algorithm",
+    "link": "https://www.nature.com/articles/s41598-025-30431-5",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Zeyu Zhang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064403"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30514-3",
+    "journal": "Nature_CompBio",
+    "title": "Exploring shared microRNA profiles in liquid-based cytology and plasma as biomarkers of high-grade intraepithelial lesions",
+    "link": "https://www.nature.com/articles/s41598-025-30514-3",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Stéphanie Calfa et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064408"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-29128-6",
+    "journal": "Nature_CompBio",
+    "title": "On the use of TabPFN on mass spectrometry analysis of volatile organic compounds",
+    "link": "https://www.nature.com/articles/s41598-025-29128-6",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Pablo M. Granitto et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064413"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-26614-9",
+    "journal": "Nature_CompBio",
+    "title": "Isolation and partial characterization of antimicrobial peptide-enriched fractions from Parabacteroides distasonis",
+    "link": "https://www.nature.com/articles/s41598-025-26614-9",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Anna Gabriella Guimarães Oliveira et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064418"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66919-x",
+    "journal": "Nature_CompBio",
+    "title": "Major waves of H2A.Z incorporation during mouse oogenesis and preimplantation embryo development",
+    "link": "https://www.nature.com/articles/s41467-025-66919-x",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Madeleine Fosslie et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064422"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30298-6",
+    "journal": "Nature_CompBio",
+    "title": "Multiscale computational analysis reveals enhanced allosteric modulation of Nav1.5 by dual binding of dapagliflozin and ertugliflozin",
+    "link": "https://www.nature.com/articles/s41598-025-30298-6",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Arkapravo Chattopadhyay et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064427"
+  },
+  {
+    "id": "https://www.nature.com/articles/s44324-025-00089-8",
+    "journal": "Nature_CompBio",
+    "title": "A deep learning-derived digital biomarker of dysglycemia and its association with genetic risk of type 2 diabetes",
+    "link": "https://www.nature.com/articles/s44324-025-00089-8",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Jian Shao et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064432"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30651-9",
+    "journal": "Nature_CompBio",
+    "title": "Ecology and environment predict spatially stratified risk of H5 highly pathogenic avian influenza clade 2.3.4.4b in wild birds across Europe",
+    "link": "https://www.nature.com/articles/s41598-025-30651-9",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Sarah Hayes et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064437"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41597-025-06370-1",
+    "journal": "Nature_CompBio",
+    "title": "NSPOMdb: a curated dataset of the objectionable microorganisms of non-sterile products",
+    "link": "https://www.nature.com/articles/s41597-025-06370-1",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yanxiang Shen et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064445"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-28549-7",
+    "journal": "Nature_CompBio",
+    "title": "Image-based cotton leaf disease diagnosis using YOLO and faster R-CNN techniques",
+    "link": "https://www.nature.com/articles/s41598-025-28549-7",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "S. Chinnadurai et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064450"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-27849-2",
+    "journal": "Nature_CompBio",
+    "title": "In silico evaluation of Ocimum sanctum phytochemicals for diabetic foot ulcer therapy through docking, ADMET, DFT, and molecular dynamics",
+    "link": "https://www.nature.com/articles/s41598-025-27849-2",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Sk. Faisal Ahmed et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064455"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-26955-5",
+    "journal": "Nature_CompBio",
+    "title": "Establishing and validating a new metabolic marker-driven prognosis signature for cutaneous melanoma",
+    "link": "https://www.nature.com/articles/s41598-025-26955-5",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Chen Wang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064459"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66861-y",
+    "journal": "Nature_CompBio",
+    "title": "Discovering the complete enhancer map of human herpesviruses using a natural language processing model",
+    "link": "https://www.nature.com/articles/s41467-025-66861-y",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Nilabja Roy Chowdhury et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064464"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41746-025-02189-7",
+    "journal": "Nature_CompBio",
+    "title": "An MRI radiomics approach using invasion-based weak supervision for identifying and evaluating aggressive PitNETs",
+    "link": "https://www.nature.com/articles/s41746-025-02189-7",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Yangyang Wang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064468"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41540-025-00621-y",
+    "journal": "Nature_CompBio",
+    "title": "Mammalian synthetic gene circuits for biopharmaceutical development & manufacture",
+    "link": "https://www.nature.com/articles/s41540-025-00621-y",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Sheryl Li Yan Lim et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064473"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41597-025-06345-2",
+    "journal": "Nature_CompBio",
+    "title": "Telomere-to-telomere haplotype-resolved genome assembly of a female oyster pompano (Trachinotus anak)",
+    "link": "https://www.nature.com/articles/s41597-025-06345-2",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Tao Wang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064477"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30754-3",
+    "journal": "Nature_CompBio",
+    "title": "pCPPs-sADNN: predicting cell-penetrating peptides using self-attention based deep neural network",
+    "link": "https://www.nature.com/articles/s41598-025-30754-3",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Naif Almusallam et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064481"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-23879-y",
+    "journal": "Nature_CompBio",
+    "title": "Examining saliva proteomic dynamics in mitochondrial diseases from a perspective of intrinsic health",
+    "link": "https://www.nature.com/articles/s41598-025-23879-y",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Jiaying Zhao et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064486"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30973-8",
+    "journal": "Nature_CompBio",
+    "title": "ICH-HPINet: a hybrid propagation interaction network for intelligent and interactive 3D intracerebral hemorrhage segmentation",
+    "link": "https://www.nature.com/articles/s41598-025-30973-8",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Huimin Tao et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064490"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30599-w",
+    "journal": "Nature_CompBio",
+    "title": "Nationwide comprehensive genomic profiling defines the genomic landscape of hepatocellular carcinoma across etiologies",
+    "link": "https://www.nature.com/articles/s41598-025-30599-w",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Kengo Yasugi et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064495"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41698-025-01199-8",
+    "journal": "Nature_CompBio",
+    "title": "Customized transformer for lymph node metastasis prediction from lung adenocarcinoma histology in a multicentric study",
+    "link": "https://www.nature.com/articles/s41698-025-01199-8",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Huibo Zhang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064499"
+  },
+  {
+    "id": "https://www.nature.com/articles/s42003-025-09160-y",
+    "journal": "Nature_CompBio",
+    "title": "Decoding protein binding plasticity via integrated deep ribosome display and deep learning",
+    "link": "https://www.nature.com/articles/s42003-025-09160-y",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Tang Mengtong et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064503"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-30096-0",
+    "journal": "Nature_CompBio",
+    "title": "Enhanced log ratio calibration methods for stratified variance estimation in survey sampling",
+    "link": "https://www.nature.com/articles/s41598-025-30096-0",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Azam Zaka et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064511"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-26969-z",
+    "journal": "Nature_CompBio",
+    "title": "SynaptopathyDB integrates synaptic proteomes, genetic and phenotypic data to advance research on nervous system disorders",
+    "link": "https://www.nature.com/articles/s41598-025-26969-z",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Oksana Sorokina et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064516"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41598-025-27111-9",
+    "journal": "Nature_CompBio",
+    "title": "Single-cell RNA-sequencing co-expression analysis with CFTR and CF modifier genes in lung tissue",
+    "link": "https://www.nature.com/articles/s41598-025-27111-9",
+    "published": "2025-12-02T00:00:00+00:00",
+    "summary": "",
+    "authors": [
+      "Cheng Wang et al."
+    ],
+    "doi": "",
+    "parser_type": "nature",
+    "feed_priority": "high",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064524"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/11/23/14009/",
+    "journal": "Nikkei_BioTech",
+    "title": "J＆J社が米Halda社を買収、mCRPCに対するヘテロ2機能性低分子薬の開発加速へ",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/11/23/14009/",
+    "published": "",
+    "summary": "ヘテロ2機能性低分子薬「RIPTAC：Regulated Induced Proximity TArgeting Chimeras」の基盤技術を保有する米Halda Therapeutics（ハルダ・セラピューティクス）社は2025年11月17日、米Johnson ＆ Johnson（ジョンソン・エンド・ジョンソン、J＆J）社と買収契約を締結したと発表した。J＆J社は、Halda社に買収総額の30億5000万ドル（約4741億円）を現金で支払う。取引は数カ月以内に完了する見通しだ。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064534"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/11/23/14008/",
+    "journal": "Nikkei_BioTech",
+    "title": "Merck社が米Cidara社を買収へ、インフルエンザ予防薬候補のCD388などを獲得",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/11/23/14008/",
+    "published": "",
+    "summary": "米Merck（メルク）社は2025年11月14日、薬物Fc複合体（DFC：drug-Fc conjugate）治療薬を開発しているバイオテクノロジー企業の米Cidara Therapeutics（シダラ・セラピューティクス）社の買収に向けて、正式契約を締結したと発表した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064539"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/11/07/13946/",
+    "journal": "Nikkei_BioTech",
+    "title": "手術型再生医療の開発に先進医療を活用する意義（中編）、先進医療の審議は「対面のない審議で誤解解けず不適に」、VC Cell Therapy・高橋政代氏が寄稿",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/11/07/13946/",
+    "published": "",
+    "summary": "神戸市立神戸アイセンター病院が先進医療Bとしての適合性を申請していた、網膜色素上皮（RPE）不全症を対象とした他家iPS細胞由来RPE細胞凝集紐の移植計画について、2025年8月21日、厚生労働省先進医療技術審査部会は「不適」とした。これまでの経緯や今後の方針について、同治療を開発してきた、VC Cell Therapy（神戸市）の高橋政代代表取締役社長に寄稿してもらった本連載。中編では、同計画の審議で、先進医療として不適とされるに至った背景を分析した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064544"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/12/01/14031/",
+    "journal": "Nikkei_BioTech",
+    "title": "京都大病院など、標準治療開始前のがん遺伝子パネル検査の推奨治療で「死亡リスクが41％減少」",
+    "link": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/12/01/14031/",
+    "published": "",
+    "summary": "京都大学医学部附属病院は、切除不能な進行・再発固形がんの患者に対して、一次治療（標準治療）開始前にがん遺伝子パネル検査（CGP検査）を実施してエキスパートパネルによる推奨治療を受けた患者は、推奨治療を受けなかった患者と比較して生存期間を延長できることを明らかにした。同病院などが先進医療Bとして実施した臨床研究（FIRST-Dx trial、UMIN000042408）について、その後3年間フォローアップ観察研究（jRCT1050220041）を実施した成果だ。2025年11月28日、これらの臨床研究を率いた同病院腫瘍内科の武藤学教授と松原淳一准教授が都内で記者会見を開催した。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064553"
+  },
+  {
+    "id": "https://bio.nikkeibp.co.jp/atcl/column/16/031700078/111600050/",
+    "journal": "Nikkei_BioTech",
+    "title": "ズームアップ◎バイオ燃料（第3回）、バイオ燃料、航空分野に加えて海運分野でも脱炭素の切り札となるか",
+    "link": "https://bio.nikkeibp.co.jp/atcl/column/16/031700078/111600050/",
+    "published": "",
+    "summary": "バイオ燃料は、再生可能資源であるバイオマスを原料に製造される燃料だ。化石資源由来の燃料を代替する、より持続可能性の高い燃料として期待されている一方で、バイオ燃料の原料は供給に限りがあり、世界中で争奪戦が激化している。市場と研究開発の動向について4回の連載でまとめた。第3回となる本記事では、先陣を切っている航空分野に続いてバイオ燃料の導入が見込まれる、海運分野における動向を探った。",
+    "authors": [
+      "BTO"
+    ],
+    "doi": "",
+    "parser_type": "generic",
+    "feed_priority": "medium",
+    "priority": 3,
+    "priority_name": "NORMAL",
+    "added_at": "2025-12-02T22:08:01.064558"
   }
 ]
