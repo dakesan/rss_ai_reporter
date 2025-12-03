@@ -24,6 +24,7 @@ env:
 
 jobs:
   deploy:
+    if: ${{ false }} # 2025-xx-xx temporarily disabled per request
     runs-on: ubuntu-latest
     
     steps:
